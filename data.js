@@ -18,7 +18,6 @@ const data = [
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Neia",href:"https://au.meetings.smartrecovery.org/meetings/1037/",language:"English",location:"National",program:"Standard",time:"2024-08-23T00:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Steve, Abbie",href:"https://au.meetings.smartrecovery.org/meetings/1038/",language:"English",location:"Port Pirie, South Australia",program:"Standard",time:"2024-08-23T01:30:00Z",type:"Online"},
   {audience:["Gambling focus"],dataSource:"aus",facilitator:"Elizabeth",href:"https://au.meetings.smartrecovery.org/meetings/1039/",language:"English",location:"National",program:"Standard",time:"2024-08-23T01:00:00Z",type:"Online",verification:"Pathcheck"},
-  {audience:["All Welcome"],dataSource:"aus",facilitator:"Yeony",href:"https://au.meetings.smartrecovery.org/meetings/1040/",language:"Korean",location:"National",program:"Standard",time:"2024-08-17T08:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Simon",href:"https://au.meetings.smartrecovery.org/meetings/1041/",language:"English",location:"National",program:"Standard",time:"2024-08-23T02:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["Female only"],dataSource:"aus",facilitator:"Michelle",href:"https://au.meetings.smartrecovery.org/meetings/1045/",language:"English",location:"National",program:"Standard",time:"2024-08-18T07:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Mark",href:"https://au.meetings.smartrecovery.org/meetings/1047/",language:"English",location:"National",program:"Family & Friends",time:"2024-08-20T08:00:00Z",type:"Online"},
@@ -41,6 +40,7 @@ const data = [
   {audience:["All Welcome"],dataSource:"aus",facilitator:"The Bill Crews Foundation",href:"https://au.meetings.smartrecovery.org/meetings/1247/",language:"English",location:"Ashfield, New South Wales",program:"Standard",time:"2024-08-22T00:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Denis Smith",href:"https://au.meetings.smartrecovery.org/meetings/1271/",language:"English",location:"National",program:"Standard",time:"2024-08-19T09:30:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["Alcohol Focus"],dataSource:"aus",facilitator:"Kelly",href:"https://au.meetings.smartrecovery.org/meetings/1282/",language:"English",location:"National",program:"Standard",time:"2024-08-21T09:15:00Z",type:"Online",verification:"Pathcheck"},
+  {audience:["Youth only"],dataSource:"aus",facilitator:"Mitch, Sonia",href:"https://au.meetings.smartrecovery.org/meetings/1284/",language:"English",location:"Nowra, New South Wales",program:"Youth",time:"2024-08-23T04:30:00Z",type:"Both",verification:"Pathcheck"},
   {audience:["Youth only"],dataSource:"aus",facilitator:"Mitch, Sonia",href:"https://au.meetings.smartrecovery.org/meetings/1285/",language:"English",location:"Nowra, New South Wales",program:"Youth",time:"2024-08-23T00:00:00Z",type:"Both",verification:"Pathcheck"},
   {audience:["Alcohol Focus","Drug and Alcohol Focus","Gambling focus"],dataSource:"aus",facilitator:"Marieke",href:"https://au.meetings.smartrecovery.org/meetings/1286/",language:"English",location:"Launceston, Tasmania",program:"Family & Friends",time:"2024-08-19T07:30:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Nicholas",href:"https://au.meetings.smartrecovery.org/meetings/1287/",language:"English",location:"Potts Point, New South Wales",program:"Standard",time:"2024-08-22T08:15:00Z",type:"Online",verification:"Pathcheck"},
@@ -555,4 +555,4 @@ const data = [
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1542/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-21T18:00:00Z",type:"Online",verification:"Facilitator-provided"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Colin Ellis",href:"https://uk.meetings.smartrecovery.org/meetings/1547/",language:"English",location:"Wallsend, England",program:"SMART Recovery",time:"2024-08-21T09:30:00Z",type:"Online"}
 ];
-const cachedAt = "2024-08-17T08:03:03Z";
+const cachedAt = "2024-08-17T09:03:04Z";
