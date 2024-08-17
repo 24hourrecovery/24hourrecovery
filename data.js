@@ -1,5 +1,4 @@
 const data = [
-  {audience:["Men only"],dataSource:"aus",facilitator:"Brad, Dennis",href:"https://au.meetings.smartrecovery.org/meetings/1006/",language:"English",location:"National",program:"Standard",time:"2024-08-17T09:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["Youth only"],dataSource:"aus",facilitator:"Joel, Alice",href:"https://au.meetings.smartrecovery.org/meetings/1007/",language:"English",location:"National",program:"Standard",time:"2024-08-21T05:30:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["Youth only"],dataSource:"aus",facilitator:"Kaili, Leon",href:"https://au.meetings.smartrecovery.org/meetings/1010/",language:"English",location:"National",program:"Youth",time:"2024-08-19T01:30:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Nick",href:"https://au.meetings.smartrecovery.org/meetings/1011/",language:"English",location:"National",program:"Standard",time:"2024-08-19T07:30:00Z",type:"Online",verification:"Pathcheck"},
@@ -19,6 +18,7 @@ const data = [
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Steve, Abbie",href:"https://au.meetings.smartrecovery.org/meetings/1038/",language:"English",location:"Port Pirie, South Australia",program:"Standard",time:"2024-08-23T01:30:00Z",type:"Online"},
   {audience:["Gambling focus"],dataSource:"aus",facilitator:"Elizabeth",href:"https://au.meetings.smartrecovery.org/meetings/1039/",language:"English",location:"National",program:"Standard",time:"2024-08-23T01:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Simon",href:"https://au.meetings.smartrecovery.org/meetings/1041/",language:"English",location:"National",program:"Standard",time:"2024-08-23T02:00:00Z",type:"Online",verification:"Pathcheck"},
+  {audience:["All Welcome"],dataSource:"aus",facilitator:"Smart Perth - Palmerston, Stuart",href:"https://au.meetings.smartrecovery.org/meetings/1043/",language:"English",location:"Perth, Western Australia",program:"Standard",time:"2024-08-23T06:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["Female only"],dataSource:"aus",facilitator:"Michelle",href:"https://au.meetings.smartrecovery.org/meetings/1045/",language:"English",location:"National",program:"Standard",time:"2024-08-18T07:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Mark",href:"https://au.meetings.smartrecovery.org/meetings/1047/",language:"English",location:"National",program:"Family & Friends",time:"2024-08-20T08:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Dave",href:"https://au.meetings.smartrecovery.org/meetings/1065/",language:"English",location:"Bronte, New South Wales",program:"Standard",time:"2024-08-19T03:00:00Z",type:"Both"},
@@ -525,7 +525,7 @@ const data = [
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Steve Saunders",href:"https://uk.meetings.smartrecovery.org/meetings/1347/",language:"English",location:"National",program:"SMART Recovery",time:"2024-08-23T09:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Steve Saunders",href:"https://uk.meetings.smartrecovery.org/meetings/1348/",language:"English",location:"National",program:"SMART Recovery",time:"2024-08-22T17:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Steve Saunders",href:"https://uk.meetings.smartrecovery.org/meetings/1349/",language:"English",location:"National",program:"SMART Recovery",time:"2024-08-19T09:00:00Z",type:"Online",verification:"Pathcheck"},
-  {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Toby Branfoot",href:"https://uk.meetings.smartrecovery.org/meetings/1350/",language:"English",location:"Bath, England",program:"SMART Recovery",time:"2024-08-17T09:00:00Z",type:"Online",verification:"Pathcheck"},
+  {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Toby Branfoot",href:"https://uk.meetings.smartrecovery.org/meetings/1350/",language:"English",location:"Bath, England",program:"SMART Recovery",time:"2024-08-24T09:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Toby Branfoot",href:"https://uk.meetings.smartrecovery.org/meetings/1351/",language:"English",location:"Bath, England",program:"SMART Recovery",time:"2024-08-21T16:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Michael Hussey",href:"https://uk.meetings.smartrecovery.org/meetings/1352/",language:"English",location:"Exeter, England",program:"SMART Recovery",time:"2024-08-19T17:00:00Z",type:"Online",verification:"Pathcheck"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Spencer Suckling",href:"https://uk.meetings.smartrecovery.org/meetings/1353/",language:"English",location:"England",program:"SMART Recovery",time:"2024-08-22T18:00:00Z",type:"Online",verification:"Facilitator-provided"},
@@ -555,4 +555,4 @@ const data = [
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1542/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-21T18:00:00Z",type:"Online",verification:"Facilitator-provided"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Colin Ellis",href:"https://uk.meetings.smartrecovery.org/meetings/1547/",language:"English",location:"Wallsend, England",program:"SMART Recovery",time:"2024-08-21T09:30:00Z",type:"Online"}
 ];
-const cachedAt = "2024-08-17T09:03:04Z";
+const cachedAt = "2024-08-17T10:03:04Z";
