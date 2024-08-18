@@ -33,6 +33,7 @@ const data = [
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Warrondi Engage & Link",href:"https://au.meetings.smartrecovery.org/meetings/1192/",language:"English",location:"National",program:"Standard",time:"2024-08-19T04:30:00Z",type:"Online"},
   {audience:["Youth only"],dataSource:"aus",facilitator:"Olivia",href:"https://au.meetings.smartrecovery.org/meetings/1209/",language:"English",location:"National",program:"Youth",time:"2024-08-21T01:00:00Z",type:"Online"},
   {audience:["Youth only"],dataSource:"aus",facilitator:"Olivia",href:"https://au.meetings.smartrecovery.org/meetings/1210/",language:"English",location:"National",program:"Youth",time:"2024-08-21T06:00:00Z",type:"Online"},
+  {audience:["LGBTIQ+ only"],dataSource:"aus",facilitator:"Patrick, Ambika, Simon",href:"https://au.meetings.smartrecovery.org/meetings/1216/",language:"English",location:"National",program:"Standard",time:"2024-08-23T08:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Renee",href:"https://au.meetings.smartrecovery.org/meetings/1234/",language:"English",location:"National",program:"Family & Friends",time:"2024-08-21T08:30:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Sarah",href:"https://au.meetings.smartrecovery.org/meetings/1240/",language:"English",location:"National",program:"Standard",time:"2024-08-21T23:30:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",facilitator:"Raymond",href:"https://au.meetings.smartrecovery.org/meetings/1242/",language:"English",location:"National",program:"Standard",time:"2024-08-22T06:30:00Z",type:"Online"},
@@ -563,4 +564,4 @@ const data = [
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1542/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-21T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Colin Ellis",href:"https://uk.meetings.smartrecovery.org/meetings/1547/",language:"English",location:"Wallsend, England",program:"SMART Recovery",time:"2024-08-21T09:30:00Z",type:"Online"}
 ];
-const cachedAt = "2024-08-18T07:03:04Z";
+const cachedAt = "2024-08-18T08:03:04Z";
