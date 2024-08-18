@@ -508,7 +508,7 @@ const data = [
   {audience:["Men","Teens (13-17)"],dataSource:"na",facilitator:"Jennifer",href:"https://meetings.smartrecovery.org/meetings/7924/",language:"English",location:"Bridgeport, Connecticut",program:"4-Point Recovery",time:"2024-08-22T20:00:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Ryan H.",href:"https://meetings.smartrecovery.org/meetings/7930/",language:"English",location:"Colorado Springs, Colorado",program:"4-Point Recovery",time:"2024-08-21T00:00:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Nicole",href:"https://meetings.smartrecovery.org/meetings/7944/",language:"English",location:"Phoenix, Arizona",program:"4-Point Recovery",time:"2024-08-22T00:30:00Z",type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",facilitator:"Thomas A",href:"https://meetings.smartrecovery.org/meetings/7958/",language:"English",location:"Redford Charter Township, Michigan",program:"4-Point Recovery",time:"2024-08-18T17:00:00Z",type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",facilitator:"Thomas A",href:"https://meetings.smartrecovery.org/meetings/7958/",language:"English",location:"Redford Charter Township, Michigan",program:"4-Point Recovery",time:"2024-08-25T17:00:00Z",type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",facilitator:"Marjorie",href:"https://meetings.smartrecovery.org/meetings/7966/",language:"Spanish",location:"Alexandria, Virginia",program:"Family & Friends",time:"2024-08-22T22:00:00Z",type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",facilitator:"Christopher Huff",href:"https://meetings.smartrecovery.org/meetings/7976/",language:"English",location:"Kingston, Ontario",program:"Family & Friends",time:"2024-08-19T23:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Christopher Huff",href:"https://meetings.smartrecovery.org/meetings/7977/",language:"English",location:"Kingston, Ontario",program:"Successful Life Skills",time:"2024-08-22T23:00:00Z",type:"Online"},
@@ -563,4 +563,4 @@ const data = [
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1542/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-21T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Colin Ellis",href:"https://uk.meetings.smartrecovery.org/meetings/1547/",language:"English",location:"Wallsend, England",program:"SMART Recovery",time:"2024-08-21T09:30:00Z",type:"Online"}
 ];
-const cachedAt = "2024-08-18T17:03:03Z";
+const cachedAt = "2024-08-18T18:03:04Z";
