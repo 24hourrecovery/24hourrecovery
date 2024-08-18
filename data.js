@@ -369,7 +369,7 @@ const data = [
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Sandy, Adam",href:"https://meetings.smartrecovery.org/meetings/6844/",language:"English",location:"Roanoke, Virginia",program:"4-Point Recovery",time:"2024-08-20T20:00:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Lauren Z, Abdul A.",href:"https://meetings.smartrecovery.org/meetings/6864/",language:"English",location:"Alexandria, Virginia",program:"4-Point Recovery",time:"2024-08-21T22:30:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"William",href:"https://meetings.smartrecovery.org/meetings/6866/",language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",time:"2024-08-23T16:00:00Z",type:"Both"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",facilitator:"Military, Veteran & First Responders Facilitator Team, Amy M., Stephen, Gabe, Todd",href:"https://meetings.smartrecovery.org/meetings/6868/",language:"English",location:"National",program:"4-Point Recovery",time:"2024-08-18T12:00:00Z",type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",facilitator:"Military, Veteran & First Responders Facilitator Team, Amy M., Stephen, Gabe, Todd",href:"https://meetings.smartrecovery.org/meetings/6868/",language:"English",location:"National",program:"4-Point Recovery",time:"2024-08-25T12:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Alan S., Tim K.",href:"https://meetings.smartrecovery.org/meetings/6873/",language:"English",location:"Maple Grove, Minnesota",program:"4-Point Recovery",time:"2024-08-19T00:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Alexander Carde",href:"https://meetings.smartrecovery.org/meetings/6881/",language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",time:"2024-08-21T20:30:00Z",type:"Online"},
   {audience:["Military, Veterans & First Responders","Women"],dataSource:"na",facilitator:"Holly, Military, Veteran & First Responders Facilitator Team, Lori Davis, Gabe",href:"https://meetings.smartrecovery.org/meetings/6882/",language:"English",location:"National",program:"4-Point Recovery",time:"2024-08-21T23:30:00Z",type:"Online"},
@@ -563,4 +563,4 @@ const data = [
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1542/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-21T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Colin Ellis",href:"https://uk.meetings.smartrecovery.org/meetings/1547/",language:"English",location:"Wallsend, England",program:"SMART Recovery",time:"2024-08-21T09:30:00Z",type:"Online"}
 ];
-const cachedAt = "2024-08-18T12:03:04Z";
+const cachedAt = "2024-08-18T13:03:03Z";
