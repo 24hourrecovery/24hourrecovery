@@ -380,7 +380,7 @@ const data = [
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Jeff",href:"https://meetings.smartrecovery.org/meetings/6893/",language:"English",location:"Lancaster, Massachusetts",program:"4-Point Recovery",time:"2024-08-24T14:00:00Z",type:"Online"},
   {audience:["Women"],dataSource:"na",facilitator:"Loretta B., K Kirsten",href:"https://meetings.smartrecovery.org/meetings/6895/",language:"English",location:"Doraville, Georgia",program:"4-Point Recovery",time:"2024-08-24T15:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Peter",href:"https://meetings.smartrecovery.org/meetings/6896/",language:"English",location:"New York, New York",program:"4-Point Recovery",time:"2024-08-24T21:30:00Z",type:"Online"},
-  {audience:["LGBTQIA+"],dataSource:"na",facilitator:"Luke Koops",href:"https://meetings.smartrecovery.org/meetings/6909/",language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",time:"2024-08-18T14:00:00Z",type:"Online"},
+  {audience:["LGBTQIA+"],dataSource:"na",facilitator:"Luke Koops",href:"https://meetings.smartrecovery.org/meetings/6909/",language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",time:"2024-08-25T14:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Andrew Garr",href:"https://meetings.smartrecovery.org/meetings/6917/",language:"English",location:"Menomonie, Wisconsin",program:"4-Point Recovery",time:"2024-08-24T23:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Gerardo Matamoros",href:"https://meetings.smartrecovery.org/meetings/6933/",language:"Spanish",location:"National",program:"4-Point Recovery",time:"2024-08-19T22:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",facilitator:"Taisuke (Tice-K) Sato",href:"https://meetings.smartrecovery.org/meetings/6940/",language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",time:"2024-08-19T23:00:00Z",type:"Online"},
@@ -564,4 +564,4 @@ const data = [
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1542/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-21T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Colin Ellis",href:"https://uk.meetings.smartrecovery.org/meetings/1547/",language:"English",location:"Wallsend, England",program:"SMART Recovery",time:"2024-08-21T09:30:00Z",type:"Online"}
 ];
-const cachedAt = "2024-08-18T14:03:04Z";
+const cachedAt = "2024-08-18T15:03:03Z";
