@@ -558,9 +558,9 @@ const data = [
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",facilitator:"Jeni Langley",href:"https://uk.meetings.smartrecovery.org/meetings/1404/",language:"English",location:"National",program:"SMART Recovery",time:"2024-08-22T14:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Klaudia Rzeczkowska",href:"https://uk.meetings.smartrecovery.org/meetings/1460/",language:"Polish",location:"Edinburgh, Scotland",program:"SMART Recovery",time:"2024-08-21T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1467/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-19T11:00:00Z",type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Melanie Stewart",href:"https://uk.meetings.smartrecovery.org/meetings/1478/",language:"English",location:"National",program:"SMART Recovery",time:"2024-08-18T10:00:00Z",type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Melanie Stewart",href:"https://uk.meetings.smartrecovery.org/meetings/1478/",language:"English",location:"National",program:"SMART Recovery",time:"2024-08-25T10:00:00Z",type:"Online"},
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1535/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-19T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1542/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-21T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",facilitator:"Colin Ellis",href:"https://uk.meetings.smartrecovery.org/meetings/1547/",language:"English",location:"Wallsend, England",program:"SMART Recovery",time:"2024-08-21T09:30:00Z",type:"Online"}
 ];
-const cachedAt = "2024-08-18T10:03:04Z";
+const cachedAt = "2024-08-18T11:03:04Z";
