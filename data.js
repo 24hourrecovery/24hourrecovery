@@ -22,7 +22,6 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"aus",duration:60,facilitator:"Simon",href:"https://au.meetings.smartrecovery.org/meetings/1041/",language:"English",location:"National",program:"Standard",time:"2024-08-23T02:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:"Smart Perth - Palmerston, Stuart",href:"https://au.meetings.smartrecovery.org/meetings/1043/",language:"English",location:"Perth, Western Australia",program:"Standard",time:"2024-08-23T06:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:"Mark",href:"https://au.meetings.smartrecovery.org/meetings/1047/",language:"English",location:"National",program:"Family & Friends",time:"2024-08-20T08:00:00Z",type:"Online"},
-  {audience:["All Welcome"],dataSource:"aus",duration:60,facilitator:"Dave",href:"https://au.meetings.smartrecovery.org/meetings/1065/",language:"English",location:"Bronte, New South Wales",program:"Standard",time:"2024-08-19T03:00:00Z",type:"Both"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:"Dan",href:"https://au.meetings.smartrecovery.org/meetings/1071/",language:"English",location:"Frankston, Victoria",program:"Standard",time:"2024-08-20T05:00:00Z",type:"Both"},
   {audience:["All Welcome","Youth only"],dataSource:"aus",duration:90,facilitator:"Ivan",href:"https://au.meetings.smartrecovery.org/meetings/1106/",language:"Chinese",location:"National",program:"Youth",time:"2024-08-21T06:30:00Z",type:"Online"},
   {audience:["Drug and Alcohol Focus","Youth only"],dataSource:"aus",duration:90,facilitator:"Ivan",href:"https://au.meetings.smartrecovery.org/meetings/1107/",language:"English",location:"National",program:"Youth",time:"2024-08-21T09:00:00Z",type:"Online"},
@@ -564,4 +563,4 @@ const meetings = [
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",duration:90,facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1542/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-21T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:"Colin Ellis",href:"https://uk.meetings.smartrecovery.org/meetings/1547/",language:"English",location:"Wallsend, England",program:"SMART Recovery",time:"2024-08-21T09:30:00Z",type:"Online"}
 ];
-const cachedAt = "2024-08-19T04:03:04Z";
+const cachedAt = "2024-08-19T05:03:04Z";
