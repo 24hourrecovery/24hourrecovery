@@ -118,7 +118,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[156,157],href:"https://meetings.smartrecovery.org/meetings/2934/",language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",time:"2024-08-19T22:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[68,69,70,71],href:"https://meetings.smartrecovery.org/meetings/2992/",language:"English",location:"Concord, Massachusetts",program:"4-Point Recovery",time:"2024-08-25T22:30:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[158,159],href:"https://meetings.smartrecovery.org/meetings/3043/",language:"English",location:"New York",program:"Family & Friends",time:"2024-08-24T14:30:00Z",type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[160],href:"https://meetings.smartrecovery.org/meetings/3055/",language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",time:"2024-08-19T18:00:00Z",type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[160],href:"https://meetings.smartrecovery.org/meetings/3055/",language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",time:"2024-08-26T18:00:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[160],href:"https://meetings.smartrecovery.org/meetings/3056/",language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",time:"2024-08-22T13:30:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[161],href:"https://meetings.smartrecovery.org/meetings/3079/",language:"English",location:"Silver Spring, Maryland",program:"4-Point Recovery",time:"2024-08-25T15:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[141,162],href:"https://meetings.smartrecovery.org/meetings/3105/",language:"English",location:"Plymouth, Michigan",program:"4-Point Recovery",time:"2024-08-20T23:30:00Z",type:"Online"},
@@ -559,7 +559,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[599],href:"https://uk.meetings.smartrecovery.org/meetings/1460/",language:"Polish",location:"Edinburgh, Scotland",program:"SMART Recovery",time:"2024-08-21T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[600],href:"https://uk.meetings.smartrecovery.org/meetings/1467/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-26T11:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[601],href:"https://uk.meetings.smartrecovery.org/meetings/1478/",language:"English",location:"National",program:"SMART Recovery",time:"2024-08-25T10:00:00Z",type:"Online"},
-  {audience:["Adults Welcome","Veterans"],dataSource:"uk",duration:90,facilitator:[600],href:"https://uk.meetings.smartrecovery.org/meetings/1535/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-19T18:00:00Z",type:"Online"},
+  {audience:["Adults Welcome","Veterans"],dataSource:"uk",duration:90,facilitator:[600],href:"https://uk.meetings.smartrecovery.org/meetings/1535/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-26T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",duration:90,facilitator:[600],href:"https://uk.meetings.smartrecovery.org/meetings/1542/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-21T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[602],href:"https://uk.meetings.smartrecovery.org/meetings/1547/",language:"English",location:"Wallsend, England",program:"SMART Recovery",time:"2024-08-21T09:30:00Z",type:"Online"}
 ];
@@ -1169,4 +1169,4 @@ const facilitators = {
   603:["Yeony"],
   604:["Brad","National"]
 };
-const cachedAt = "2024-08-19T18:03:04Z";
+const cachedAt = "2024-08-19T19:03:03Z";
