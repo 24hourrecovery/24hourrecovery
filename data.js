@@ -1,4 +1,5 @@
 const meetings = [
+  {audience:["Men only"],dataSource:"aus",duration:90,facilitator:"Brad, Dennis",href:"https://au.meetings.smartrecovery.org/meetings/1006/",language:"English",location:"National",program:"Standard",time:"2024-08-24T09:00:00Z",type:"Online"},
   {audience:["Youth only"],dataSource:"aus",duration:90,facilitator:"Joel, Alice",href:"https://au.meetings.smartrecovery.org/meetings/1007/",language:"English",location:"National",program:"Standard",time:"2024-08-21T05:30:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:"Nick",href:"https://au.meetings.smartrecovery.org/meetings/1011/",language:"English",location:"National",program:"Standard",time:"2024-08-19T07:30:00Z",type:"Online"},
   {audience:["Female only"],dataSource:"aus",duration:90,facilitator:"Isabella",href:"https://au.meetings.smartrecovery.org/meetings/1016/",language:"English",location:"National",program:"Standard",time:"2024-08-20T02:00:00Z",type:"Online"},
@@ -563,4 +564,4 @@ const meetings = [
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",duration:90,facilitator:"Janine Crowdy",href:"https://uk.meetings.smartrecovery.org/meetings/1542/",language:"English",location:"National",program:"SMART Veterans",time:"2024-08-21T18:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:"Colin Ellis",href:"https://uk.meetings.smartrecovery.org/meetings/1547/",language:"English",location:"Wallsend, England",program:"SMART Recovery",time:"2024-08-21T09:30:00Z",type:"Online"}
 ];
-const cachedAt = "2024-08-19T03:03:04Z";
+const cachedAt = "2024-08-19T04:03:04Z";
