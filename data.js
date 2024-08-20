@@ -367,7 +367,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[131],href:"https://meetings.smartrecovery.org/meetings/6821/",language:"English",location:"Hamden, Connecticut",program:"4-Point Recovery",time:"2024-08-21T23:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[428],href:"https://meetings.smartrecovery.org/meetings/6827/",language:"English",location:"Palm Springs, California",program:"4-Point Recovery",time:"2024-08-26T20:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[429,430],href:"https://meetings.smartrecovery.org/meetings/6843/",language:"English",location:"Roanoke, Virginia",program:"4-Point Recovery",time:"2024-08-23T15:00:00Z",type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[429,430],href:"https://meetings.smartrecovery.org/meetings/6844/",language:"English",location:"Roanoke, Virginia",program:"4-Point Recovery",time:"2024-08-20T20:00:00Z",type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[429,430],href:"https://meetings.smartrecovery.org/meetings/6844/",language:"English",location:"Roanoke, Virginia",program:"4-Point Recovery",time:"2024-08-27T20:00:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[353,431],href:"https://meetings.smartrecovery.org/meetings/6864/",language:"English",location:"Alexandria, Virginia",program:"4-Point Recovery",time:"2024-08-21T22:30:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[432],href:"https://meetings.smartrecovery.org/meetings/6866/",language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",time:"2024-08-23T16:00:00Z",type:"Both"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[422,425,426,433,434],href:"https://meetings.smartrecovery.org/meetings/6868/",language:"English",location:"National",program:"4-Point Recovery",time:"2024-08-25T12:00:00Z",type:"Online"},
@@ -458,6 +458,7 @@ const meetings = [
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[512],href:"https://meetings.smartrecovery.org/meetings/7533/",language:"English",location:"Wilmington, North Carolina",program:"4-Point Recovery",time:"2024-08-20T23:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[239,513],href:"https://meetings.smartrecovery.org/meetings/7542/",language:"English",location:"New Brunswick, New Jersey",program:"4-Point Recovery",time:"2024-08-24T22:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[514,515,516],href:"https://meetings.smartrecovery.org/meetings/755/",language:"English",location:"Arvada, Colorado",program:"4-Point Recovery",time:"2024-08-26T01:00:00Z",type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[611],href:"https://meetings.smartrecovery.org/meetings/7550/",language:"English",location:"Floyd, Virginia",program:"4-Point Recovery",time:"2024-08-27T21:00:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[517],href:"https://meetings.smartrecovery.org/meetings/7551/",language:"English",location:"California",program:"4-Point Recovery",time:"2024-08-24T02:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[373],href:"https://meetings.smartrecovery.org/meetings/7572/",language:"Spanish",location:"New York, New York",program:"4-Point Recovery",time:"2024-08-21T16:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[518],href:"https://meetings.smartrecovery.org/meetings/7574/",language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",time:"2024-08-20T23:30:00Z",type:"Both"},
@@ -1175,6 +1176,7 @@ const facilitators = {
   607:["Diana"],
   608:["Kaelyn Dowd"],
   609:["Bethani Rahrle White"],
-  610:["Melissa"]
+  610:["Melissa"],
+  611:["Denise Clemons"]
 };
-const cachedAt = "2024-08-20T20:03:05Z";
+const cachedAt = "2024-08-20T21:03:03Z";
