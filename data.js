@@ -339,7 +339,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,387],href:"https://meetings.smartrecovery.org/meetings/6582/",language:"English",location:"Troy, Michigan",program:"Successful Life Skills",time:"2024-08-25T22:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[400],href:"https://meetings.smartrecovery.org/meetings/6585/",language:"English",location:"Dallas, Texas",program:"4-Point Recovery",time:"2024-08-27T17:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],href:"https://meetings.smartrecovery.org/meetings/6587/",language:"English",location:"Dallas, Texas",program:"4-Point Recovery",time:"2024-08-26T13:00:00Z",type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],href:"https://meetings.smartrecovery.org/meetings/6588/",language:"English",location:"Dallas, Texas",program:"4-Point Recovery",time:"2024-08-21T13:00:00Z",type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],href:"https://meetings.smartrecovery.org/meetings/6588/",language:"English",location:"Dallas, Texas",program:"4-Point Recovery",time:"2024-08-28T13:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],href:"https://meetings.smartrecovery.org/meetings/6589/",language:"English",location:"Dallas, Texas",program:"4-Point Recovery",time:"2024-08-23T13:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[402],href:"https://meetings.smartrecovery.org/meetings/6594/",language:"English",location:"Flemington, New Jersey",program:"4-Point Recovery",time:"2024-08-27T22:30:00Z",type:"Both"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[403],href:"https://meetings.smartrecovery.org/meetings/6620/",language:"English",location:"West Vancouver, British Columbia",program:"4-Point Recovery",time:"2024-08-22T00:45:00Z",type:"Both"},
@@ -406,7 +406,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[291],href:"https://meetings.smartrecovery.org/meetings/7187/",language:"English",location:"Mississauga, Ontario",program:"4-Point Recovery",time:"2024-08-25T01:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[369,468],href:"https://meetings.smartrecovery.org/meetings/7189/",language:"English",location:"Clearwater, Florida",program:"Family & Friends",time:"2024-08-25T14:00:00Z",type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[469],href:"https://meetings.smartrecovery.org/meetings/7192/",language:"English",location:"Washington, Virginia",program:"Family & Friends",time:"2024-08-23T18:30:00Z",type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[470],href:"https://meetings.smartrecovery.org/meetings/7201/",language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",time:"2024-08-21T13:00:00Z",type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[470],href:"https://meetings.smartrecovery.org/meetings/7201/",language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",time:"2024-08-28T13:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[470],href:"https://meetings.smartrecovery.org/meetings/7203/",language:"English",location:"Manchester, Connecticut",program:"4-Point Recovery",time:"2024-08-23T13:45:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[471],href:"https://meetings.smartrecovery.org/meetings/7226/",language:"English",location:"Vienna, Illinois",program:"4-Point Recovery",time:"2024-08-23T22:30:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[472,473],href:"https://meetings.smartrecovery.org/meetings/7244/",language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",time:"2024-08-23T13:30:00Z",type:"Online"},
@@ -1174,4 +1174,4 @@ const facilitators = {
   610:["Melissa"],
   611:["Denise Clemons"]
 };
-const cachedAt = "2024-08-21T13:03:04Z";
+const cachedAt = "2024-08-21T14:03:04Z";
