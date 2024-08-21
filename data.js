@@ -444,7 +444,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[500],href:"https://meetings.smartrecovery.org/meetings/7446/",language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",time:"2024-08-26T17:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[500],href:"https://meetings.smartrecovery.org/meetings/7447/",language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",time:"2024-08-23T16:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[500],href:"https://meetings.smartrecovery.org/meetings/7448/",language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",time:"2024-08-23T17:00:00Z",type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[409],href:"https://meetings.smartrecovery.org/meetings/7451/",language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",time:"2024-08-21T11:30:00Z",type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[409],href:"https://meetings.smartrecovery.org/meetings/7451/",language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",time:"2024-08-28T11:30:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278,505],href:"https://meetings.smartrecovery.org/meetings/747/",language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",time:"2024-08-24T14:00:00Z",type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[236,506],href:"https://meetings.smartrecovery.org/meetings/7495/",language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",time:"2024-08-28T01:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[507],href:"https://meetings.smartrecovery.org/meetings/7500/",language:"English",location:"Barrie, Ontario",program:"4-Point Recovery",time:"2024-08-27T13:00:00Z",type:"Online"},
@@ -523,14 +523,14 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[566],href:"https://meetings.smartrecovery.org/meetings/961/",language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",time:"2024-08-28T00:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278,505],href:"https://meetings.smartrecovery.org/meetings/962/",language:"English",location:"Bowie, Maryland",program:"4-Point Recovery",time:"2024-08-23T23:00:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[567,568],href:"https://meetings.smartrecovery.org/meetings/98/",language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",time:"2024-08-27T23:00:00Z",type:"Both"},
-  {audience:["Adults Welcome"],canceled:1,dataSource:"uk",duration:60,facilitator:[569],href:"https://uk.meetings.smartrecovery.org/meetings/1020/",language:"English",location:"Leven, Scotland",program:"SMART Recovery",time:"2024-08-21T12:00:00Z",type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[569],href:"https://uk.meetings.smartrecovery.org/meetings/1020/",language:"English",location:"Leven, Scotland",program:"SMART Recovery",time:"2024-08-28T12:00:00Z",type:"Both"},
   {audience:["Military Personnel"],dataSource:"uk",duration:90,facilitator:[570],href:"https://uk.meetings.smartrecovery.org/meetings/1047/",language:"English",location:"Catterick Garrison, England",program:"Mil-SMART",time:"2024-08-27T17:00:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[571],href:"https://uk.meetings.smartrecovery.org/meetings/1061/",language:"English",location:"Leicester, England",program:"SMART Recovery",time:"2024-08-26T14:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],href:"https://uk.meetings.smartrecovery.org/meetings/1064/",language:"English",location:"Bangor, Wales",program:"SMART Recovery",time:"2024-08-27T09:00:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[573],href:"https://uk.meetings.smartrecovery.org/meetings/1261/",language:"English",location:"Manchester, England",program:"SMART Recovery",time:"2024-08-22T17:00:00Z",type:"Both"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[574],href:"https://uk.meetings.smartrecovery.org/meetings/1343/",language:"English",location:"London, England",program:"SMART Recovery",time:"2024-08-28T10:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[574],href:"https://uk.meetings.smartrecovery.org/meetings/1344/",language:"English",location:"London, England",program:"SMART Recovery",time:"2024-08-22T16:45:00Z",type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[575],href:"https://uk.meetings.smartrecovery.org/meetings/1346/",language:"English",location:"Glasgow, Scotland",program:"SMART Recovery",time:"2024-08-21T12:00:00Z",type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[575],href:"https://uk.meetings.smartrecovery.org/meetings/1346/",language:"English",location:"Glasgow, Scotland",program:"SMART Recovery",time:"2024-08-28T12:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[576],href:"https://uk.meetings.smartrecovery.org/meetings/1347/",language:"English",location:"National",program:"SMART Recovery",time:"2024-08-23T09:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[576],href:"https://uk.meetings.smartrecovery.org/meetings/1348/",language:"English",location:"National",program:"SMART Recovery",time:"2024-08-22T17:00:00Z",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[576],href:"https://uk.meetings.smartrecovery.org/meetings/1349/",language:"English",location:"National",program:"SMART Recovery",time:"2024-08-26T09:00:00Z",type:"Online"},
@@ -1174,4 +1174,4 @@ const facilitators = {
   610:["Melissa"],
   611:["Denise Clemons"]
 };
-const cachedAt = "2024-08-21T12:03:04Z";
+const cachedAt = "2024-08-21T13:03:04Z";
