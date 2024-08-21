@@ -9,7 +9,6 @@ const meetings = [
   {audience:["Pilots only"],dataSource:"aus",duration:90,facilitator:[8],href:"https://au.meetings.smartrecovery.org/meetings/1022/",language:"English",location:"National",program:"Standard",time:"2024-08-27T08:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[9,10],href:"https://au.meetings.smartrecovery.org/meetings/1023/",language:"English",location:"National",program:"Standard",time:"2024-08-28T00:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[9,10],href:"https://au.meetings.smartrecovery.org/meetings/1024/",language:"English",location:"National",program:"Standard",time:"2024-08-24T04:00:00Z",type:"Online"},
-  {audience:["Men only"],dataSource:"aus",duration:90,facilitator:[7],href:"https://au.meetings.smartrecovery.org/meetings/1026/",language:"English",location:"Sydney, New South Wales",program:"Standard",time:"2024-08-21T03:00:00Z",type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"aus",duration:90,facilitator:[11],href:"https://au.meetings.smartrecovery.org/meetings/1028/",language:"English",location:"National",program:"Standard",time:"2024-08-21T08:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[12],href:"https://au.meetings.smartrecovery.org/meetings/1030/",language:"English",location:"National",program:"Standard",time:"2024-08-21T09:30:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[7],href:"https://au.meetings.smartrecovery.org/meetings/1031/",language:"English",location:"National",program:"Standard",time:"2024-08-22T01:00:00Z",type:"Online"},
@@ -1175,4 +1174,4 @@ const facilitators = {
   610:["Melissa"],
   611:["Denise Clemons"]
 };
-const cachedAt = "2024-08-21T04:03:04Z";
+const cachedAt = "2024-08-21T05:03:03Z";
