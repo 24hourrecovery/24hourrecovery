@@ -22,6 +22,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"aus",duration:60,facilitator:[21],href:"https://au.meetings.smartrecovery.org/meetings/1041/",language:"English",location:"National",program:"Standard",time:"2024-08-23T02:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[15,16],href:"https://au.meetings.smartrecovery.org/meetings/1043/",language:"English",location:"Perth, Western Australia",program:"Standard",time:"2024-08-23T06:00:00Z",type:"Online"},
   {audience:["Female only"],dataSource:"aus",duration:90,facilitator:[22],href:"https://au.meetings.smartrecovery.org/meetings/1045/",language:"English",location:"National",program:"Standard",time:"2024-08-25T07:00:00Z",type:"Online"},
+  {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[23],href:"https://au.meetings.smartrecovery.org/meetings/1047/",language:"English",location:"National",program:"Family & Friends",time:"2024-08-27T08:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:60,facilitator:[24],href:"https://au.meetings.smartrecovery.org/meetings/1065/",language:"English",location:"Bronte, New South Wales",program:"Standard",time:"2024-08-26T03:00:00Z",type:"Both"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[25],href:"https://au.meetings.smartrecovery.org/meetings/1071/",language:"English",location:"Frankston, Victoria",program:"Standard",time:"2024-08-27T05:00:00Z",type:"Both"},
   {audience:["All Welcome","Youth only"],dataSource:"aus",duration:90,facilitator:[26],href:"https://au.meetings.smartrecovery.org/meetings/1106/",language:"Chinese",location:"National",program:"Youth",time:"2024-08-21T06:30:00Z",type:"Online"},
@@ -1174,4 +1175,4 @@ const facilitators = {
   610:["Melissa"],
   611:["Denise Clemons"]
 };
-const cachedAt = "2024-08-21T05:03:03Z";
+const cachedAt = "2024-08-21T06:03:04Z";
