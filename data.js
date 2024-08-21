@@ -1,6 +1,5 @@
 const meetings = [
   {audience:["Men only"],dataSource:"aus",duration:90,facilitator:[48,604],href:"https://au.meetings.smartrecovery.org/meetings/1006/",language:"English",location:"National",program:"Standard",time:"2024-08-24T09:00:00Z",type:"Online"},
-  {audience:["Youth only"],dataSource:"aus",duration:90,facilitator:[1,2],href:"https://au.meetings.smartrecovery.org/meetings/1007/",language:"English",location:"National",program:"Standard",time:"2024-08-21T05:30:00Z",type:"Online"},
   {audience:["Youth only"],dataSource:"aus",duration:90,facilitator:[3,4],href:"https://au.meetings.smartrecovery.org/meetings/1010/",language:"English",location:"National",program:"Youth",time:"2024-08-26T01:30:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[5],href:"https://au.meetings.smartrecovery.org/meetings/1011/",language:"English",location:"National",program:"Standard",time:"2024-08-26T07:30:00Z",type:"Online"},
   {audience:["Female only"],dataSource:"aus",duration:90,facilitator:[6],href:"https://au.meetings.smartrecovery.org/meetings/1016/",language:"English",location:"National",program:"Standard",time:"2024-08-27T02:00:00Z",type:"Online"},
@@ -31,9 +30,9 @@ const meetings = [
   {audience:["LGBTIQ+ only"],dataSource:"aus",duration:90,facilitator:[28,29,30],href:"https://au.meetings.smartrecovery.org/meetings/1126/",language:"English",location:"National",program:"Standard",time:"2024-08-27T08:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[31],href:"https://au.meetings.smartrecovery.org/meetings/1129/",language:"English",location:"Burnie, Tasmania",program:"Standard",time:"2024-08-27T08:30:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[13],href:"https://au.meetings.smartrecovery.org/meetings/1151/",language:"English",location:"National",program:"Standard",time:"2024-08-22T04:00:00Z",type:"Online"},
+  {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[32],href:"https://au.meetings.smartrecovery.org/meetings/1182/",language:"English",location:"National",program:"Standard",time:"2024-08-28T04:30:00Z",type:"Online"},
   {audience:["All Welcome"],canceled:1,dataSource:"aus",duration:90,facilitator:[33],href:"https://au.meetings.smartrecovery.org/meetings/1192/",language:"English",location:"National",program:"Standard",time:"2024-08-26T04:30:00Z",type:"Online"},
   {audience:["Youth only"],dataSource:"aus",duration:90,facilitator:[34],href:"https://au.meetings.smartrecovery.org/meetings/1209/",language:"English",location:"National",program:"Youth",time:"2024-08-28T01:00:00Z",type:"Online"},
-  {audience:["Youth only"],canceled:1,dataSource:"aus",duration:90,facilitator:[34],href:"https://au.meetings.smartrecovery.org/meetings/1210/",language:"English",location:"National",program:"Youth",time:"2024-08-21T06:00:00Z",type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"aus",duration:90,facilitator:[28,29,30],href:"https://au.meetings.smartrecovery.org/meetings/1216/",language:"English",location:"National",program:"Standard",time:"2024-08-23T08:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[27],href:"https://au.meetings.smartrecovery.org/meetings/1234/",language:"English",location:"National",program:"Family & Friends",time:"2024-08-21T08:30:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[35],href:"https://au.meetings.smartrecovery.org/meetings/1240/",language:"English",location:"National",program:"Standard",time:"2024-08-21T23:30:00Z",type:"Online"},
@@ -41,7 +40,7 @@ const meetings = [
   {audience:["All Welcome"],canceled:1,dataSource:"aus",duration:90,facilitator:[14],href:"https://au.meetings.smartrecovery.org/meetings/1243/",language:"English",location:"National",program:"Family & Friends",time:"2024-08-27T07:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[37],href:"https://au.meetings.smartrecovery.org/meetings/1247/",language:"English",location:"Ashfield, New South Wales",program:"Standard",time:"2024-08-22T00:00:00Z",type:"Online"},
   {audience:["All Welcome"],dataSource:"aus",duration:90,facilitator:[38],href:"https://au.meetings.smartrecovery.org/meetings/1271/",language:"English",location:"National",program:"Standard",time:"2024-08-26T09:30:00Z",type:"Online"},
-  {audience:["Alcohol Focus"],dataSource:"aus",duration:90,facilitator:[39],href:"https://au.meetings.smartrecovery.org/meetings/1282/",language:"English",location:"National",program:"Standard",time:"2024-08-21T09:15:00Z",type:"Online"},
+  {audience:["Alcohol Focus"],canceled:1,dataSource:"aus",duration:90,facilitator:[39],href:"https://au.meetings.smartrecovery.org/meetings/1282/",language:"English",location:"National",program:"Standard",time:"2024-08-21T09:15:00Z",type:"Online"},
   {audience:["Youth only"],dataSource:"aus",duration:90,facilitator:[40,41],href:"https://au.meetings.smartrecovery.org/meetings/1284/",language:"English",location:"Nowra, New South Wales",program:"Youth",time:"2024-08-23T04:30:00Z",type:"Both"},
   {audience:["Youth only"],dataSource:"aus",duration:90,facilitator:[40,41],href:"https://au.meetings.smartrecovery.org/meetings/1285/",language:"English",location:"Nowra, New South Wales",program:"Youth",time:"2024-08-23T00:00:00Z",type:"Both"},
   {audience:["Alcohol Focus","Drug and Alcohol Focus","Gambling focus"],dataSource:"aus",duration:120,facilitator:[42],href:"https://au.meetings.smartrecovery.org/meetings/1286/",language:"English",location:"Launceston, Tasmania",program:"Family & Friends",time:"2024-08-26T07:30:00Z",type:"Online"},
@@ -1176,4 +1175,4 @@ const facilitators = {
   610:["Melissa"],
   611:["Denise Clemons"]
 };
-const cachedAt = "2024-08-21T07:03:04Z";
+const cachedAt = "2024-08-21T08:03:04Z";
