@@ -40,6 +40,7 @@ const meetings = [
   {audience:["All Welcome"],canceled:"2024-08-27T07:00:00Z",dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[37],id:1247,language:"English",location:"Ashfield, New South Wales",program:"Standard",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
+  {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[39],id:1282,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:15Z",week:[1,3]},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[40,41],id:1284,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[40,41],id:1285,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Alcohol Focus","Drug and Alcohol Focus","Gambling focus"],dataSource:"au",duration:120,facilitator:[42],id:1286,language:"English",location:"Launceston, Tasmania",program:"Family & Friends",schedule:{day:1,time:"07:30Z"},type:"Online"},
@@ -430,7 +431,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[492],id:7328,language:"English",location:"Holyoke, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[493,494],id:733,language:"English",location:"Mason, Ohio",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[495],id:7331,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-08-22T23:00:00Z",dataSource:"na",duration:90,facilitator:[496,497],id:7343,language:"English",location:"Youngstown, Ohio",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[496,497],id:7343,language:"English",location:"Youngstown, Ohio",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[498],id:7345,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[498],id:7346,language:"English",location:"Lakewood, Colorado",program:"Family & Friends",schedule:{day:6,time:"18:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[499],id:7355,language:"English",location:"Worcester, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
@@ -514,6 +515,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[421],id:7977,language:"English",location:"Kingston, Ontario",program:"Successful Life Skills",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[562],id:7984,language:"English",location:"Torrington, Connecticut",program:"Family & Friends",schedule:{day:1,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[562],id:7985,language:"English",location:"Winsted, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[614],id:7994,language:"English",location:"Drummond, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[610],id:7995,language:"English",location:"Terre Haute, Indiana",program:"4-Point Recovery",schedule:{day:1,time:"18:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
@@ -603,6 +605,7 @@ const facilitators = {
   36:["Raymond"],
   37:["The Bill Crews Foundation"],
   38:["Denis Smith"],
+  39:["Kelly"],
   40:["Mitch"],
   41:["Sonia"],
   42:["Marieke"],
@@ -1172,6 +1175,7 @@ const facilitators = {
   610:["Melissa"],
   611:["Denise Clemons"],
   612:["Sharm"],
-  613:["Gordon M"]
+  613:["Gordon M"],
+  614:["Nate"]
 };
-const cachedAt = "2024-08-22T23:03:04Z";
+const cachedAt = "2024-08-23T00:03:04Z";
