@@ -15,10 +15,8 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[603],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[21],id:1041,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"08:00Z",week:[2,4]},type:"Online"},
   {audience:["All Welcome","Youth only"],dataSource:"au",duration:90,facilitator:[26],id:1106,language:"Chinese",location:"National",program:"Youth",schedule:{day:3,time:"06:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","Youth only"],dataSource:"au",duration:90,facilitator:[26],id:1107,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"09:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[31],id:1129,language:"English",location:"Burnie, Tasmania",program:"Standard",schedule:{day:2,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[32],id:1182,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[34],id:1209,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[34],id:1210,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"06:00Z"},type:"Online"},
@@ -393,7 +391,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[567,568],id:98,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[569],id:1020,language:"English",location:"Leven, Scotland",program:"SMART Recovery",schedule:{day:3,time:"12:00Z"},type:"Both"},
   {audience:["Military Personnel"],dataSource:"uk",duration:90,facilitator:[570],id:1047,language:"English",location:"Catterick Garrison, England",program:"Mil-SMART",schedule:{day:2,time:"17:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],id:1064,language:"English",location:"Bangor, Wales",program:"SMART Recovery",schedule:{day:2,time:"09:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[573],id:1261,language:"English",location:"Manchester, England",program:"SMART Recovery",schedule:{day:4,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1343,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1344,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:4,time:"16:45Z"},type:"Online"},
@@ -1041,4 +1038,4 @@ const facilitators = {
   621:["Debbie"],
   622:["Dee","Ohio"]
 };
-const cachedAt = "2024-08-27T09:03:04Z";
+const cachedAt = "2024-08-27T10:03:03Z";
