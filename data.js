@@ -119,7 +119,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[53,54,55],id:523,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[178],id:524,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[293],id:5276,language:"English",location:"Victoria, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[296],id:5294,language:"English",location:"Columbus, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[50,51,89],id:5295,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[300],id:5358,language:"English",location:"Simi Valley, California",program:"4-Point Recovery",schedule:{day:4,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[301],id:5374,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -188,7 +187,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[413],id:6705,language:"English",location:"Raven, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[414],id:6708,language:"English",location:"Grantsville, West Virginia",program:"4-Point Recovery",schedule:{day:6,time:"21:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[417],id:6713,language:"English",location:"Everett, Washington",program:"Family & Friends",schedule:{day:4,time:"02:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[420],id:6763,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:3,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[321,421],id:6777,language:"English",location:"Kingston, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[131],id:6821,language:"English",location:"Hamden, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[429,430],id:6843,language:"English",location:"Roanoke, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Both"},
@@ -892,8 +890,6 @@ const facilitators = {
   605:["Eboni Jewel Sears","Nevada"],
   606:["Andrew","Ontario"],
   607:["Diana"],
-  608:["Kaelyn Dowd"],
-  609:["Bethani Rahrle White"],
   610:["Melissa"],
   611:["Denise Clemons"],
   612:["Sharm","National"],
@@ -909,4 +905,4 @@ const facilitators = {
   622:["Dee","Ohio"],
   623:["Sharm","National"]
 };
-const cachedAt = "2024-08-28T15:03:04Z";
+const cachedAt = "2024-08-28T16:03:05Z";
