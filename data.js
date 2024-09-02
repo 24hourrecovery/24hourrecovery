@@ -308,7 +308,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[376,377],id:6250,language:"English",location:"Vancouver, Washington",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[378,379],id:6251,language:"English",location:"Newton, New Jersey",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[380],id:6257,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],canceled:"2024-09-02T19:00:00Z",dataSource:"na",duration:60,facilitator:[381,605],id:6265,language:"English",location:"Las Vegas, Nevada",program:"Family & Friends",schedule:{day:1,time:"19:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[381,605],id:6265,language:"English",location:"Las Vegas, Nevada",program:"Family & Friends",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["School & College","Teens (13-17)"],dataSource:"na",duration:90,facilitator:[382,383],id:6273,language:"English",location:"Palm Desert, California",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[181],id:6299,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[182,384],id:630,language:"English",location:"Durham, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -1182,4 +1182,4 @@ const facilitators = {
   629:["Abigail"],
   630:["Angelena D"]
 };
-const cachedAt = "2024-09-02T19:03:03Z";
+const cachedAt = "2024-09-02T20:03:04Z";
