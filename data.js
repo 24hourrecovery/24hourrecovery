@@ -193,7 +193,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[215,253],id:4651,language:"English",location:"Hackensack, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[176,254],id:4657,language:"English",location:"Nashville, Tennessee",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[255,256,257,258,259],id:4697,language:"English",location:"Mankato, Minnesota",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],canceled:"2024-09-01T23:15:00Z",dataSource:"na",duration:90,facilitator:[204],id:4711,language:"English",location:"Oakville, Ontario",program:"Family & Friends",schedule:{day:0,time:"23:15Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[204],id:4711,language:"English",location:"Oakville, Ontario",program:"Family & Friends",schedule:{day:0,time:"23:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[186,626],id:4718,language:"English",location:"West Palm Beach, Florida",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[256,257,258,259],id:4727,language:"English",location:"Mankato, Minnesota",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[260],id:4729,language:"English",location:"Belmont, Massachusetts",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
@@ -1182,4 +1182,4 @@ const facilitators = {
   628:["Heather Megchelsen"],
   629:["Abigail"]
 };
-const cachedAt = "2024-09-02T00:03:03Z";
+const cachedAt = "2024-09-02T01:03:03Z";
