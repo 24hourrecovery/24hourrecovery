@@ -45,8 +45,8 @@ const meetings = [
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[44],id:1289,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[45],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:30Z"},type:"Online"},
-  {audience:["Chronic Pain only"],dataSource:"au",duration:60,facilitator:[47,48],id:1300,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[49],id:1306,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"01:00Z"},type:"Online"},
+  {audience:["Chronic Pain only"],dataSource:"au",duration:60,facilitator:[47,48],id:1300,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z",week:[2,4]},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:0,facilitator:[49],id:1306,language:"English",location:"National",program:"Family & Friends",type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[50,51],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[53,54,55],id:1016,language:"English",location:"Silver Spring, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -1182,4 +1182,4 @@ const facilitators = {
   629:["Abigail"],
   630:["Angelena D"]
 };
-const cachedAt = "2024-09-03T06:03:04Z";
+const cachedAt = "2024-09-03T07:03:04Z";
