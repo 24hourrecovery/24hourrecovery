@@ -21,6 +21,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[21],id:1041,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[22],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"08:00Z",week:[2,4]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[25],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"05:00Z"},type:"Both"},
   {audience:["All Welcome","Youth only"],dataSource:"au",duration:90,facilitator:[26],id:1106,language:"Chinese",location:"National",program:"Youth",schedule:{day:3,time:"06:30Z"},type:"Online"},
@@ -34,7 +35,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[27],id:1234,language:"English",location:"National",program:"Family & Friends",schedule:{day:3,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[35],id:1240,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[36],id:1242,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2024-09-03T07:00:00Z",dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2024-09-10T07:00:00Z",dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[11],id:1244,language:"English",location:"Canberra, Australian Capital Territory",program:"Family & Friends",schedule:{day:4,time:"08:00Z",week:[1,3]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[37],id:1247,language:"English",location:"Ashfield, New South Wales",program:"Standard",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
@@ -588,6 +589,7 @@ const facilitators = {
   20:["Elizabeth"],
   21:["Simon","Thursday"],
   22:["Michelle","National"],
+  23:["Mark"],
   24:["Dave","New South Wales"],
   25:["Dan"],
   26:["Ivan"],
@@ -1182,4 +1184,4 @@ const facilitators = {
   629:["Abigail"],
   630:["Angelena D"]
 };
-const cachedAt = "2024-09-03T07:03:04Z";
+const cachedAt = "2024-09-03T08:03:06Z";
