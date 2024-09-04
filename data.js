@@ -39,6 +39,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[11],id:1244,language:"English",location:"Canberra, Australian Capital Territory",program:"Family & Friends",schedule:{day:4,time:"08:00Z",week:[1,3]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[37],id:1247,language:"English",location:"Ashfield, New South Wales",program:"Standard",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
+  {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[39],id:1282,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:15Z",week:[2,4]},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[40,41],id:1284,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[40,41],id:1285,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Alcohol Focus","Drug and Alcohol Focus","Gambling focus"],dataSource:"au",duration:120,facilitator:[42],id:1286,language:"English",location:"Launceston, Tasmania",program:"Family & Friends",schedule:{day:1,time:"07:30Z"},type:"Online"},
@@ -565,8 +566,7 @@ const meetings = [
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[600],id:1467,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[601],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1535,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[602],id:1547,language:"English",location:"Wallsend, England",program:"SMART Recovery",schedule:{day:3,time:"09:30Z"},type:"Online"}
+  {audience:["Adults Welcome","Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"18:00Z"},type:"Online"}
 ];
 const facilitators = {
   1:["Joel"],
@@ -606,6 +606,7 @@ const facilitators = {
   36:["Raymond"],
   37:["The Bill Crews Foundation"],
   38:["Denis Smith"],
+  39:["Kelly"],
   40:["Mitch"],
   41:["Sonia"],
   42:["Marieke"],
@@ -1158,7 +1159,6 @@ const facilitators = {
   599:["Klaudia Rzeczkowska"],
   600:["Janine Crowdy"],
   601:["Melanie Stewart"],
-  602:["Colin Ellis"],
   603:["Yeony"],
   604:["Brad","National"],
   605:["Eboni Jewel Sears","Nevada"],
@@ -1185,4 +1185,4 @@ const facilitators = {
   632:["Desmond","British Columbia"],
   633:["Cristina W"]
 };
-const cachedAt = "2024-09-04T05:03:04Z";
+const cachedAt = "2024-09-04T13:36:03Z";
