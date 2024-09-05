@@ -12,6 +12,7 @@ const meetings = [
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[11],id:1028,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[7],id:1031,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"01:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[13],id:1033,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"04:00Z",week:[2,4]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[14],id:1034,language:"English",location:"Redfern, New South Wales",program:"Standard",schedule:{day:4,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1035,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[17],id:1037,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
@@ -577,6 +578,7 @@ const facilitators = {
   10:["Kristalleni"],
   11:["Meridian"],
   12:["Nigel"],
+  13:["Smart Recovery Footscray"],
   14:["Odyssey House CES"],
   15:["Smart Perth - Palmerston"],
   16:["Stuart"],
@@ -1181,4 +1183,4 @@ const facilitators = {
   634:["Jimmie K"],
   635:["Ken"]
 };
-const cachedAt = "2024-09-05T06:03:04Z";
+const cachedAt = "2024-09-05T07:03:04Z";
