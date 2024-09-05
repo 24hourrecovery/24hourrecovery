@@ -1167,7 +1167,6 @@ const facilitators = {
   620:["Thane"],
   622:["Dee","Ohio"],
   623:["Sharm","National"],
-  625:["Alexandra"],
   626:["Roy Brotman","Florida"],
   627:["Lesley S"],
   628:["Heather Megchelsen"],
@@ -1179,4 +1178,4 @@ const facilitators = {
   634:["Jimmie K"],
   635:["Ken"]
 };
-const cachedAt = "2024-09-05T20:03:04Z";
+const cachedAt = "2024-09-05T21:03:04Z";
