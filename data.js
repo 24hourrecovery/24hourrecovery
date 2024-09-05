@@ -463,7 +463,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[524,525],id:7720,language:"English",location:"Ridgeland, South Carolina",program:"4-Point Recovery",schedule:{day:5,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[526],id:7723,language:"English",location:"Ogdensburg, New York",program:"Family & Friends",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[527],id:7732,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-09-05T21:00:00Z",dataSource:"na",duration:60,facilitator:[498],id:7740,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[498],id:7740,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[528],id:7746,language:"English",location:"Gulfport, Mississippi",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[529],id:7768,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[530],id:7777,language:"English",location:"Town of Rockingham, Vermont",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
@@ -1174,8 +1174,7 @@ const facilitators = {
   630:["Angelena D"],
   631:["Brian","Alberta"],
   632:["Desmond","British Columbia"],
-  633:["Cristina W"],
   634:["Jimmie K"],
   635:["Ken"]
 };
-const cachedAt = "2024-09-05T21:03:04Z";
+const cachedAt = "2024-09-05T22:03:03Z";
