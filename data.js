@@ -442,6 +442,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278,505],id:747,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[236,506],id:7495,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[507],id:7500,language:"English",location:"Barrie, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[640],id:7506,language:"English",location:"Creve Coeur, Missouri",program:"Family & Friends",schedule:{day:5,time:"13:00Z",week:[2]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[508],id:7514,language:"English",location:"Marion, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[509],id:7523,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[507],id:7524,language:"English",location:"Barrie, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"13:00Z"},type:"Online"},
@@ -682,7 +683,7 @@ const facilitators = {
   117:["Michael DiStefano"],
   118:["Micah Perkins"],
   119:["Kylie"],
-  120:["Lauren"],
+  120:["Lauren","Oregon"],
   121:["Taylor Coats"],
   122:["Emily Hansen"],
   123:["Alfredo Hernandez"],
@@ -1177,6 +1178,7 @@ const facilitators = {
   634:["Jimmie K"],
   635:["Ken"],
   638:["Judy"],
-  639:["Karen"]
+  639:["Karen"],
+  640:["Lauren","Missouri"]
 };
-const cachedAt = "2024-09-06T12:03:03Z";
+const cachedAt = "2024-09-06T13:03:04Z";
