@@ -7,6 +7,7 @@ const meetings = [
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Online"},
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[9,10],id:1023,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[9,10],id:1024,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[7],id:1026,language:"English",location:"Sydney, New South Wales",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[11],id:1028,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
@@ -563,6 +564,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[599],id:1460,language:"Polish",location:"Edinburgh, Scotland",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[600],id:1467,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[601],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"10:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[641],id:1507,language:"English",location:"Cambridge, England",program:"Family & Friends",schedule:{day:6,time:"09:30Z",week:[2]},type:"Online"},
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1535,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"18:00Z"},type:"Online"}
 ];
@@ -1181,6 +1183,7 @@ const facilitators = {
   635:["Ken"],
   638:["Judy"],
   639:["Karen"],
-  640:["Lauren","Missouri"]
+  640:["Lauren","Missouri"],
+  641:["Amy Boyce Rich"]
 };
-const cachedAt = "2024-09-07T09:03:04Z";
+const cachedAt = "2024-09-07T10:03:04Z";
