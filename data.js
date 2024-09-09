@@ -1,4 +1,5 @@
 const meetings = [
+  {audience:["Men only"],dataSource:"au",duration:90,facilitator:[48,604],id:1006,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1,2],id:1007,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"05:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[3,4],id:1010,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"01:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[5],id:1011,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
@@ -1158,6 +1159,7 @@ const facilitators = {
   600:["Janine Crowdy"],
   601:["Melanie Stewart"],
   603:["Yeony"],
+  604:["Brad","National"],
   605:["Eboni Jewel Sears","Nevada"],
   606:["Andrew","Ontario"],
   607:["Diana"],
@@ -1185,4 +1187,4 @@ const facilitators = {
   641:["Amy Boyce Rich"],
   642:["Kimberly Tobar"]
 };
-const cachedAt = "2024-09-09T02:03:05Z";
+const cachedAt = "2024-09-09T03:03:04Z";
