@@ -258,7 +258,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[320,321,638],id:5602,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:1,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[322],id:5612,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[323],id:5651,language:"English",location:"Bernardsville, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[324],id:5675,language:"English",location:"Bristol, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2024-09-12T14:00:00Z",dataSource:"na",duration:60,facilitator:[324],id:5675,language:"English",location:"Bristol, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[176,325],id:5678,language:"English",location:"Nashville, Tennessee",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[326],id:5686,language:"English",location:"Kamloops, British Columbia",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[50,51,327,613],id:569,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Online"},
@@ -1183,4 +1183,4 @@ const facilitators = {
   643:["Mike S"],
   644:["Gabe","National"]
 };
-const cachedAt = "2024-09-10T17:03:04Z";
+const cachedAt = "2024-09-10T18:03:04Z";
