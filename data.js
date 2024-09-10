@@ -38,7 +38,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[27],id:1234,language:"English",location:"National",program:"Family & Friends",schedule:{day:3,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[35],id:1240,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[36],id:1242,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2024-09-10T07:00:00Z",dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2024-09-17T07:00:00Z",dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[37],id:1247,language:"English",location:"Ashfield, New South Wales",program:"Standard",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
   {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[39],id:1282,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:15Z",week:[2,4]},type:"Online"},
@@ -1185,4 +1185,4 @@ const facilitators = {
   643:["Mike S"],
   644:["Gabe","National"]
 };
-const cachedAt = "2024-09-10T08:03:04Z";
+const cachedAt = "2024-09-10T09:03:04Z";
