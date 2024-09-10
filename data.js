@@ -24,6 +24,7 @@ const meetings = [
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[22],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"08:00Z",week:[2,4]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Both"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[25],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"05:00Z"},type:"Both"},
   {audience:["All Welcome","Youth only"],dataSource:"au",duration:90,facilitator:[26],id:1106,language:"Chinese",location:"National",program:"Youth",schedule:{day:3,time:"06:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","Youth only"],dataSource:"au",duration:90,facilitator:[26],id:1107,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1126,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
@@ -1184,4 +1185,4 @@ const facilitators = {
   643:["Mike S"],
   644:["Gabe","National"]
 };
-const cachedAt = "2024-09-10T07:03:04Z";
+const cachedAt = "2024-09-10T08:03:04Z";
