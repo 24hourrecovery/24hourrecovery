@@ -1161,7 +1161,6 @@ const facilitators = {
   606:["Andrew","Ontario"],
   607:["Diana"],
   610:["Melissa"],
-  611:["Denise Clemons"],
   612:["Sharm","National"],
   613:["Gordon M"],
   614:["Nate"],
@@ -1186,4 +1185,4 @@ const facilitators = {
   643:["Mike S"],
   644:["Gabe","National"]
 };
-const cachedAt = "2024-09-11T20:03:05Z";
+const cachedAt = "2024-09-11T21:03:04Z";
