@@ -513,8 +513,11 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[614],id:7994,language:"English",location:"Drummond, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[629],id:8006,language:"English",location:"Springfield, Missouri",program:"4-Point Recovery",schedule:{day:5,time:"17:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[632],id:8016,language:"English",location:"Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:1,time:"01:30Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[278,650],id:8022,language:"English",location:"Goochland, Virginia",program:"Family & Friends",schedule:{day:4,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[470,647],id:8031,language:"English",location:"Andover, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[645],id:8035,language:"English",location:"Shawneetown, Illinois",program:"Family & Friends",schedule:{day:2,time:"17:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[645],id:8036,language:"English",location:"Shawneetown, Illinois",program:"Family & Friends",schedule:{day:4,time:"17:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[645],id:8037,language:"English",location:"Shawneetown, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[647],id:8040,language:"English",location:"Andover, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"12:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
@@ -1178,7 +1181,6 @@ const facilitators = {
   632:["Desmond","British Columbia"],
   634:["Jimmie K"],
   635:["Ken"],
-  637:["Henry K"],
   638:["Judy"],
   640:["Lauren","Missouri"],
   641:["Amy Boyce Rich"],
@@ -1189,6 +1191,7 @@ const facilitators = {
   646:["Mich F"],
   647:["Haley","Connecticut"],
   648:["Ed"],
-  649:["Landis"]
+  649:["Landis"],
+  650:["Lori S."]
 };
-const cachedAt = "2024-09-12T23:03:04Z";
+const cachedAt = "2024-09-13T00:03:04Z";
