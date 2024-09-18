@@ -40,6 +40,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[11],id:1244,language:"English",location:"Canberra, Australian Capital Territory",program:"Family & Friends",schedule:{day:4,time:"08:00Z",week:[1,3]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[37],id:1247,language:"English",location:"Ashfield, New South Wales",program:"Standard",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
+  {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[39],id:1282,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:15Z",week:[2,4]},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[40,41],id:1284,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[40,41],id:1285,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[43],id:1287,language:"English",location:"Potts Point, New South Wales",program:"Standard",schedule:{day:4,time:"08:15Z"},type:"Online"},
@@ -602,6 +603,7 @@ const facilitators = {
   36:["Raymond"],
   37:["The Bill Crews Foundation"],
   38:["Denis Smith"],
+  39:["Kelly"],
   40:["Mitch"],
   41:["Sonia"],
   43:["Nicholas"],
@@ -1188,4 +1190,4 @@ const facilitators = {
   651:["Cheryl P."],
   652:["Jodi S.","Ohio"]
 };
-const cachedAt = "2024-09-18T09:03:04Z";
+const cachedAt = "2024-09-18T10:03:04Z";
