@@ -72,7 +72,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[87],id:1413,language:"English",location:"Belmont, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"20:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[89],id:142,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[90],id:144,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[91,92],id:149,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[91],id:149,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[93,635],id:1509,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[94,95,96],id:172,language:"English",location:"Alexandria, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[95,96],id:173,language:"English",location:"Arlington, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"22:30Z"},type:"Online"},
@@ -104,7 +104,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[130],id:2419,language:"English",location:"Hinsdale, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[135,136],id:2471,language:"English",location:"Austin, Texas",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[137],id:2487,language:"English",location:"Santa Monica, California",program:"4-Point Recovery",schedule:{day:4,time:"02:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[138],id:2501,language:"English",location:"Minneapolis, Minnesota",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139],id:2504,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,141,142],id:2532,language:"English",location:"Ferndale, Michigan",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139,632],id:2629,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
@@ -659,7 +658,6 @@ const facilitators = {
   89:["Will Gargan"],
   90:["Mike"],
   91:["Michael McCaskill"],
-  92:["Andy Orr"],
   93:["Shelley"],
   94:["Dean Parrish"],
   95:["Duane Gabor"],
@@ -704,7 +702,6 @@ const facilitators = {
   135:["Daniel Wager"],
   136:["Mike C."],
   137:["Ted"],
-  138:["Martia Fuller"],
   139:["Stefan Neff"],
   140:["Mark Swiecki"],
   141:["Liz Hill"],
@@ -1181,4 +1178,4 @@ const facilitators = {
   654:["Brian Nuckols"],
   655:["Chelsea","Utah"]
 };
-const cachedAt = "2024-09-20T19:03:04Z";
+const cachedAt = "2024-09-20T20:03:04Z";
