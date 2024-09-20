@@ -484,6 +484,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[310],id:7861,language:"Spanish",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7863,language:"Russian",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7864,language:"Russian",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[615],id:7865,language:"English",location:"Mesa, Arizona",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z",week:[-1]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[544],id:7867,language:"English",location:"Desert Hot Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[545],id:7872,language:"English",location:"Lytton, British Columbia",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[546],id:7874,language:"English",location:"Covington, Kentucky",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Both"},
@@ -1151,6 +1152,7 @@ const facilitators = {
   611:["Denise Clemons"],
   613:["Gordon M"],
   614:["Nate"],
+  615:["Spencer","Arizona"],
   616:["Andy"],
   618:["Mike Christner"],
   620:["Thane"],
@@ -1179,4 +1181,4 @@ const facilitators = {
   654:["Brian Nuckols"],
   655:["Chelsea","Utah"]
 };
-const cachedAt = "2024-09-20T01:03:03Z";
+const cachedAt = "2024-09-20T02:03:04Z";
