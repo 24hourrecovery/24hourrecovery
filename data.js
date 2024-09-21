@@ -7,7 +7,6 @@ const meetings = [
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Online"},
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[9,10],id:1023,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[9,10],id:1024,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[7],id:1026,language:"English",location:"Sydney, New South Wales",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[11],id:1028,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
@@ -451,6 +450,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[239,513],id:7542,language:"English",location:"New Brunswick, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[514,515,516],id:755,language:"English",location:"Arvada, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[611],id:7550,language:"English",location:"Floyd, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z",week:[1,2,4]},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[517],id:7551,language:"English",location:"California",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[373],id:7572,language:"Spanish",location:"New York, New York",program:"4-Point Recovery",schedule:{day:5,time:"17:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[518],id:7574,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[421],id:7581,language:"English",location:"Kingston, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -1059,6 +1059,7 @@ const facilitators = {
   514:["Spencer","Colorado"],
   515:["Daragh"],
   516:["Michael Cummings"],
+  517:["Robin"],
   518:["Lisa Burchard"],
   519:["Steve C."],
   520:["Andy (he/him)"],
@@ -1178,4 +1179,4 @@ const facilitators = {
   654:["Brian Nuckols"],
   655:["Chelsea","Utah"]
 };
-const cachedAt = "2024-09-21T01:03:04Z";
+const cachedAt = "2024-09-21T02:03:04Z";
