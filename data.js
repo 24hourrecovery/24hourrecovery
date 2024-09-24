@@ -56,7 +56,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[60],id:1027,language:"English",location:"North Bethesda, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[61,62],id:103,language:"English",location:"Northampton, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[63,64],id:1033,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[65,66],id:105,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[65],id:105,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[67],id:106,language:"English",location:"Cambridge, Massachusetts",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[68,69,70,71],id:107,language:"English",location:"Concord, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[72],id:1107,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"14:30Z"},type:"Online"},
@@ -329,7 +329,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[395],id:6504,language:"English",location:"San Ramon, California",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[396],id:6553,language:"English",location:"Swansea, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[397,398],id:6564,language:"English",location:"Kitchener, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[399],id:658,language:"English",location:"Waterford Township, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[664],id:658,language:"English",location:"Waterford Township, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,387],id:6581,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:1,time:"23:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,387],id:6582,language:"English",location:"Troy, Michigan",program:"Successful Life Skills",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[400],id:6585,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
@@ -366,7 +366,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[422,426,433,434,623,661],id:6868,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[435,436],id:6873,language:"English",location:"Maple Grove, Minnesota",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[215],id:6881,language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"20:30Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders","Women"],dataSource:"na",duration:90,facilitator:[422,424,623,661,662],id:6882,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders","Women"],dataSource:"na",duration:90,facilitator:[422,424,623,662],id:6882,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[438],id:6883,language:"English",location:"Huntsville, Alabama",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,426,433,439,623,661],id:6888,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,423,426,434,623,661],id:6891,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:6,time:"00:30Z"},type:"Online"},
@@ -520,6 +520,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[654],id:8050,language:"English",location:"Pittsburgh, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[657],id:8052,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[663],id:8055,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[498],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
@@ -633,7 +634,6 @@ const facilitators = {
   63:["Michael"],
   64:["Dan P"],
   65:["Eli Moreta-Feliz"],
-  66:["Stephen Bauer-Balel"],
   67:["Matt Robert"],
   68:["Ann"],
   69:["Jeff"],
@@ -955,7 +955,6 @@ const facilitators = {
   396:["Donnis"],
   397:["Stephen Theall"],
   398:["Mike Davies"],
-  399:["Tyler Hutchison"],
   400:["Melissa Sleeper"],
   401:["Patrick W"],
   402:["Matteo Giles"],
@@ -1180,6 +1179,7 @@ const facilitators = {
   660:["Maddalena"],
   661:["Gabe","National"],
   662:["Lori Davis","National"],
-  663:["Christine","Arkansas"]
+  663:["Christine","Arkansas"],
+  664:["Tyler Hutchison","Michigan"]
 };
-const cachedAt = "2024-09-24T19:03:05Z";
+const cachedAt = "2024-09-24T20:03:03Z";
