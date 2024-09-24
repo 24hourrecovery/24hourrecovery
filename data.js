@@ -129,7 +129,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[134,168],id:326,language:"English",location:"Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[169],id:3327,language:"English",location:"Waltham, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139],id:3353,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[223],id:3415,language:"English",location:"Rochester, New York",program:"Family & Friends",schedule:{day:1,time:"23:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[170,171,172],id:3418,language:"English",location:"Haverhill, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[173,174],id:3431,language:"English",location:"Worthington, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[175],id:3449,language:"English",location:"Grayslake, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
@@ -1186,4 +1185,4 @@ const facilitators = {
   662:["Lori Davis","National"],
   663:["Christine","Arkansas"]
 };
-const cachedAt = "2024-09-24T00:03:05Z";
+const cachedAt = "2024-09-24T01:03:05Z";
