@@ -450,7 +450,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[659],id:7550,language:"English",location:"Floyd, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"20:30Z",week:[1,2,4]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[517],id:7551,language:"English",location:"California",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[373],id:7572,language:"Spanish",location:"New York, New York",program:"4-Point Recovery",schedule:{day:5,time:"17:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-09-24T23:30:00Z",dataSource:"na",duration:90,facilitator:[518],id:7574,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[518],id:7574,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[421],id:7581,language:"English",location:"Kingston, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[519],id:7602,language:"English",location:"Venice, Florida",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[520],id:7624,language:"English",location:"Seattle, Washington",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
@@ -618,7 +618,6 @@ const facilitators = {
   44:["Relationships Australia"],
   45:["Odyssey Christchurch"],
   46:["PCD"],
-  47:["Saf"],
   48:["Dennis"],
   50:["Natalie"],
   51:["Rebecca Heller"],
@@ -1186,4 +1185,4 @@ const facilitators = {
   664:["Tyler Hutchison","Michigan"],
   665:["Curtis J","Oregon"]
 };
-const cachedAt = "2024-09-25T00:03:03Z";
+const cachedAt = "2024-09-25T01:03:05Z";
