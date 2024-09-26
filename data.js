@@ -611,7 +611,6 @@ const facilitators = {
   36:["Raymond"],
   37:["The Bill Crews Foundation"],
   38:["Denis Smith"],
-  39:["Kelly"],
   40:["Mitch"],
   41:["Sonia"],
   43:["Nicholas"],
@@ -1188,4 +1187,4 @@ const facilitators = {
   666:["Savannah"],
   667:["Rachelle Hogue"]
 };
-const cachedAt = "2024-09-26T09:03:05Z";
+const cachedAt = "2024-09-26T10:03:04Z";
