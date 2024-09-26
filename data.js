@@ -407,7 +407,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[477,478],id:7265,language:"English",location:"Fredericksburg, Virginia",program:"Family & Friends",schedule:{day:4,time:"18:30Z"},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[479],id:7267,language:"English",location:"Plainville, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[357,480],id:7269,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-09-26T16:00:00Z",dataSource:"na",duration:60,facilitator:[481,482],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[481,482],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2024-09-29T22:00:00Z",dataSource:"na",duration:90,facilitator:[483],id:7274,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[484,485],id:7275,language:"English",location:"Swansea, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[486],id:7301,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
@@ -1186,4 +1186,4 @@ const facilitators = {
   666:["Savannah"],
   667:["Rachelle Hogue"]
 };
-const cachedAt = "2024-09-26T17:03:10Z";
+const cachedAt = "2024-09-26T18:03:03Z";
