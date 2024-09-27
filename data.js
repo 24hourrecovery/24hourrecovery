@@ -454,7 +454,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[520],id:7624,language:"English",location:"Seattle, Washington",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[521,522],id:7631,language:"English",location:"Floral Park, New York",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[523],id:7717,language:"English",location:"Fremont, Nebraska",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],canceled:"2024-09-27T21:30:00Z",dataSource:"na",duration:90,facilitator:[524,525],id:7720,language:"English",location:"Ridgeland, South Carolina",program:"4-Point Recovery",schedule:{day:5,time:"21:30Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[524,525],id:7720,language:"English",location:"Ridgeland, South Carolina",program:"4-Point Recovery",schedule:{day:5,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[526],id:7723,language:"English",location:"Ogdensburg, New York",program:"Family & Friends",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[527],id:7732,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[498],id:7740,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
@@ -1179,4 +1179,4 @@ const facilitators = {
   666:["Savannah"],
   667:["Rachelle Hogue"]
 };
-const cachedAt = "2024-09-27T22:03:03Z";
+const cachedAt = "2024-09-27T23:03:04Z";
