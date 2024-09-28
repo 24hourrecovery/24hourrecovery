@@ -1138,7 +1138,6 @@ const facilitators = {
   607:["Diana"],
   613:["Gordon M"],
   614:["Nate"],
-  615:["Spencer","Arizona"],
   616:["Andy"],
   618:["Mike Christner"],
   620:["Thane"],
@@ -1179,4 +1178,4 @@ const facilitators = {
   666:["Savannah"],
   667:["Rachelle Hogue"]
 };
-const cachedAt = "2024-09-28T01:03:04Z";
+const cachedAt = "2024-09-28T02:03:05Z";
