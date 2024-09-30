@@ -1,7 +1,7 @@
 const meetings = [
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[48,604],id:1006,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1,2],id:1007,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"05:30Z"},type:"Online"},
-  {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[3,4],id:1010,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"01:30Z"},type:"Online"},
+  {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[3,4],id:1010,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[5],id:1011,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Online"},
@@ -1179,4 +1179,4 @@ const facilitators = {
   667:["Rachelle Hogue"],
   668:["Aurora Wolf"]
 };
-const cachedAt = "2024-09-30T02:03:04Z";
+const cachedAt = "2024-09-30T03:03:05Z";
