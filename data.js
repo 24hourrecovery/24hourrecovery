@@ -519,8 +519,9 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[655],id:8046,language:"English",location:"South Salt Lake, Utah",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[654],id:8050,language:"English",location:"Pittsburgh, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[657],id:8052,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[663],id:8054,language:"English",location:"Conway, Arkansas",program:"Family & Friends",schedule:{day:1,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[663],id:8055,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[663],id:8056,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[663],id:8056,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[498],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[668],id:8062,language:"English",location:"Greater Sudbury, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
@@ -1180,4 +1181,4 @@ const facilitators = {
   669:["Jim Ball","Texas"],
   670:["Summer Song/Becca"]
 };
-const cachedAt = "2024-09-30T19:03:05Z";
+const cachedAt = "2024-09-30T20:03:03Z";
