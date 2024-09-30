@@ -386,7 +386,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[454],id:7026,language:"English",location:"Mesquite, Texas",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[455,456],id:7030,language:"English",location:"Atlanta, Georgia",program:"4-Point Recovery",schedule:{day:3,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[457,458],id:7045,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[459],id:7071,language:"English",location:"Pueblo, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2024-09-30T23:30:00Z",dataSource:"na",duration:90,facilitator:[462],id:7088,language:"English",location:"Minneapolis, Minnesota",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[463],id:7090,language:"English",location:"Ossipee, New Hampshire",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[624],id:7112,language:"English",location:"Ohio",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z",week:[1]},type:"Online"},
@@ -998,7 +997,6 @@ const facilitators = {
   456:["Brad","Georgia"],
   457:["Tyler Phillips"],
   458:["Christopher M"],
-  459:["Jacquelyn"],
   462:["Chris S"],
   463:["Eric Moran"],
   464:["Brian Cope"],
@@ -1181,4 +1179,4 @@ const facilitators = {
   669:["Jim Ball","Texas"],
   670:["Summer Song/Becca"]
 };
-const cachedAt = "2024-09-30T22:03:05Z";
+const cachedAt = "2024-09-30T23:03:07Z";
