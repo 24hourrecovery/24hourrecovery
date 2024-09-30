@@ -21,14 +21,14 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[21],id:1041,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[22],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Both"},
+  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[25],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"05:00Z"},type:"Both"},
   {audience:["All Welcome","Youth only"],dataSource:"au",duration:90,facilitator:[26],id:1106,language:"Chinese",location:"National",program:"Youth",schedule:{day:3,time:"06:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","Youth only"],dataSource:"au",duration:90,facilitator:[26],id:1107,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1126,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[31],id:1129,language:"English",location:"Burnie, Tasmania",program:"Standard",schedule:{day:2,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[32],id:1182,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2024-10-07T03:30:00Z",dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"04:30Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2024-10-07T03:30:00Z",dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2024-10-07T05:00:00Z",dataSource:"au",duration:90,facilitator:[619],id:1208,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"05:00Z",week:[1]},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[34],id:1209,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:00Z"},type:"Online"},
@@ -1181,4 +1181,4 @@ const facilitators = {
   667:["Rachelle Hogue"],
   668:["Aurora Wolf"]
 };
-const cachedAt = "2024-09-30T06:03:03Z";
+const cachedAt = "2024-09-30T07:03:03Z";
