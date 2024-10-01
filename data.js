@@ -3,7 +3,7 @@ const meetings = [
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1,2],id:1007,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"05:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[3,4],id:1010,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[5],id:1011,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
-  {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:00Z"},type:"Online"},
+  {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Online"},
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[9,10],id:1023,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
@@ -20,7 +20,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[603],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[21],id:1041,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
-  {audience:["Female only"],dataSource:"au",duration:90,facilitator:[22],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:00Z"},type:"Online"},
+  {audience:["Female only"],dataSource:"au",duration:90,facilitator:[671],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[25],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"05:00Z"},type:"Both"},
   {audience:["All Welcome","Youth only"],dataSource:"au",duration:90,facilitator:[26],id:1106,language:"Chinese",location:"National",program:"Youth",schedule:{day:3,time:"06:30Z"},type:"Online"},
@@ -593,7 +593,6 @@ const facilitators = {
   19:["Abbie"],
   20:["Elizabeth"],
   21:["Simon","Thursday"],
-  22:["Michelle","National"],
   24:["Dave","New South Wales"],
   25:["Dan"],
   26:["Ivan"],
@@ -1087,7 +1086,7 @@ const facilitators = {
   554:["Theresa"],
   555:["Theresa G"],
   556:["Barry"],
-  557:["Jennifer"],
+  557:["Jennifer","Connecticut"],
   558:["Ryan H."],
   560:["Thomas A"],
   561:["Marjorie"],
@@ -1179,6 +1178,7 @@ const facilitators = {
   667:["Rachelle Hogue"],
   668:["Aurora Wolf"],
   669:["Jim Ball","Texas"],
-  670:["Summer Song/Becca"]
+  670:["Summer Song/Becca"],
+  671:["Jennifer","National"]
 };
-const cachedAt = "2024-10-01T02:03:04Z";
+const cachedAt = "2024-10-01T03:03:04Z";
