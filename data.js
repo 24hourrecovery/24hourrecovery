@@ -1,7 +1,7 @@
 const meetings = [
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[48,604],id:1006,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1,2],id:1007,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"05:30Z"},type:"Online"},
-  {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[3,4],id:1010,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"00:30Z"},type:"Online"},
+  {audience:["Youth only"],canceled:"2024-10-07T00:30:00Z",dataSource:"au",duration:90,facilitator:[3,4],id:1010,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[5],id:1011,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
@@ -1183,4 +1183,4 @@ const facilitators = {
   670:["Summer Song/Becca"],
   671:["Jennifer","National"]
 };
-const cachedAt = "2024-10-01T23:03:04Z";
+const cachedAt = "2024-10-02T00:03:04Z";
