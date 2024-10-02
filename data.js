@@ -40,7 +40,7 @@ const meetings = [
   {audience:["All Welcome"],canceled:"2024-10-08T06:00:00Z",dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[11],id:1244,language:"English",location:"Canberra, Australian Capital Territory",program:"Family & Friends",schedule:{day:4,time:"08:00Z",week:[1,3]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[37],id:1247,language:"English",location:"Ashfield, New South Wales",program:"Standard",schedule:{day:4,time:"00:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2024-10-07T09:30:00Z",dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[40,41],id:1284,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[40,41],id:1285,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[43],id:1287,language:"English",location:"Potts Point, New South Wales",program:"Standard",schedule:{day:4,time:"08:15Z"},type:"Online"},
@@ -430,7 +430,6 @@ const meetings = [
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[625],id:7406,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z",week:[1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[500],id:7420,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[500],id:7421,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
-  {audience:["BIPOC","Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[502,503],id:7425,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[504],id:7439,language:"English",location:"Lima, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[500],id:7445,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[500],id:7446,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Online"},
@@ -519,6 +518,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[159],id:8042,language:"English",location:"Bellingham, Washington",program:"Family & Friends",schedule:{day:0,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[655],id:8046,language:"English",location:"South Salt Lake, Utah",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[654],id:8050,language:"English",location:"Pittsburgh, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,426,439,661],id:8051,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[657],id:8052,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[663],id:8054,language:"English",location:"Conway, Arkansas",program:"Family & Friends",schedule:{day:1,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[663],id:8055,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Both"},
@@ -1183,4 +1183,4 @@ const facilitators = {
   670:["Summer Song/Becca"],
   671:["Jennifer","National"]
 };
-const cachedAt = "2024-10-02T00:03:04Z";
+const cachedAt = "2024-10-02T01:03:04Z";
