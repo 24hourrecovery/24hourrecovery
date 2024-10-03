@@ -81,7 +81,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[73,75],id:1748,language:"English",location:"Cumming, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[99],id:1768,language:"English",location:"Cincinnati, Ohio",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[100,101,102,103],id:1848,language:"English",location:"Leawood, Kansas",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[665],id:1867,language:"English",location:"Milwaukie, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[638,665],id:1867,language:"English",location:"Milwaukie, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[105],id:1868,language:"English",location:"Burlington, Vermont",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[69],id:1947,language:"English",location:"Belmont, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[106],id:1963,language:"English",location:"Traverse City, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"21:30Z"},type:"Online"},
@@ -1140,7 +1140,6 @@ const facilitators = {
   621:["Debbie"],
   622:["Dee","Ohio"],
   623:["Sharm","National"],
-  624:["Jennifer Sams"],
   625:["Alexandra"],
   626:["Roy Brotman","Florida"],
   627:["Lesley S"],
@@ -1180,4 +1179,4 @@ const facilitators = {
   670:["Summer Song/Becca"],
   671:["Jennifer","National"]
 };
-const cachedAt = "2024-10-03T18:03:05Z";
+const cachedAt = "2024-10-03T19:03:03Z";
