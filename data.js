@@ -14,7 +14,8 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[7],id:1031,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[13],id:1033,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"03:00Z",week:[2,4]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[14],id:1034,language:"English",location:"Redfern, New South Wales",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[17],id:1037,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1035,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2024-10-04T00:00:00Z",dataSource:"au",duration:90,facilitator:[17],id:1037,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[18,19],id:1038,language:"English",location:"Port Pirie, South Australia",program:"Standard",schedule:{day:5,time:"01:30Z"},type:"Online"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[20],id:1039,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[603],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
@@ -496,7 +497,7 @@ const meetings = [
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[557],id:7924,language:"English",location:"Bridgeport, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[558],id:7930,language:"English",location:"Colorado Springs, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[560],id:7958,language:"English",location:"Redford Charter Township, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"17:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],canceled:"2024-10-03T22:00:00Z",dataSource:"na",duration:90,facilitator:[561],id:7966,language:"Spanish",location:"Alexandria, Virginia",program:"Family & Friends",schedule:{day:4,time:"22:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[561],id:7966,language:"Spanish",location:"Alexandria, Virginia",program:"Family & Friends",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[421],id:7976,language:"English",location:"Kingston, Ontario",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[421],id:7977,language:"English",location:"Kingston, Ontario",program:"Successful Life Skills",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[618],id:7983,language:"English",location:"Fountain City, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
@@ -1177,4 +1178,4 @@ const facilitators = {
   670:["Summer Song/Becca"],
   671:["Jennifer","National"]
 };
-const cachedAt = "2024-10-03T23:03:04Z";
+const cachedAt = "2024-10-04T00:03:04Z";
