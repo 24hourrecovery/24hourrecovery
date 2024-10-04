@@ -42,7 +42,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[37],id:1247,language:"English",location:"Ashfield, New South Wales",program:"Standard",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2024-10-07T09:30:00Z",dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[40,41],id:1284,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
-  {audience:["Youth only"],canceled:"2024-10-04T04:30:00Z",dataSource:"au",duration:90,facilitator:[40,41],id:1285,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
+  {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[40,41],id:1285,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[43],id:1287,language:"English",location:"Potts Point, New South Wales",program:"Standard",schedule:{day:4,time:"07:15Z"},type:"Online"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[44],id:1289,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[45],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z"},type:"Online"},
@@ -1176,4 +1176,4 @@ const facilitators = {
   670:["Summer Song/Becca"],
   671:["Jennifer","National"]
 };
-const cachedAt = "2024-10-04T05:03:03Z";
+const cachedAt = "2024-10-04T06:03:04Z";
