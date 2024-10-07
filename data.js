@@ -498,6 +498,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[561],id:7966,language:"Spanish",location:"Alexandria, Virginia",program:"Family & Friends",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[421],id:7976,language:"English",location:"Kingston, Ontario",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[421],id:7977,language:"English",location:"Kingston, Ontario",program:"Successful Life Skills",schedule:{day:4,time:"23:00Z"},type:"Online"},
+  {audience:["Men"],dataSource:"na",duration:90,facilitator:[672],id:7981,language:"English",location:"Minneapolis, Minnesota",program:"4-Point Recovery",schedule:{day:0,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[618],id:7983,language:"English",location:"Fountain City, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],canceled:"2024-10-08T21:00:00Z",dataSource:"na",duration:60,facilitator:[562],id:7984,language:"English",location:"Torrington, Connecticut",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2024-10-08T18:00:00Z",dataSource:"na",duration:60,facilitator:[562],id:7985,language:"English",location:"Winsted, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Both"},
@@ -1175,6 +1176,7 @@ const facilitators = {
   668:["Aurora Wolf"],
   669:["Jim Ball","Texas"],
   670:["Summer Song/Becca"],
-  671:["Jennifer","National"]
+  671:["Jennifer","National"],
+  672:["Erle S."]
 };
-const cachedAt = "2024-10-06T23:03:04Z";
+const cachedAt = "2024-10-07T00:03:04Z";
