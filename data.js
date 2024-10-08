@@ -555,7 +555,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[589],id:1378,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[590],id:1381,language:"English",location:"Inverness, Scotland",program:"SMART Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[591],id:1388,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:1,time:"16:45Z"},type:"Online"},
-  {audience:["Adults Welcome","Family & Friends Only"],canceled:"2024-10-08T09:00:00Z",dataSource:"uk",duration:90,facilitator:[592],id:1398,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"09:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[592],id:1398,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"09:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[592,593,594],id:1399,language:"English",location:"National",program:"SMART Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[616],id:1400,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[596],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"07:00Z"},type:"Online"},
@@ -1179,4 +1179,4 @@ const facilitators = {
   672:["Erle S."],
   674:["Caleb","Illinois"]
 };
-const cachedAt = "2024-10-08T09:03:05Z";
+const cachedAt = "2024-10-08T10:03:05Z";
