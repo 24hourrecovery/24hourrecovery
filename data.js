@@ -593,7 +593,6 @@ const facilitators = {
   19:["Abbie"],
   20:["Elizabeth"],
   21:["Simon","Thursday"],
-  23:["Mark"],
   24:["Dave","New South Wales"],
   25:["Dan"],
   26:["Ivan"],
@@ -1179,4 +1178,4 @@ const facilitators = {
   672:["Erle S."],
   674:["Caleb","Illinois"]
 };
-const cachedAt = "2024-10-09T06:03:03Z";
+const cachedAt = "2024-10-09T07:03:04Z";
