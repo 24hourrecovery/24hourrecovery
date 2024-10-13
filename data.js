@@ -1145,7 +1145,6 @@ const facilitators = {
   634:["Jimmie K"],
   635:["Ken"],
   638:["Judy"],
-  641:["Amy Boyce Rich"],
   642:["Kimberly Tobar"],
   643:["Mike S"],
   646:["Mich F"],
@@ -1178,4 +1177,4 @@ const facilitators = {
   677:["Rory Morgan"],
   678:["Louise Grady"]
 };
-const cachedAt = "2024-10-13T09:03:05Z";
+const cachedAt = "2024-10-13T10:03:04Z";
