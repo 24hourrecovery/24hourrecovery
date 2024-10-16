@@ -937,7 +937,6 @@ const facilitators = {
   388:["Cas Fraser"],
   389:["Gaelen E."],
   390:["Michelle"],
-  391:["Teri Cole-Smith"],
   392:["Carolyn"],
   393:["Christine H"],
   394:["Marilyn Roysdon"],
@@ -1030,8 +1029,6 @@ const facilitators = {
   498:["Stephanie"],
   499:["Jose B"],
   501:["Dennis Springer"],
-  502:["Jas"],
-  503:["Markita Renee"],
   504:["Caleb Farmer"],
   505:["Michele Blair"],
   506:["Sabrina (Brie) M."],
@@ -1181,4 +1178,4 @@ const facilitators = {
   683:["Sonia"],
   684:["Stu Mendelson"]
 };
-const cachedAt = "2024-10-16T22:03:04Z";
+const cachedAt = "2024-10-16T23:03:03Z";
