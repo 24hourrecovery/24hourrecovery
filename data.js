@@ -236,7 +236,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[77,80,302,303,304],id:5388,language:"English",location:"Ottawa, Ontario",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[305],id:5399,language:"English",location:"Ocoee, Florida",program:"4-Point Recovery",schedule:{day:6,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[206],id:5447,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:5,time:"23:30Z"},type:"Online"},
-  {audience:["Family & Friends Only"],canceled:"2024-10-15T23:00:00Z",dataSource:"na",duration:60,facilitator:[306],id:5456,language:"English",location:"Richardson, Texas",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[306],id:5456,language:"English",location:"Richardson, Texas",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[272,273,274],id:5463,language:"English",location:"Charlottesville, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[307],id:5468,language:"English",location:"Lexington, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"22:30Z"},type:"Both"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[308,309,310],id:5487,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"21:30Z"},type:"Online"},
@@ -570,7 +570,8 @@ const meetings = [
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[575],id:1567,language:"English",location:"National",program:"Veterans Family and Friends",schedule:{day:4,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[677],id:1600,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[678],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"10:00Z"},type:"Online"}
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[678],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"10:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:60,facilitator:[684],id:1603,language:"English",location:"Stevenage, England",program:"SMART Veterans",schedule:{day:2,time:"17:30Z"},type:"Online"}
 ];
 const facilitators = {
   1:["Joel"],
@@ -1179,6 +1180,7 @@ const facilitators = {
   680:["Christopher Huff"],
   681:["Kurt"],
   682:["Mitch"],
-  683:["Sonia"]
+  683:["Sonia"],
+  684:["Stu Mendelson"]
 };
-const cachedAt = "2024-10-15T23:03:04Z";
+const cachedAt = "2024-10-16T00:03:04Z";
