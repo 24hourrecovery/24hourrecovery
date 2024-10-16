@@ -547,7 +547,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,581],id:1355,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1356,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:1,time:"16:45Z"},type:"Online"},
   {audience:["Women Only"],dataSource:"uk",duration:90,facilitator:null,id:1357,language:"English",location:"Woking, England",program:"SMART Recovery",schedule:{day:3,time:"10:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-10-16T17:00:00Z",dataSource:"uk",duration:90,facilitator:[582],id:1362,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[582],id:1362,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[584,585],id:1369,language:"English",location:"Gloucester, England",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,587,588],id:1373,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:3,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,581],id:1374,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:5,time:"12:30Z"},type:"Online"},
@@ -1181,4 +1181,4 @@ const facilitators = {
   683:["Sonia"],
   684:["Stu Mendelson"]
 };
-const cachedAt = "2024-10-16T17:03:03Z";
+const cachedAt = "2024-10-16T18:03:04Z";
