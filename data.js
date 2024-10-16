@@ -556,7 +556,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[591],id:1388,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:1,time:"16:45Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],canceled:"2024-10-22T09:00:00Z",dataSource:"uk",duration:90,facilitator:[592],id:1398,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"09:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[592,593,594],id:1399,language:"English",location:"National",program:"SMART Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[616],id:1400,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[595],id:1400,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[596],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[469],id:1402,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[590,597],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"18:00Z"},type:"Online"},
@@ -1116,6 +1116,7 @@ const facilitators = {
   592:["Colleen Lally"],
   593:["Emma Sharp-Lau"],
   594:["Daniel Howell"],
+  595:["Manny"],
   596:["Claire"],
   597:["Robbi Lyttle"],
   598:["Jeni Langley"],
@@ -1129,7 +1130,6 @@ const facilitators = {
   607:["Diana"],
   613:["Gordon M"],
   614:["Nate"],
-  616:["Andy"],
   618:["Mike Christner"],
   620:["Thane"],
   622:["Dee"],
@@ -1181,4 +1181,4 @@ const facilitators = {
   683:["Sonia"],
   684:["Stu Mendelson"]
 };
-const cachedAt = "2024-10-16T09:03:04Z";
+const cachedAt = "2024-10-16T14:03:04Z";
