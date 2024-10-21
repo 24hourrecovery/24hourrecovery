@@ -116,6 +116,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[156,157],id:2934,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[68,69,70,71],id:2992,language:"English",location:"Concord, Massachusetts",program:"4-Point Recovery",schedule:{day:0,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[158,159],id:3043,language:"English",location:"New York",program:"Family & Friends",schedule:{day:6,time:"14:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[686],id:3052,language:"English",location:"Colorado Springs, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[160],id:3055,language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",schedule:{day:1,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[160],id:3056,language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"13:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[161],id:3079,language:"English",location:"Silver Spring, Maryland",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
@@ -1168,6 +1169,7 @@ const facilitators = {
   682:["Mitch"],
   683:["Sonia"],
   684:["Stu Mendelson"],
-  685:["Natalya Orlando"]
+  685:["Natalya Orlando"],
+  686:["Sam Jones"]
 };
-const cachedAt = "2024-10-21T18:03:04Z";
+const cachedAt = "2024-10-21T19:03:04Z";
