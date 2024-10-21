@@ -526,7 +526,7 @@ const meetings = [
   {audience:["Military Personnel"],dataSource:"uk",duration:90,facilitator:[570],id:1047,language:"English",location:"Catterick Garrison, England",program:"Mil-SMART",schedule:{day:2,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[571],id:1061,language:"English",location:"Leicester, England",program:"SMART Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],id:1064,language:"English",location:"Bangor, Wales",program:"SMART Recovery",schedule:{day:2,time:"09:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[573],id:1261,language:"English",location:"Manchester, England",program:"SMART Recovery",schedule:{day:4,time:"17:00Z"},type:"Both"},
+  {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:60,facilitator:[573],id:1261,language:"English",location:"Manchester, England",program:"SMART Recovery",schedule:{day:4,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1343,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1344,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:4,time:"16:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[575],id:1346,language:"English",location:"Glasgow, Scotland",program:"SMART Recovery",schedule:{day:3,time:"12:00Z"},type:"Online"},
@@ -1168,4 +1168,4 @@ const facilitators = {
   684:["Stu Mendelson"],
   685:["Natalya Orlando"]
 };
-const cachedAt = "2024-10-21T14:03:04Z";
+const cachedAt = "2024-10-21T15:03:03Z";
