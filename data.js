@@ -89,7 +89,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[115,116],id:2153,language:"English",location:"Cary, North Carolina",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[117],id:2177,language:"English",location:"Warwick, Rhode Island",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[118],id:2178,language:"English",location:"Edmond, Oklahoma",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[119,120,121],id:2187,language:"English",location:"Aloha, Oregon",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[690,691,692,693],id:2187,language:"English",location:"Aloha, Oregon",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[122,123,124,125],id:2215,language:"English",location:"Santa Rosa, California",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[126],id:2222,language:"English",location:"Sioux Falls, South Dakota",program:"Family & Friends",schedule:{day:2,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[127,128],id:2228,language:"English",location:"Lynbrook, New York",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
@@ -404,7 +404,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[486],id:7301,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[469,487],id:7302,language:"English",location:"National",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[488],id:7312,language:"English",location:"Boone, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[489],id:7313,language:"English",location:"Huntsville, Alabama",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[490,491],id:7320,language:"English",location:"Wallingford, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[492],id:7328,language:"English",location:"Holyoke, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[493,494],id:733,language:"English",location:"Mason, Ohio",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Both"},
@@ -670,9 +669,6 @@ const facilitators = {
   116:["Kevin Mckinnon"],
   117:["Michael DiStefano"],
   118:["Micah Perkins"],
-  119:["Kylie"],
-  120:["Lauren","Oregon"],
-  121:["Taylor Coats"],
   122:["Emily Hansen"],
   123:["Alfredo Hernandez"],
   124:["Sean Kelson"],
@@ -1003,7 +999,6 @@ const facilitators = {
   486:["JACS Toronto"],
   487:["Kathy","National"],
   488:["Ken Connelly"],
-  489:["Kylah Glenn"],
   490:["Christina Caputo"],
   491:["Caitlin Boots"],
   492:["Dave A"],
@@ -1111,7 +1106,7 @@ const facilitators = {
   607:["Diana"],
   608:["Kaelyn Dowd"],
   609:["Bethani Rahrle White"],
-  610:["Melissa"],
+  610:["Melissa","Indiana"],
   613:["Gordon M"],
   614:["Nate"],
   615:["Spencer","Arizona"],
@@ -1165,6 +1160,10 @@ const facilitators = {
   685:["Natalya Orlando"],
   686:["Sam Jones"],
   687:["Rawan"],
-  689:["Denis"]
+  689:["Denis"],
+  690:["Taylor Coats"],
+  691:["Annaleise"],
+  692:["Melissa","Oregon"],
+  693:["Alexandra","Oregon"]
 };
-const cachedAt = "2024-10-25T20:03:04Z";
+const cachedAt = "2024-10-25T21:03:04Z";
