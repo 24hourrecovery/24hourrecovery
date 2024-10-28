@@ -103,6 +103,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[137],id:2487,language:"English",location:"Santa Monica, California",program:"4-Point Recovery",schedule:{day:4,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139],id:2504,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,141,142],id:2532,language:"English",location:"Ferndale, Michigan",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Both"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[621],id:2568,language:"English",location:"Ventura, California",program:"Family & Friends",schedule:{day:1,time:"20:00Z",week:[1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139,632],id:2629,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[144,145],id:2685,language:"English",location:"Baltimore, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"14:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[107,108],id:2730,language:"English",location:"Greenwood, Indiana",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
@@ -492,7 +493,6 @@ const meetings = [
   {audience:["Family & Friends Only"],canceled:"2024-10-29T21:00:00Z",dataSource:"na",duration:60,facilitator:[562],id:7984,language:"English",location:"Torrington, Connecticut",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2024-10-29T18:00:00Z",dataSource:"na",duration:60,facilitator:[562],id:7985,language:"English",location:"Winsted, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[614],id:7994,language:"English",location:"Drummond, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[610],id:7995,language:"English",location:"Terre Haute, Indiana",program:"4-Point Recovery",schedule:{day:1,time:"18:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[629],id:8006,language:"English",location:"Springfield, Missouri",program:"4-Point Recovery",schedule:{day:5,time:"17:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[632],id:8016,language:"English",location:"Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[278,650],id:8022,language:"English",location:"Goochland, Virginia",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
@@ -549,7 +549,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[589],id:1378,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[590],id:1381,language:"English",location:"Inverness, Scotland",program:"SMART Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[591],id:1388,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:1,time:"17:45Z"},type:"Online"},
-  {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[592],id:1398,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"10:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Family & Friends Only"],canceled:"2024-10-29T10:00:00Z",dataSource:"uk",duration:90,facilitator:[592],id:1398,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[592,593,594],id:1399,language:"English",location:"National",program:"SMART Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[595],id:1400,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[596],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
@@ -1116,6 +1116,7 @@ const facilitators = {
   618:["Mike Christner"],
   619:["James","National"],
   620:["Thane"],
+  621:["Debbie"],
   622:["Dee"],
   623:["Sharm"],
   626:["Roy Brotman"],
@@ -1170,4 +1171,4 @@ const facilitators = {
   692:["Melissa","Oregon"],
   693:["Alexandra","Oregon"]
 };
-const cachedAt = "2024-10-28T19:03:05Z";
+const cachedAt = "2024-10-28T20:03:03Z";
