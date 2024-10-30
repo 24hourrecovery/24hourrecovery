@@ -494,6 +494,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[614],id:7994,language:"English",location:"Drummond, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[629],id:8006,language:"English",location:"Springfield, Missouri",program:"4-Point Recovery",schedule:{day:5,time:"17:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[632],id:8016,language:"English",location:"Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:1,time:"02:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[673],id:8018,language:"English",location:"Cleveland, Ohio",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z",week:[1]},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[278,650],id:8022,language:"English",location:"Goochland, Virginia",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[656],id:8030,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[647],id:8031,language:"English",location:"Andover, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"13:30Z"},type:"Online"},
@@ -1153,6 +1154,7 @@ const facilitators = {
   670:["Summer Song/Becca"],
   671:["Jennifer","National"],
   672:["Erle S."],
+  673:["Cristina W"],
   674:["Caleb"],
   676:["Jocelyn"],
   677:["Rory Morgan"],
@@ -1177,4 +1179,4 @@ const facilitators = {
   702:["Frank","Massachusetts"],
   703:["Nick Gough"]
 };
-const cachedAt = "2024-10-30T22:03:04Z";
+const cachedAt = "2024-10-30T23:03:05Z";
