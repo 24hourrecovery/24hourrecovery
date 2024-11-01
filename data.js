@@ -113,6 +113,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[152,153],id:2931,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[154,155],id:2933,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[156,157],id:2934,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[628],id:2971,language:"English",location:"Burns Lake, British Columbia",program:"Family & Friends",schedule:{day:5,time:"02:30Z",week:[1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[68,69,71,702],id:2992,language:"English",location:"Concord, Massachusetts",program:"4-Point Recovery",schedule:{day:0,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[158,159],id:3043,language:"English",location:"New York",program:"Family & Friends",schedule:{day:6,time:"14:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[160],id:3055,language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Both"},
@@ -1128,6 +1129,7 @@ const facilitators = {
   625:["Alexandra","New York"],
   626:["Roy Brotman"],
   627:["Lesley S"],
+  628:["Heather Megchelsen"],
   629:["Abigail"],
   632:["Desmond"],
   634:["Jimmie K"],
@@ -1190,4 +1192,4 @@ const facilitators = {
   706:["John P."],
   707:["Nikki","National"]
 };
-const cachedAt = "2024-11-01T02:03:03Z";
+const cachedAt = "2024-11-01T03:03:04Z";
