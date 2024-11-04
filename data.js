@@ -490,8 +490,8 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[699],id:7966,language:"Spanish",location:"Alexandria, Virginia",program:"Family & Friends",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Men"],dataSource:"na",duration:90,facilitator:[672],id:7981,language:"English",location:"Minneapolis, Minnesota",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[618],id:7983,language:"English",location:"Fountain City, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[562],id:7984,language:"English",location:"Torrington, Connecticut",program:"Family & Friends",schedule:{day:2,time:"22:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[562],id:7985,language:"English",location:"Winsted, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Both"},
+  {audience:["Family & Friends Only"],canceled:"2024-11-05T22:00:00Z",dataSource:"na",duration:60,facilitator:[562],id:7984,language:"English",location:"Torrington, Connecticut",program:"Family & Friends",schedule:{day:2,time:"22:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2024-11-05T19:00:00Z",dataSource:"na",duration:60,facilitator:[562],id:7985,language:"English",location:"Winsted, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[614],id:7994,language:"English",location:"Drummond, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[610],id:7995,language:"English",location:"Terre Haute, Indiana",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z",week:[2,4]},type:"Online"},
   {audience:["Family & Friends Only","Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[675],id:8002,language:"English",location:"New York, New York",program:"Family & Friends",schedule:{day:4,time:"18:00Z",week:[1,3]},type:"Online"},
@@ -527,6 +527,9 @@ const meetings = [
   {audience:["LGBTQIA+","Women"],dataSource:"na",duration:60,facilitator:[172],id:8105,language:"English",location:"Virginia Beach, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[706],id:8106,language:"English",location:"Rockford, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[708],id:8113,language:"English",location:"Sparta, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[711],id:8123,language:"English",location:"Encinitas, California",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[712],id:8124,language:"English",location:"Topeka, Kansas",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[712],id:8125,language:"English",location:"Topeka, Kansas",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Online"},
@@ -1198,6 +1201,8 @@ const facilitators = {
   707:["Nikki","National"],
   708:["Petra"],
   709:["Jennifer","California"],
-  710:["M.E."]
+  710:["M.E."],
+  711:["Gini"],
+  712:["Jason Collier"]
 };
-const cachedAt = "2024-11-04T19:03:03Z";
+const cachedAt = "2024-11-04T20:03:04Z";
