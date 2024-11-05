@@ -326,7 +326,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,387],id:6582,language:"English",location:"Troy, Michigan",program:"Successful Life Skills",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[400],id:6585,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],id:6587,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],id:6588,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401,718],id:6588,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],id:6589,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:5,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[402],id:6594,language:"English",location:"Flemington, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[403],id:6620,language:"English",location:"West Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"01:45Z"},type:"Both"},
@@ -540,7 +540,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[566],id:961,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278,505],id:962,language:"English",location:"Bowie, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[567,568],id:98,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[569],id:1020,language:"English",location:"Leven, Scotland",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[719],id:1020,language:"English",location:"Leven, Scotland",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Both"},
   {audience:["Military Personnel"],dataSource:"uk",duration:90,facilitator:[570],id:1047,language:"English",location:"Catterick Garrison, England",program:"Mil-SMART",schedule:{day:2,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[571],id:1061,language:"English",location:"Leicester, England",program:"SMART Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],id:1064,language:"English",location:"Bangor, Wales",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"Both"},
@@ -1086,7 +1086,6 @@ const facilitators = {
   566:["Richard Tupper"],
   567:["Jeremy Kindall"],
   568:["Kevin Lyons"],
-  569:["Stew Talbot"],
   570:["Ruth Hasney"],
   571:["Louise Carlyle"],
   572:["Kevin Morris"],
@@ -1205,6 +1204,8 @@ const facilitators = {
   714:["Shannon H"],
   715:["Waldemar"],
   716:["Michelle","Georgia"],
-  717:["Jean"]
+  717:["Jean"],
+  718:["Art T."],
+  719:["Stew Talbot"]
 };
-const cachedAt = "2024-11-05T17:03:04Z";
+const cachedAt = "2024-11-05T18:03:06Z";
