@@ -380,7 +380,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[457,458],id:7045,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[459],id:7071,language:"English",location:"Pueblo, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[462],id:7088,language:"English",location:"Minneapolis, Minnesota",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[463],id:7090,language:"English",location:"Ossipee, New Hampshire",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[630],id:7109,language:"English",location:"Machias, Maine",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z",week:[2]},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[465],id:7152,language:"English",location:"Grayson, Kentucky",program:"Family & Friends",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[409],id:7168,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
@@ -992,7 +991,6 @@ const facilitators = {
   458:["Christopher M"],
   459:["Jacquelyn"],
   462:["Chris S"],
-  463:["Eric Moran"],
   465:["Britanee Manifold"],
   466:["Richard","California"],
   468:["Rich K."],
@@ -1206,4 +1204,4 @@ const facilitators = {
   719:["Stew Talbot"],
   720:["Rachel Boyle"]
 };
-const cachedAt = "2024-11-06T22:03:05Z";
+const cachedAt = "2024-11-06T23:03:04Z";
