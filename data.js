@@ -526,6 +526,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[705],id:8093,language:"English",location:"Charlotte, North Carolina",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Both"},
   {audience:["LGBTQIA+","Women"],dataSource:"na",duration:60,facilitator:[172],id:8105,language:"English",location:"Virginia Beach, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[706],id:8106,language:"English",location:"Rockford, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[720],id:8110,language:"English",location:"Royal Oak, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[708],id:8113,language:"English",location:"Sparta, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[715],id:8115,language:"English",location:"Rochester, New York",program:"Successful Life Skills",schedule:{day:1,time:"18:00Z",week:[1]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[716],id:8119,language:"English",location:"Athens, Georgia",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z",week:[2]},type:"Online"},
@@ -1205,6 +1206,7 @@ const facilitators = {
   716:["Michelle","Georgia"],
   717:["Jean"],
   718:["Art T."],
-  719:["Stew Talbot"]
+  719:["Stew Talbot"],
+  720:["Rachel Boyle"]
 };
-const cachedAt = "2024-11-05T23:03:04Z";
+const cachedAt = "2024-11-06T00:03:04Z";
