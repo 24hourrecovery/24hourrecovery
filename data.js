@@ -1156,7 +1156,6 @@ const facilitators = {
   670:["Summer Song/Becca"],
   671:["Jennifer","National"],
   672:["Erle S."],
-  673:["Cristina W"],
   674:["Caleb"],
   675:["Mara O."],
   676:["Jocelyn"],
@@ -1199,4 +1198,4 @@ const facilitators = {
   719:["Stew Talbot"],
   720:["Rachel Boyle"]
 };
-const cachedAt = "2024-11-07T22:03:05Z";
+const cachedAt = "2024-11-07T23:03:04Z";
