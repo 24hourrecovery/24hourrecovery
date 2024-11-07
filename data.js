@@ -1117,7 +1117,6 @@ const facilitators = {
   620:["Thane"],
   622:["Dee"],
   623:["Sharm"],
-  625:["Alexandra","New York"],
   626:["Roy Brotman"],
   627:["Lesley S"],
   628:["Heather Megchelsen"],
@@ -1200,4 +1199,4 @@ const facilitators = {
   719:["Stew Talbot"],
   720:["Rachel Boyle"]
 };
-const cachedAt = "2024-11-07T21:03:04Z";
+const cachedAt = "2024-11-07T22:03:05Z";
