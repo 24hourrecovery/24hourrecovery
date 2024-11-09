@@ -297,7 +297,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[376,377],id:6250,language:"English",location:"Vancouver, Washington",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[378,379],id:6251,language:"English",location:"Newton, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[380],id:6257,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[605],id:6265,language:"English",location:"Las Vegas, Nevada",program:"Family & Friends",schedule:{day:1,time:"20:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],canceled:"2024-11-11T20:00:00Z",dataSource:"na",duration:60,facilitator:[605],id:6265,language:"English",location:"Las Vegas, Nevada",program:"Family & Friends",schedule:{day:1,time:"20:00Z"},type:"Online"},
   {audience:["School & College","Teens (13-17)"],dataSource:"na",duration:90,facilitator:[382,383],id:6273,language:"English",location:"Palm Desert, California",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[181],id:6299,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[182,384],id:630,language:"English",location:"Durham, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -1194,4 +1194,4 @@ const facilitators = {
   720:["Rachel Boyle"],
   721:["Ron Stricklin"]
 };
-const cachedAt = "2024-11-09T15:03:04Z";
+const cachedAt = "2024-11-09T16:03:04Z";
