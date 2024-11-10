@@ -1125,7 +1125,6 @@ const facilitators = {
   635:["Ken"],
   637:["Henry K"],
   638:["Judy"],
-  641:["Amy Boyce Rich"],
   642:["Kimberly Tobar"],
   643:["Mike S"],
   646:["Mich F"],
@@ -1194,4 +1193,4 @@ const facilitators = {
   720:["Rachel Boyle"],
   721:["Ron Stricklin"]
 };
-const cachedAt = "2024-11-10T10:03:08Z";
+const cachedAt = "2024-11-10T11:03:03Z";
