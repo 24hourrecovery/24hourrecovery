@@ -334,6 +334,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[405],id:6636,language:"English",location:"Halifax, Nova Scotia",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[406],id:6649,language:"English",location:"Schaumburg, Illinois",program:"Family & Friends",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[407],id:6650,language:"English",location:"Millinocket, Maine",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[408],id:6652,language:"English",location:"Baraboo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z",week:[1,3,4,-1]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[409],id:6674,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[646],id:6688,language:"English",location:"Miami, Florida",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[412],id:6700,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
@@ -943,6 +944,7 @@ const facilitators = {
   405:["Mark Peyton"],
   406:["Mary Kay Betz"],
   407:["Ken Anderson"],
+  408:["Benjamin Miller"],
   409:["Carey Moffatt"],
   412:["Sharon R."],
   413:["Crystal","Virginia"],
@@ -1189,4 +1191,4 @@ const facilitators = {
   720:["Rachel Boyle"],
   721:["Ron Stricklin"]
 };
-const cachedAt = "2024-11-11T14:03:04Z";
+const cachedAt = "2024-11-11T15:03:06Z";
