@@ -259,7 +259,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[669,670],id:5725,language:"English",location:"Austin, Texas",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[163,164],id:5737,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[332,622],id:5744,language:"English",location:"Cincinnati, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],canceled:"2024-11-11T22:00:00Z",dataSource:"na",duration:60,facilitator:[334],id:5768,language:"English",location:"Westport, Connecticut",program:"Family & Friends",schedule:{day:1,time:"22:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[334],id:5768,language:"English",location:"Westport, Connecticut",program:"Family & Friends",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[335],id:5777,language:"English",location:"Hartford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[167],id:578,language:"English",location:"Decatur, Georgia",program:"4-Point Recovery",schedule:{day:4,time:"23:45Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[197,198,336,337],id:5789,language:"English",location:"Palm Desert, California",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
@@ -1185,4 +1185,4 @@ const facilitators = {
   721:["Ron Stricklin"],
   722:["Josh CruverKibi"]
 };
-const cachedAt = "2024-11-11T22:03:04Z";
+const cachedAt = "2024-11-11T23:03:04Z";
