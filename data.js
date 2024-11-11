@@ -1,7 +1,6 @@
 const meetings = [
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604,689],id:1006,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1,2],id:1007,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
-  {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[3,4,679],id:1010,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[5],id:1011,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
@@ -578,8 +577,6 @@ const meetings = [
 const facilitators = {
   1:["Joel"],
   2:["Alice"],
-  3:["Kaili"],
-  4:["Leon"],
   5:["Nick","National"],
   6:["Isabella"],
   7:["Watershed Lives Lived Well"],
@@ -1156,7 +1153,6 @@ const facilitators = {
   676:["Jocelyn"],
   677:["Rory Morgan"],
   678:["Louise Grady"],
-  679:["Luke"],
   680:["Christopher Huff"],
   681:["Kurt"],
   682:["Mitch"],
@@ -1193,4 +1189,4 @@ const facilitators = {
   720:["Rachel Boyle"],
   721:["Ron Stricklin"]
 };
-const cachedAt = "2024-11-11T03:03:03Z";
+const cachedAt = "2024-11-11T04:03:03Z";
