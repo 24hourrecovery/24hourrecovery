@@ -1175,7 +1175,6 @@ const facilitators = {
   712:["Jason Collier"],
   713:["Niki"],
   714:["Shannon H"],
-  715:["Waldemar"],
   716:["Michelle","Georgia"],
   717:["Jean"],
   719:["Stew Talbot"],
@@ -1183,4 +1182,4 @@ const facilitators = {
   721:["Ron Stricklin"],
   722:["Josh CruverKibi"]
 };
-const cachedAt = "2024-11-12T17:03:04Z";
+const cachedAt = "2024-11-12T18:03:11Z";
