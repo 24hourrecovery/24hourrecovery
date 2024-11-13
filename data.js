@@ -280,7 +280,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139,357,358],id:6053,language:"English",location:"Squamish, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"02:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[123,359],id:6061,language:"English",location:"Santa Rosa, California",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[360],id:6074,language:"English",location:"Bethlehem, Pennsylvania",program:"Family & Friends",schedule:{day:4,time:"17:00Z"},type:"Both"},
-  {audience:["Military, Veterans & First Responders","Patients & Clients"],dataSource:"na",duration:60,facilitator:[156,361,362,703],id:6095,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[156,361,362,703],id:6095,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[363],id:6097,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[364],id:6136,language:"English",location:"North Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139,358],id:6168,language:"English",location:"Pemberton, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"17:00Z"},type:"Online"},
@@ -520,6 +520,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[712],id:8124,language:"English",location:"Topeka, Kansas",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[712],id:8125,language:"English",location:"Topeka, Kansas",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[721],id:8137,language:"English",location:"Savannah, Tennessee",program:"Successful Life Skills",schedule:{day:6,time:"01:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[725],id:8144,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Online"},
@@ -1044,7 +1045,7 @@ const facilitators = {
   534:["Lois Greene-Hernandez"],
   535:["Michael C."],
   536:["Barry Deighan"],
-  537:["Lezlie G"],
+  537:["Lezlie G","Ontario"],
   538:["Holly Hanks Wanta"],
   539:["Lissa F."],
   540:["Amit H"],
@@ -1130,7 +1131,6 @@ const facilitators = {
   656:["Marty"],
   657:["Ankur"],
   658:["Steven Rossetti"],
-  659:["Derrick Spangler"],
   660:["Maddalena"],
   661:["Gabe"],
   662:["Lori Davis"],
@@ -1181,6 +1181,7 @@ const facilitators = {
   721:["Ron Stricklin"],
   722:["Josh CruverKibi"],
   723:["Alanna Baker"],
-  724:["Joe Wusnack"]
+  724:["Joe Wusnack"],
+  725:["Lezlie G","Ontario"]
 };
-const cachedAt = "2024-11-13T21:03:05Z";
+const cachedAt = "2024-11-13T22:03:04Z";
