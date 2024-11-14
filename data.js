@@ -12,7 +12,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[7],id:1031,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[14],id:1034,language:"English",location:"Redfern, New South Wales",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1035,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[17],id:1037,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2024-11-15T00:00:00Z",dataSource:"au",duration:90,facilitator:[17],id:1037,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[18,19],id:1038,language:"English",location:"Port Pirie, South Australia",program:"Standard",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[20],id:1039,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[603],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
@@ -45,7 +45,6 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:30Z"},type:"Online"},
   {audience:["Drug focus"],dataSource:"au",duration:90,facilitator:[27],id:1332,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Both"},
-  {audience:["Female only"],dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"01:30Z",week:[2,4]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[50,51],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[53,54,55],id:1016,language:"English",location:"Silver Spring, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -403,7 +402,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[488],id:7312,language:"English",location:"Boone, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[490,491],id:7320,language:"English",location:"Wallingford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[492],id:7328,language:"English",location:"Holyoke, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[637],id:7329,language:"English",location:"Overland Park, Kansas",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z",week:[2]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[493,494],id:733,language:"English",location:"Mason, Ohio",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[495],id:7331,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[497,652],id:7343,language:"English",location:"Youngstown, Ohio",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
@@ -1184,4 +1182,4 @@ const facilitators = {
   724:["Joe Wusnack"],
   725:["Lezlie G","Ontario"]
 };
-const cachedAt = "2024-11-14T02:03:04Z";
+const cachedAt = "2024-11-14T04:03:03Z";
