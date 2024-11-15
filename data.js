@@ -514,6 +514,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[685],id:8086,language:"English",location:"Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[723],id:8088,language:"English",location:"Charlottesville, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[700],id:8089,language:"English",location:"Rocklin, California",program:"4-Point Recovery",schedule:{day:3,time:"05:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[687],id:8091,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[705],id:8093,language:"English",location:"Charlotte, North Carolina",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Both"},
   {audience:["LGBTQIA+","Women"],dataSource:"na",duration:60,facilitator:[172],id:8105,language:"English",location:"Virginia Beach, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[706],id:8106,language:"English",location:"Rockford, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
@@ -586,7 +587,6 @@ const facilitators = {
   10:["Kristalleni"],
   11:["Meridian"],
   12:["Nigel"],
-  13:["Smart Recovery Footscray"],
   14:["Odyssey House CES"],
   15:["Smart Perth - Palmerston"],
   16:["Stuart"],
@@ -1154,6 +1154,7 @@ const facilitators = {
   682:["Mitch"],
   683:["Sonia"],
   685:["Natalya Orlando"],
+  687:["Rawan"],
   689:["Denis"],
   690:["Taylor Coats"],
   694:["Amy M"],
@@ -1188,4 +1189,4 @@ const facilitators = {
   727:["Joseph"],
   728:["Pamela"]
 };
-const cachedAt = "2024-11-15T02:03:03Z";
+const cachedAt = "2024-11-15T03:03:04Z";
