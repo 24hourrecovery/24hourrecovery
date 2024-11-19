@@ -313,7 +313,7 @@ const meetings = [
   {audience:["Family & Friends Only","Women"],dataSource:"na",duration:60,facilitator:[275],id:6432,language:"English",location:"Edmonton, Alberta",program:"Family & Friends",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],canceled:"2024-11-19T18:00:00Z",dataSource:"na",duration:60,facilitator:[343],id:6445,language:"English",location:"Staunton, Virginia",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[50,51],id:6446,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[391],id:6453,language:"English",location:"Clyde, North Carolina",program:"Family & Friends",schedule:{day:2,time:"23:30Z",week:[3]},type:"Both"},
+  {audience:["Family & Friends Only"],canceled:"2024-11-19T23:30:00Z",dataSource:"na",duration:90,facilitator:[391],id:6453,language:"English",location:"Clyde, North Carolina",program:"Family & Friends",schedule:{day:2,time:"23:30Z",week:[3]},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[392,393],id:6454,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[394],id:6475,language:"English",location:"Knox, Indiana",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[395],id:6504,language:"English",location:"San Ramon, California",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
@@ -1193,4 +1193,4 @@ const facilitators = {
   728:["Pamela"],
   729:["Matt M."]
 };
-const cachedAt = "2024-11-19T15:03:04Z";
+const cachedAt = "2024-11-19T16:03:04Z";
