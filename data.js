@@ -1014,8 +1014,6 @@ const facilitators = {
   497:["T"],
   498:["Stephanie"],
   501:["Dennis Springer"],
-  502:["Jas"],
-  503:["Markita Renee"],
   504:["Caleb Farmer"],
   505:["Michele Blair"],
   506:["Sabrina (Brie) M."],
@@ -1194,4 +1192,4 @@ const facilitators = {
   729:["Matt M."],
   730:["Michael C."]
 };
-const cachedAt = "2024-11-20T23:03:05Z";
+const cachedAt = "2024-11-21T00:03:04Z";
