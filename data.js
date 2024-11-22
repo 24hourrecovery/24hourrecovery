@@ -524,7 +524,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[721],id:8137,language:"English",location:"Savannah, Tennessee",program:"Successful Life Skills",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[725],id:8144,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[726],id:8152,language:"English",location:"Lake of the Pines, California",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-11-28T23:30:00Z",dataSource:"na",duration:60,facilitator:[729],id:8157,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2024-11-28T23:30:00Z",dataSource:"na",duration:60,facilitator:[729],id:8157,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Online"},
@@ -561,7 +561,7 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[592],id:1398,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[717],id:1399,language:"English",location:"National",program:"SMART Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[616],id:1400,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-11-22T08:00:00Z",dataSource:"uk",duration:90,facilitator:[596],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2024-11-29T08:00:00Z",dataSource:"uk",duration:90,facilitator:[596],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[469],id:1402,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[590,597],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Women Only"],canceled:"2024-11-28T15:00:00Z",dataSource:"uk",duration:90,facilitator:[593],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
@@ -1191,4 +1191,4 @@ const facilitators = {
   730:["Michael C."],
   731:["Kendelle Nelson"]
 };
-const cachedAt = "2024-11-22T08:03:04Z";
+const cachedAt = "2024-11-22T09:03:03Z";
