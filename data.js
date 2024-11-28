@@ -506,6 +506,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[663],id:8054,language:"English",location:"Conway, Arkansas",program:"Family & Friends",schedule:{day:1,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[663],id:8055,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[663],id:8056,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:1,time:"17:30Z"},type:"Both"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[498],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[668],id:8062,language:"English",location:"Greater Sudbury, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[694,709],id:8070,language:"English",location:"Oakland, California",program:"Family & Friends",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[670],id:8075,language:"English",location:"Austin, Texas",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
@@ -1195,4 +1196,4 @@ const facilitators = {
   737:["Joel R."],
   738:["Matthew VanCamp"]
 };
-const cachedAt = "2024-11-28T02:03:04Z";
+const cachedAt = "2024-11-28T03:03:04Z";
