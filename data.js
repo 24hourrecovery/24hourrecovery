@@ -568,7 +568,7 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[592],id:1398,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[717],id:1399,language:"English",location:"National",program:"SMART Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[616],id:1400,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-11-29T08:00:00Z",dataSource:"uk",duration:90,facilitator:[596],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[596],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[469],id:1402,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[590,597],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[598],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
@@ -1200,4 +1200,4 @@ const facilitators = {
   739:["Hayden"],
   740:["Gordon"]
 };
-const cachedAt = "2024-11-29T08:03:04Z";
+const cachedAt = "2024-11-29T09:03:04Z";
