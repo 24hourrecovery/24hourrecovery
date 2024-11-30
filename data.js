@@ -144,7 +144,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[195,196],id:3983,language:"English",location:"Cumming, Georgia",program:"Family & Friends",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[197,198,199,200],id:4026,language:"English",location:"Palm Desert, California",program:"4-Point Recovery",schedule:{day:2,time:"02:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[201],id:4044,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-11-30T14:00:00Z",dataSource:"na",duration:90,facilitator:[202],id:4063,language:"English",location:"West Milford, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[202],id:4063,language:"English",location:"West Milford, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[111,203],id:4096,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[204],id:4109,language:"English",location:"Burlington, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"00:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[151],id:4121,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Both"},
@@ -1202,4 +1202,4 @@ const facilitators = {
   739:["Hayden"],
   740:["Gordon"]
 };
-const cachedAt = "2024-11-30T14:03:04Z";
+const cachedAt = "2024-11-30T15:03:04Z";
