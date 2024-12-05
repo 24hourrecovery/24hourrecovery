@@ -331,7 +331,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[405],id:6636,language:"English",location:"Halifax, Nova Scotia",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[406],id:6649,language:"English",location:"Schaumburg, Illinois",program:"Family & Friends",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[407],id:6650,language:"English",location:"Millinocket, Maine",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],canceled:"2024-12-05T17:00:00Z",dataSource:"na",duration:60,facilitator:[409],id:6674,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[409],id:6674,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[646],id:6688,language:"English",location:"Miami, Florida",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[412],id:6700,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[413],id:6705,language:"English",location:"Raven, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Both"},
@@ -1198,4 +1198,4 @@ const facilitators = {
   747:["Stasia DeMarco"],
   748:["Tim van den Berg"]
 };
-const cachedAt = "2024-12-05T17:03:04Z";
+const cachedAt = "2024-12-05T18:03:04Z";
