@@ -43,6 +43,7 @@ const meetings = [
   {audience:["Chronic Pain only"],dataSource:"au",duration:60,facilitator:[47,689],id:1300,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:00Z",week:[2,4]},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:30Z"},type:"Online"},
   {audience:["Drug focus"],dataSource:"au",duration:60,facilitator:[27],id:1332,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:00Z"},type:"Both"},
+  {audience:["Female only"],dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"01:30Z",week:[2,4]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[50,51],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[53,54,55],id:1016,language:"English",location:"Silver Spring, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -455,7 +456,6 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[725],id:7820,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[538],id:7833,language:"English",location:"New Market, Virginia",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[539],id:7837,language:"English",location:"Selinsgrove, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[507],id:7841,language:"English",location:"Barrie, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:15Z",week:[1]},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[540],id:7852,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541],id:7853,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[728],id:7859,language:"English",location:"Reading, Pennsylvania",program:"Family & Friends",schedule:{day:5,time:"00:00Z",week:[1,3]},type:"Online"},
@@ -1149,6 +1149,7 @@ const facilitators = {
   683:["Sonia"],
   685:["Natalya Orlando"],
   687:["Rawan"],
+  688:["Jade"],
   689:["Denis"],
   690:["Taylor Coats"],
   694:["Amy M"],
@@ -1198,4 +1199,4 @@ const facilitators = {
   747:["Stasia DeMarco"],
   748:["Tim van den Berg"]
 };
-const cachedAt = "2024-12-05T01:03:04Z";
+const cachedAt = "2024-12-05T02:03:04Z";
