@@ -321,7 +321,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,387],id:6582,language:"English",location:"Troy, Michigan",program:"Successful Life Skills",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[400],id:6585,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],id:6587,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],id:6588,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],id:6589,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:5,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[402],id:6594,language:"English",location:"Flemington, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[403],id:6620,language:"English",location:"West Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"01:45Z"},type:"Both"},
@@ -419,6 +418,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278,505],id:747,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[236,506],id:7495,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[507],id:7500,language:"English",location:"Barrie, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[640],id:7506,language:"English",location:"Creve Coeur, Missouri",program:"Family & Friends",schedule:{day:5,time:"14:00Z",week:[2]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[508],id:7514,language:"English",location:"Marion, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[509],id:7523,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[507],id:7524,language:"English",location:"Barrie, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"14:00Z"},type:"Online"},
@@ -1104,6 +1104,7 @@ const facilitators = {
   635:["Ken"],
   637:["Henry K"],
   638:["Judy"],
+  640:["Lauren","Missouri"],
   642:["Kimberly Tobar"],
   643:["Mike S"],
   646:["Mich F"],
@@ -1188,4 +1189,4 @@ const facilitators = {
   747:["Stasia DeMarco"],
   748:["Tim van den Berg"]
 };
-const cachedAt = "2024-12-06T13:03:04Z";
+const cachedAt = "2024-12-06T14:03:04Z";
