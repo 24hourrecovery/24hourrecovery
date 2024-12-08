@@ -807,8 +807,6 @@ const facilitators = {
   264:["Marvette Flasher"],
   265:["Shannon Matthews"],
   266:["Linda Morrell"],
-  267:["Bryan Vasquez"],
-  268:["Paige Ball"],
   269:["Sharleen L"],
   270:["Jim E."],
   271:["Maribeth Batsford"],
@@ -1187,4 +1185,4 @@ const facilitators = {
   747:["Stasia DeMarco"],
   748:["Tim van den Berg"]
 };
-const cachedAt = "2024-12-08T01:03:04Z";
+const cachedAt = "2024-12-08T02:03:05Z";
