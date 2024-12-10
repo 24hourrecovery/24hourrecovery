@@ -307,7 +307,7 @@ const meetings = [
   {audience:["Men"],dataSource:"na",duration:60,facilitator:[322],id:6423,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[390],id:6429,language:"English",location:"Warren, Rhode Island",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[275],id:6432,language:"English",location:"Edmonton, Alberta",program:"Family & Friends",schedule:{day:5,time:"01:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],canceled:"2024-12-10T18:00:00Z",dataSource:"na",duration:60,facilitator:[343],id:6445,language:"English",location:"Staunton, Virginia",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Both"},
+  {audience:["Family & Friends Only"],canceled:"2024-12-17T18:00:00Z",dataSource:"na",duration:60,facilitator:[343],id:6445,language:"English",location:"Staunton, Virginia",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[50,51],id:6446,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[392,393],id:6454,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[394],id:6475,language:"English",location:"Knox, Indiana",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
@@ -1085,7 +1085,6 @@ const facilitators = {
   605:["Eboni Jewel Sears"],
   606:["Andrew","Ontario"],
   607:["Diana"],
-  610:["Melissa","Indiana"],
   613:["Gordon M"],
   614:["Nate"],
   616:["Andy"],
@@ -1187,4 +1186,4 @@ const facilitators = {
   749:["Shelbie"],
   750:["David S."]
 };
-const cachedAt = "2024-12-10T18:03:06Z";
+const cachedAt = "2024-12-10T19:03:04Z";
