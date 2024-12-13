@@ -387,7 +387,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[357,741],id:7269,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[455,481,482,741],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[483],id:7274,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-12-13T17:00:00Z",dataSource:"na",duration:60,facilitator:[484,485],id:7275,language:"English",location:"Swansea, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[484,485],id:7275,language:"English",location:"Swansea, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[486],id:7301,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[469,487],id:7302,language:"English",location:"National",program:"Family & Friends",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[488],id:7312,language:"English",location:"Boone, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Both"},
@@ -1186,4 +1186,4 @@ const facilitators = {
   752:["Shiv Sharma"],
   753:["Dr. Bhagat Ram"]
 };
-const cachedAt = "2024-12-13T17:03:03Z";
+const cachedAt = "2024-12-13T18:03:05Z";
