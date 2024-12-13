@@ -515,7 +515,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[721],id:8137,language:"English",location:"Savannah, Tennessee",program:"Successful Life Skills",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[725],id:8144,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[746,748],id:8152,language:"English",location:"Lake of the Pines, California",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[729],id:8157,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Both"},
+  {audience:["Adults Welcome"],canceled:"2024-12-19T23:30:00Z",dataSource:"na",duration:60,facilitator:[729],id:8157,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[739],id:8161,language:"English",location:"Blue Point, New York",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[740],id:8170,language:"English",location:"Monticello, Utah",program:"Family & Friends",schedule:{day:5,time:"01:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[751],id:8187,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:2,time:"15:00Z"},type:"Online"},
@@ -1097,7 +1097,6 @@ const facilitators = {
   629:["Abigail"],
   632:["Desmond"],
   635:["Ken"],
-  637:["Henry K"],
   638:["Judy"],
   640:["Lauren","Missouri"],
   641:["Amy Boyce Rich"],
@@ -1187,4 +1186,4 @@ const facilitators = {
   750:["David S."],
   751:["Brettney T."]
 };
-const cachedAt = "2024-12-13T00:03:03Z";
+const cachedAt = "2024-12-13T01:03:05Z";
