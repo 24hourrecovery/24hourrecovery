@@ -1098,7 +1098,6 @@ const facilitators = {
   632:["Desmond"],
   635:["Ken"],
   638:["Judy"],
-  640:["Lauren","Missouri"],
   641:["Amy Boyce Rich"],
   642:["Kimberly Tobar"],
   643:["Mike S"],
@@ -1187,4 +1186,4 @@ const facilitators = {
   752:["Shiv Sharma"],
   753:["Dr. Bhagat Ram"]
 };
-const cachedAt = "2024-12-14T13:03:04Z";
+const cachedAt = "2024-12-14T15:03:04Z";
