@@ -15,7 +15,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[17],id:1037,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[18,19],id:1038,language:"English",location:"Port Pirie, South Australia",program:"Standard",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[20],id:1039,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2024-12-14T07:00:00Z",dataSource:"au",duration:90,facilitator:[732],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2024-12-21T07:00:00Z",dataSource:"au",duration:90,facilitator:[732],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[671],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z",week:[1,3]},type:"Online"},
@@ -1188,4 +1188,4 @@ const facilitators = {
   752:["Shiv Sharma"],
   753:["Dr. Bhagat Ram"]
 };
-const cachedAt = "2024-12-14T07:03:04Z";
+const cachedAt = "2024-12-14T08:03:04Z";
