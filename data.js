@@ -61,6 +61,7 @@ const meetings = [
   {audience:["Adults Welcome"],canceled:"2024-12-24T17:00:00Z",dataSource:"na",duration:90,facilitator:[77,78,79,80,81,82],id:1256,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[87],id:1283,language:"English",location:"Miami Beach, Florida",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[88],id:1330,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[758],id:1402,language:"English",location:"Greenville, South Carolina",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[87],id:1413,language:"English",location:"Belmont, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[89],id:142,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[90],id:144,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"17:00Z"},type:"Online"},
@@ -1181,6 +1182,7 @@ const facilitators = {
   753:["Dr. Bhagat Ram"],
   754:["Brent F"],
   755:["Mark","New York"],
-  756:["Frederick"]
+  756:["Frederick"],
+  758:["Jaime Fivecoat"]
 };
-const cachedAt = "2024-12-17T21:03:04Z";
+const cachedAt = "2024-12-17T22:03:05Z";
