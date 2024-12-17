@@ -394,7 +394,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[486],id:7301,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[469,487],id:7302,language:"English",location:"National",program:"Family & Friends",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[488],id:7312,language:"English",location:"Boone, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[490,491],id:7320,language:"English",location:"Wallingford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[492],id:7328,language:"English",location:"Holyoke, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[493,494],id:733,language:"English",location:"Mason, Ohio",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[497,652],id:7343,language:"English",location:"Youngstown, Ohio",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
@@ -989,8 +988,6 @@ const facilitators = {
   486:["JACS Toronto"],
   487:["Kathy","National"],
   488:["Ken Connelly"],
-  490:["Christina Caputo"],
-  491:["Caitlin Boots"],
   492:["Dave A"],
   493:["Bill Stearns"],
   494:["Mark Bowers"],
@@ -1188,4 +1185,4 @@ const facilitators = {
   755:["Mark","New York"],
   756:["Frederick"]
 };
-const cachedAt = "2024-12-17T00:03:04Z";
+const cachedAt = "2024-12-17T04:03:04Z";
