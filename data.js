@@ -458,7 +458,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[545],id:7872,language:"English",location:"Lytton, British Columbia",program:"Family & Friends",schedule:{day:1,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[546],id:7874,language:"English",location:"Covington, Kentucky",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[547],id:7881,language:"English",location:"Peterborough, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"00:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[548],id:7890,language:"English",location:"Cañon City, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2024-12-18T20:00:00Z",dataSource:"na",duration:60,facilitator:[548],id:7890,language:"English",location:"Cañon City, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[345],id:7894,language:"English",location:"Ionia, Michigan",program:"Family & Friends",schedule:{day:1,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[550],id:7895,language:"English",location:"North Bend, Oregon",program:"4-Point Recovery",schedule:{day:3,time:"03:00Z"},type:"Both"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[551],id:7899,language:"English",location:"Springfield, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
@@ -534,7 +534,7 @@ const meetings = [
   {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:60,facilitator:[573],id:1261,language:"English",location:"Manchester, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],canceled:"2024-12-25T11:00:00Z",dataSource:"uk",duration:90,facilitator:[574],id:1343,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:3,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],canceled:"2024-12-19T17:45:00Z",dataSource:"uk",duration:90,facilitator:[574],id:1344,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:4,time:"17:45Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-12-18T13:00:00Z",dataSource:"uk",duration:90,facilitator:[575],id:1346,language:"English",location:"Glasgow, Scotland",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2024-12-25T13:00:00Z",dataSource:"uk",duration:90,facilitator:[575],id:1346,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[576],id:1347,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[576],id:1348,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[576],id:1349,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"10:00Z"},type:"Online"},
@@ -1187,4 +1187,4 @@ const facilitators = {
   758:["Jaime Fivecoat"],
   759:["Jacob Johnson"]
 };
-const cachedAt = "2024-12-18T13:03:05Z";
+const cachedAt = "2024-12-18T14:03:04Z";
