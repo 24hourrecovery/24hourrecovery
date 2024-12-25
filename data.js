@@ -590,7 +590,6 @@ const facilitators = {
   18:["Steve","South Australia"],
   19:["Abbie"],
   20:["Elizabeth"],
-  23:["Mark","National"],
   24:["Dave","New South Wales"],
   25:["Dan","Victoria"],
   26:["Ivan"],
@@ -1193,4 +1192,4 @@ const facilitators = {
   767:["Jo-Anne"],
   768:["Kate"]
 };
-const cachedAt = "2024-12-25T06:03:04Z";
+const cachedAt = "2024-12-25T07:03:03Z";
