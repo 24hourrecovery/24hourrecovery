@@ -38,7 +38,6 @@ const meetings = [
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[45],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:30Z"},type:"Online"},
-  {audience:["Drug focus"],dataSource:"au",duration:60,facilitator:[27],id:1332,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:00Z"},type:"Both"},
   {audience:["Female only"],canceled:"2024-12-26T01:30:00Z",dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"01:30Z",week:[2,4]},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[689,764,765,766],id:1353,language:"English",location:"National",program:"New Years SMART meetings",schedule:{day:2,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[689,764,767,768],id:1354,language:"English",location:"National",program:"New Years SMART meetings",schedule:{day:2,time:"10:30Z"},type:"Online"},
@@ -1194,4 +1193,4 @@ const facilitators = {
   767:["Jo-Anne"],
   768:["Kate"]
 };
-const cachedAt = "2024-12-25T02:03:04Z";
+const cachedAt = "2024-12-25T03:03:03Z";
