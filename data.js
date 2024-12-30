@@ -25,6 +25,7 @@ const meetings = [
   {audience:["All Welcome"],canceled:"2024-12-31T07:30:00Z",dataSource:"au",duration:90,facilitator:[31],id:1129,language:"English",location:"Burnie, Tasmania",program:"Standard",schedule:{day:2,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2025-01-01T03:30:00Z",dataSource:"au",duration:90,facilitator:[32],id:1182,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"04:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2025-01-06T05:00:00Z",dataSource:"au",duration:90,facilitator:[619],id:1208,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"05:00Z",week:[1]},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[27],id:1227,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[35],id:1240,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"22:30Z"},type:"Online"},
@@ -1092,6 +1093,7 @@ const facilitators = {
   613:["Gordon M"],
   614:["Nate"],
   618:["Mike Christner"],
+  619:["James","National"],
   620:["Thane"],
   622:["Dee"],
   623:["Sharm"],
@@ -1206,4 +1208,4 @@ const facilitators = {
   768:["Kate"],
   769:["Nathan","Minnesota"]
 };
-const cachedAt = "2024-12-30T04:03:04Z";
+const cachedAt = "2024-12-30T05:03:04Z";
