@@ -463,7 +463,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[545],id:7872,language:"English",location:"Lytton, British Columbia",program:"Family & Friends",schedule:{day:1,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[546],id:7874,language:"English",location:"Covington, Kentucky",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[547],id:7881,language:"English",location:"Peterborough, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"00:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[548],id:7890,language:"English",location:"Cañon City, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-01-01T20:00:00Z",dataSource:"na",duration:60,facilitator:[548],id:7890,language:"English",location:"Cañon City, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[345],id:7894,language:"English",location:"Ionia, Michigan",program:"Family & Friends",schedule:{day:1,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[550],id:7895,language:"English",location:"North Bend, Oregon",program:"4-Point Recovery",schedule:{day:3,time:"03:00Z"},type:"Both"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[551],id:7899,language:"English",location:"Springfield, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
@@ -1208,4 +1208,4 @@ const facilitators = {
   768:["Kate"],
   769:["Nathan","Minnesota"]
 };
-const cachedAt = "2024-12-30T15:03:04Z";
+const cachedAt = "2024-12-30T16:03:04Z";
