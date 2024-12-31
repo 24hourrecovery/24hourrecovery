@@ -18,6 +18,7 @@ const meetings = [
   {audience:["All Welcome"],canceled:"2025-01-04T07:00:00Z",dataSource:"au",duration:90,facilitator:[732],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[671],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z",week:[1,4]},type:"Online"},
   {audience:["All Welcome"],canceled:"2025-01-06T02:00:00Z",dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[25],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Both"},
   {audience:["Drug and Alcohol Focus","Youth only"],canceled:"2025-01-01T08:00:00Z",dataSource:"au",duration:90,facilitator:[26],id:1107,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"08:00Z"},type:"Online"},
@@ -30,7 +31,7 @@ const meetings = [
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[27],id:1227,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[35],id:1240,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2025-01-02T05:30:00Z",dataSource:"au",duration:90,facilitator:[36],id:1242,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:30Z"},type:"Online"},
-  {audience:["NSW based clients only"],canceled:"2024-12-31T06:00:00Z",dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"06:00Z"},type:"Online"},
+  {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[11],id:1244,language:"English",location:"Canberra, Australian Capital Territory",program:"Family & Friends",schedule:{day:4,time:"07:00Z",week:[1,3]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[37],id:1247,language:"English",location:"Ashfield, New South Wales",program:"Standard",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Youth only"],canceled:"2025-01-03T03:30:00Z",dataSource:"au",duration:90,facilitator:[682,683],id:1284,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"03:30Z"},type:"Both"},
@@ -607,6 +608,7 @@ const facilitators = {
   18:["Steve","South Australia"],
   19:["Abbie"],
   20:["Elizabeth"],
+  23:["Mark","National"],
   24:["Dave","New South Wales"],
   25:["Dan","Victoria"],
   26:["Ivan"],
@@ -1217,4 +1219,4 @@ const facilitators = {
   769:["Nathan","Minnesota"],
   770:["Jacob W"]
 };
-const cachedAt = "2024-12-31T06:03:04Z";
+const cachedAt = "2024-12-31T07:03:04Z";
