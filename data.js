@@ -376,7 +376,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[462],id:7088,language:"English",location:"Minneapolis, Minnesota",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[624],id:7112,language:"English",location:"Ohio",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z",week:[1]},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[465],id:7152,language:"English",location:"Grayson, Kentucky",program:"Family & Friends",schedule:{day:3,time:"23:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2024-12-31T12:30:00Z",dataSource:"na",duration:60,facilitator:[409],id:7168,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[409],id:7168,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[466],id:7170,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:1,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[642],id:7186,language:"Spanish",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[291],id:7187,language:"English",location:"Mississauga, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
@@ -1219,4 +1219,4 @@ const facilitators = {
   769:["Nathan","Minnesota"],
   770:["Jacob W"]
 };
-const cachedAt = "2024-12-31T13:03:05Z";
+const cachedAt = "2024-12-31T14:03:04Z";
