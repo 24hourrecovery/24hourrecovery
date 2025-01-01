@@ -1099,8 +1099,6 @@ const facilitators = {
   605:["Eboni Jewel Sears"],
   606:["Andrew","Ontario"],
   607:["Diana"],
-  608:["Kaelyn Dowd"],
-  609:["Bethani Rahrle White"],
   613:["Gordon M"],
   614:["Nate"],
   618:["Mike Christner"],
@@ -1220,4 +1218,4 @@ const facilitators = {
   770:["Jacob W"],
   771:["Cass"]
 };
-const cachedAt = "2025-01-01T16:03:04Z";
+const cachedAt = "2025-01-01T17:03:04Z";
