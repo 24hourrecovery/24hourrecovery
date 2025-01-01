@@ -438,7 +438,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[528],id:7746,language:"English",location:"Gulfport, Mississippi",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[761],id:7768,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[530],id:7777,language:"English",location:"Town of Rockingham, Vermont",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[511],id:7778,language:"English",location:"Esko, Minnesota",program:"Family & Friends",schedule:{day:2,time:"01:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[531],id:7780,language:"English",location:"North Saanich, British Columbia",program:"4-Point Recovery",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[532],id:7787,language:"English",location:"Montecito, California",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[507],id:7791,language:"English",location:"Barrie, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
@@ -1218,4 +1217,4 @@ const facilitators = {
   770:["Jacob W"],
   771:["Cass"]
 };
-const cachedAt = "2025-01-01T17:03:04Z";
+const cachedAt = "2025-01-01T18:03:05Z";
