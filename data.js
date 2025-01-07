@@ -1147,7 +1147,6 @@ const facilitators = {
   711:["Gini"],
   712:["Jason Collier"],
   713:["Niki"],
-  715:["Waldemar"],
   717:["Jean"],
   719:["Stew Talbot"],
   720:["Rachel Boyle"],
@@ -1198,4 +1197,4 @@ const facilitators = {
   779:["Austin Farrell"],
   780:["James","National"]
 };
-const cachedAt = "2025-01-07T17:03:04Z";
+const cachedAt = "2025-01-07T18:03:07Z";
