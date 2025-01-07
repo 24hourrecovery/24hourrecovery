@@ -521,6 +521,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[432,772],id:8213,language:"English",location:"Richmond, Virginia",program:"Family & Friends",schedule:{day:2,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[778],id:8220,language:"English",location:"Temple, Texas",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8226,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"04:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8227,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"04:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8228,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"04:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8229,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"04:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
@@ -1085,7 +1086,6 @@ const facilitators = {
   613:["Gordon M"],
   614:["Nate"],
   618:["Mike Christner"],
-  619:["James","National"],
   620:["Thane"],
   621:["Debbie"],
   622:["Dee"],
@@ -1201,4 +1201,4 @@ const facilitators = {
   779:["Austin Farrell"],
   780:["James","National"]
 };
-const cachedAt = "2025-01-07T04:03:04Z";
+const cachedAt = "2025-01-07T05:03:04Z";
