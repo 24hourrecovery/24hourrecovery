@@ -29,7 +29,7 @@ const meetings = [
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[27],id:1227,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[35],id:1240,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"22:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2025-01-09T05:30:00Z",dataSource:"au",duration:90,facilitator:[36],id:1242,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[36],id:1242,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:30Z"},type:"Online"},
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[37],id:1247,language:"English",location:"Ashfield, New South Wales",program:"Standard",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Youth only"],canceled:"2025-01-10T03:30:00Z",dataSource:"au",duration:90,facilitator:[682,683],id:1284,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"03:30Z"},type:"Both"},
@@ -351,7 +351,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,423,426,434,623,661],id:6891,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:6,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[217,440],id:6892,language:"English",location:"Sussex, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[69],id:6893,language:"English",location:"Lancaster, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
-  {audience:["Women"],dataSource:"na",duration:90,facilitator:[441,442],id:6895,language:"English",location:"Doraville, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
+  {audience:["Women"],dataSource:"na",duration:90,facilitator:[441,442,497],id:6895,language:"English",location:"Doraville, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[443],id:6896,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"22:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[318],id:6909,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[444],id:6917,language:"English",location:"Menomonie, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z"},type:"Online"},
@@ -459,7 +459,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[362],id:7903,language:"English",location:"Chester, Virginia",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[736],id:7908,language:"English",location:"Meriden, Connecticut",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[553],id:7911,language:"English",location:"Winnipeg, Manitoba",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
-  {audience:["Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[554],id:7915,language:"English",location:"Middletown, Rhode Island",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[555],id:7919,language:"English",location:"York, Pennsylvania",program:"Successful Life Skills",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[556],id:7920,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[557],id:7924,language:"English",location:"Bridgeport, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
@@ -1039,7 +1038,6 @@ const facilitators = {
   550:["Greg D"],
   551:["Micah D."],
   553:["Robert Z"],
-  554:["Theresa"],
   555:["Theresa G"],
   556:["Barry"],
   557:["Jennifer","Connecticut"],
@@ -1200,4 +1198,4 @@ const facilitators = {
   780:["James","National"],
   782:["Blake"]
 };
-const cachedAt = "2025-01-07T21:03:04Z";
+const cachedAt = "2025-01-07T22:03:05Z";
