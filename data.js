@@ -40,7 +40,6 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["Chronic Pain only"],dataSource:"au",duration:60,facilitator:[47,689],id:1300,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:00Z",week:[2,4]},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:30Z"},type:"Online"},
-  {audience:["Female only"],canceled:"2025-01-09T01:30:00Z",dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"01:30Z",week:[2,4]},type:"Both"},
   {audience:["Health care and community services professionals"],dataSource:"au",duration:90,facilitator:[773],id:1358,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:30Z",week:[1,2,3,4,-1]},type:"Online"},
   {audience:["Alcohol Focus","Men only"],dataSource:"au",duration:90,facilitator:[780],id:1359,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[51],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -1193,4 +1192,4 @@ const facilitators = {
   782:["Blake"],
   783:["Priscilla"]
 };
-const cachedAt = "2025-01-09T03:03:04Z";
+const cachedAt = "2025-01-09T04:03:04Z";
