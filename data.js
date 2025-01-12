@@ -1092,7 +1092,6 @@ const facilitators = {
   632:["Desmond"],
   635:["Ken"],
   638:["Judy"],
-  641:["Amy Boyce Rich"],
   642:["Kimberly Tobar"],
   643:["Mike S"],
   646:["Mich F"],
@@ -1203,4 +1202,4 @@ const facilitators = {
   786:["Wanda L."],
   787:["Terry Bochansky"]
 };
-const cachedAt = "2025-01-12T10:03:07Z";
+const cachedAt = "2025-01-12T11:03:05Z";
