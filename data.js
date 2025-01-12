@@ -351,7 +351,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[217,440],id:6892,language:"English",location:"Sussex, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[69],id:6893,language:"English",location:"Lancaster, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[441,442,497],id:6895,language:"English",location:"Doraville, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-01-11T22:30:00Z",dataSource:"na",duration:90,facilitator:[443],id:6896,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"22:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[443],id:6896,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"22:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[318],id:6909,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[444],id:6917,language:"English",location:"Menomonie, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[373],id:6933,language:"Spanish",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
@@ -414,7 +414,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[777],id:7524,language:"English",location:"Barrie, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[511],id:7531,language:"English",location:"Esko, Minnesota",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[512],id:7533,language:"English",location:"Wilmington, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-01-11T23:00:00Z",dataSource:"na",duration:60,facilitator:[239,513],id:7542,language:"English",location:"New Brunswick, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[239,513],id:7542,language:"English",location:"New Brunswick, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[514,516],id:755,language:"English",location:"Arvada, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[659],id:7550,language:"English",location:"Floyd, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[373],id:7572,language:"Spanish",location:"New York, New York",program:"4-Point Recovery",schedule:{day:5,time:"18:30Z"},type:"Online"},
@@ -1204,4 +1204,4 @@ const facilitators = {
   786:["Wanda L."],
   787:["Terry Bochansky"]
 };
-const cachedAt = "2025-01-11T23:03:04Z";
+const cachedAt = "2025-01-12T00:03:05Z";
