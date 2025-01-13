@@ -555,13 +555,13 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[577],id:1351,language:"English",location:"Bath, England",program:"SMART Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[578],id:1352,language:"English",location:"Exeter, England",program:"SMART Recovery",schedule:{day:1,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[579],id:1353,language:"English",location:"England",program:"SMART Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,581],id:1355,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:2,time:"10:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,581,788],id:1355,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:2,time:"10:30Z"},type:"Online"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1356,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:1,time:"17:45Z"},type:"Online"},
   {audience:["Women Only"],dataSource:"uk",duration:90,facilitator:null,id:1357,language:"English",location:"Woking, England",program:"SMART Recovery",schedule:{day:3,time:"11:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[582],id:1362,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[584,585],id:1369,language:"English",location:"Gloucester, England",program:"SMART Recovery",schedule:{day:2,time:"11:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,587,588],id:1373,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:3,time:"19:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,581],id:1374,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:5,time:"13:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,587,588,788],id:1373,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:3,time:"19:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,581,788],id:1374,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:5,time:"13:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[589],id:1378,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[590],id:1381,language:"English",location:"Inverness, Scotland",program:"SMART Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[591],id:1388,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:1,time:"17:45Z"},type:"Online"},
@@ -1202,6 +1202,7 @@ const facilitators = {
   784:["Michler Bishop"],
   785:["Christ"],
   786:["Wanda L."],
-  787:["Terry Bochansky"]
+  787:["Terry Bochansky"],
+  788:["Indy Noble (Admin Contact)"]
 };
-const cachedAt = "2025-01-13T13:03:05Z";
+const cachedAt = "2025-01-13T14:03:05Z";
