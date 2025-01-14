@@ -512,7 +512,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[762],id:8198,language:"English",location:"Ladera Ranch, California",program:"4-Point Recovery",schedule:{day:1,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8199,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[769],id:8200,language:"English",location:"Maple Grove, Minnesota",program:"Family & Friends",schedule:{day:6,time:"00:00Z",week:[1,3]},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[785],id:8205,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8206,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2025-01-15T14:00:00Z",dataSource:"na",duration:90,facilitator:[770],id:8207,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8208,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Online"},
@@ -1194,11 +1193,10 @@ const facilitators = {
   782:["Blake"],
   783:["Priscilla"],
   784:["Michler Bishop"],
-  785:["Christ"],
   786:["Wanda L."],
   787:["Terry Bochansky"],
   788:["Indy Noble (Admin Contact)"],
   789:["DeLora"],
   790:["Amanda T"]
 };
-const cachedAt = "2025-01-14T17:03:04Z";
+const cachedAt = "2025-01-14T18:03:10Z";
