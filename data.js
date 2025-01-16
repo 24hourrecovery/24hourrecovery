@@ -496,7 +496,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[706],id:8106,language:"English",location:"Rockford, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[720],id:8110,language:"English",location:"Royal Oak, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[708],id:8113,language:"English",location:"Sparta, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[716],id:8119,language:"English",location:"Athens, Georgia",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z",week:[3]},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-01-19T19:00:00Z",dataSource:"na",duration:60,facilitator:[716],id:8119,language:"English",location:"Athens, Georgia",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z",week:[3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[711],id:8123,language:"English",location:"Encinitas, California",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[712],id:8124,language:"English",location:"Topeka, Kansas",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[712],id:8125,language:"English",location:"Topeka, Kansas",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
@@ -1202,4 +1202,4 @@ const facilitators = {
   790:["Amanda T"],
   791:["Daniel"]
 };
-const cachedAt = "2025-01-16T14:03:04Z";
+const cachedAt = "2025-01-16T15:03:05Z";
