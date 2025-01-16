@@ -41,7 +41,6 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:30Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"01:30Z",week:[2,4]},type:"Both"},
-  {audience:["Health care and community services professionals"],dataSource:"au",duration:90,facilitator:[773],id:1358,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:30Z",week:[1,2,3,4,-1]},type:"Online"},
   {audience:["Alcohol Focus","Men only"],dataSource:"au",duration:90,facilitator:[780],id:1359,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[51],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
@@ -1185,7 +1184,6 @@ const facilitators = {
   770:["Jacob W"],
   771:["Cass"],
   772:["Amber H"],
-  773:["Elizabeth","National"],
   774:["Kelly S"],
   775:["Katerina (Kat) Venditti"],
   776:["Ryan"],
@@ -1203,4 +1201,4 @@ const facilitators = {
   790:["Amanda T"],
   791:["Daniel"]
 };
-const cachedAt = "2025-01-16T02:03:04Z";
+const cachedAt = "2025-01-16T03:03:04Z";
