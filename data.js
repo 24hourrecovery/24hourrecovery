@@ -995,8 +995,6 @@ const facilitators = {
   497:["T"],
   498:["Stephanie"],
   501:["Dennis Springer"],
-  502:["Jas"],
-  503:["Markita Renee"],
   504:["Caleb Farmer"],
   505:["Michele Blair"],
   506:["Sabrina (Brie) M."],
@@ -1203,4 +1201,4 @@ const facilitators = {
   793:["Shannon Hughes"],
   794:["Jared Wells"]
 };
-const cachedAt = "2025-01-22T22:03:04Z";
+const cachedAt = "2025-01-22T23:03:03Z";
