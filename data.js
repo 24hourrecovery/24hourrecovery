@@ -230,7 +230,7 @@ const meetings = [
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[309],id:5488,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[643,737],id:5490,language:"English",location:"Austin, Texas",program:"Family & Friends",schedule:{day:6,time:"15:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[197,198,199,312],id:5500,language:"English",location:"Indio, California",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[313],id:5504,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[313],id:5504,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[314],id:5508,language:"English",location:"Newton, New Jersey",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[315],id:5532,language:"English",location:"Kelowna, British Columbia",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[316],id:5540,language:"English",location:"Orofino, Idaho",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
@@ -472,9 +472,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[632],id:8016,language:"English",location:"Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:1,time:"01:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[278,650],id:8022,language:"English",location:"Richmond, Virginia",program:"Family & Friends",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[656],id:8030,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"21:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[674],id:8035,language:"English",location:"Shawneetown, Illinois",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[674],id:8036,language:"English",location:"Shawneetown, Illinois",program:"Family & Friends",schedule:{day:4,time:"18:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[674],id:8037,language:"English",location:"Shawneetown, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[159],id:8042,language:"English",location:"Bellingham, Washington",program:"Family & Friends",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[655],id:8046,language:"English",location:"South Salt Lake, Utah",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[654],id:8050,language:"English",location:"Pittsburgh, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
@@ -1113,7 +1110,6 @@ const facilitators = {
   670:["Summer Song/Becca"],
   671:["Jennifer","National"],
   672:["Erle S."],
-  674:["Caleb"],
   676:["Jocelyn"],
   677:["Rory Morgan"],
   678:["Louise Grady"],
@@ -1202,4 +1198,4 @@ const facilitators = {
   793:["Shannon Hughes"],
   794:["Jared Wells"]
 };
-const cachedAt = "2025-01-23T22:03:04Z";
+const cachedAt = "2025-01-23T23:03:06Z";
