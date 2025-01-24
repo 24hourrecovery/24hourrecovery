@@ -487,6 +487,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[685],id:8086,language:"English",location:"Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[723],id:8088,language:"English",location:"Charlottesville, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[233,700],id:8089,language:"English",location:"Rocklin, California",program:"4-Point Recovery",schedule:{day:3,time:"05:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[687],id:8091,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:5,time:"04:00Z",week:[1,-1]},type:"Online"},
   {audience:["LGBTQIA+","Women"],canceled:"2025-01-30T23:00:00Z",dataSource:"na",duration:60,facilitator:[172],id:8105,language:"English",location:"Virginia Beach, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[706],id:8106,language:"English",location:"Rockford, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[720],id:8110,language:"English",location:"Royal Oak, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
@@ -1118,6 +1119,7 @@ const facilitators = {
   682:["Mitch"],
   683:["Sonia"],
   685:["Natalya Orlando"],
+  687:["Rawan"],
   689:["Denis"],
   690:["Taylor Coats"],
   694:["Amy M"],
@@ -1198,4 +1200,4 @@ const facilitators = {
   794:["Jared Wells"],
   795:["Chris","Alberta"]
 };
-const cachedAt = "2025-01-24T03:03:04Z";
+const cachedAt = "2025-01-24T04:03:04Z";
