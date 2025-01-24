@@ -580,7 +580,8 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[678],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:60,facilitator:[701],id:1603,language:"English",location:"Stevenage, England",program:"SMART Veterans",schedule:{day:2,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[752,753],id:1640,language:"Punjabi",location:"National",program:"SMART Recovery",schedule:{day:0,time:"08:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[678],id:1643,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"}
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[678],id:1643,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[796],id:1652,language:"Brazilian Portuguese",location:"National",program:"SMART Recovery",schedule:{day:0,time:"00:00Z"},type:"Online"}
 ];
 const facilitators = {
   1:["Joel"],
@@ -1198,6 +1199,7 @@ const facilitators = {
   792:["Brian","California"],
   793:["Shannon Hughes"],
   794:["Jared Wells"],
-  795:["Chris","Alberta"]
+  795:["Chris","Alberta"],
+  796:["Helena Machado"]
 };
-const cachedAt = "2025-01-24T12:03:05Z";
+const cachedAt = "2025-01-24T13:03:04Z";
