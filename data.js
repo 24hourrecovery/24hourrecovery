@@ -41,7 +41,6 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:30Z"},type:"Online"},
   {audience:["Alcohol Focus","Men only"],dataSource:"au",duration:90,facilitator:[780],id:1359,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:00Z"},type:"Online"},
-  {audience:["Drug and Alcohol Focus","Youth only"],dataSource:"au",duration:90,facilitator:[34],id:1362,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[51],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[53,54,55],id:1016,language:"English",location:"Silver Spring, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -607,7 +606,6 @@ const facilitators = {
   31:["Amelia and Phil"],
   32:["Alicia"],
   33:["Warrondi Engage & Link"],
-  34:["Olivia"],
   35:["Sarah"],
   37:["The Bill Crews Foundation"],
   38:["Denis Smith"],
@@ -1198,4 +1196,4 @@ const facilitators = {
   801:["Leo"],
   802:["Johnny"]
 };
-const cachedAt = "2025-01-29T04:03:04Z";
+const cachedAt = "2025-01-29T05:03:03Z";
