@@ -483,6 +483,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[498],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[694,709],id:8070,language:"English",location:"Oakland, California",program:"Family & Friends",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[670],id:8075,language:"English",location:"Austin, Texas",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-02-03T23:30:00Z",dataSource:"na",duration:60,facilitator:[810],id:8080,language:"English",location:"Celina, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[704],id:8081,language:"English",location:"Croton-on-Hudson, New York",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[685],id:8086,language:"English",location:"Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[723],id:8088,language:"English",location:"Charlottesville, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
@@ -1200,6 +1201,7 @@ const facilitators = {
   802:["Johnny"],
   803:["Marie"],
   804:["Jess"],
-  809:["Danny"]
+  809:["Danny"],
+  810:["Andrea C"]
 };
-const cachedAt = "2025-01-31T21:03:04Z";
+const cachedAt = "2025-01-31T22:03:03Z";
