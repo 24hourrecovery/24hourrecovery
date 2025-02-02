@@ -1,4 +1,5 @@
 const meetings = [
+  {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604,689],id:1006,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1,2],id:1007,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[799],id:1011,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
   {audience:["Female only"],canceled:"2025-02-04T01:00:00Z",dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
@@ -16,6 +17,7 @@ const meetings = [
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[20],id:1039,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[732],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
+  {audience:["Female only"],dataSource:"au",duration:90,facilitator:[671],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[25],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Both"},
@@ -1067,6 +1069,7 @@ const facilitators = {
   599:["Klaudia Rzeczkowska"],
   600:["Janine Crowdy"],
   601:["Melanie Stewart"],
+  604:["Brad","National"],
   605:["Eboni Jewel Sears"],
   613:["Gordon M"],
   614:["Nate"],
@@ -1119,6 +1122,7 @@ const facilitators = {
   683:["Sonia"],
   685:["Natalya Orlando"],
   687:["Rawan"],
+  689:["Denis"],
   690:["Taylor Coats"],
   694:["Amy M"],
   695:["Annaleise McCullough"],
@@ -1208,4 +1212,4 @@ const facilitators = {
   809:["Danny"],
   810:["Andrea C"]
 };
-const cachedAt = "2025-02-02T08:03:04Z";
+const cachedAt = "2025-02-02T09:03:04Z";
