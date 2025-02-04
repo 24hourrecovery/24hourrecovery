@@ -492,7 +492,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[687],id:8091,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:5,time:"04:00Z",week:[-1]},type:"Online"},
   {audience:["LGBTQIA+","Women"],dataSource:"na",duration:60,facilitator:[172],id:8105,language:"English",location:"Virginia Beach, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[706],id:8106,language:"English",location:"Rockford, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[720],id:8110,language:"English",location:"Royal Oak, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-02-04T23:30:00Z",dataSource:"na",duration:60,facilitator:[720],id:8110,language:"English",location:"Royal Oak, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[708],id:8113,language:"English",location:"Sparta, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[711],id:8123,language:"English",location:"Encinitas, California",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[712],id:8124,language:"English",location:"Topeka, Kansas",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
@@ -514,7 +514,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[770],id:8209,language:"English",location:"Myrtle Beach, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8210,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:0,time:"04:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[432,772],id:8213,language:"English",location:"Richmond, Virginia",program:"Family & Friends",schedule:{day:2,time:"21:30Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[778],id:8220,language:"English",location:"Temple, Texas",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z",week:[1,3]},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-02-04T23:30:00Z",dataSource:"na",duration:60,facilitator:[778],id:8220,language:"English",location:"Temple, Texas",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8224,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8225,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"04:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8226,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"04:30Z"},type:"Online"},
@@ -1237,4 +1237,4 @@ const facilitators = {
   839:["Dimitrii Frolov"],
   840:["Ryan","National"]
 };
-const cachedAt = "2025-02-04T21:03:04Z";
+const cachedAt = "2025-02-04T22:03:04Z";
