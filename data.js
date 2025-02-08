@@ -502,7 +502,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[748],id:8188,language:"English",location:"Los Gatos, California",program:"4-Point Recovery",schedule:{day:6,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[759],id:8194,language:"English",location:"Aurora, Colorado",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8199,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[769],id:8200,language:"English",location:"Maple Grove, Minnesota",program:"Family & Friends",schedule:{day:6,time:"00:00Z",week:[1,3]},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[795],id:8205,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8206,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8207,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"},
@@ -1231,4 +1230,4 @@ const facilitators = {
   841:["Tammy C"],
   842:["Ana"]
 };
-const cachedAt = "2025-02-08T01:03:05Z";
+const cachedAt = "2025-02-08T02:03:06Z";
