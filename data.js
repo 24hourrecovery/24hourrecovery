@@ -1,4 +1,5 @@
 const meetings = [
+  {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604,689],id:1006,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1,2],id:1007,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[799],id:1011,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
@@ -1227,4 +1228,4 @@ const facilitators = {
   841:["Tammy C"],
   842:["Ana"]
 };
-const cachedAt = "2025-02-09T06:03:05Z";
+const cachedAt = "2025-02-09T07:03:04Z";
