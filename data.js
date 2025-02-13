@@ -302,6 +302,7 @@ const meetings = [
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[50,51],id:6446,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[392,393],id:6454,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[394],id:6475,language:"English",location:"Knox, Indiana",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[848],id:6503,language:"English",location:"Watertown, New York",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[395],id:6504,language:"English",location:"San Ramon, California",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[396],id:6553,language:"English",location:"Swansea, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[397,398],id:6564,language:"English",location:"Kitchener, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
@@ -1230,6 +1231,7 @@ const facilitators = {
   844:["Becky"],
   845:["Emily M."],
   846:["Andrea Maddin"],
-  847:["Carey"]
+  847:["Carey"],
+  848:["Cynthia Getman-Hubbard"]
 };
-const cachedAt = "2025-02-13T19:03:04Z";
+const cachedAt = "2025-02-13T20:03:03Z";
