@@ -17,7 +17,6 @@ const meetings = [
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[20],id:1039,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[732],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
-  {audience:["Female only"],dataSource:"au",duration:90,facilitator:[671],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[25],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Both"},
@@ -308,7 +307,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[397,398],id:6564,language:"English",location:"Kitchener, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[664],id:658,language:"English",location:"Waterford Township, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,387],id:6581,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"00:45Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,387],id:6582,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,387],id:6582,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[400],id:6585,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],id:6587,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[402],id:6594,language:"English",location:"Flemington, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
@@ -1098,7 +1097,6 @@ const facilitators = {
   667:["Rachelle Hogue"],
   669:["Jim Ball"],
   670:["Summer Song/Becca"],
-  671:["Jennifer","National"],
   672:["Erle S."],
   674:["Caleb"],
   675:["Mara O."],
@@ -1235,4 +1233,4 @@ const facilitators = {
   848:["Cynthia Getman-Hubbard"],
   849:["Lauren D."]
 };
-const cachedAt = "2025-02-16T22:03:04Z";
+const cachedAt = "2025-02-16T23:03:04Z";
