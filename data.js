@@ -491,6 +491,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[745],id:8129,language:"English",location:"Naugatuck, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[721],id:8137,language:"English",location:"Savannah, Tennessee",program:"Successful Life Skills",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[725],id:8144,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[739],id:8161,language:"English",location:"Blue Point, New York",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z",week:[-1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[740],id:8170,language:"English",location:"Monticello, Utah",program:"Family & Friends",schedule:{day:2,time:"20:00Z"},type:"Both"},
   {audience:["Women"],canceled:"2025-02-17T20:00:00Z",dataSource:"na",duration:60,facilitator:[771],id:8181,language:"English",location:"Amherst, Nova Scotia",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[751],id:8187,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
@@ -1144,6 +1145,7 @@ const facilitators = {
   736:["Rachel"],
   737:["Joel R."],
   738:["Matthew VanCamp"],
+  739:["Hayden"],
   740:["Gordon"],
   741:["Danielle"],
   743:["Zach"],
@@ -1235,4 +1237,4 @@ const facilitators = {
   849:["Lauren D."],
   850:["James C"]
 };
-const cachedAt = "2025-02-17T00:03:04Z";
+const cachedAt = "2025-02-17T01:03:03Z";
