@@ -383,6 +383,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[455,482,741,784],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[483],id:7274,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[484,485],id:7275,language:"English",location:"Swansea, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[608,609],id:7291,language:"English",location:"Syracuse, New York",program:"Family & Friends",schedule:{day:2,time:"17:00Z",week:[-1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[486],id:7301,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[469,487],id:7302,language:"English",location:"National",program:"Family & Friends",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[488],id:7312,language:"English",location:"Boone, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Both"},
@@ -1071,6 +1072,8 @@ const facilitators = {
   601:["Melanie Stewart"],
   604:["Brad","National"],
   605:["Eboni Jewel Sears"],
+  608:["Kaelyn Dowd"],
+  609:["Bethani Rahrle White"],
   610:["Melissa","Indiana"],
   613:["Gordon M"],
   614:["Nate"],
@@ -1242,4 +1245,4 @@ const facilitators = {
   849:["Lauren D."],
   850:["James C"]
 };
-const cachedAt = "2025-02-18T16:03:04Z";
+const cachedAt = "2025-02-18T17:03:03Z";
