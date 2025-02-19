@@ -498,6 +498,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[739],id:8161,language:"English",location:"Blue Point, New York",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z",week:[-1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[740],id:8170,language:"English",location:"Monticello, Utah",program:"Family & Friends",schedule:{day:2,time:"20:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[771],id:8181,language:"English",location:"Amherst, Nova Scotia",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Online"},
+  {audience:["Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[751],id:8185,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[751],id:8187,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[748],id:8188,language:"English",location:"Los Gatos, California",program:"4-Point Recovery",schedule:{day:6,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[759],id:8194,language:"English",location:"Aurora, Colorado",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
@@ -1244,4 +1245,4 @@ const facilitators = {
   851:["Remi"],
   852:["Bernice Lee"]
 };
-const cachedAt = "2025-02-19T17:03:04Z";
+const cachedAt = "2025-02-19T18:03:08Z";
