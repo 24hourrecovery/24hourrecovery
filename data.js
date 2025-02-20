@@ -187,7 +187,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[263],id:4820,language:"English",location:"Walnut Creek, California",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[264],id:4824,language:"English",location:"Asheville, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[265],id:4830,language:"English",location:"Lexington, Kentucky",program:"Family & Friends",schedule:{day:2,time:"23:30Z"},type:"Both"},
-  {audience:["Adults Welcome"],canceled:"2025-02-19T22:30:00Z",dataSource:"na",duration:60,facilitator:[266],id:4871,language:"English",location:"Great Mills, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[266],id:4871,language:"English",location:"Great Mills, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[267,268],id:4888,language:"English",location:"Newport Beach, California",program:"4-Point Recovery",schedule:{day:6,time:"01:30Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[269],id:4940,language:"English",location:"Wauwatosa, Wisconsin",program:"Family & Friends",schedule:{day:3,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[270],id:4957,language:"English",location:"Mount Prospect, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
@@ -1179,7 +1179,6 @@ const facilitators = {
   775:["Katerina (Kat) Venditti"],
   776:["Ryan","Ontario"],
   777:["Dez"],
-  778:["Sarah H"],
   779:["Austin Farrell"],
   780:["James","National"],
   782:["Blake"],
@@ -1246,4 +1245,4 @@ const facilitators = {
   853:["Kadie"],
   854:["Maya"]
 };
-const cachedAt = "2025-02-19T23:03:03Z";
+const cachedAt = "2025-02-20T00:03:03Z";
