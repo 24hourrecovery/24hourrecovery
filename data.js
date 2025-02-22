@@ -525,7 +525,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[792],id:8259,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["Men"],dataSource:"na",duration:60,facilitator:[792],id:8260,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[658],id:8266,language:"English",location:"Palm Springs, California",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[793],id:8268,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"20:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-02-22T20:00:00Z",dataSource:"na",duration:90,facilitator:[793],id:8268,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[794],id:8269,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:1,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[530],id:8274,language:"English",location:"Town of Rockingham, Vermont",program:"4-Point Recovery",schedule:{day:4,time:"13:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
@@ -1250,4 +1250,4 @@ const facilitators = {
   857:["Angie"],
   858:["Mel M"]
 };
-const cachedAt = "2025-02-22T19:03:04Z";
+const cachedAt = "2025-02-22T20:03:04Z";
