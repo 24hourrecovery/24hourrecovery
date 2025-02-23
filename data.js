@@ -545,6 +545,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[774],id:8324,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[851],id:8329,language:"English",location:"Trumbull, Connecticut",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[853],id:8333,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[424,426,433,439,749,840,856],id:8337,language:"English",location:"Mentor, Ohio",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
@@ -954,7 +955,7 @@ const facilitators = {
   435:["Alan S."],
   436:["Tim K."],
   438:["William Mclaughlin"],
-  439:["Greg","National"],
+  439:["Greg","Ohio"],
   440:["Jim M."],
   441:["Loretta B."],
   442:["K Kirsten"],
@@ -1230,7 +1231,7 @@ const facilitators = {
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
-  840:["Ryan","National"],
+  840:["Ryan","Ohio"],
   841:["Tammy C"],
   842:["Ana"],
   843:["Angie A."],
@@ -1250,4 +1251,4 @@ const facilitators = {
   858:["Mel M"],
   859:["James C"]
 };
-const cachedAt = "2025-02-23T01:03:04Z";
+const cachedAt = "2025-02-23T02:03:04Z";
