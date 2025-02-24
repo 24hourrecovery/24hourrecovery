@@ -547,6 +547,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[851],id:8329,language:"English",location:"Trumbull, Connecticut",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[853],id:8333,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[424,426,433,439,749,840,856],id:8337,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[863],id:8342,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"01:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
@@ -1256,6 +1257,7 @@ const facilitators = {
   859:["James C"],
   860:["Shelbie","National"],
   861:["Ryan","National"],
-  862:["Terrance Goan"]
+  862:["Terrance Goan"],
+  863:["Matt"]
 };
-const cachedAt = "2025-02-24T21:03:04Z";
+const cachedAt = "2025-02-24T22:03:04Z";
