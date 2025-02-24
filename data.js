@@ -473,7 +473,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[159],id:8042,language:"English",location:"Bellingham, Washington",program:"Family & Friends",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[655],id:8046,language:"English",location:"South Salt Lake, Utah",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[654],id:8050,language:"English",location:"Pittsburgh, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,426,439,749,840,856],id:8051,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,426,439,856,860,861],id:8051,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[657],id:8052,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[681],id:8053,language:"English",location:"Sioux Falls, South Dakota",program:"4-Point Recovery",schedule:{day:2,time:"02:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[663],id:8054,language:"English",location:"Conway, Arkansas",program:"Family & Friends",schedule:{day:1,time:"22:30Z"},type:"Online"},
@@ -1164,7 +1164,7 @@ const facilitators = {
   745:["Leigh"],
   747:["Stasia DeMarco"],
   748:["Tim van den Berg"],
-  749:["Shelbie"],
+  749:["Shelbie","Ohio"],
   750:["David S."],
   751:["Brettney T."],
   752:["Shiv Sharma"],
@@ -1251,6 +1251,8 @@ const facilitators = {
   856:["Gabe"],
   857:["Angie"],
   858:["Mel M"],
-  859:["James C"]
+  859:["James C"],
+  860:["Shelbie","National"],
+  861:["Ryan","National"]
 };
-const cachedAt = "2025-02-24T18:03:06Z";
+const cachedAt = "2025-02-24T19:03:04Z";
