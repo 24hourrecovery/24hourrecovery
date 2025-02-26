@@ -210,7 +210,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[145,285,651],id:514,language:"English",location:"Towson, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[288,852],id:5147,language:"English",location:"Vancouver, British Columbia",program:"Family & Friends",schedule:{day:3,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[289],id:5154,language:"English",location:"Malibu, California",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[862],id:5201,language:"English",location:"Encinitas, California",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[747,845],id:522,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:6,time:"13:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[53,54,55],id:523,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[178],id:524,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
@@ -1256,10 +1255,9 @@ const facilitators = {
   859:["James C"],
   860:["Shelbie","National"],
   861:["Ryan","National"],
-  862:["Terrance Goan"],
   863:["Matt"],
   864:["Ceci L."],
   865:["Rey"],
   866:["Sandra"]
 };
-const cachedAt = "2025-02-26T12:03:03Z";
+const cachedAt = "2025-02-26T13:03:03Z";
