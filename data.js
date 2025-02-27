@@ -243,7 +243,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[326],id:5686,language:"English",location:"Kamloops, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[51,327,613],id:569,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[328,698,800],id:5706,language:"English",location:"Mentor, Ohio",program:"Family & Friends",schedule:{day:4,time:"23:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-02-27T17:00:00Z",dataSource:"na",duration:60,facilitator:[329],id:5710,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[329],id:5710,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[669,670],id:5725,language:"English",location:"Austin, Texas",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[163,164],id:5737,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[332,622],id:5744,language:"English",location:"Cincinnati, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
@@ -1271,4 +1271,4 @@ const facilitators = {
   869:["Michael","Georgia"],
   870:["Cara"]
 };
-const cachedAt = "2025-02-27T17:03:04Z";
+const cachedAt = "2025-02-27T18:03:04Z";
