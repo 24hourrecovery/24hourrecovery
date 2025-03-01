@@ -514,7 +514,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[778],id:8220,language:"English",location:"Temple, Texas",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8224,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8225,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"04:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8226,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"04:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8226,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"04:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8227,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"04:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[770],id:8228,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"04:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8229,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"04:00Z"},type:"Online"},
@@ -1266,4 +1266,4 @@ const facilitators = {
   879:["John P."],
   880:["Lori"]
 };
-const cachedAt = "2025-03-01T06:03:04Z";
+const cachedAt = "2025-03-01T07:03:03Z";
