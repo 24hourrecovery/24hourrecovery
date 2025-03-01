@@ -549,7 +549,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8318,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[774],id:8324,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[851],id:8329,language:"English",location:"Trumbull, Connecticut",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[424,426,433,439,749,840,856],id:8337,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,424,426,433,439,856,860,861,880],id:8337,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[863],id:8342,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"01:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[605,875,876],id:8354,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"21:00Z"},type:"Online"},
@@ -1167,7 +1167,6 @@ const facilitators = {
   745:["Leigh"],
   747:["Stasia DeMarco"],
   748:["Tim van den Berg"],
-  749:["Shelbie","Ohio"],
   750:["David S."],
   751:["Brettney T."],
   752:["Shiv Sharma"],
@@ -1234,7 +1233,6 @@ const facilitators = {
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
-  840:["Ryan","Ohio"],
   841:["Tammy C"],
   842:["Ana"],
   843:["Angie A."],
@@ -1253,7 +1251,7 @@ const facilitators = {
   858:["Mel M"],
   859:["James C"],
   860:["Shelbie","National"],
-  861:["Ryan","National"],
+  861:["Ryan","Ohio"],
   863:["Matt"],
   864:["Ceci L."],
   865:["Rey"],
@@ -1267,6 +1265,7 @@ const facilitators = {
   876:["Lara"],
   877:["Katerina (Kat) Venditti"],
   878:["Ryan","Ontario"],
-  879:["John P."]
+  879:["John P."],
+  880:["Lori"]
 };
-const cachedAt = "2025-03-01T01:03:04Z";
+const cachedAt = "2025-03-01T02:03:04Z";
