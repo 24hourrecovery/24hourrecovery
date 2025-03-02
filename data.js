@@ -1077,7 +1077,6 @@ const facilitators = {
   599:["Klaudia Rzeczkowska"],
   600:["Janine Crowdy"],
   601:["Melanie Stewart"],
-  604:["Brad","National"],
   605:["Eboni Jewel Sears"],
   613:["Gordon M"],
   614:["Nate"],
@@ -1123,7 +1122,6 @@ const facilitators = {
   682:["Mitch"],
   683:["Sonia"],
   685:["Natalya Orlando"],
-  689:["Denis"],
   690:["Taylor Coats"],
   694:["Amy M"],
   695:["Annaleise McCullough"],
@@ -1266,4 +1264,4 @@ const facilitators = {
   879:["John P."],
   880:["Lori"]
 };
-const cachedAt = "2025-03-02T07:03:04Z";
+const cachedAt = "2025-03-02T08:03:04Z";
