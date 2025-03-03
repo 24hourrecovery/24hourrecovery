@@ -18,12 +18,12 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[732],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[25],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Both"},
   {audience:["Drug and Alcohol Focus","Youth only"],dataSource:"au",duration:90,facilitator:[26],id:1107,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1126,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[31],id:1129,language:"English",location:"Burnie, Tasmania",program:"Standard",schedule:{day:2,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[32],id:1182,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2025-03-03T05:00:00Z",dataSource:"au",duration:90,facilitator:[619],id:1208,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"05:00Z",week:[1]},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[27],id:1227,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
@@ -549,7 +549,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[774],id:8324,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[851],id:8329,language:"English",location:"Trumbull, Connecticut",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,424,426,433,439,856,860,861,880],id:8337,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[863],id:8342,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"02:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[863],id:8342,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"01:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[605,875,876],id:8354,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Online"},
@@ -1266,4 +1266,4 @@ const facilitators = {
   879:["John P."],
   880:["Lori"]
 };
-const cachedAt = "2025-03-03T05:03:04Z";
+const cachedAt = "2025-03-03T06:03:04Z";
