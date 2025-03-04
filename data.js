@@ -452,7 +452,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[362],id:7903,language:"English",location:"Chester, Virginia",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[736],id:7908,language:"English",location:"Meriden, Connecticut",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[857],id:7909,language:"Spanish",location:"Meriden, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Both"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[867],id:7910,language:"Spanish",location:"Meriden, Connecticut",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Both"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[885],id:7910,language:"Spanish",location:"Meriden, Connecticut",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[553],id:7911,language:"English",location:"Winnipeg, Manitoba",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[555],id:7919,language:"English",location:"York, Pennsylvania",program:"Successful Life Skills",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[556],id:7920,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
@@ -1253,7 +1253,6 @@ const facilitators = {
   864:["Ceci L."],
   865:["Rey"],
   866:["Sandra"],
-  867:["Maryvette"],
   869:["Michael","Georgia"],
   870:["Cara"],
   871:["Sharleen L"],
@@ -1267,6 +1266,7 @@ const facilitators = {
   881:["Justin H"],
   882:["Lee"],
   883:["Val"],
-  884:["Cheryl P."]
+  884:["Cheryl P."],
+  885:["Maryvette"]
 };
-const cachedAt = "2025-03-03T23:03:04Z";
+const cachedAt = "2025-03-04T00:03:04Z";
