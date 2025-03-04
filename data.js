@@ -31,6 +31,7 @@ const meetings = [
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[11],id:1244,language:"English",location:"Canberra, Australian Capital Territory",program:"Family & Friends",schedule:{day:4,time:"07:00Z",week:[1,3]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[37],id:1247,language:"English",location:"Ashfield, New South Wales",program:"Standard",schedule:{day:3,time:"23:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[682,683],id:1284,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"03:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[682,683],id:1285,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:4,time:"23:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[43],id:1287,language:"English",location:"Potts Point, New South Wales",program:"Standard",schedule:{day:5,time:"07:15Z"},type:"Online"},
@@ -522,7 +523,6 @@ const meetings = [
   {audience:["Patients & Clients"],dataSource:"na",duration:60,facilitator:[786],id:8232,language:"English",location:"Saint John, New Brunswick",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[782],id:8236,language:"English",location:"Addison, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[791],id:8251,language:"English",location:"Las Vegas, Nevada",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[798],id:8256,language:"English",location:"Rockford, Illinois",program:"Family & Friends",schedule:{day:2,time:"00:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[658],id:8266,language:"English",location:"Palm Springs, California",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[793],id:8268,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[794],id:8269,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:1,time:"12:00Z"},type:"Online"},
@@ -1268,4 +1268,4 @@ const facilitators = {
   884:["Cheryl P."],
   885:["Maryvette"]
 };
-const cachedAt = "2025-03-04T01:03:04Z";
+const cachedAt = "2025-03-04T02:03:04Z";
