@@ -560,6 +560,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[571],id:1061,language:"English",location:"Leicester, England",program:"SMART Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],id:1064,language:"English",location:"Bangor, Wales",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"Both"},
   {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:60,facilitator:[573],id:1261,language:"English",location:"Manchester, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[886,887],id:1298,language:"English",location:"Chester, England",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1343,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:3,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1344,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:4,time:"17:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[575],id:1346,language:"English",location:"Regional",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
@@ -1255,6 +1256,8 @@ const facilitators = {
   882:["Lee"],
   883:["Val"],
   884:["Cheryl P."],
-  885:["Maryvette"]
+  885:["Maryvette"],
+  886:["Matt Flegg"],
+  887:["Will"]
 };
-const cachedAt = "2025-03-05T08:03:03Z";
+const cachedAt = "2025-03-05T09:03:04Z";
