@@ -1171,7 +1171,6 @@ const facilitators = {
   772:["Amber H"],
   774:["Kelly S"],
   777:["Dez"],
-  778:["Sarah H"],
   779:["Austin Farrell"],
   780:["James","National"],
   782:["Blake"],
@@ -1262,4 +1261,4 @@ const facilitators = {
   888:["Chinyere Nduu Okoro"],
   889:["Nehemiah Samuel"]
 };
-const cachedAt = "2025-03-05T15:03:03Z";
+const cachedAt = "2025-03-05T16:03:04Z";
