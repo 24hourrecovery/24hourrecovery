@@ -38,7 +38,6 @@ const meetings = [
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[44],id:1289,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[45],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
-  {audience:["Chronic Pain only"],dataSource:"au",duration:60,facilitator:[47,689],id:1300,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:00Z",week:[2,4]},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome","Drug focus"],dataSource:"au",duration:60,facilitator:null,id:1331,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"01:30Z",week:[2,4]},type:"Both"},
@@ -1277,4 +1276,4 @@ const facilitators = {
   900:["Abby Bolin"],
   901:["Thomas A"]
 };
-const cachedAt = "2025-03-11T01:03:04Z";
+const cachedAt = "2025-03-11T02:03:04Z";
