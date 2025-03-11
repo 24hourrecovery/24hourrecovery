@@ -527,7 +527,6 @@ const meetings = [
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[797],id:8279,language:"English",location:"Torrington, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[892],id:8280,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Both"},
-  {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[865],id:8283,language:"English",location:"Homestead, Florida",program:"Successful Life Skills",schedule:{day:2,time:"18:00Z",week:[2]},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[459],id:8285,language:"English",location:"Alamosa, Colorado",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[849],id:8287,language:"English",location:"Litchfield, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[845],id:8293,language:"English",location:"Moorestown, New Jersey",program:"4-Point Recovery",schedule:{day:5,time:"13:00Z"},type:"Online"},
@@ -1271,4 +1270,4 @@ const facilitators = {
   900:["Abby Bolin"],
   901:["Thomas A"]
 };
-const cachedAt = "2025-03-11T19:03:06Z";
+const cachedAt = "2025-03-11T20:03:04Z";
