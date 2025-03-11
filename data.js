@@ -2,7 +2,6 @@ const meetings = [
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604,689],id:1006,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[799],id:1011,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
-  {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1017,language:"English",location:"Haymarket, New South Wales",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[9,10],id:1024,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -634,7 +633,6 @@ const facilitators = {
   33:["Warrondi Engage & Link"],
   37:["The Bill Crews Foundation"],
   38:["Denis Smith"],
-  42:["Marieke"],
   43:["Nicholas"],
   44:["Relationships Australia"],
   45:["Odyssey Christchurch"],
@@ -1276,4 +1274,4 @@ const facilitators = {
   900:["Abby Bolin"],
   901:["Thomas A"]
 };
-const cachedAt = "2025-03-11T02:03:04Z";
+const cachedAt = "2025-03-11T03:03:04Z";
