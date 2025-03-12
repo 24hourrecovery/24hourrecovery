@@ -549,6 +549,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[141,142],id:8363,language:"English",location:"Ferndale, Michigan",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[863],id:8364,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"01:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[863],id:8375,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[863],id:8379,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
@@ -1233,7 +1234,6 @@ const facilitators = {
   861:["Ryan","Ohio"],
   863:["Matt"],
   864:["Ceci L."],
-  865:["Rey"],
   866:["Sandra"],
   869:["Michael","Georgia"],
   870:["Cara"],
@@ -1264,4 +1264,4 @@ const facilitators = {
   901:["Thomas A"],
   902:["Josephine McCormick"]
 };
-const cachedAt = "2025-03-12T17:03:04Z";
+const cachedAt = "2025-03-12T18:03:04Z";
