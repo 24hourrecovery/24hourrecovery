@@ -126,7 +126,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[181],id:3673,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[110],id:3677,language:"English",location:"Catonsville, Maryland",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[182],id:3712,language:"English",location:"Durham, North Carolina",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-03-12T22:00:00Z",dataSource:"na",duration:90,facilitator:[183],id:3718,language:"English",location:"Everett, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[183],id:3718,language:"English",location:"Everett, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[320,895],id:376,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[63,64,185],id:378,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:2,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[63,64,185],id:379,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:4,time:"02:00Z"},type:"Online"},
@@ -1269,4 +1269,4 @@ const facilitators = {
   904:["Roisin"],
   905:["Sabina"]
 };
-const cachedAt = "2025-03-12T22:03:04Z";
+const cachedAt = "2025-03-12T23:03:04Z";
