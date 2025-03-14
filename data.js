@@ -30,6 +30,7 @@ const meetings = [
   {audience:["All Welcome"],canceled:"2025-03-17T03:30:00Z",dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[27],id:1227,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[36],id:1242,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:30Z"},type:"Online"},
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[11],id:1244,language:"English",location:"Canberra, Australian Capital Territory",program:"Family & Friends",schedule:{day:4,time:"07:00Z",week:[1,3]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
@@ -444,7 +445,6 @@ const meetings = [
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7864,language:"Russian",location:"Portland, Oregon",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[544],id:7867,language:"English",location:"Desert Hot Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[545],id:7872,language:"English",location:"Lytton, British Columbia",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Both"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[728],id:7873,language:"English",location:"Reading, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[546],id:7874,language:"English",location:"Covington, Kentucky",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[547],id:7881,language:"English",location:"Peterborough, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[345],id:7894,language:"English",location:"Ionia, Michigan",program:"Family & Friends",schedule:{day:3,time:"13:00Z"},type:"Online"},
@@ -635,6 +635,7 @@ const facilitators = {
   31:["Amelia and Phil"],
   32:["Alicia"],
   33:["Warrondi Engage & Link"],
+  36:["Raymond"],
   38:["Denis Smith"],
   43:["Nicholas"],
   44:["Relationships Australia"],
@@ -1273,4 +1274,4 @@ const facilitators = {
   905:["Sabina"],
   906:["Sarah M-I"]
 };
-const cachedAt = "2025-03-14T00:03:04Z";
+const cachedAt = "2025-03-14T01:03:04Z";
