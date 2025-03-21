@@ -1105,7 +1105,6 @@ const facilitators = {
   682:["Mitch"],
   683:["Sonia"],
   685:["Natalya Orlando"],
-  687:["Rawan"],
   688:["Jade"],
   689:["Denis"],
   690:["Taylor Coats"],
@@ -1264,4 +1263,4 @@ const facilitators = {
   912:["Maya Prejbisz"],
   913:["Joanne"]
 };
-const cachedAt = "2025-03-21T14:03:04Z";
+const cachedAt = "2025-03-21T15:03:04Z";
