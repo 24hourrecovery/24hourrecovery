@@ -481,7 +481,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[685],id:8086,language:"English",location:"Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[723],id:8088,language:"English",location:"Charlottesville, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[700],id:8089,language:"English",location:"Rocklin, California",program:"4-Point Recovery",schedule:{day:3,time:"04:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[687],id:8091,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z",week:[3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[879],id:8106,language:"English",location:"Rockford, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[720],id:8110,language:"English",location:"Royal Oak, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[708],id:8113,language:"English",location:"Sparta, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
@@ -1268,4 +1267,4 @@ const facilitators = {
   912:["Maya Prejbisz"],
   913:["Joanne"]
 };
-const cachedAt = "2025-03-21T04:03:03Z";
+const cachedAt = "2025-03-21T05:03:04Z";
