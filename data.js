@@ -403,7 +403,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[239,513],id:7542,language:"English",location:"New Brunswick, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[514,516],id:755,language:"English",location:"Arvada, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[659,844],id:7550,language:"English",location:"Floyd, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[517],id:7551,language:"English",location:"California",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z",week:[3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[373],id:7572,language:"Spanish",location:"New York, New York",program:"4-Point Recovery",schedule:{day:5,time:"17:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[518],id:7574,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[680],id:7581,language:"English",location:"Kingston, Ontario",program:"Successful Life Skills",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -1261,4 +1260,4 @@ const facilitators = {
   915:["Matt Spears"],
   916:["Shawn A."]
 };
-const cachedAt = "2025-03-22T03:03:04Z";
+const cachedAt = "2025-03-22T04:03:04Z";
