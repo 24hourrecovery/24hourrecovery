@@ -82,7 +82,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[117],id:2177,language:"English",location:"Warwick, Rhode Island",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[118],id:2178,language:"English",location:"Edmond, Oklahoma",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[690,695,696,697],id:2187,language:"English",location:"Aloha, Oregon",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[122,123,124,125],id:2215,language:"English",location:"Santa Rosa, California",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[123,124,125],id:2215,language:"English",location:"Santa Rosa, California",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[126],id:2222,language:"English",location:"Sioux Falls, South Dakota",program:"Family & Friends",schedule:{day:2,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[127,128],id:2228,language:"English",location:"Lynbrook, New York",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[130],id:2321,language:"English",location:"Naperville, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
@@ -257,7 +257,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[353],id:5984,language:"English",location:"Shoreline, Washington",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[356],id:6032,language:"English",location:"Leesburg, Virginia",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139,357,358],id:6053,language:"English",location:"Squamish, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"01:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[123,359],id:6061,language:"English",location:"Santa Rosa, California",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[123,124],id:6061,language:"English",location:"Santa Rosa, California",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[360],id:6074,language:"English",location:"Bethlehem, Pennsylvania",program:"Family & Friends",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[156,361,362,703],id:6095,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[363],id:6097,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Both"},
@@ -692,7 +692,6 @@ const facilitators = {
   116:["Kevin Mckinnon"],
   117:["Michael DiStefano"],
   118:["Micah Perkins"],
-  122:["Emily Hansen"],
   123:["Alfredo Hernandez"],
   124:["Sean Kelson"],
   125:["Geoff"],
@@ -887,7 +886,6 @@ const facilitators = {
   356:["Seth Schroeder"],
   357:["Manouane"],
   358:["Soroush Zonuzi"],
-  359:["Andrea Webb"],
   360:["Tina Thomas"],
   361:["Rob Martin"],
   362:["Archie"],
@@ -1260,4 +1258,4 @@ const facilitators = {
   915:["Matt Spears"],
   916:["Shawn A."]
 };
-const cachedAt = "2025-03-22T18:03:04Z";
+const cachedAt = "2025-03-22T19:03:04Z";
