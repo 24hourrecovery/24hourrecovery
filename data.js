@@ -1152,7 +1152,6 @@ const facilitators = {
   760:["Shara R"],
   761:["Steve Hosmer"],
   763:["Nadine Humphreys"],
-  769:["Nathan","Minnesota"],
   770:["Jacob W"],
   771:["Cass"],
   772:["Amber H"],
@@ -1258,4 +1257,4 @@ const facilitators = {
   915:["Matt Spears"],
   916:["Shawn A."]
 };
-const cachedAt = "2025-03-22T22:03:04Z";
+const cachedAt = "2025-03-22T23:03:04Z";
