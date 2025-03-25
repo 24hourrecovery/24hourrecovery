@@ -5,7 +5,6 @@ const meetings = [
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[9,10],id:1024,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[919],id:1025,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[7],id:1026,language:"English",location:"Sydney, New South Wales",program:"Standard",schedule:{day:3,time:"02:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[11],id:1028,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:30Z"},type:"Online"},
@@ -18,7 +17,6 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[732],id:1040,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[921],id:1060,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[25],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Both"},
   {audience:["Drug and Alcohol Focus","Youth only"],dataSource:"au",duration:90,facilitator:[26],id:1107,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"08:00Z"},type:"Online"},
@@ -424,7 +422,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[531],id:7818,language:"English",location:"North Saanich, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[725],id:7820,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[538],id:7833,language:"English",location:"New Market, Virginia",program:"Family & Friends",schedule:{day:2,time:"22:00Z"},type:"Online"},
-  {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[539],id:7837,language:"English",location:"Selinsgrove, Pennsylvania",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
+  {audience:["LGBTQIA+"],canceled:"2025-03-25T23:00:00Z",dataSource:"na",duration:90,facilitator:[539],id:7837,language:"English",location:"Selinsgrove, Pennsylvania",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541],id:7853,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[310],id:7861,language:"Spanish",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7863,language:"Russian",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
@@ -499,7 +497,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8210,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[432,772],id:8213,language:"English",location:"Richmond, Virginia",program:"Family & Friends",schedule:{day:2,time:"20:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[927,928],id:8219,language:"English",location:"Yucca Valley, California",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[778],id:8220,language:"English",location:"Temple, Texas",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z",week:[3,4]},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-03-25T22:30:00Z",dataSource:"na",duration:60,facilitator:[778],id:8220,language:"English",location:"Temple, Texas",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z",week:[3,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8224,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8225,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8226,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"03:00Z"},type:"Online"},
@@ -1252,10 +1250,8 @@ const facilitators = {
   913:["Joanne"],
   915:["Matt Spears"],
   916:["Shawn A."],
-  919:["Les"],
-  921:["Jazz"],
   926:["Noel Elmore"],
   927:["Michelle Nance"],
   928:["Beckie"]
 };
-const cachedAt = "2025-03-25T22:03:04Z";
+const cachedAt = "2025-03-25T23:03:04Z";
