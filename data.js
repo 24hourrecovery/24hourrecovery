@@ -1,8 +1,6 @@
 const meetings = [
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[917],id:1002,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"06:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604,689],id:1006,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[799],id:1011,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
-  {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[9,10],id:1024,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -32,7 +30,6 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[27],id:1227,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[14],id:1230,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"06:00Z"},type:"Online"},
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[38],id:1271,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[682,683],id:1284,language:"English",location:"Nowra, New South Wales",program:"Youth",schedule:{day:5,time:"03:30Z"},type:"Both"},
@@ -1265,7 +1262,6 @@ const facilitators = {
   913:["Joanne"],
   915:["Matt Spears"],
   916:["Shawn A."],
-  917:["Rob"],
   919:["Les"],
   920:["Karyn"],
   921:["Jazz"],
@@ -1275,4 +1271,4 @@ const facilitators = {
   925:["Paul","National"],
   926:["Noel Elmore"]
 };
-const cachedAt = "2025-03-25T02:03:05Z";
+const cachedAt = "2025-03-25T03:03:04Z";
