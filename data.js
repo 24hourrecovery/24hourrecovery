@@ -545,6 +545,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[915],id:8364,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"01:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[915],id:8375,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[915],id:8379,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z"},type:"Both"},
+  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[929],id:8385,language:"English",location:"Belchertown, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[916],id:8386,language:"English",location:"Raritan, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[550],id:8393,language:"English",location:"Coos Bay, Oregon",program:"4-Point Recovery",schedule:{day:4,time:"02:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[907],id:8396,language:"English",location:"Corfu, New York",program:"4-Point Recovery",schedule:{day:0,time:"13:00Z"},type:"Online"},
@@ -1254,6 +1255,7 @@ const facilitators = {
   916:["Shawn A."],
   926:["Noel Elmore"],
   927:["Michelle Nance"],
-  928:["Beckie"]
+  928:["Beckie"],
+  929:["Joely"]
 };
-const cachedAt = "2025-03-26T23:03:04Z";
+const cachedAt = "2025-03-27T00:03:04Z";
