@@ -253,6 +253,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[350,351],id:5911,language:"English",location:"Lincoln, Nebraska",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[181],id:5955,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[353],id:5984,language:"English",location:"Shoreline, Washington",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[930],id:5987,language:"English",location:"Joliet, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[356],id:6032,language:"English",location:"Leesburg, Virginia",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139,357,358],id:6053,language:"English",location:"Squamish, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[123,124],id:6061,language:"English",location:"Santa Rosa, California",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
@@ -495,9 +496,9 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8199,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541],id:8201,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[795],id:8205,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-03-27T19:00:00Z",dataSource:"na",duration:60,facilitator:[770],id:8207,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8207,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8208,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],canceled:"2025-03-27T19:00:00Z",dataSource:"na",duration:60,facilitator:[770],id:8209,language:"English",location:"Myrtle Beach, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[770],id:8209,language:"English",location:"Myrtle Beach, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[770],id:8210,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[432,772],id:8213,language:"English",location:"Richmond, Virginia",program:"Family & Friends",schedule:{day:2,time:"20:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[927,928],id:8219,language:"English",location:"Yucca Valley, California",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Both"},
@@ -1256,6 +1257,7 @@ const facilitators = {
   926:["Noel Elmore"],
   927:["Michelle Nance"],
   928:["Beckie"],
-  929:["Joely"]
+  929:["Joely"],
+  930:["Maria Kroener \"MK\""]
 };
-const cachedAt = "2025-03-27T19:03:04Z";
+const cachedAt = "2025-03-27T20:03:04Z";
