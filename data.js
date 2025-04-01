@@ -34,6 +34,7 @@ const meetings = [
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[44],id:1289,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[45,931],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:30Z"},type:"Online"},
+  {audience:["Chronic Pain only"],dataSource:"au",duration:60,facilitator:[47,689],id:1300,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z",week:[2,4]},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:30Z"},type:"Online"},
   {audience:["Alcohol Focus","Men only"],dataSource:"au",duration:60,facilitator:[780],id:1359,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[866],id:1371,language:"English",location:"Wollongong, New South Wales",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Both"},
@@ -644,6 +645,7 @@ const facilitators = {
   44:["Relationships Australia"],
   45:["Odyssey Christchurch"],
   46:["PCD"],
+  47:["Saf"],
   50:["Natalie"],
   51:["Rebecca Heller"],
   52:["Bert"],
@@ -1277,4 +1279,4 @@ const facilitators = {
   936:["Ted"],
   937:["Antoinette G."]
 };
-const cachedAt = "2025-04-01T03:03:03Z";
+const cachedAt = "2025-04-01T04:03:04Z";
