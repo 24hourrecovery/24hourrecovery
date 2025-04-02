@@ -369,7 +369,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[476],id:7261,language:"English",location:"Bethlehem, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"11:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[357,741,755],id:7269,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[455,482,741,784],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[483],id:7274,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[483,938],id:7274,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[484,485],id:7275,language:"English",location:"Swansea, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[486],id:7301,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[469,487],id:7302,language:"English",location:"National",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
@@ -1276,6 +1276,7 @@ const facilitators = {
   934:["Tom V."],
   935:["Sooz D"],
   936:["Ted"],
-  937:["Antoinette G."]
+  937:["Antoinette G."],
+  938:["Elizabeth","New York"]
 };
-const cachedAt = "2025-04-02T18:03:04Z";
+const cachedAt = "2025-04-02T19:03:05Z";
