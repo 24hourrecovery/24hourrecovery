@@ -7,6 +7,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[9,10],id:1024,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[7],id:1026,language:"English",location:"Sydney, New South Wales",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[11],id:1028,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[14],id:1034,language:"English",location:"Redfern, New South Wales",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1035,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[17],id:1037,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
@@ -410,7 +411,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[520],id:7624,language:"English",location:"Seattle, Washington",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[522],id:7631,language:"English",location:"Floral Park, New York",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[523],id:7717,language:"English",location:"Fremont, Nebraska",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[526],id:7723,language:"English",location:"Ogdensburg, New York",program:"Family & Friends",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[527],id:7732,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[498],id:7740,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
   {audience:["Adults Welcome"],canceled:"2025-04-03T23:30:00Z",dataSource:"na",duration:90,facilitator:[528],id:7746,language:"English",location:"Gulfport, Mississippi",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
@@ -527,6 +527,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[845],id:8294,language:"English",location:"Moorestown, New Jersey",program:"4-Point Recovery",schedule:{day:1,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[859],id:8296,language:"English",location:"Mountain Brook, Alabama",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[869],id:8298,language:"English",location:"Kennesaw, Georgia",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[870],id:8299,language:"English",location:"Fredericksburg, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[855],id:8302,language:"English",location:"Overland Park, Kansas",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[841],id:8303,language:"English",location:"Hamden, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Not specified"],dataSource:"na",duration:90,facilitator:null,id:8305,language:"",location:"Wallingford, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
@@ -1008,7 +1009,6 @@ const facilitators = {
   520:["Andy (he/him)"],
   522:["Sara D"],
   523:["Molli Vasa"],
-  526:["Alex Mitchell"],
   527:["Bonnie Deroo"],
   528:["Christopher Toomey"],
   530:["Megan R"],
@@ -1232,6 +1232,7 @@ const facilitators = {
   865:["Rey"],
   866:["Sandra"],
   869:["Michael","Georgia"],
+  870:["Cara"],
   871:["Sharleen L"],
   873:["Sam Nugraha"],
   875:["Brad","Georgia"],
@@ -1277,4 +1278,4 @@ const facilitators = {
   937:["Antoinette G."],
   938:["Elizabeth","New York"]
 };
-const cachedAt = "2025-04-03T02:03:04Z";
+const cachedAt = "2025-04-03T03:03:04Z";
