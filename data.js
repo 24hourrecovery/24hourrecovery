@@ -263,7 +263,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[156,361,362,703],id:6095,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[363],id:6097,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[364],id:6136,language:"English",location:"North Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139,358],id:6168,language:"English",location:"Pemberton, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139,358],id:6168,language:"English",location:"Pemberton, British Columbia",program:"4-Point Recovery",schedule:{day:0,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[366],id:6177,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:4,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[368],id:6188,language:"English",location:"Kansas City, Missouri",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[369],id:6191,language:"English",location:"Clearwater, Florida",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
@@ -1278,4 +1278,4 @@ const facilitators = {
   940:["Travis"],
   941:["Sam"]
 };
-const cachedAt = "2025-04-05T19:03:04Z";
+const cachedAt = "2025-04-05T20:03:05Z";
