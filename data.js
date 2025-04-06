@@ -34,6 +34,7 @@ const meetings = [
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[45],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:30Z"},type:"Online"},
   {audience:["Chronic Pain only"],dataSource:"au",duration:60,facilitator:[47,689],id:1300,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z",week:[2,4]},type:"Online"},
+  {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:30Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"02:30Z",week:[2,4]},type:"Both"},
   {audience:["Alcohol Focus","Men only"],dataSource:"au",duration:60,facilitator:[780],id:1359,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[866],id:1371,language:"English",location:"Wollongong, New South Wales",program:"Standard",schedule:{day:3,time:"01:00Z"},type:"Both"},
@@ -1062,7 +1063,6 @@ const facilitators = {
   599:["Klaudia Rzeczkowska"],
   600:["Janine Crowdy"],
   601:["Melanie Stewart"],
-  604:["Brad","National"],
   605:["Eboni Jewel Sears"],
   613:["Gordon M"],
   614:["Nate"],
@@ -1276,4 +1276,4 @@ const facilitators = {
   940:["Travis"],
   941:["Sam"]
 };
-const cachedAt = "2025-04-06T07:03:03Z";
+const cachedAt = "2025-04-06T08:03:03Z";
