@@ -1061,7 +1061,6 @@ const facilitators = {
   613:["Gordon M"],
   614:["Nate"],
   618:["Mike Christner"],
-  619:["James","National"],
   620:["Thane"],
   621:["Debbie"],
   622:["Dee"],
@@ -1271,4 +1270,4 @@ const facilitators = {
   942:["Austin Farrell"],
   943:["Ron Powell"]
 };
-const cachedAt = "2025-04-08T05:03:04Z";
+const cachedAt = "2025-04-08T06:03:04Z";
