@@ -304,7 +304,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,387],id:6582,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],id:6587,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:1,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[402],id:6594,language:"English",location:"Flemington, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Both"},
-  {audience:["Women"],dataSource:"na",duration:90,facilitator:[403],id:6620,language:"English",location:"West Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"00:45Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[322],id:6634,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[405],id:6636,language:"English",location:"Halifax, Nova Scotia",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[406],id:6649,language:"English",location:"Schaumburg, Illinois",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
@@ -921,7 +920,6 @@ const facilitators = {
   398:["Mike Davies"],
   401:["Patrick W"],
   402:["Matteo Giles"],
-  403:["Linda Shaw"],
   405:["Mark Peyton"],
   406:["Mary Kay Betz"],
   407:["Ken Anderson"],
@@ -1257,4 +1255,4 @@ const facilitators = {
   944:["Steve C."],
   945:["Paula"]
 };
-const cachedAt = "2025-04-10T12:03:04Z";
+const cachedAt = "2025-04-10T13:03:03Z";
