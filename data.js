@@ -455,7 +455,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[656],id:8030,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[674],id:8037,language:"English",location:"Shawneetown, Illinois",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[159],id:8042,language:"English",location:"Bellingham, Washington",program:"Family & Friends",schedule:{day:0,time:"14:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[655],id:8046,language:"English",location:"South Salt Lake, Utah",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Both"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,426,439,661,861],id:8051,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[657],id:8052,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[681],id:8053,language:"English",location:"Sioux Falls, South Dakota",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
@@ -1062,7 +1061,6 @@ const facilitators = {
   646:["Mich F"],
   648:["Ed"],
   652:["Jodi S."],
-  655:["Chelsea","Utah"],
   656:["Marty"],
   657:["Ankur"],
   658:["Steven Rossetti"],
@@ -1259,4 +1257,4 @@ const facilitators = {
   947:["Alex"],
   948:["Isabel"]
 };
-const cachedAt = "2025-04-11T01:03:04Z";
+const cachedAt = "2025-04-11T02:03:04Z";
