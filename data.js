@@ -433,7 +433,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[548],id:7890,language:"English",location:"Cañon City, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[345],id:7894,language:"English",location:"Ionia, Michigan",program:"Family & Friends",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[550],id:7895,language:"English",location:"North Bend, Oregon",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Both"},
-  {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[540,551],id:7899,language:"English",location:"Springfield, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
+  {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[540,551],id:7899,language:"English",location:"Springfield, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[362],id:7903,language:"English",location:"Chester, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[736],id:7908,language:"English",location:"Meriden, Connecticut",program:"Family & Friends",schedule:{day:2,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[857],id:7909,language:"Spanish",location:"Meriden, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
@@ -1265,4 +1265,4 @@ const facilitators = {
   949:["Qualified Facilitator"],
   950:["Tintin Wagener"]
 };
-const cachedAt = "2025-04-12T02:03:04Z";
+const cachedAt = "2025-04-12T04:03:04Z";
