@@ -1163,7 +1163,6 @@ const facilitators = {
   804:["Jess"],
   809:["Danny"],
   810:["Andrea C"],
-  812:["Ross McAslan"],
   813:["Dahlia Skuncikiene"],
   814:["Irina Berg"],
   815:["Marjorie Ramos-Salcedo"],
@@ -1264,4 +1263,4 @@ const facilitators = {
   948:["Isabel"],
   949:["Qualified Facilitator"]
 };
-const cachedAt = "2025-04-13T11:03:04Z";
+const cachedAt = "2025-04-13T12:03:04Z";
