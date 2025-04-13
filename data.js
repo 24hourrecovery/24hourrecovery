@@ -472,6 +472,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[700],id:8089,language:"English",location:"Rocklin, California",program:"4-Point Recovery",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[879],id:8106,language:"English",location:"Rockford, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[720],id:8110,language:"English",location:"Royal Oak, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[716],id:8119,language:"English",location:"Athens, Georgia",program:"4-Point Recovery",schedule:{day:0,time:"18:00Z",week:[3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[711],id:8123,language:"English",location:"Encinitas, California",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[712],id:8124,language:"English",location:"Topeka, Kansas",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[712],id:8125,language:"English",location:"Topeka, Kansas",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
@@ -1106,6 +1107,7 @@ const facilitators = {
   711:["Gini"],
   712:["Jason Collier"],
   713:["Niki"],
+  716:["Michelle","Georgia"],
   717:["Jean"],
   720:["Rachel Boyle"],
   721:["Ron Stricklin"],
@@ -1265,4 +1267,4 @@ const facilitators = {
   948:["Isabel"],
   949:["Qualified Facilitator"]
 };
-const cachedAt = "2025-04-13T17:03:04Z";
+const cachedAt = "2025-04-13T18:03:03Z";
