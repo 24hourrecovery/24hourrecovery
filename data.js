@@ -39,6 +39,7 @@ const meetings = [
   {audience:["Alcohol Focus","Men only"],dataSource:"au",duration:60,facilitator:[780],id:1359,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Gambling focus"],canceled:"2025-04-23T01:00:00Z",dataSource:"au",duration:90,facilitator:[866],id:1371,language:"English",location:"Wollongong, New South Wales",program:"Standard",schedule:{day:3,time:"01:00Z"},type:"Both"},
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z"},type:"Both"},
+  {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,954],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[51],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[53,54,55],id:1016,language:"English",location:"Silver Spring, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -643,7 +644,7 @@ const facilitators = {
   32:["Alicia"],
   33:["Warrondi Engage & Link"],
   38:["Denis Smith"],
-  43:["Nicholas"],
+  43:["Nicholas","New South Wales"],
   44:["Relationships Australia"],
   45:["Odyssey Christchurch"],
   46:["PCD"],
@@ -1280,6 +1281,7 @@ const facilitators = {
   949:["Qualified Facilitator"],
   951:["Noel Elmore"],
   952:["Frank H"],
-  953:["Brooke M"]
+  953:["Brooke M"],
+  954:["Nicholas","National"]
 };
-const cachedAt = "2025-04-16T05:03:03Z";
+const cachedAt = "2025-04-16T06:03:03Z";
