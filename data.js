@@ -33,6 +33,7 @@ const meetings = [
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[45],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:30Z"},type:"Online"},
   {audience:["Chronic Pain only"],dataSource:"au",duration:60,facilitator:[47,765],id:1300,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z",week:[2,4]},type:"Online"},
+  {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:30Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"02:30Z",week:[2,4]},type:"Both"},
   {audience:["Alcohol Focus","Men only"],canceled:"2025-04-22T08:00:00Z",dataSource:"au",duration:60,facilitator:[780],id:1359,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Gambling focus"],canceled:"2025-04-23T01:00:00Z",dataSource:"au",duration:90,facilitator:[866],id:1371,language:"English",location:"Wollongong, New South Wales",program:"Standard",schedule:{day:3,time:"01:00Z"},type:"Both"},
@@ -1285,4 +1286,4 @@ const facilitators = {
   958:["Brandon Yost"],
   959:["Victor Lenoxe"]
 };
-const cachedAt = "2025-04-20T07:03:03Z";
+const cachedAt = "2025-04-20T08:03:04Z";
