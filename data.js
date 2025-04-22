@@ -31,7 +31,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[43],id:1287,language:"English",location:"Potts Point, New South Wales",program:"Standard",schedule:{day:5,time:"08:15Z"},type:"Online"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[44],id:1289,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[45],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
-  {audience:["Chronic Pain only"],dataSource:"au",duration:60,facilitator:[47,765],id:1300,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z",week:[2,4]},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:30Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"02:30Z",week:[2,4]},type:"Both"},
   {audience:["Alcohol Focus","Men only"],canceled:"2025-04-22T08:00:00Z",dataSource:"au",duration:60,facilitator:[780],id:1359,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
@@ -553,7 +553,7 @@ const meetings = [
   {audience:["Family & Friends Only"],canceled:"2025-04-24T23:00:00Z",dataSource:"na",duration:60,facilitator:[907],id:8413,language:"English",location:"Corfu, New York",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[953],id:8417,language:"English",location:"Fort Worth, Texas",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[937],id:8423,language:"English",location:"Hollywood, Florida",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[551],id:8426,language:"English",location:"Springfield, Oregon",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-04-22T19:00:00Z",dataSource:"na",duration:60,facilitator:[551],id:8426,language:"English",location:"Springfield, Oregon",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[941],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[943],id:8433,language:"English",location:"St Charles, Missouri",program:"Successful Life Skills",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[958],id:8434,language:"English",location:"Lock Haven, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -1292,4 +1292,4 @@ const facilitators = {
   964:["Hayden","Oklahoma"],
   965:["Kennedy"]
 };
-const cachedAt = "2025-04-22T02:03:03Z";
+const cachedAt = "2025-04-22T03:03:04Z";
