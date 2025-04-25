@@ -547,10 +547,11 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[961],id:8401,language:"English",location:"Stanford, California",program:"4-Point Recovery",schedule:{day:0,time:"03:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[934],id:8402,language:"English",location:"Miami, Florida",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8406,language:"English",location:"Palm Springs, California",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
-  {audience:["Young Adults (18-30)"],canceled:"2025-04-24T23:00:00Z",dataSource:"na",duration:60,facilitator:[841],id:8410,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],canceled:"2025-04-24T23:00:00Z",dataSource:"na",duration:60,facilitator:[972],id:8413,language:"English",location:"Corfu, New York",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
+  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[841],id:8410,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[972],id:8413,language:"English",location:"Corfu, New York",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[953],id:8417,language:"English",location:"Fort Worth, Texas",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[937],id:8423,language:"English",location:"Hollywood, Florida",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
+  {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[973],id:8424,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[551],id:8426,language:"English",location:"Springfield, Oregon",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[941],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[943],id:8433,language:"English",location:"St Charles, Missouri",program:"Successful Life Skills",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -1284,6 +1285,7 @@ const facilitators = {
   969:["Mohammed"],
   970:["Matthew VanCamp"],
   971:["Stephanie"],
-  972:["Brian D."]
+  972:["Brian D."],
+  973:["Dylan Sparks"]
 };
-const cachedAt = "2025-04-24T23:03:05Z";
+const cachedAt = "2025-04-25T00:03:04Z";
