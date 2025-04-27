@@ -517,7 +517,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[849],id:8287,language:"English",location:"Litchfield, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[845],id:8293,language:"English",location:"Moorestown, New Jersey",program:"4-Point Recovery",schedule:{day:5,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[845],id:8294,language:"English",location:"Moorestown, New Jersey",program:"4-Point Recovery",schedule:{day:1,time:"13:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[859],id:8296,language:"English",location:"Mountain Brook, Alabama",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-04-27T20:00:00Z",dataSource:"na",duration:60,facilitator:[859],id:8296,language:"English",location:"Mountain Brook, Alabama",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[870],id:8299,language:"English",location:"Fredericksburg, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[855],id:8302,language:"English",location:"Overland Park, Kansas",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[841],id:8303,language:"English",location:"Hamden, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
@@ -1291,4 +1291,4 @@ const facilitators = {
   973:["Dylan Sparks"],
   974:["Brittney G"]
 };
-const cachedAt = "2025-04-27T18:03:03Z";
+const cachedAt = "2025-04-27T20:03:04Z";
