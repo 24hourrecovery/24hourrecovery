@@ -1,6 +1,5 @@
 const meetings = [
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604,689],id:1006,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[799],id:1011,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Online"},
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
@@ -23,6 +22,7 @@ const meetings = [
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1126,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[32],id:1182,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"04:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[619],id:1208,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:00Z",week:[1]},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[28,29,30],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[27],id:1227,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"08:30Z"},type:"Online"},
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
@@ -1059,6 +1059,7 @@ const facilitators = {
   613:["Gordon M"],
   614:["Nate"],
   618:["Mike Christner"],
+  619:["James","National"],
   620:["Thane"],
   622:["Dee"],
   623:["Sharm"],
@@ -1288,4 +1289,4 @@ const facilitators = {
   973:["Dylan Sparks"],
   974:["Brittney G"]
 };
-const cachedAt = "2025-04-28T09:03:04Z";
+const cachedAt = "2025-04-28T10:03:04Z";
