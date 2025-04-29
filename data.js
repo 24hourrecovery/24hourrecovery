@@ -528,7 +528,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8318,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[774],id:8324,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:2,time:"02:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,424,426,433,439,661,861,880],id:8337,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"01:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[915],id:8342,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[915],id:8342,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[906],id:8343,language:"English",location:"Edmond, Oklahoma",program:"Family & Friends",schedule:{day:3,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[605,875,876],id:8354,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[881],id:8358,language:"English",location:"Fountaintown, Indiana",program:"4-Point Recovery",schedule:{day:0,time:"05:00Z"},type:"Online"},
@@ -1288,4 +1288,4 @@ const facilitators = {
   975:["Alton Pagenkopf"],
   976:["Jennifer","Connecticut"]
 };
-const cachedAt = "2025-04-29T15:03:04Z";
+const cachedAt = "2025-04-29T16:03:04Z";
