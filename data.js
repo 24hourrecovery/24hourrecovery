@@ -549,7 +549,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[961],id:8401,language:"English",location:"Stanford, California",program:"4-Point Recovery",schedule:{day:0,time:"03:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[934],id:8402,language:"English",location:"Miami, Florida",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8406,language:"English",location:"Palm Springs, California",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
-  {audience:["Young Adults (18-30)"],canceled:"2025-05-01T23:00:00Z",dataSource:"na",duration:60,facilitator:[841],id:8410,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
+  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[841],id:8410,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[972],id:8413,language:"English",location:"Corfu, New York",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[953],id:8417,language:"English",location:"Fort Worth, Texas",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[937],id:8423,language:"English",location:"Hollywood, Florida",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
@@ -619,7 +619,8 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[949],id:1655,language:"English",location:"Truro, England",program:"SMART Recovery",schedule:{day:6,time:"09:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[641],id:1663,language:"English",location:"National",program:"Family & Friends",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[717],id:1673,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[939,940],id:1684,language:"English",location:"Harrogate, England",program:"SMART Recovery",schedule:{day:4,time:"13:00Z"},type:"Online"}
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[939,940],id:1684,language:"English",location:"Harrogate, England",program:"SMART Recovery",schedule:{day:4,time:"13:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[980],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"10:00Z"},type:"Online"}
 ];
 const facilitators = {
   6:["Isabella"],
@@ -1293,6 +1294,7 @@ const facilitators = {
   976:["Jennifer","Connecticut"],
   977:["Angie","New York"],
   978:["Trista"],
-  979:["Bruce S. Liese"]
+  979:["Bruce S. Liese"],
+  980:["Isha Isidore"]
 };
-const cachedAt = "2025-05-01T23:03:04Z";
+const cachedAt = "2025-05-02T00:03:05Z";
