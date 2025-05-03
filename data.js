@@ -1140,7 +1140,6 @@ const facilitators = {
   759:["Jacob Johnson"],
   761:["Steve Hosmer"],
   763:["Nadine Humphreys"],
-  769:["Nathan","Minnesota"],
   770:["Jacob W"],
   771:["Cass"],
   772:["Amber H"],
@@ -1295,4 +1294,4 @@ const facilitators = {
   979:["Bruce S. Liese"],
   980:["Isha Isidore"]
 };
-const cachedAt = "2025-05-03T22:03:04Z";
+const cachedAt = "2025-05-03T23:03:04Z";
