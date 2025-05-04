@@ -623,8 +623,6 @@ const facilitators = {
   6:["Isabella"],
   7:["Watershed Lives Lived Well"],
   8:["Andrew","National"],
-  9:["Turning Point"],
-  10:["Kristalleni"],
   11:["Meridian"],
   12:["Nigel"],
   14:["Odyssey House CES"],
@@ -1294,4 +1292,4 @@ const facilitators = {
   979:["Bruce S. Liese"],
   980:["Isha Isidore"]
 };
-const cachedAt = "2025-05-03T23:03:04Z";
+const cachedAt = "2025-05-04T00:03:04Z";
