@@ -3,6 +3,7 @@ const meetings = [
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[6],id:1016,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:00Z"},type:"Online"},
   {audience:["Female only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Online"},
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[9,10],id:1024,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[7],id:1026,language:"English",location:"Sydney, New South Wales",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[11],id:1028,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
@@ -623,6 +624,8 @@ const facilitators = {
   6:["Isabella"],
   7:["Watershed Lives Lived Well"],
   8:["Andrew","National"],
+  9:["Turning Point"],
+  10:["Kristalleni"],
   11:["Meridian"],
   12:["Nigel"],
   14:["Odyssey House CES"],
@@ -1292,4 +1295,4 @@ const facilitators = {
   979:["Bruce S. Liese"],
   980:["Isha Isidore"]
 };
-const cachedAt = "2025-05-04T00:03:04Z";
+const cachedAt = "2025-05-04T01:03:05Z";
