@@ -1094,7 +1094,6 @@ const facilitators = {
   683:["Sonia"],
   685:["Natalya Orlando"],
   688:["Jade"],
-  689:["Denis"],
   690:["Taylor Coats"],
   694:["Amy M"],
   695:["Annaleise McCullough"],
@@ -1267,7 +1266,6 @@ const facilitators = {
   951:["Noel Elmore"],
   952:["Frank H"],
   953:["Brooke M"],
-  954:["Nicholas","National"],
   955:["Kim Brown"],
   956:["Christian Bee"],
   957:["Charles Smith"],
@@ -1294,4 +1292,4 @@ const facilitators = {
   979:["Bruce S. Liese"],
   980:["Isha Isidore"]
 };
-const cachedAt = "2025-05-04T23:03:05Z";
+const cachedAt = "2025-05-05T00:03:04Z";
