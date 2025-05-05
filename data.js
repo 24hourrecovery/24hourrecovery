@@ -39,6 +39,7 @@ const meetings = [
   {audience:["Alcohol Focus","Men only"],dataSource:"au",duration:60,facilitator:[780],id:1359,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Gambling focus"],canceled:"2025-05-07T01:00:00Z",dataSource:"au",duration:90,facilitator:[866],id:1371,language:"English",location:"Wollongong, New South Wales",program:"Standard",schedule:{day:3,time:"01:00Z"},type:"Both"},
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z"},type:"Both"},
+  {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,954],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[34],id:1433,language:"English",location:"National",program:"Youth",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[51],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
@@ -1268,6 +1269,7 @@ const facilitators = {
   951:["Noel Elmore"],
   952:["Frank H"],
   953:["Brooke M"],
+  954:["Nicholas","National"],
   955:["Kim Brown"],
   956:["Christian Bee"],
   957:["Charles Smith"],
@@ -1294,4 +1296,4 @@ const facilitators = {
   979:["Bruce S. Liese"],
   980:["Isha Isidore"]
 };
-const cachedAt = "2025-05-05T03:03:04Z";
+const cachedAt = "2025-05-05T04:03:04Z";
