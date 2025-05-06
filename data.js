@@ -1148,7 +1148,6 @@ const facilitators = {
   795:["Chris","Alberta"],
   796:["Helena Machado"],
   797:["Antonio"],
-  798:["Bev"],
   799:["Nick","National"],
   800:["Jen T"],
   801:["Leo"],
@@ -1286,6 +1285,7 @@ const facilitators = {
   984:["Vladislav Khardzhiev"],
   985:["Lisa Goodkind"],
   986:["Keith"],
-  987:["Trish R"]
+  987:["Trish R"],
+  988:["Trista Wysong"]
 };
-const cachedAt = "2025-05-06T22:03:04Z";
+const cachedAt = "2025-05-06T23:03:05Z";
