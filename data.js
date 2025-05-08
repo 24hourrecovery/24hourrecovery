@@ -1041,7 +1041,6 @@ const facilitators = {
   620:["Thane"],
   622:["Dee"],
   623:["Sharm"],
-  624:["Jennifer Sams"],
   625:["Alexandra","New York"],
   627:["Lesley S"],
   630:["Angelena D"],
@@ -1282,4 +1281,4 @@ const facilitators = {
   988:["Trista Wysong"],
   989:["Andrew","Pennsylvania"]
 };
-const cachedAt = "2025-05-08T18:03:04Z";
+const cachedAt = "2025-05-08T19:03:04Z";
