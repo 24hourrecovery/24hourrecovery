@@ -418,7 +418,6 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[725],id:7820,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[538],id:7833,language:"English",location:"New Market, Virginia",program:"Family & Friends",schedule:{day:2,time:"22:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[539],id:7837,language:"English",location:"Selinsgrove, Pennsylvania",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[777],id:7841,language:"English",location:"Barrie, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"22:15Z",week:[1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541],id:7853,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[310],id:7861,language:"Spanish",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7863,language:"Russian",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
@@ -426,7 +425,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[544],id:7867,language:"English",location:"Desert Hot Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[728],id:7873,language:"English",location:"Reading, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[546],id:7874,language:"English",location:"Covington, Kentucky",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],canceled:"2025-05-07T23:30:00Z",dataSource:"na",duration:90,facilitator:[547],id:7881,language:"English",location:"Peterborough, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-05-14T23:30:00Z",dataSource:"na",duration:90,facilitator:[547],id:7881,language:"English",location:"Peterborough, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2025-05-08T20:00:00Z",dataSource:"na",duration:60,facilitator:[548],id:7890,language:"English",location:"Cañon City, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[345],id:7894,language:"English",location:"Ionia, Michigan",program:"Family & Friends",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[550],id:7895,language:"English",location:"North Bend, Oregon",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Both"},
@@ -1284,4 +1283,4 @@ const facilitators = {
   988:["Trista Wysong"],
   989:["Andrew","Pennsylvania"]
 };
-const cachedAt = "2025-05-08T00:03:04Z";
+const cachedAt = "2025-05-08T01:03:03Z";
