@@ -9,6 +9,7 @@ const meetings = [
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[11],id:1028,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[7],id:1031,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"01:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[14],id:1034,language:"English",location:"Redfern, New South Wales",program:"Standard",schedule:{day:4,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[17],id:1037,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[18,19],id:1038,language:"English",location:"Port Pirie, South Australia",program:"Standard",schedule:{day:5,time:"01:30Z"},type:"Online"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[20],id:1039,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"01:00Z"},type:"Online"},
@@ -423,7 +424,6 @@ const meetings = [
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7863,language:"Russian",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7864,language:"Russian",location:"Portland, Oregon",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[544],id:7867,language:"English",location:"Desert Hot Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[728],id:7873,language:"English",location:"Reading, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[546],id:7874,language:"English",location:"Covington, Kentucky",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],canceled:"2025-05-14T23:30:00Z",dataSource:"na",duration:90,facilitator:[547],id:7881,language:"English",location:"Peterborough, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[548],id:7890,language:"English",location:"Cañon City, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
@@ -1282,4 +1282,4 @@ const facilitators = {
   990:["Jason Collier"],
   991:["Kaela Hampton"]
 };
-const cachedAt = "2025-05-09T00:03:04Z";
+const cachedAt = "2025-05-09T01:03:04Z";
