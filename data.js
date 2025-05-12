@@ -269,6 +269,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[405],id:6636,language:"English",location:"Halifax, Nova Scotia",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[406],id:6649,language:"English",location:"Schaumburg, Illinois",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[407],id:6650,language:"English",location:"Millinocket, Maine",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[408],id:6652,language:"English",location:"Baraboo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z",week:[1,3,4,-1]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[847],id:6674,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[646],id:6688,language:"English",location:"Miami, Florida",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[412],id:6700,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
@@ -543,11 +544,11 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[577],id:1351,language:"English",location:"Bath, England",program:"SMART Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[578],id:1352,language:"English",location:"Exeter, England",program:"SMART Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[579],id:1353,language:"English",location:"England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,587,788],id:1355,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:2,time:"09:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[587,788],id:1355,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1356,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:1,time:"16:45Z"},type:"Online"},
   {audience:["Women Only"],dataSource:"uk",duration:90,facilitator:null,id:1357,language:"English",location:"Woking, England",program:"SMART Recovery",schedule:{day:3,time:"10:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[584,585],id:1369,language:"English",location:"Gloucester, England",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[580,588,788],id:1373,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:3,time:"18:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[588,788],id:1373,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:3,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[589],id:1378,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[590],id:1381,language:"English",location:"Inverness, Scotland",program:"SMART Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[591],id:1388,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:1,time:"16:45Z"},type:"Online"},
@@ -858,6 +859,7 @@ const facilitators = {
   405:["Mark Peyton"],
   406:["Mary Kay Betz"],
   407:["Ken Anderson"],
+  408:["Benjamin Miller"],
   412:["Sharon R."],
   414:["Calhoun FRN"],
   415:["Dan Kasriel"],
@@ -961,7 +963,6 @@ const facilitators = {
   577:["Toby Branfoot"],
   578:["Michael Hussey"],
   579:["Spencer Suckling"],
-  580:["Kizzy Helgesen"],
   584:["John Paterson"],
   585:["Jeff Dawson"],
   587:["Jamie Thorne"],
@@ -1214,4 +1215,4 @@ const facilitators = {
   990:["Jason Collier"],
   991:["Kaela Hampton"]
 };
-const cachedAt = "2025-05-12T13:03:04Z";
+const cachedAt = "2025-05-12T14:03:03Z";
