@@ -237,7 +237,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[380],id:6257,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[605],id:6265,language:"English",location:"Las Vegas, Nevada",program:"Family & Friends",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["School & College","Teens (13-17)"],dataSource:"na",duration:90,facilitator:[382,383],id:6273,language:"English",location:"Palm Desert, California",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[182,384],id:630,language:"English",location:"Durham, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-05-14T23:00:00Z",dataSource:"na",duration:90,facilitator:[182,384],id:630,language:"English",location:"Durham, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[385,895],id:6301,language:"English",location:"Santa Paula, California",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[256,257,259],id:6325,language:"English",location:"Mankato, Minnesota",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[97,114],id:6329,language:"English",location:"Lexington Park, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Both"},
@@ -1221,4 +1221,4 @@ const facilitators = {
   1021:["Leonard Murphy"],
   1026:["William","California"]
 };
-const cachedAt = "2025-05-14T22:03:03Z";
+const cachedAt = "2025-05-14T23:03:06Z";
