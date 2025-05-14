@@ -521,9 +521,10 @@ const meetings = [
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[966],id:8459,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[974],id:8461,language:"English",location:"Newport, Arkansas",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[991],id:8468,language:"English",location:"Columbia, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
+  {audience:["Patients & Clients"],dataSource:"na",duration:90,facilitator:[1026],id:8469,language:"English",location:"Bakersfield, California",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[977],id:8471,language:"English",location:"Buffalo, New York",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[978],id:8478,language:"English",location:"Bogue, Kansas",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[987],id:8486,language:"English",location:"Marinette, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"11:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[987],id:8486,language:"English",location:"Marinette, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Not specified"],dataSource:"na",duration:90,facilitator:null,id:8496,language:"",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[556],id:8497,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
@@ -872,7 +873,7 @@ const facilitators = {
   427:["Cassandra Toppi"],
   429:["Sandy"],
   430:["Adam","Virginia"],
-  432:["William"],
+  432:["William","Virginia"],
   433:["Amy M."],
   434:["Stephen"],
   435:["Alan S."],
@@ -1217,6 +1218,7 @@ const facilitators = {
   1012:["Kaitlyn M"],
   1013:["Paul","Colorado"],
   1018:["Jason Collier"],
-  1021:["Leonard Murphy"]
+  1021:["Leonard Murphy"],
+  1026:["William","California"]
 };
-const cachedAt = "2025-05-14T19:03:03Z";
+const cachedAt = "2025-05-14T20:03:03Z";
