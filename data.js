@@ -446,7 +446,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[748],id:8188,language:"English",location:"Los Gatos, California",program:"4-Point Recovery",schedule:{day:6,time:"16:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[759],id:8194,language:"English",location:"Aurora, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8199,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[769],id:8200,language:"English",location:"Maple Grove, Minnesota",program:"Family & Friends",schedule:{day:5,time:"23:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541],id:8201,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[795],id:8205,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[770],id:8209,language:"English",location:"Myrtle Beach, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
@@ -1213,4 +1212,4 @@ const facilitators = {
   1021:["Leonard Murphy"],
   1026:["William","California"]
 };
-const cachedAt = "2025-05-17T00:03:04Z";
+const cachedAt = "2025-05-17T01:03:04Z";
