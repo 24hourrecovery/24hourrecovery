@@ -1150,7 +1150,6 @@ const facilitators = {
   932:["Friar Eddie Cass"],
   933:["Ledy"],
   934:["Tom V."],
-  935:["Sooz D"],
   936:["Ted"],
   937:["Antoinette G."],
   938:["Elizabeth","New York"],
@@ -1208,4 +1207,4 @@ const facilitators = {
   1021:["Leonard Murphy"],
   1026:["William","California"]
 };
-const cachedAt = "2025-05-19T13:03:03Z";
+const cachedAt = "2025-05-19T14:03:04Z";
