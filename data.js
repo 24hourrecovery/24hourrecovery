@@ -439,6 +439,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[745],id:8129,language:"English",location:"Naugatuck, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[721],id:8137,language:"English",location:"Savannah, Tennessee",program:"Successful Life Skills",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[725],id:8144,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[739],id:8161,language:"English",location:"Blue Point, New York",program:"4-Point Recovery",schedule:{day:0,time:"23:30Z",week:[-1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[740],id:8170,language:"English",location:"Monticello, Utah",program:"Family & Friends",schedule:{day:2,time:"17:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[771],id:8181,language:"English",location:"Amherst, Nova Scotia",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[748],id:8188,language:"English",location:"Los Gatos, California",program:"4-Point Recovery",schedule:{day:6,time:"16:30Z"},type:"Online"},
@@ -1031,6 +1032,7 @@ const facilitators = {
   734:["Peter Meyer"],
   736:["Rachel"],
   737:["Joel R."],
+  739:["Hayden","New York"],
   740:["Gordon"],
   741:["Danielle"],
   743:["Zach"],
@@ -1207,4 +1209,4 @@ const facilitators = {
   1021:["Leonard Murphy"],
   1026:["William","California"]
 };
-const cachedAt = "2025-05-18T23:03:03Z";
+const cachedAt = "2025-05-19T00:03:03Z";
