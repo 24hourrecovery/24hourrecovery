@@ -112,7 +112,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[67],id:4223,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[212],id:4228,language:"English",location:"Shoreline, Washington",program:"Family & Friends",schedule:{day:6,time:"02:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[155],id:4248,language:"English",location:"Southbury, Connecticut",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[213],id:4270,language:"English",location:"Hamden, Connecticut",program:"Family & Friends",schedule:{day:1,time:"21:30Z"},type:"Both"},
+  {audience:["Adults Welcome"],canceled:"2025-05-26T21:30:00Z",dataSource:"na",duration:60,facilitator:[213],id:4270,language:"English",location:"Hamden, Connecticut",program:"Family & Friends",schedule:{day:1,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[214],id:4285,language:"English",location:"Houston, Texas",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[215,216,217],id:4286,language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[218,219,220,221],id:4300,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
@@ -1206,4 +1206,4 @@ const facilitators = {
   1059:["Samantha T."],
   1062:["Vikki P"]
 };
-const cachedAt = "2025-05-22T13:03:04Z";
+const cachedAt = "2025-05-22T14:03:04Z";
