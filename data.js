@@ -98,7 +98,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[195,196],id:3983,language:"English",location:"Cumming, Georgia",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[197,198,199,200],id:4026,language:"English",location:"Palm Desert, California",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Both"},
   {audience:["Adults Welcome"],canceled:"2025-05-30T17:00:00Z",dataSource:"na",duration:90,facilitator:[201],id:4044,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-05-24T13:00:00Z",dataSource:"na",duration:90,facilitator:[202,750,968],id:4063,language:"English",location:"West Milford, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"13:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[202,750,968],id:4063,language:"English",location:"West Milford, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"13:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[203,613,946],id:4096,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[204],id:4109,language:"English",location:"Burlington, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"23:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[284],id:4121,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Both"},
@@ -433,7 +433,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[739],id:8161,language:"English",location:"Blue Point, New York",program:"4-Point Recovery",schedule:{day:0,time:"23:30Z",week:[-1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[740],id:8170,language:"English",location:"Monticello, Utah",program:"Family & Friends",schedule:{day:2,time:"17:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[771],id:8181,language:"English",location:"Amherst, Nova Scotia",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[748],id:8188,language:"English",location:"Los Gatos, California",program:"4-Point Recovery",schedule:{day:6,time:"16:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-05-24T16:30:00Z",dataSource:"na",duration:90,facilitator:[748],id:8188,language:"English",location:"Los Gatos, California",program:"4-Point Recovery",schedule:{day:6,time:"16:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[759],id:8194,language:"English",location:"Aurora, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8199,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541],id:8201,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Online"},
@@ -1060,12 +1060,12 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1077,7 +1077,6 @@ const facilitators = {
   847:["Carey"],
   848:["Cynthia Getman-Hubbard"],
   849:["Lauren D."],
-  851:["Remi"],
   852:["Bernice Lee"],
   854:["Maya"],
   855:["Ava Burre"],
@@ -1182,4 +1181,4 @@ const facilitators = {
   1059:["Samantha T."],
   1062:["Vikki P"]
 };
-const cachedAt = "2025-05-24T13:03:04Z";
+const cachedAt = "2025-05-24T14:03:04Z";
