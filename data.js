@@ -340,6 +340,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[241],id:7394,language:"English",location:"McFarland, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7420,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7421,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
+  {audience:["BIPOC","Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[503,1021],id:7425,language:"English",location:"Vernon, Connecticut",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[504],id:7439,language:"English",location:"Lima, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7445,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7446,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Online"},
@@ -886,6 +887,7 @@ const facilitators = {
   488:["Ken Connelly"],
   492:["Dave A"],
   497:["T"],
+  503:["Markita Renee"],
   504:["Caleb Farmer"],
   505:["Michele Blair"],
   506:["Sabrina (Brie) M."],
@@ -1176,6 +1178,7 @@ const facilitators = {
   1011:["Jonathon Maxgay"],
   1013:["Paul","Colorado"],
   1018:["Jason Collier"],
+  1021:["Leonard Murphy"],
   1026:["William","California"],
   1050:["Kris Runske"],
   1051:["Kaitlyn M"],
@@ -1183,4 +1186,4 @@ const facilitators = {
   1059:["Samantha T."],
   1062:["Vikki P"]
 };
-const cachedAt = "2025-05-26T21:03:04Z";
+const cachedAt = "2025-05-26T22:03:04Z";
