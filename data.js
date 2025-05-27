@@ -117,7 +117,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[215,216,217],id:4286,language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[218,219,220,221],id:4300,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[222],id:4312,language:"English",location:"South Salt Lake, Utah",program:"4-Point Recovery",schedule:{day:6,time:"15:30Z"},type:"Both"},
-  {audience:["Adults Welcome"],canceled:"2025-05-26T23:00:00Z",dataSource:"na",duration:60,facilitator:[223,224],id:4333,language:"English",location:"Rochester, New York",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[223,224],id:4333,language:"English",location:"Rochester, New York",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[225],id:4368,language:"English",location:"Ravenna, Ohio",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[227,228],id:4384,language:"English",location:"Wilmette, Illinois",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[230,231],id:4441,language:"English",location:"Calgary, Alberta",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
@@ -241,7 +241,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[385,895],id:6301,language:"English",location:"Santa Paula, California",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[256,257,259],id:6325,language:"English",location:"Mankato, Minnesota",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[97,114],id:6329,language:"English",location:"Lexington Park, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],canceled:"2025-05-26T23:00:00Z",dataSource:"na",duration:90,facilitator:[105],id:6337,language:"English",location:"South Burlington, Vermont",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[105],id:6337,language:"English",location:"South Burlington, Vermont",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[386,802],id:634,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,1011],id:6380,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"13:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,1011],id:6381,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
@@ -1011,7 +1011,6 @@ const facilitators = {
   734:["Peter Meyer"],
   736:["Rachel"],
   737:["Joel R."],
-  739:["Hayden","New York"],
   740:["Gordon"],
   741:["Danielle"],
   743:["Zach"],
@@ -1066,12 +1065,12 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1188,4 +1187,4 @@ const facilitators = {
   1059:["Samantha T."],
   1062:["Vikki P"]
 };
-const cachedAt = "2025-05-26T23:03:03Z";
+const cachedAt = "2025-05-27T00:03:04Z";
