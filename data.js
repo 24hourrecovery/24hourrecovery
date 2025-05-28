@@ -554,7 +554,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[902],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:60,facilitator:[701],id:1603,language:"English",location:"Stevenage, England",program:"SMART Veterans",schedule:{day:2,time:"17:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[752,753],id:1640,language:"Punjabi",location:"National",program:"SMART Recovery",schedule:{day:0,time:"07:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-05-28T09:00:00Z",dataSource:"uk",duration:90,facilitator:[846],id:1643,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"09:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[846],id:1643,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[955],id:1648,language:"English",location:"Inverness, Scotland",program:"SMART Recovery",schedule:{day:3,time:"13:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[796],id:1652,language:"Portuguese",location:"National",program:"SMART Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[949],id:1655,language:"English",location:"Truro, England",program:"SMART Recovery",schedule:{day:6,time:"09:30Z"},type:"Online"},
@@ -1065,12 +1065,12 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1186,4 +1186,4 @@ const facilitators = {
   1086:["Kaitlyn M"],
   1088:["Lea"]
 };
-const cachedAt = "2025-05-28T09:03:04Z";
+const cachedAt = "2025-05-28T10:03:04Z";
