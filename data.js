@@ -487,7 +487,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[961],id:8401,language:"English",location:"Stanford, California",program:"4-Point Recovery",schedule:{day:0,time:"03:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[934],id:8402,language:"English",location:"Miami, Florida",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8406,language:"English",location:"Palm Springs, California",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
-  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[841],id:8410,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
+  {audience:["Young Adults (18-30)"],canceled:"2025-05-29T23:00:00Z",dataSource:"na",duration:60,facilitator:[841],id:8410,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[972],id:8413,language:"English",location:"Corfu, New York",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[953],id:8417,language:"English",location:"Fort Worth, Texas",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[937],id:8423,language:"English",location:"Hollywood, Florida",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
@@ -1072,7 +1072,7 @@ const facilitators = {
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1188,4 +1188,4 @@ const facilitators = {
   1093:["Hank"],
   1094:["Andrea","Kansas"]
 };
-const cachedAt = "2025-05-29T17:03:03Z";
+const cachedAt = "2025-05-29T18:03:04Z";
