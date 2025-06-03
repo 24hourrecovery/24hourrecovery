@@ -1075,7 +1075,7 @@ const facilitators = {
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
+  836:["Jesus Cisneros","Global / United States"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1190,4 +1190,4 @@ const facilitators = {
   1120:["Simone"],
   1121:["David"]
 };
-const cachedAt = "2025-06-03T05:03:05Z";
+const cachedAt = "2025-06-03T06:03:05Z";
