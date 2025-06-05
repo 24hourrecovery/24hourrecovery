@@ -73,7 +73,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[160],id:3056,language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"13:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[161],id:3079,language:"English",location:"Silver Spring, Maryland",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[141,162],id:3105,language:"English",location:"Plymouth, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[163,164,165],id:3183,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-06-05T23:30:00Z",dataSource:"na",duration:90,facilitator:[163,164,165],id:3183,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[166],id:3228,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[167],id:3231,language:"English",location:"Decatur, Georgia",program:"4-Point Recovery",schedule:{day:2,time:"22:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[801,804,882,883],id:3246,language:"English",location:"Duluth, Georgia",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
@@ -1067,12 +1067,12 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1196,4 +1196,4 @@ const facilitators = {
   1137:["Susanne Mießner"],
   1138:["Kerstin Edwards"]
 };
-const cachedAt = "2025-06-05T11:03:03Z";
+const cachedAt = "2025-06-05T12:03:04Z";
