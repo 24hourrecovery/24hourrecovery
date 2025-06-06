@@ -346,7 +346,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7445,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7446,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7447,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-06-06T17:00:00Z",dataSource:"na",duration:60,facilitator:[676],id:7448,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:5,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7448,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:5,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[847],id:7451,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"11:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278,505],id:747,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[236,506],id:7495,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
@@ -423,7 +423,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[694,709],id:8070,language:"English",location:"Oakland, California",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[670],id:8075,language:"English",location:"Austin, Texas",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[810],id:8080,language:"English",location:"Columbus, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[685],id:8086,language:"English",location:"Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-06-09T15:00:00Z",dataSource:"na",duration:60,facilitator:[685],id:8086,language:"English",location:"Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[723],id:8088,language:"English",location:"Charlottesville, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[700],id:8089,language:"English",location:"Rocklin, California",program:"4-Point Recovery",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[711],id:8123,language:"English",location:"Encinitas, California",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
@@ -1063,7 +1063,7 @@ const facilitators = {
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
+  836:["Jesus Cisneros","Global / United States"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1188,4 +1188,4 @@ const facilitators = {
   1144:["Cindy"],
   1148:["Jamie Thorne"]
 };
-const cachedAt = "2025-06-06T17:03:04Z";
+const cachedAt = "2025-06-06T18:03:03Z";
