@@ -508,6 +508,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1088],id:8522,language:"English",location:"Monroe, Michigan",program:"Family & Friends",schedule:{day:2,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[552],id:8526,language:"English",location:"Tampa, Florida",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1099],id:8531,language:"English",location:"Crystal Lake, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1153],id:8560,language:"English",location:"Oswego, New York",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1121],id:8566,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1135],id:8574,language:"English",location:"Temple, Texas",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
@@ -1054,7 +1055,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1182,6 +1183,7 @@ const facilitators = {
   1137:["Susanne Mießner"],
   1138:["Kerstin Edwards"],
   1144:["Cindy"],
-  1148:["Jamie Thorne"]
+  1148:["Jamie Thorne"],
+  1153:["Ryan","New York"]
 };
-const cachedAt = "2025-06-07T23:03:03Z";
+const cachedAt = "2025-06-08T00:03:04Z";
