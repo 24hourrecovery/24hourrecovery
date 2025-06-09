@@ -1058,7 +1058,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1190,4 +1190,4 @@ const facilitators = {
   1148:["Jamie Thorne"],
   1153:["Ryan","New York"]
 };
-const cachedAt = "2025-06-09T07:03:03Z";
+const cachedAt = "2025-06-09T08:03:04Z";
