@@ -164,7 +164,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[283],id:5136,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:4,time:"17:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[283],id:5137,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:5,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[284],id:5139,language:"English",location:"Beach Park, Illinois",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-06-09T22:30:00Z",dataSource:"na",duration:60,facilitator:[145,285,884],id:514,language:"English",location:"Towson, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[145,285,884],id:514,language:"English",location:"Towson, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[288,852],id:5147,language:"English",location:"Vancouver, British Columbia",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[289],id:5154,language:"English",location:"Malibu, California",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[747],id:522,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:6,time:"12:30Z"},type:"Online"},
@@ -1065,12 +1065,12 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
+  836:["Jesus Cisneros","Global / United States"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1200,4 +1200,4 @@ const facilitators = {
   1162:["Christopher"],
   1163:["Eddie Cass"]
 };
-const cachedAt = "2025-06-09T23:03:04Z";
+const cachedAt = "2025-06-10T00:03:04Z";
