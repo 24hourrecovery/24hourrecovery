@@ -1176,7 +1176,6 @@ const facilitators = {
   1062:["Vikki P"],
   1086:["Kaitlyn M"],
   1088:["Lea"],
-  1089:["Tess"],
   1091:["Jess","West Virginia"],
   1094:["Andrea","Kansas"],
   1099:["Monica A"],
@@ -1197,4 +1196,4 @@ const facilitators = {
   1168:["Susanne"],
   1169:["Kerstin"]
 };
-const cachedAt = "2025-06-10T23:03:04Z";
+const cachedAt = "2025-06-11T00:03:04Z";
