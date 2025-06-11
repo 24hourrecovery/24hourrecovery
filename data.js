@@ -245,7 +245,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[101,855],id:6383,language:"English",location:"Overland Park, Kansas",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Both"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[908],id:6403,language:"English",location:"St. Louis, Missouri",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[69,70,648],id:641,language:"English",location:"Concord, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[389],id:6414,language:"English",location:"Culpeper, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Both"},
   {audience:["Men"],dataSource:"na",duration:60,facilitator:[322],id:6423,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[275],id:6432,language:"English",location:"Edmonton, Alberta",program:"Family & Friends",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[50,51],id:6446,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:4,time:"00:30Z"},type:"Online"},
@@ -374,7 +373,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[536],id:7814,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[531],id:7818,language:"English",location:"North Saanich, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[725],id:7820,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:1,time:"23:30Z"},type:"Online"},
-  {audience:["LGBTQIA+"],canceled:"2025-06-11T16:00:00Z",dataSource:"na",duration:90,facilitator:[539],id:7837,language:"English",location:"Selinsgrove, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
+  {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[539],id:7837,language:"English",location:"Selinsgrove, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541],id:7853,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[310],id:7861,language:"Spanish",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7863,language:"Russian",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
@@ -826,7 +825,6 @@ const facilitators = {
   384:["Mo"],
   385:["Sina Martel"],
   386:["Catherine"],
-  389:["Gaelen E."],
   392:["Carolyn"],
   393:["Christine H"],
   394:["Marilyn Roysdon"],
@@ -1194,4 +1192,4 @@ const facilitators = {
   1169:["Kerstin"],
   1172:["South African Meeting Host Team"]
 };
-const cachedAt = "2025-06-11T16:03:04Z";
+const cachedAt = "2025-06-11T17:03:04Z";
