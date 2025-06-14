@@ -332,6 +332,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[497,652],id:7343,language:"English",location:"Youngstown, Ohio",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[971],id:7345,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[971],id:7346,language:"English",location:"Lakewood, Colorado",program:"Family & Friends",schedule:{day:6,time:"18:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:75,facilitator:[700,789,1159],id:7358,language:"English",location:"Sacramento, California",program:"4-Point Recovery",schedule:{day:6,time:"19:15Z",week:[1,3]},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[676],id:7360,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7361,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[241],id:7394,language:"English",location:"McFarland, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -447,7 +448,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[791],id:8251,language:"English",location:"Las Vegas, Nevada",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[798],id:8256,language:"English",location:"Rockford, Illinois",program:"Family & Friends",schedule:{day:1,time:"23:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8266,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-06-14T19:00:00Z",dataSource:"na",duration:90,facilitator:[793],id:8268,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"19:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[793],id:8268,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[794],id:8269,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:1,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[530],id:8274,language:"English",location:"Town of Rockingham, Vermont",program:"4-Point Recovery",schedule:{day:4,time:"12:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
@@ -1061,12 +1062,12 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
+  836:["Jesus Cisneros","Global / United States"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1195,4 +1196,4 @@ const facilitators = {
   1172:["South African Meeting Host Team"],
   1179:["Jack McGraw"]
 };
-const cachedAt = "2025-06-14T19:03:05Z";
+const cachedAt = "2025-06-14T20:03:04Z";
