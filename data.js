@@ -558,7 +558,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[846],id:1643,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[955],id:1648,language:"English",location:"Inverness, Scotland",program:"SMART Recovery",schedule:{day:3,time:"13:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[796],id:1652,language:"Portuguese",location:"National",program:"SMART Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Family & Friends Only"],canceled:"2025-06-18T13:00:00Z",dataSource:"uk",duration:60,facilitator:[641],id:1663,language:"English",location:"National",program:"Family & Friends",schedule:{day:3,time:"13:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Family & Friends Only"],canceled:"2025-06-25T13:00:00Z",dataSource:"uk",duration:60,facilitator:[641],id:1663,language:"English",location:"National",program:"Family & Friends",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[939,940],id:1684,language:"English",location:"Harrogate, England",program:"SMART Recovery",schedule:{day:4,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[980],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"10:00Z"},type:"Online"}
 ];
@@ -1183,4 +1183,4 @@ const facilitators = {
   1172:["South African Meeting Host Team"],
   1179:["Jack McGraw"]
 };
-const cachedAt = "2025-06-18T13:03:06Z";
+const cachedAt = "2025-06-18T14:03:05Z";
