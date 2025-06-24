@@ -567,7 +567,6 @@ const meetings = [
 ];
 const facilitators = {
   8:["Andrew","National"],
-  24:["Dave","New South Wales"],
   28:["Patrick"],
   50:["Natalie"],
   51:["Rebecca Heller"],
@@ -1060,7 +1059,7 @@ const facilitators = {
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
+  836:["Jesus Cisneros","Global / United States"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1191,4 +1190,4 @@ const facilitators = {
   1213:["Rosana"],
   1214:["Melissa J. Case"]
 };
-const cachedAt = "2025-06-24T02:03:03Z";
+const cachedAt = "2025-06-24T03:03:07Z";
