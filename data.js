@@ -130,7 +130,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[249],id:4638,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[250],id:4639,language:"English",location:"South Pasadena, California",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[251,252,946],id:4644,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:3,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[215,253],id:4651,language:"English",location:"Hackensack, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[215,1231],id:4651,language:"English",location:"Hackensack, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[176,254,1136],id:4657,language:"English",location:"Nashville, Tennessee",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[255,256,257,259],id:4697,language:"English",location:"Mankato, Minnesota",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[204],id:4711,language:"English",location:"Oakville, Ontario",program:"Family & Friends",schedule:{day:0,time:"23:15Z"},type:"Online"},
@@ -736,7 +736,6 @@ const facilitators = {
   250:["Prue Cooper"],
   251:["Michael McNally"],
   252:["David Moore"],
-  253:["Frank","New Jersey"],
   254:["Michael Collins"],
   255:["Doug Tschann"],
   256:["Emily Peterson"],
@@ -1060,7 +1059,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1197,6 +1196,8 @@ const facilitators = {
   1227:["Caryn Feldman"],
   1228:["Jason Collier"],
   1229:["Z. Lopez"],
-  1230:["Greg H"]
+  1230:["Greg H"],
+  1231:["Frank","New Jersey"],
+  1232:["Angela Bekederemo"]
 };
-const cachedAt = "2025-06-27T17:03:06Z";
+const cachedAt = "2025-06-27T18:03:05Z";
