@@ -324,7 +324,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[476],id:7261,language:"English",location:"Bethlehem, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"11:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[741,755],id:7269,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[455,482,741,784],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[483,938],id:7274,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[483,766,938],id:7274,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[484,485],id:7275,language:"English",location:"Swansea, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[725],id:7301,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[469,487],id:7302,language:"English",location:"National",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
@@ -415,8 +415,8 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,439,661,861,982],id:8051,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[657],id:8052,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[681],id:8053,language:"English",location:"Sioux Falls, South Dakota",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[893],id:8054,language:"English",location:"Conway, Arkansas",program:"Family & Friends",schedule:{day:1,time:"21:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[893],id:8055,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Both"},
+  {audience:["Family & Friends Only"],canceled:"2025-06-30T21:30:00Z",dataSource:"na",duration:60,facilitator:[893],id:8054,language:"English",location:"Conway, Arkansas",program:"Family & Friends",schedule:{day:1,time:"21:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-07-02T14:00:00Z",dataSource:"na",duration:60,facilitator:[893],id:8055,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[893],id:8056,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Both"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[971],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[694,709],id:8070,language:"English",location:"Oakland, California",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
@@ -440,7 +440,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8199,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541],id:8201,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[795],id:8205,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[770],id:8209,language:"English",location:"Myrtle Beach, South Carolina",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[770],id:8209,language:"English",location:"Myrtle Beach, South Carolina",program:"4-Point Recovery",schedule:{day:6,time:"19:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[432,772],id:8213,language:"English",location:"Richmond, Virginia",program:"Family & Friends",schedule:{day:3,time:"16:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[927,928],id:8219,language:"English",location:"Yucca Valley, California",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
@@ -1026,6 +1026,7 @@ const facilitators = {
   759:["Jacob Johnson"],
   761:["Steve Hosmer"],
   763:["Nadine Humphreys"],
+  766:["Dan","National"],
   770:["Jacob W"],
   771:["Cass"],
   772:["Amber H"],
@@ -1205,4 +1206,4 @@ const facilitators = {
   1232:["Angela Bekederemo"],
   1239:["Ifechidere Ugwuibe"]
 };
-const cachedAt = "2025-06-30T17:03:04Z";
+const cachedAt = "2025-06-30T18:03:04Z";
