@@ -269,7 +269,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[646],id:6688,language:"English",location:"Miami, Florida",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[412],id:6700,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[414,1091],id:6708,language:"English",location:"Grantsville, West Virginia",program:"4-Point Recovery",schedule:{day:6,time:"21:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],canceled:"2025-07-06T15:30:00Z",dataSource:"na",duration:90,facilitator:[415],id:6709,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:0,time:"15:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[415],id:6709,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:0,time:"15:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[416],id:6712,language:"English",location:"Farmington, Maine",program:"4-Point Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[877,1086],id:6737,language:"English",location:"Brampton, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[967],id:6754,language:"Spanish",location:"Rochester, New York",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Both"},
@@ -1061,7 +1061,7 @@ const facilitators = {
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
+  836:["Jesus Cisneros","Global / United States"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1206,4 +1206,4 @@ const facilitators = {
   1251:["Justin"],
   1252:["Olivier Engoute"]
 };
-const cachedAt = "2025-07-06T16:03:07Z";
+const cachedAt = "2025-07-06T17:03:05Z";
