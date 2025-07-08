@@ -571,7 +571,6 @@ const meetings = [
 ];
 const facilitators = {
   8:["Andrew","National"],
-  24:["Dave","New South Wales"],
   28:["Patrick"],
   50:["Natalie"],
   51:["Rebecca Heller"],
@@ -1205,4 +1204,4 @@ const facilitators = {
   1251:["Justin"],
   1252:["Olivier Engoute"]
 };
-const cachedAt = "2025-07-08T02:03:06Z";
+const cachedAt = "2025-07-08T03:03:07Z";
