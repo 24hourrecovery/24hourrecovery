@@ -170,7 +170,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[178],id:524,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[293],id:5276,language:"English",location:"Victoria, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[294,295],id:5283,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[296],id:5294,language:"English",location:"Columbus, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],canceled:"2025-07-16T15:00:00Z",dataSource:"na",duration:60,facilitator:[296],id:5294,language:"English",location:"Columbus, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[89],id:5295,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[700,789,1159],id:5329,language:"English",location:"Sacramento, California",program:"4-Point Recovery",schedule:{day:0,time:"16:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[301],id:5374,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -1041,6 +1041,7 @@ const facilitators = {
   823:["Dave and Tina"],
   824:["Patrese Calheiros"],
   825:["Mike Hooper"],
+  826:["SMART Espanol Women&#x27;s Meetings"],
   827:["Oscar"],
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
@@ -1193,4 +1194,4 @@ const facilitators = {
   1264:["Priscilla Kimari"],
   1265:["Vanessa Carle"]
 };
-const cachedAt = "2025-07-09T18:03:05Z";
+const cachedAt = "2025-07-09T19:03:05Z";
