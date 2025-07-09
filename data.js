@@ -568,7 +568,6 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[980],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"10:00Z"},type:"Online"}
 ];
 const facilitators = {
-  8:["Andrew","National"],
   24:["Dave","New South Wales"],
   28:["Patrick"],
   50:["Natalie"],
@@ -1056,7 +1055,7 @@ const facilitators = {
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
+  836:["Jesus Cisneros","Global / United States"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1199,4 +1198,4 @@ const facilitators = {
   1251:["Justin"],
   1252:["Olivier Engoute"]
 };
-const cachedAt = "2025-07-09T07:03:03Z";
+const cachedAt = "2025-07-09T08:03:05Z";
