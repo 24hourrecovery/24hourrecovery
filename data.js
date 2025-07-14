@@ -1050,7 +1050,6 @@ const facilitators = {
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
-  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1197,4 +1196,4 @@ const facilitators = {
   1277:["Dhiraj"],
   1285:["Shayan Abdullah"]
 };
-const cachedAt = "2025-07-14T20:03:04Z";
+const cachedAt = "2025-07-14T21:03:04Z";
