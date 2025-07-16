@@ -1035,16 +1035,17 @@ const facilitators = {
   823:["Dave and Tina"],
   824:["Patrese Calheiros"],
   825:["Mike Hooper"],
+  826:["SMART Espanol Women&#x27;s Meetings"],
   827:["Oscar"],
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1191,4 +1192,4 @@ const facilitators = {
   1287:["Laura Stephenson"],
   1289:["Mark Wronkiewicz"]
 };
-const cachedAt = "2025-07-16T18:03:06Z";
+const cachedAt = "2025-07-16T19:03:04Z";
