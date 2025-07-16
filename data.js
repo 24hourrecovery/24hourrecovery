@@ -520,6 +520,7 @@ const meetings = [
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[278,505],id:957,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278,505],id:962,language:"English",location:"Bowie, Maryland",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[567,568],id:98,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[585],id:1041,language:"English",location:"Gloucester, England",program:"SMART Recovery",schedule:{day:3,time:"14:30Z"},type:"Online"},
   {audience:["Military Personnel"],dataSource:"uk",duration:90,facilitator:[570],id:1047,language:"English",location:"Catterick Garrison, England",program:"Mil-SMART",schedule:{day:2,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[571],id:1061,language:"English",location:"Leicester, England",program:"SMART Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],id:1064,language:"English",location:"Bangor, Wales",program:"SMART Recovery",schedule:{day:2,time:"09:00Z"},type:"Both"},
@@ -562,7 +563,8 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[796],id:1652,language:"Portuguese",location:"National",program:"SMART Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],canceled:"2025-07-16T13:00:00Z",dataSource:"uk",duration:60,facilitator:[641],id:1663,language:"English",location:"National",program:"Family & Friends",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[939,940],id:1684,language:"English",location:"Harrogate, England",program:"SMART Recovery",schedule:{day:4,time:"13:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Family & Friends Only"],canceled:"2025-07-17T10:00:00Z",dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"10:00Z"},type:"Online"}
+  {audience:["Adults Welcome","Family & Friends Only"],canceled:"2025-07-17T10:00:00Z",dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"10:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[585],id:1714,language:"English",location:"Gloucester, England",program:"SMART Recovery",schedule:{day:4,time:"09:00Z"},type:"Online"}
 ];
 const facilitators = {
   24:["Dave","New South Wales"],
@@ -1040,7 +1042,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1192,4 +1194,4 @@ const facilitators = {
   1287:["Laura Stephenson"],
   1289:["Mark Wronkiewicz"]
 };
-const cachedAt = "2025-07-16T08:03:04Z";
+const cachedAt = "2025-07-16T09:03:04Z";
