@@ -1,4 +1,5 @@
 const meetings = [
+  {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome","Divorced partners and parents"],dataSource:"au",duration:90,facilitator:[1089],id:1450,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[51],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
@@ -569,6 +570,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[585],id:1714,language:"English",location:"Gloucester, England",program:"SMART Recovery",schedule:{day:4,time:"09:00Z"},type:"Online"}
 ];
 const facilitators = {
+  8:["Andrew","National"],
   28:["Patrick"],
   50:["Natalie"],
   51:["Rebecca Heller"],
@@ -1049,7 +1051,7 @@ const facilitators = {
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1195,4 +1197,4 @@ const facilitators = {
   1287:["Laura Stephenson"],
   1289:["Mark Wronkiewicz"]
 };
-const cachedAt = "2025-07-17T05:03:04Z";
+const cachedAt = "2025-07-17T07:03:03Z";
