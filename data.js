@@ -1038,12 +1038,12 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
+  836:["Jesus Cisneros","Global / United States"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
   841:["Tammy C"],
@@ -1191,4 +1191,4 @@ const facilitators = {
   1297:["Myranda Reyes"],
   1300:["Whit D."]
 };
-const cachedAt = "2025-07-19T08:03:04Z";
+const cachedAt = "2025-07-19T09:03:05Z";
