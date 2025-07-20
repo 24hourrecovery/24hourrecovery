@@ -306,6 +306,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[642],id:7186,language:"Spanish",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[291],id:7187,language:"English",location:"Mississauga, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[369,468],id:7188,language:"English",location:"Vero Beach, Florida",program:"4-Point Recovery",schedule:{day:0,time:"14:00Z",week:[1,3,-1]},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[369,468],id:7189,language:"English",location:"Vero Beach, Florida",program:"Family & Friends",schedule:{day:0,time:"14:00Z",week:[2,4]},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[469],id:7192,language:"English",location:"Washington, Virginia",program:"Family & Friends",schedule:{day:5,time:"18:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[960],id:7206,language:"English",location:"Denison, Texas",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1251],id:7214,language:"English",location:"Petoskey, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Both"},
@@ -508,7 +509,7 @@ const meetings = [
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[441],id:8616,language:"English",location:"Atlanta, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1229],id:8621,language:"English",location:"Chanute, Kansas",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1230],id:8622,language:"English",location:"Santa Clarita, California",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z",week:[4]},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1287],id:8648,language:"English",location:"Omaha, Nebraska",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1287],id:8648,language:"English",location:"Omaha, Nebraska",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[745],id:8651,language:"English",location:"Naugatuck, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1287],id:8662,language:"English",location:"Bellevue, Nebraska",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1297],id:8663,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Both"},
@@ -1035,7 +1036,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1188,4 +1189,4 @@ const facilitators = {
   1297:["Myranda Reyes"],
   1300:["Whit D."]
 };
-const cachedAt = "2025-07-20T13:03:04Z";
+const cachedAt = "2025-07-20T14:03:04Z";
