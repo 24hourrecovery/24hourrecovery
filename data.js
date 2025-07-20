@@ -1105,7 +1105,6 @@ const facilitators = {
   955:["Kim Brown"],
   957:["Charles Smith"],
   958:["Brandon Yost"],
-  959:["Victor Lenoxe"],
   960:["MJ"],
   962:["John H"],
   963:["Keith H"],
@@ -1188,4 +1187,4 @@ const facilitators = {
   1297:["Myranda Reyes"],
   1300:["Whit D."]
 };
-const cachedAt = "2025-07-20T10:03:04Z";
+const cachedAt = "2025-07-20T11:03:04Z";
