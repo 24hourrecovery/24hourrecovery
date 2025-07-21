@@ -554,7 +554,7 @@ const meetings = [
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1535,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[575],id:1567,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"09:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[902],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"10:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[902,1303],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:60,facilitator:[701],id:1603,language:"English",location:"Stevenage, England",program:"SMART Veterans",schedule:{day:2,time:"17:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[752,753],id:1640,language:"Punjabi",location:"National",program:"SMART Recovery",schedule:{day:0,time:"07:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[846],id:1643,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"09:00Z"},type:"Online"},
@@ -1040,7 +1040,7 @@ const facilitators = {
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1139,7 +1139,6 @@ const facilitators = {
   1094:["Andrea","Kansas"],
   1099:["Monica A"],
   1121:["David"],
-  1127:["Sammy Ombisa"],
   1135:["William","Texas"],
   1136:["Jason D"],
   1153:["Ryan","New York"],
@@ -1186,6 +1185,7 @@ const facilitators = {
   1297:["Myranda Reyes"],
   1300:["Whit D."],
   1301:["Nathan (they/them)"],
-  1302:["Rana Dundar"]
+  1302:["Rana Dundar"],
+  1303:["Emily Small"]
 };
-const cachedAt = "2025-07-21T14:03:04Z";
+const cachedAt = "2025-07-21T15:03:05Z";
