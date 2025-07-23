@@ -565,7 +565,6 @@ const meetings = [
   {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:90,facilitator:[1309,1310],id:1733,language:"English",location:"Sheffield, England",program:"SMART Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"}
 ];
 const facilitators = {
-  8:["Andrew","National"],
   24:["Dave","New South Wales"],
   28:["Patrick"],
   50:["Natalie"],
@@ -1035,12 +1034,12 @@ const facilitators = {
   827:["Oscar"],
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1135,7 +1134,6 @@ const facilitators = {
   1059:["Samantha T."],
   1062:["Vikki P"],
   1088:["Lea"],
-  1089:["Tess"],
   1091:["Jess","West Virginia"],
   1094:["Andrea","Kansas"],
   1099:["Monica A"],
@@ -1194,4 +1192,4 @@ const facilitators = {
   1310:["Samantha Critchley"],
   1311:["Danielle Lankford"]
 };
-const cachedAt = "2025-07-23T07:03:05Z";
+const cachedAt = "2025-07-23T08:03:06Z";
