@@ -1,6 +1,7 @@
 const meetings = [
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2025-07-28T03:00:00Z",dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Both"},
+  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"05:00Z",week:[2,3,4,-1]},type:"Both"},
   {audience:["All Welcome","Divorced partners and parents"],dataSource:"au",duration:90,facilitator:[1089],id:1450,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[51],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
@@ -1028,13 +1029,14 @@ const facilitators = {
   819:["Juliana Anake-Ugwu"],
   822:["Kasia Stubba"],
   823:["Dave and Tina"],
+  824:["Patrese Calheiros"],
   825:["Mike Hooper"],
   826:["SMART Espanol Women&#x27;s Meetings"],
   827:["Oscar"],
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1096,6 +1098,8 @@ const facilitators = {
   941:["Sam","British Columbia"],
   945:["Paula"],
   946:["Cynthia Moore"],
+  947:["Alex"],
+  948:["Isabel"],
   951:["Noel Elmore"],
   952:["Frank H"],
   953:["Brooke M"],
@@ -1128,7 +1132,6 @@ const facilitators = {
   1011:["Jonathon Maxgay"],
   1013:["Paul","Colorado"],
   1050:["Kris Runske"],
-  1055:["David Wilkinson"],
   1059:["Samantha T."],
   1062:["Vikki P"],
   1088:["Lea"],
@@ -1193,4 +1196,4 @@ const facilitators = {
   1314:["Anita Z"],
   1315:["Teraya"]
 };
-const cachedAt = "2025-07-24T07:03:04Z";
+const cachedAt = "2025-07-24T11:03:04Z";
