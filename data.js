@@ -144,7 +144,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[263],id:4820,language:"English",location:"Walnut Creek, California",program:"4-Point Recovery",schedule:{day:2,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[264],id:4824,language:"English",location:"Asheville, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[265],id:4830,language:"English",location:"Lexington, Kentucky",program:"Family & Friends",schedule:{day:2,time:"22:30Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[266],id:4871,language:"English",location:"Great Mills, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[266],id:4871,language:"English",location:"Great Mills, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[871,986],id:4940,language:"English",location:"Wauwatosa, Wisconsin",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[270],id:4957,language:"English",location:"Mount Prospect, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[271],id:4959,language:"English",location:"Chestertown, New York",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Both"},
@@ -1152,7 +1152,6 @@ const facilitators = {
   1228:["Jason Collier"],
   1229:["Z. Lopez"],
   1231:["Frank","New Jersey"],
-  1232:["Angela Bekederemo"],
   1239:["Ifechidere Ugwuibe"],
   1245:["Jessica B"],
   1246:["Clea P"],
@@ -1186,4 +1185,4 @@ const facilitators = {
   1318:["Alisa"],
   1319:["Barbara","Georgia"]
 };
-const cachedAt = "2025-07-25T17:03:04Z";
+const cachedAt = "2025-07-25T18:03:05Z";
