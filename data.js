@@ -355,7 +355,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[989],id:7605,language:"English",location:"Allentown, Pennsylvania",program:"Family & Friends",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[520],id:7624,language:"English",location:"Seattle, Washington",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[522,983],id:7631,language:"English",location:"Floral Park, New York",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[105],id:7654,language:"English",location:"Burlington, Vermont",program:"4-Point Recovery",schedule:{day:5,time:"21:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-08-01T21:30:00Z",dataSource:"na",duration:90,facilitator:[105],id:7654,language:"English",location:"Burlington, Vermont",program:"4-Point Recovery",schedule:{day:5,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[105],id:7655,language:"English",location:"Burlington, Vermont",program:"4-Point Recovery",schedule:{day:4,time:"17:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[527],id:7732,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[969,971],id:7740,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
@@ -970,7 +970,6 @@ const facilitators = {
   724:["Joe Wusnack"],
   725:["Lezlie G","Ontario"],
   727:["Joseph"],
-  728:["Pamela"],
   730:["Michael C."],
   731:["Kendelle Nelson"],
   734:["Peter Meyer"],
@@ -1028,13 +1027,12 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
-  837:["Anabel"],
+  836:["Jesus Cisneros","Global / United States"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
   841:["Tammy C"],
@@ -1188,4 +1186,4 @@ const facilitators = {
   1318:["Alisa"],
   1319:["Barbara","Georgia"]
 };
-const cachedAt = "2025-07-25T22:03:04Z";
+const cachedAt = "2025-07-25T23:03:04Z";
