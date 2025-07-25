@@ -155,7 +155,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278],id:5089,language:"English",location:"Columbia, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[225],id:5091,language:"English",location:"Ravenna, Ohio",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[279],id:5109,language:"English",location:"Cranston, Rhode Island",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[281,667],id:5112,language:"English",location:"Hillsboro, Oregon",program:"Family & Friends",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[279],id:5113,language:"English",location:"Cranston, Rhode Island",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[283],id:5133,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[283],id:5134,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:2,time:"17:00Z"},type:"Both"},
@@ -1031,7 +1030,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1191,4 +1190,4 @@ const facilitators = {
   1318:["Alisa"],
   1319:["Barbara","Georgia"]
 };
-const cachedAt = "2025-07-25T03:03:06Z";
+const cachedAt = "2025-07-25T04:03:04Z";
