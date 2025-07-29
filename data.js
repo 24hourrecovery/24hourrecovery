@@ -457,8 +457,10 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[605,875,876],id:8354,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[881],id:8358,language:"English",location:"Fountaintown, Indiana",program:"4-Point Recovery",schedule:{day:0,time:"05:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[141,142],id:8363,language:"English",location:"Ferndale, Michigan",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[915],id:8364,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"01:30Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[981],id:8369,language:"English",location:"Flushing, Michigan",program:"Family & Friends",schedule:{day:5,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1160,1163],id:8378,language:"English",location:"Greenville, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[915],id:8379,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[544],id:8384,language:"English",location:"Desert Hot Springs, California",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z",week:[1,3]},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[929],id:8385,language:"English",location:"Belchertown, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[916],id:8386,language:"English",location:"Raritan, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
@@ -468,7 +470,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8406,language:"English",location:"Palm Springs, California",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[953],id:8417,language:"English",location:"Fort Worth, Texas",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[937],id:8423,language:"English",location:"Hollywood, Florida",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1318],id:8424,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[941],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[958],id:8434,language:"English",location:"Lock Haven, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[674],id:8436,language:"English",location:"Shawneetown, Illinois",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Both"},
@@ -688,7 +689,6 @@ const facilitators = {
   204:["Dan Chalykoff"],
   205:["Teresa Susmaras"],
   207:["Martha Gordon"],
-  208:["Eric","Massachusetts"],
   209:["Bryan Hicks"],
   212:["Laura Westbrook"],
   213:["Gaboury Benoit"],
@@ -1028,7 +1028,7 @@ const facilitators = {
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1071,6 +1071,7 @@ const facilitators = {
   906:["Sarah M-I"],
   908:["Scout Fraser"],
   912:["Maya Prejbisz"],
+  915:["Matt Spears"],
   916:["Shawn A."],
   929:["Joely"],
   930:["Maria Kroener \"MK\""],
@@ -1180,7 +1181,6 @@ const facilitators = {
   1314:["Anita Z"],
   1315:["Teraya"],
   1317:["Cameron Hayes"],
-  1318:["Alisa"],
   1319:["Barbara","Georgia"],
   1323:["Louise McCarthy"],
   1325:["Rana"],
@@ -1191,4 +1191,4 @@ const facilitators = {
   1330:["Clifford G"],
   1331:["Keith Battle"]
 };
-const cachedAt = "2025-07-29T22:03:04Z";
+const cachedAt = "2025-07-29T23:03:05Z";
