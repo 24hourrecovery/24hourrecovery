@@ -1026,10 +1026,11 @@ const facilitators = {
   823:["Dave and Tina"],
   825:["Mike Hooper"],
   826:["SMART Espanol Women&#x27;s Meetings"],
+  827:["Oscar"],
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1196,4 +1197,4 @@ const facilitators = {
   1331:["Keith Battle"],
   1336:["Connie C."]
 };
-const cachedAt = "2025-07-31T02:03:07Z";
+const cachedAt = "2025-07-31T03:03:05Z";
