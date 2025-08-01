@@ -1202,6 +1202,7 @@ const facilitators = {
   1331:["Keith Battle"],
   1336:["Connie C."],
   1338:["Chris M."],
-  1339:["Elizabeth","North Carolina"]
+  1339:["Elizabeth","North Carolina"],
+  1341:["Arvo Summala"]
 };
-const cachedAt = "2025-08-01T15:03:04Z";
+const cachedAt = "2025-08-01T16:03:06Z";
