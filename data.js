@@ -601,7 +601,7 @@ const facilitators = {
   77:["Pascale Hough"],
   78:["Valerie"],
   79:["Josee-Anne"],
-  80:["Jessica","Ontario / Virginia"],
+  80:["Jessica","Virginia / Ontario"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1035,7 +1035,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1105,7 +1105,6 @@ const facilitators = {
   955:["Kim Brown"],
   957:["Charles Smith"],
   958:["Brandon Yost"],
-  959:["Victor Lenoxe"],
   960:["MJ"],
   962:["John H"],
   963:["Keith H"],
@@ -1165,6 +1164,7 @@ const facilitators = {
   1229:["Z. Lopez"],
   1231:["Frank","New Jersey"],
   1232:["Angela Bekederemo"],
+  1239:["Ifechidere Ugwuibe"],
   1245:["Jessica B"],
   1246:["Clea P"],
   1251:["Justin"],
@@ -1206,4 +1206,4 @@ const facilitators = {
   1338:["Chris M."],
   1339:["Elizabeth","North Carolina"]
 };
-const cachedAt = "2025-08-03T10:03:03Z";
+const cachedAt = "2025-08-03T11:03:04Z";
