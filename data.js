@@ -1,6 +1,5 @@
 const meetings = [
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"Bronte, New South Wales",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Both"},
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z",week:[1]},type:"Both"},
   {audience:["All Welcome","Divorced partners and parents"],dataSource:"au",duration:90,facilitator:[1089],id:1450,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1327],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -1207,4 +1206,4 @@ const facilitators = {
   1339:["Elizabeth","North Carolina"],
   1341:["Arvo Summala"]
 };
-const cachedAt = "2025-08-04T04:03:05Z";
+const cachedAt = "2025-08-04T05:03:03Z";
