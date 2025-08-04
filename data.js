@@ -506,9 +506,8 @@ const meetings = [
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[441,1319],id:8616,language:"English",location:"Atlanta, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1229],id:8621,language:"English",location:"Chanute, Kansas",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1301],id:8646,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1287],id:8648,language:"English",location:"Omaha, Nebraska",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[745],id:8651,language:"English",location:"Naugatuck, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"12:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1287],id:8662,language:"English",location:"Bellevue, Nebraska",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1287],id:8662,language:"English",location:"Bellevue, Nebraska",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1297],id:8663,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Both"},
   {audience:["School & College"],dataSource:"na",duration:60,facilitator:[1314],id:8668,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1315],id:8671,language:"English",location:"Westport, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Online"},
@@ -601,7 +600,7 @@ const facilitators = {
   77:["Pascale Hough"],
   78:["Valerie"],
   79:["Josee-Anne"],
-  80:["Jessica","Virginia / Ontario"],
+  80:["Jessica","Ontario / Virginia"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1206,4 +1205,4 @@ const facilitators = {
   1345:["Rahmat Santoso"],
   1347:["Khare"]
 };
-const cachedAt = "2025-08-04T21:03:04Z";
+const cachedAt = "2025-08-04T22:03:04Z";
