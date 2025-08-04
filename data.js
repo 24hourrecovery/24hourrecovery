@@ -329,7 +329,7 @@ const meetings = [
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[625],id:7406,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z",week:[1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7420,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7421,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
-  {audience:["BIPOC","Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[503,1021],id:7425,language:"English",location:"Vernon, Connecticut",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z",week:[1,3]},type:"Online"},
+  {audience:["BIPOC","Young Adults (18-30)"],canceled:"2025-08-04T22:00:00Z",dataSource:"na",duration:90,facilitator:[503,1021],id:7425,language:"English",location:"Vernon, Connecticut",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[504],id:7439,language:"English",location:"Lima, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7445,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7446,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Online"},
@@ -517,6 +517,7 @@ const meetings = [
   {audience:["Patients & Clients"],dataSource:"na",duration:90,facilitator:[1336],id:8687,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:2,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1338],id:8690,language:"English",location:"Payson, Arizona",program:"4-Point Recovery",schedule:{day:6,time:"19:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:null,id:8692,language:"English",location:"Kingston, Ontario",program:"Family & Friends",schedule:{day:6,time:"14:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1347],id:8694,language:"English",location:"Canton, Michigan",program:"Family & Friends",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
@@ -1034,11 +1035,10 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
-  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1203,6 +1203,7 @@ const facilitators = {
   1338:["Chris M."],
   1339:["Elizabeth","North Carolina"],
   1341:["Arvo Summala"],
-  1345:["Rahmat Santoso"]
+  1345:["Rahmat Santoso"],
+  1347:["Khare"]
 };
-const cachedAt = "2025-08-04T20:03:08Z";
+const cachedAt = "2025-08-04T21:03:04Z";
