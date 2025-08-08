@@ -949,7 +949,6 @@ const facilitators = {
   669:["Jim Ball"],
   670:["Summer Song/Becca"],
   672:["Erle S."],
-  673:["Cristina W"],
   674:["Caleb"],
   675:["Mara O."],
   676:["Jocelyn"],
@@ -1211,4 +1210,4 @@ const facilitators = {
   1364:["Angela Towne"],
   1365:["Chris M"]
 };
-const cachedAt = "2025-08-08T20:03:04Z";
+const cachedAt = "2025-08-08T21:03:04Z";
