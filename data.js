@@ -286,7 +286,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,434,623,661,1268,1269,1276,1365],id:6891,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:6,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[217,440],id:6892,language:"English",location:"Sussex, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[69],id:6893,language:"English",location:"Lancaster, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[443],id:6896,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"21:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-08-09T21:30:00Z",dataSource:"na",duration:90,facilitator:[443],id:6896,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"21:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[318],id:6909,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[444],id:6917,language:"English",location:"Menomonie, Wisconsin",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[373],id:6933,language:"Spanish",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
@@ -474,6 +474,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[952],id:8440,language:"English",location:"Port Richey, Florida",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[336,337],id:8449,language:"English",location:"Savannah, Georgia",program:"Family & Friends",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8450,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[956],id:8454,language:"English",location:"North Aurora, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z",week:[3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[964],id:8458,language:"English",location:"Tulsa, Oklahoma",program:"4-Point Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[966],id:8459,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[977],id:8471,language:"English",location:"Buffalo, New York",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
@@ -601,7 +602,7 @@ const facilitators = {
   77:["Pascale Hough"],
   78:["Valerie"],
   79:["Josee-Anne"],
-  80:["Jessica","Virginia / Ontario"],
+  80:["Jessica","Ontario / Virginia"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1026,7 +1027,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1095,6 +1096,7 @@ const facilitators = {
   952:["Frank H"],
   953:["Brooke M"],
   955:["Kim Brown"],
+  956:["Christian Bee"],
   957:["Charles Smith"],
   958:["Brandon Yost"],
   959:["Victor Lenoxe"],
@@ -1119,7 +1121,6 @@ const facilitators = {
   987:["Trish R"],
   988:["Trista Wysong"],
   989:["Andrew","Pennsylvania"],
-  991:["Kaela Hampton"],
   1011:["Jonathon Maxgay"],
   1013:["Paul","Colorado"],
   1050:["Kris Runske"],
@@ -1209,4 +1210,4 @@ const facilitators = {
   1364:["Angela Towne"],
   1365:["Chris M"]
 };
-const cachedAt = "2025-08-08T23:03:05Z";
+const cachedAt = "2025-08-09T00:03:04Z";
