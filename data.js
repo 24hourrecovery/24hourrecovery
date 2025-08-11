@@ -401,7 +401,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,439,661,861,1268,1269,1276,1365],id:8051,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[657],id:8052,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[681],id:8053,language:"English",location:"Sioux Falls, South Dakota",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[893],id:8054,language:"English",location:"Conway, Arkansas",program:"Family & Friends",schedule:{day:1,time:"21:30Z"},type:"Online"},
+  {audience:["Family & Friends Only"],canceled:"2025-08-11T21:30:00Z",dataSource:"na",duration:60,facilitator:[893],id:8054,language:"English",location:"Conway, Arkansas",program:"Family & Friends",schedule:{day:1,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[893],id:8055,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[893],id:8056,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Both"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[971],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Both"},
@@ -1038,7 +1038,7 @@ const facilitators = {
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1139,7 +1139,6 @@ const facilitators = {
   1094:["Andrea","Kansas"],
   1099:["Monica A"],
   1121:["David"],
-  1127:["Sammy Ombisa"],
   1135:["William","Texas"],
   1136:["Jason D"],
   1153:["Ryan","New York"],
@@ -1187,7 +1186,6 @@ const facilitators = {
   1309:["Michael Onwuke"],
   1310:["Samantha Critchley"],
   1311:["Danielle Lankford"],
-  1312:["Nthan Recovery (They/Them)"],
   1313:["Thomas"],
   1314:["Anita Z"],
   1315:["Teraya"],
@@ -1215,4 +1213,4 @@ const facilitators = {
   1364:["Angela Towne"],
   1365:["Chris M"]
 };
-const cachedAt = "2025-08-11T14:03:03Z";
+const cachedAt = "2025-08-11T15:03:06Z";
