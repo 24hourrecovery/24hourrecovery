@@ -1162,7 +1162,6 @@ const facilitators = {
   1228:["Jason Collier"],
   1229:["Z. Lopez"],
   1231:["Frank","New Jersey"],
-  1232:["Angela Bekederemo"],
   1239:["Ifechidere Ugwuibe"],
   1245:["Jessica B"],
   1246:["Clea P"],
@@ -1215,4 +1214,4 @@ const facilitators = {
   1364:["Angela Towne"],
   1365:["Chris M"]
 };
-const cachedAt = "2025-08-11T17:03:05Z";
+const cachedAt = "2025-08-11T18:03:06Z";
