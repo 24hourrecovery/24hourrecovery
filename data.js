@@ -517,11 +517,12 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1368],id:8688,language:"English",location:"Scranton, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1357],id:8690,language:"English",location:"Payson, Arizona",program:"4-Point Recovery",schedule:{day:6,time:"19:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[680],id:8692,language:"English",location:"Kingston, Ontario",program:"Family & Friends",schedule:{day:6,time:"14:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1347],id:8694,language:"English",location:"Canton, Michigan",program:"Family & Friends",schedule:{day:0,time:"22:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1370],id:8694,language:"English",location:"Canton, Michigan",program:"Family & Friends",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1369],id:8709,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:2,time:"19:05Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1369],id:8710,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:5,time:"20:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[1362],id:8714,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:4,time:"14:00Z",week:[-1]},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[1369],id:8715,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:6,time:"22:00Z",week:[3]},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1370],id:8722,language:"English",location:"Canton, Michigan",program:"Family & Friends",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
@@ -700,7 +701,6 @@ const facilitators = {
   204:["Dan Chalykoff"],
   205:["Teresa Susmaras"],
   207:["Martha Gordon"],
-  208:["Eric","Massachusetts"],
   209:["Bryan Hicks"],
   212:["Laura Westbrook"],
   213:["Gaboury Benoit"],
@@ -1033,11 +1033,12 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
+  836:["Jesus Cisneros","Global / United States"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1205,7 +1206,6 @@ const facilitators = {
   1339:["Elizabeth","North Carolina"],
   1341:["Arvo Summala"],
   1345:["Rahmat Santoso"],
-  1347:["Khare"],
   1350:["Tony Allen"],
   1351:["Curtis Banks"],
   1352:["Justin"],
@@ -1219,6 +1219,7 @@ const facilitators = {
   1366:["Bernard G"],
   1367:["Paige Malloy"],
   1368:["Alvin N."],
-  1369:["Kayla","Texas"]
+  1369:["Kayla","Texas"],
+  1370:["Khare"]
 };
-const cachedAt = "2025-08-12T22:03:04Z";
+const cachedAt = "2025-08-13T00:03:04Z";
