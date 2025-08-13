@@ -276,7 +276,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[432],id:6866,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Both"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[422,433,434,623,661,1268,1269,1276,1365],id:6868,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[435,436],id:6873,language:"English",location:"Maple Grove, Minnesota",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-08-13T20:30:00Z",dataSource:"na",duration:90,facilitator:[215],id:6881,language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"20:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[215],id:6881,language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"20:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders","Women"],dataSource:"na",duration:90,facilitator:[422,424,433,623,662,1276,1328],id:6882,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[438],id:6883,language:"English",location:"Huntsville, Alabama",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,433,439,623,661,1268,1269,1276,1365],id:6888,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
@@ -497,7 +497,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1163],id:8584,language:"English",location:"Greenville, South Carolina",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1218],id:8588,language:"English",location:"Waco, Texas",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1179],id:8595,language:"English",location:"Elgin, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[972],id:8601,language:"English",location:"Corfu, New York",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],canceled:"2025-08-13T22:30:00Z",dataSource:"na",duration:90,facilitator:[972],id:8601,language:"English",location:"Corfu, New York",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1224],id:8607,language:"English",location:"Oil City, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1213],id:8609,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[441,1319],id:8616,language:"English",location:"Atlanta, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
@@ -519,7 +519,6 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[680],id:8692,language:"English",location:"Kingston, Ontario",program:"Family & Friends",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1370],id:8694,language:"English",location:"Canton, Michigan",program:"Family & Friends",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1362],id:8709,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:2,time:"19:05Z"},type:"Online"},
-  {audience:["Women"],dataSource:"na",duration:60,facilitator:[1369],id:8715,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:6,time:"22:00Z",week:[3]},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1370],id:8722,language:"English",location:"Canton, Michigan",program:"Family & Friends",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
@@ -1039,7 +1038,7 @@ const facilitators = {
   833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
+  836:["Jesus Cisneros","Global / United States"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1216,8 +1215,7 @@ const facilitators = {
   1366:["Bernard G"],
   1367:["Paige Malloy"],
   1368:["Alvin N."],
-  1369:["Kayla","Texas"],
   1370:["Khare"],
   1371:["Suz Fuller"]
 };
-const cachedAt = "2025-08-13T21:03:04Z";
+const cachedAt = "2025-08-13T22:03:06Z";
