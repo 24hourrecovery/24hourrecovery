@@ -472,6 +472,7 @@ const meetings = [
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[841],id:8410,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z",week:[3,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[953],id:8417,language:"English",location:"Fort Worth, Texas",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[937],id:8423,language:"English",location:"Hollywood, Florida",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1318],id:8424,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[941],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[958],id:8434,language:"English",location:"Lock Haven, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[674],id:8436,language:"English",location:"Shawneetown, Illinois",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Both"},
@@ -967,7 +968,6 @@ const facilitators = {
   680:["Christopher Huff"],
   681:["Kurt"],
   685:["Natalya Orlando"],
-  688:["Jade"],
   694:["Amy M"],
   695:["Annaleise McCullough"],
   697:["Alexandra Gutierrez"],
@@ -1041,7 +1041,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1200,6 +1200,7 @@ const facilitators = {
   1314:["Anita Z"],
   1315:["Teraya"],
   1317:["Cameron Hayes"],
+  1318:["Alisa"],
   1319:["Barbara","Georgia"],
   1323:["Louise McCarthy"],
   1325:["Rana"],
@@ -1227,4 +1228,4 @@ const facilitators = {
   1370:["Khare"],
   1371:["Suz Fuller"]
 };
-const cachedAt = "2025-08-15T02:03:03Z";
+const cachedAt = "2025-08-15T04:03:04Z";
