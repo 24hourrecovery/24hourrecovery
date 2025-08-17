@@ -472,7 +472,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[953],id:8417,language:"English",location:"Fort Worth, Texas",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[937],id:8423,language:"English",location:"Hollywood, Florida",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1318],id:8424,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[941],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[958],id:8434,language:"English",location:"Lock Haven, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[674],id:8436,language:"English",location:"Shawneetown, Illinois",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[952],id:8440,language:"English",location:"Port Richey, Florida",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
@@ -485,7 +484,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[978],id:8478,language:"English",location:"Bogue, Kansas",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[987],id:8486,language:"English",location:"Marinette, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[556],id:8497,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[972],id:8508,language:"English",location:"Corfu, New York",program:"Family & Friends",schedule:{day:0,time:"14:15Z"},type:"Online"},
+  {audience:["Family & Friends Only"],canceled:"2025-08-17T14:15:00Z",dataSource:"na",duration:90,facilitator:[972],id:8508,language:"English",location:"Corfu, New York",program:"Family & Friends",schedule:{day:0,time:"14:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1094],id:8517,language:"English",location:"Iola, Kansas",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[105],id:8518,language:"English",location:"Johnson, Vermont",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1088],id:8522,language:"English",location:"Monroe, Michigan",program:"Family & Friends",schedule:{day:2,time:"10:00Z"},type:"Online"},
@@ -1043,7 +1042,7 @@ const facilitators = {
   832:["Juan Negron"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1098,7 +1097,6 @@ const facilitators = {
   938:["Elizabeth","New York"],
   939:["Andrea","England"],
   940:["Travis"],
-  941:["Sam","British Columbia"],
   945:["Paula"],
   946:["Cynthia Moore"],
   947:["Alex"],
@@ -1107,7 +1105,6 @@ const facilitators = {
   952:["Frank H"],
   953:["Brooke M"],
   955:["Kim Brown"],
-  956:["Christian Bee"],
   957:["Charles Smith"],
   958:["Brandon Yost"],
   959:["Victor Lenoxe"],
@@ -1225,4 +1222,4 @@ const facilitators = {
   1371:["Suz Fuller"],
   1374:["Arvo"]
 };
-const cachedAt = "2025-08-16T23:03:04Z";
+const cachedAt = "2025-08-17T00:03:04Z";
