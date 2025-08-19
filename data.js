@@ -605,7 +605,7 @@ const facilitators = {
   77:["Pascale Hough"],
   78:["Valerie"],
   79:["Josee-Anne"],
-  80:["Jessica","Virginia / Ontario"],
+  80:["Jessica","Ontario / Virginia"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1187,6 +1187,7 @@ const facilitators = {
   1309:["Michael Onwuke"],
   1310:["Samantha Critchley"],
   1311:["Danielle Lankford"],
+  1312:["Nthan Recovery (They/Them)"],
   1313:["Thomas"],
   1314:["Anita Z"],
   1315:["Teraya"],
@@ -1222,4 +1223,4 @@ const facilitators = {
   1379:["Amy Weston"],
   1380:["Hardial Kandola"]
 };
-const cachedAt = "2025-08-19T02:03:04Z";
+const cachedAt = "2025-08-19T03:03:04Z";
