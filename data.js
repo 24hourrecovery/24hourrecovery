@@ -276,7 +276,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:6827,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[429,430],id:6843,language:"English",location:"Roanoke, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[430,1326],id:6844,language:"English",location:"Roanoke, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[620],id:6864,language:"English",location:"Alexandria, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-08-20T22:30:00Z",dataSource:"na",duration:90,facilitator:[620],id:6864,language:"English",location:"Alexandria, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[432],id:6866,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Both"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[422,433,434,623,661,1268,1269,1276,1365],id:6868,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[435,436],id:6873,language:"English",location:"Maple Grove, Minnesota",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
@@ -499,6 +499,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1213],id:8609,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[441,1319],id:8616,language:"English",location:"Atlanta, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1229],id:8621,language:"English",location:"Chanute, Kansas",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1230],id:8622,language:"English",location:"Santa Clarita, California",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z",week:[4]},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1364],id:8631,language:"English",location:"Carbondale, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1301],id:8646,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1277],id:8649,language:"English",location:"Ypsilanti, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z",week:[4]},type:"Online"},
@@ -602,7 +603,7 @@ const facilitators = {
   77:["Pascale Hough"],
   78:["Valerie"],
   79:["Josee-Anne"],
-  80:["Jessica","Virginia / Ontario"],
+  80:["Jessica","Ontario / Virginia"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1154,6 +1155,7 @@ const facilitators = {
   1224:["Sam","Pennsylvania"],
   1228:["Jason Collier"],
   1229:["Z. Lopez"],
+  1230:["Greg H"],
   1231:["Frank","New Jersey"],
   1232:["Angela Bekederemo"],
   1239:["Ifechidere Ugwuibe"],
@@ -1219,4 +1221,4 @@ const facilitators = {
   1380:["Hardial Kandola"],
   1381:["Shannon","California"]
 };
-const cachedAt = "2025-08-20T22:03:04Z";
+const cachedAt = "2025-08-20T23:03:05Z";
