@@ -1027,11 +1027,9 @@ const facilitators = {
   826:["SMART Espanol Women&#x27;s Meetings"],
   827:["Oscar"],
   828:["Nadezhda Borzunova"],
-  829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
-  833:["Javier"],
   834:["Fernando Cote"],
   835:["Lili"],
   836:["Jesus Cisneros","Global / United States"],
@@ -1122,7 +1120,6 @@ const facilitators = {
   989:["Andrew","Pennsylvania"],
   1011:["Jonathon Maxgay"],
   1013:["Paul","Colorado"],
-  1050:["Kris Runske"],
   1055:["David Wilkinson"],
   1059:["Samantha T."],
   1088:["Lea"],
@@ -1218,4 +1215,4 @@ const facilitators = {
   1383:["Janusz Nowak"],
   1385:["Heather Ledford"]
 };
-const cachedAt = "2025-08-23T16:03:04Z";
+const cachedAt = "2025-08-23T17:03:04Z";
