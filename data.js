@@ -163,7 +163,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[283],id:5136,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:4,time:"17:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[283],id:5137,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:5,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[284],id:5139,language:"English",location:"Beach Park, Illinois",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[145,285,884],id:514,language:"English",location:"Towson, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-09-01T22:30:00Z",dataSource:"na",duration:60,facilitator:[145,285,884],id:514,language:"English",location:"Towson, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[288,1265],id:5147,language:"English",location:"Vancouver, British Columbia",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[289],id:5154,language:"English",location:"Malibu, California",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1198,1245],id:522,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:6,time:"12:30Z"},type:"Online"},
@@ -507,8 +507,8 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1277],id:8649,language:"English",location:"Ypsilanti, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z",week:[4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[745],id:8651,language:"English",location:"Naugatuck, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1366],id:8654,language:"English",location:"Lancaster, Texas",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1287],id:8662,language:"English",location:"Bellevue, Nebraska",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1297],id:8663,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1287],id:8662,language:"English",location:"Bellevue, Nebraska",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1297],id:8663,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Both"},
   {audience:["School & College"],canceled:"2025-08-26T20:30:00Z",dataSource:"na",duration:60,facilitator:[1314],id:8668,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"20:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1315],id:8671,language:"English",location:"Westport, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[1315],id:8672,language:"English",location:"Westport, Connecticut",program:"Family & Friends",schedule:{day:4,time:"22:00Z"},type:"Online"},
@@ -605,7 +605,7 @@ const facilitators = {
   77:["Pascale Hough"],
   78:["Valerie"],
   79:["Josee-Anne"],
-  80:["Jessica","Ontario / Virginia"],
+  80:["Jessica","Virginia / Ontario"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1035,7 +1035,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1225,4 +1225,4 @@ const facilitators = {
   1385:["Heather Ledford"],
   1388:["Terry Bochansky"]
 };
-const cachedAt = "2025-08-25T23:03:10Z";
+const cachedAt = "2025-08-26T00:03:05Z";
