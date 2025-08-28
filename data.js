@@ -593,7 +593,7 @@ const facilitators = {
   77:["Pascale Hough"],
   78:["Valerie"],
   79:["Josee-Anne"],
-  80:["Jessica","Ontario / Virginia"],
+  80:["Jessica","Virginia / Ontario"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1209,4 +1209,4 @@ const facilitators = {
   1393:["Myranda LeMahieu"],
   1396:["Alisha"]
 };
-const cachedAt = "2025-08-28T17:03:06Z";
+const cachedAt = "2025-08-28T18:03:06Z";
