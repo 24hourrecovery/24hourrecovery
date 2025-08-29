@@ -329,8 +329,8 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7421,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["BIPOC","Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[503,1021],id:7425,language:"English",location:"Vernon, Connecticut",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[504],id:7439,language:"English",location:"Lima, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7445,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7446,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-09-01T16:00:00Z",dataSource:"na",duration:60,facilitator:[676],id:7445,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-09-01T17:00:00Z",dataSource:"na",duration:60,facilitator:[676],id:7446,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7447,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7448,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:5,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[847],id:7451,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"11:30Z"},type:"Online"},
@@ -596,7 +596,7 @@ const facilitators = {
   77:["Pascale Hough"],
   78:["Valerie"],
   79:["Josee-Anne"],
-  80:["Jessica","Ontario / Virginia"],
+  80:["Jessica","Virginia / Ontario"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1018,7 +1018,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   833:["Javier"],
   834:["Fernando Cote"],
@@ -1212,4 +1212,4 @@ const facilitators = {
   1402:["Jessie K"],
   1403:["Steve Saunders"]
 };
-const cachedAt = "2025-08-29T15:03:04Z";
+const cachedAt = "2025-08-29T16:03:04Z";
