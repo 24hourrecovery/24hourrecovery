@@ -950,7 +950,6 @@ const facilitators = {
   680:["Christopher Huff"],
   681:["Kurt"],
   685:["Natalya Orlando"],
-  688:["Jade"],
   694:["Amy M"],
   695:["Annaleise McCullough"],
   697:["Alexandra Gutierrez"],
@@ -1215,4 +1214,4 @@ const facilitators = {
   1401:["Grace Koolhoven"],
   1402:["Jessie K"]
 };
-const cachedAt = "2025-08-29T02:03:05Z";
+const cachedAt = "2025-08-29T03:03:04Z";
