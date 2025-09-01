@@ -1096,7 +1096,6 @@ const facilitators = {
   979:["Bruce S. Liese"],
   981:["Sheila","Michigan"],
   983:["Megan"],
-  984:["Vladislav Khardzhiev"],
   985:["Lisa Goodkind"],
   986:["Keith"],
   987:["Trish R"],
@@ -1208,4 +1207,4 @@ const facilitators = {
   1403:["Steve Saunders"],
   1406:["Maya","Alberta"]
 };
-const cachedAt = "2025-09-01T07:03:04Z";
+const cachedAt = "2025-09-01T08:03:04Z";
