@@ -478,6 +478,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1162],id:8581,language:"English",location:"Greenville, South Carolina",program:"4-Point Recovery",schedule:{day:3,time:"23:45Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1163],id:8584,language:"English",location:"Greenville, South Carolina",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
+  {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1218],id:8593,language:"English",location:"Waco, Texas",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z",week:[2,4]},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[972],id:8601,language:"English",location:"Corfu, New York",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1213],id:8609,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[441,1319],id:8616,language:"English",location:"Atlanta, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
@@ -588,7 +589,7 @@ const facilitators = {
   77:["Pascale Hough"],
   78:["Valerie"],
   79:["Josee-Anne"],
-  80:["Jessica","Virginia / Ontario"],
+  80:["Jessica","Ontario / Virginia"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -985,7 +986,6 @@ const facilitators = {
   795:["Chris","Alberta"],
   796:["Helena Machado"],
   797:["Antonio"],
-  798:["Bev"],
   800:["Jen T"],
   801:["Leo"],
   802:["Johnny"],
@@ -1200,4 +1200,4 @@ const facilitators = {
   1409:["Jacquelyn","Maryland"],
   1410:["Joe"]
 };
-const cachedAt = "2025-09-02T22:03:05Z";
+const cachedAt = "2025-09-02T23:03:05Z";
