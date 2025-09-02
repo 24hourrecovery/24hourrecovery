@@ -505,6 +505,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[1370],id:8694,language:"English",location:"Canton, Michigan",program:"Family & Friends",schedule:{day:0,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1408],id:8708,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Both"},
   {audience:["Family & Friends Only"],canceled:"2025-09-02T19:05:00Z",dataSource:"na",duration:60,facilitator:[1362],id:8709,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:2,time:"19:05Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1363],id:8712,language:"English",location:"Middletown, Connecticut",program:"Family & Friends",schedule:{day:2,time:"13:00Z",week:[2,4]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1406],id:8719,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z",week:[1,3]},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[1370],id:8722,language:"English",location:"Canton, Michigan",program:"Family & Friends",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1381],id:8738,language:"English",location:"Pomona, California",program:"4-Point Recovery",schedule:{day:6,time:"03:00Z"},type:"Online"},
@@ -1154,6 +1155,7 @@ const facilitators = {
   1309:["Michael Onwuke"],
   1310:["Samantha Critchley"],
   1311:["Danielle Lankford"],
+  1312:["Nthan Recovery (They/Them)"],
   1313:["Thomas"],
   1314:["Anita Z"],
   1315:["Teraya"],
@@ -1178,6 +1180,7 @@ const facilitators = {
   1355:["MJ"],
   1357:["Chris M."],
   1362:["Kayla","Texas"],
+  1363:["Adria"],
   1364:["Angela Towne"],
   1365:["Chris M"],
   1366:["Bernard G"],
@@ -1206,4 +1209,4 @@ const facilitators = {
   1408:["Morgan"],
   1409:["Jacquelyn","Maryland"]
 };
-const cachedAt = "2025-09-02T12:03:04Z";
+const cachedAt = "2025-09-02T13:03:04Z";
