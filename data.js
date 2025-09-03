@@ -507,7 +507,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1406],id:8719,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z",week:[1,3]},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[1370],id:8722,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1381],id:8738,language:"English",location:"Pomona, California",program:"4-Point Recovery",schedule:{day:6,time:"03:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1409],id:8749,language:"English",location:"Frederick, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1396],id:8756,language:"English",location:"Baraboo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"18:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
@@ -1199,7 +1198,6 @@ const facilitators = {
   1403:["Steve Saunders"],
   1406:["Maya","Alberta"],
   1408:["Morgan"],
-  1409:["Jacquelyn","Maryland"],
   1410:["Joe"]
 };
-const cachedAt = "2025-09-03T15:03:04Z";
+const cachedAt = "2025-09-03T16:03:04Z";
