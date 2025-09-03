@@ -427,7 +427,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[797],id:8279,language:"English",location:"Torrington, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[892],id:8280,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[865],id:8283,language:"English",location:"Homestead, Florida",program:"Successful Life Skills",schedule:{day:2,time:"18:00Z",week:[2]},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[459],id:8285,language:"English",location:"Alamosa, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-09-03T20:00:00Z",dataSource:"na",duration:60,facilitator:[459],id:8285,language:"English",location:"Alamosa, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1205],id:8287,language:"English",location:"Litchfield, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[859],id:8296,language:"English",location:"Mountain Brook, Alabama",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[855],id:8302,language:"English",location:"Overland Park, Kansas",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -1201,4 +1201,4 @@ const facilitators = {
   1412:["Alexandra"],
   1413:["Wendy"]
 };
-const cachedAt = "2025-09-03T19:03:04Z";
+const cachedAt = "2025-09-03T20:03:04Z";
