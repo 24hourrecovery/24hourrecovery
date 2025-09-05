@@ -178,7 +178,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[724],id:5447,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:5,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[80,272,273,274],id:5463,language:"English",location:"Charlottesville, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[307],id:5468,language:"English",location:"Lexington, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"22:30Z"},type:"Both"},
-  {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[309,310],id:5487,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"21:30Z"},type:"Online"},
+  {audience:["Teens (13-17)"],dataSource:"na",duration:60,facilitator:[310],id:5487,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[309],id:5488,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[643,737,951],id:5490,language:"English",location:"Austin, Texas",program:"Family & Friends",schedule:{day:6,time:"14:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[197,198,199,312],id:5500,language:"English",location:"Indio, California",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
@@ -328,7 +328,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[241],id:7394,language:"English",location:"McFarland, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7420,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7421,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
-  {audience:["BIPOC","Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[503,1021],id:7425,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z",week:[1,3]},type:"Online"},
+  {audience:["BIPOC","Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[503,1021],id:7425,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[504],id:7439,language:"English",location:"Lima, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7445,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[676],id:7446,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Online"},
@@ -1199,4 +1199,4 @@ const facilitators = {
   1415:["Caroline"],
   1416:["Drew P"]
 };
-const cachedAt = "2025-09-05T18:03:05Z";
+const cachedAt = "2025-09-05T19:03:05Z";
