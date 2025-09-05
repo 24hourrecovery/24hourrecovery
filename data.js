@@ -360,7 +360,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[536],id:7814,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[725],id:7820,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:1,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541,1331],id:7853,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[728],id:7859,language:"English",location:"Reading, Pennsylvania",program:"Family & Friends",schedule:{day:4,time:"23:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[310],id:7861,language:"Spanish",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7863,language:"Russian",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7864,language:"Russian",location:"Portland, Oregon",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
@@ -589,7 +588,7 @@ const facilitators = {
   76:["Philip Evaul"],
   77:["Pascale Hough"],
   79:["Josee-Anne"],
-  80:["Jessica","Ontario / Virginia"],
+  80:["Jessica","Virginia / Ontario"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1203,4 +1202,4 @@ const facilitators = {
   1415:["Caroline"],
   1416:["Drew P"]
 };
-const cachedAt = "2025-09-05T00:03:04Z";
+const cachedAt = "2025-09-05T01:03:04Z";
