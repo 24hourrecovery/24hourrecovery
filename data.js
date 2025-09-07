@@ -376,7 +376,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[555],id:7919,language:"English",location:"York, Pennsylvania",program:"Successful Life Skills",schedule:{day:5,time:"00:00Z",week:[2,3,4,-1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[556],id:7920,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[976],id:7924,language:"English",location:"Bridgeport, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[901],id:7958,language:"English",location:"Redford Charter Township, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-09-07T17:00:00Z",dataSource:"na",duration:60,facilitator:[901],id:7958,language:"English",location:"Redford Charter Township, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"17:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[699],id:7966,language:"Spanish",location:"Alexandria, Virginia",program:"Family & Friends",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[962,963],id:7974,language:"English",location:"South Bend, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[680],id:7977,language:"English",location:"Kingston, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
@@ -589,7 +589,7 @@ const facilitators = {
   76:["Philip Evaul"],
   77:["Pascale Hough"],
   79:["Josee-Anne"],
-  80:["Jessica","Virginia / Ontario"],
+  80:["Jessica","Ontario / Virginia"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1149,7 +1149,7 @@ const facilitators = {
   1315:["Teraya"],
   1317:["Cameron Hayes"],
   1318:["Alisa"],
-  1319:["Barbara","Missouri / Georgia"],
+  1319:["Barbara","Georgia / Missouri"],
   1323:["Louise McCarthy"],
   1325:["Rana"],
   1326:["Jessica","Virginia"],
@@ -1186,6 +1186,7 @@ const facilitators = {
   1393:["Myranda LeMahieu"],
   1396:["Alisha"],
   1397:["hyesun 주"],
+  1398:["Ievhen Appolonov"],
   1400:["Riley"],
   1401:["Grace Koolhoven"],
   1402:["Jessie K"],
@@ -1197,4 +1198,4 @@ const facilitators = {
   1415:["Caroline"],
   1416:["Drew P"]
 };
-const cachedAt = "2025-09-07T14:03:04Z";
+const cachedAt = "2025-09-07T15:03:05Z";
