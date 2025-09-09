@@ -443,6 +443,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[141,142],id:8363,language:"English",location:"Ferndale, Michigan",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[981],id:8369,language:"English",location:"Flushing, Michigan",program:"Family & Friends",schedule:{day:5,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1160,1163],id:8378,language:"English",location:"Greenville, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[544],id:8384,language:"English",location:"Trinidad, California",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z",week:[1,3]},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[929],id:8385,language:"English",location:"Belchertown, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[916],id:8386,language:"English",location:"Raritan, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[972],id:8396,language:"English",location:"Corfu, New York",program:"4-Point Recovery",schedule:{day:0,time:"13:00Z"},type:"Online"},
@@ -1033,6 +1034,7 @@ const facilitators = {
   885:["Maryvette"],
   886:["Matt Flegg"],
   887:["Will"],
+  889:["Nehemiah Samuel"],
   890:["Heather"],
   892:["Bobby"],
   893:["Christine","Arkansas"],
@@ -1193,4 +1195,4 @@ const facilitators = {
   1419:["Alisa Yevsyakova"],
   1420:["Marie"]
 };
-const cachedAt = "2025-09-09T02:03:04Z";
+const cachedAt = "2025-09-09T03:03:04Z";
