@@ -586,7 +586,7 @@ const facilitators = {
   76:["Philip Evaul"],
   77:["Pascale Hough"],
   79:["Josee-Anne"],
-  80:["Jessica","Ontario / Virginia"],
+  80:["Jessica","Virginia / Ontario"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -1135,6 +1135,7 @@ const facilitators = {
   1309:["Michael Onwuke"],
   1310:["Samantha Critchley"],
   1311:["Danielle Lankford"],
+  1312:["Nthan Recovery (They/Them)"],
   1313:["Thomas"],
   1314:["Anita Z"],
   1315:["Teraya"],
@@ -1192,4 +1193,4 @@ const facilitators = {
   1420:["Marie"],
   1423:["Bob"]
 };
-const cachedAt = "2025-09-10T09:03:05Z";
+const cachedAt = "2025-09-10T10:03:03Z";
