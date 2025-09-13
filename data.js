@@ -459,6 +459,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[674],id:8436,language:"English",location:"Shawneetown, Illinois",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[952],id:8440,language:"English",location:"Port Richey, Florida",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8450,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[956],id:8454,language:"English",location:"North Aurora, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z",week:[3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[964],id:8458,language:"English",location:"Tulsa, Oklahoma",program:"4-Point Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[966],id:8459,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[991],id:8468,language:"English",location:"Columbia, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z",week:[1,3]},type:"Online"},
@@ -995,7 +996,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","United States / Global"],
+  831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   834:["Fernando Cote"],
   835:["Lili"],
@@ -1060,6 +1061,7 @@ const facilitators = {
   951:["Noel Elmore"],
   952:["Frank H"],
   955:["Kim Brown"],
+  956:["Christian Bee"],
   957:["Charles Smith"],
   958:["Brandon Yost"],
   959:["Victor Lenoxe"],
@@ -1199,4 +1201,4 @@ const facilitators = {
   1425:["James","Illinois"],
   1426:["Staci Peterson"]
 };
-const cachedAt = "2025-09-12T23:03:04Z";
+const cachedAt = "2025-09-13T00:03:04Z";
