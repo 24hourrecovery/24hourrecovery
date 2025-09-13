@@ -1181,7 +1181,6 @@ const facilitators = {
   1393:["Myranda LeMahieu"],
   1396:["Alisha"],
   1397:["hyesun 주"],
-  1398:["Ievhen Appolonov"],
   1400:["Riley"],
   1401:["Grace Koolhoven"],
   1402:["Jessie K"],
@@ -1201,4 +1200,4 @@ const facilitators = {
   1426:["Staci Peterson"],
   1427:["Anna","British Columbia"]
 };
-const cachedAt = "2025-09-13T17:03:04Z";
+const cachedAt = "2025-09-13T18:03:04Z";
