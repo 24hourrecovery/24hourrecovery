@@ -1032,7 +1032,6 @@ const facilitators = {
   886:["Matt Flegg"],
   887:["Will"],
   888:["Chinyere Nduu Okoro"],
-  889:["Nehemiah Samuel"],
   890:["Heather"],
   892:["Bobby"],
   893:["Christine","Arkansas"],
@@ -1205,4 +1204,4 @@ const facilitators = {
   1426:["Staci Peterson"],
   1427:["Anna","British Columbia"]
 };
-const cachedAt = "2025-09-14T18:03:04Z";
+const cachedAt = "2025-09-14T19:03:04Z";
