@@ -554,7 +554,6 @@ const meetings = [
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:60,facilitator:[701],id:1603,language:"English",location:"Stevenage, England",program:"SMART Veterans",schedule:{day:2,time:"17:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[752,753],id:1640,language:"Punjabi",location:"National",program:"SMART Recovery",schedule:{day:0,time:"07:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[846],id:1643,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"09:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[955],id:1648,language:"English",location:"Nairn, Scotland",program:"SMART Recovery",schedule:{day:3,time:"13:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[939,940],id:1684,language:"English",location:"Harrogate, England",program:"SMART Recovery",schedule:{day:4,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1323],id:1721,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"05:00Z"},type:"Online"},
@@ -1055,7 +1054,6 @@ const facilitators = {
   951:["Noel Elmore"],
   952:["Frank H"],
   953:["Brooke M"],
-  955:["Kim Brown"],
   956:["Christian Bee"],
   957:["Charles Smith"],
   958:["Brandon Yost"],
@@ -1117,7 +1115,6 @@ const facilitators = {
   1246:["Clea P"],
   1252:["Olivier Engoute"],
   1263:["Isha Isidore"],
-  1264:["Priscilla Kimari"],
   1265:["Vanessa Carle"],
   1268:["Timothy"],
   1269:["Nathan","Ohio"],
@@ -1141,7 +1138,7 @@ const facilitators = {
   1315:["Teraya"],
   1317:["Cameron Hayes"],
   1318:["Alisa"],
-  1319:["Barbara","Missouri / Georgia"],
+  1319:["Barbara","Georgia / Missouri"],
   1323:["Louise McCarthy"],
   1325:["Rana"],
   1326:["Jessica","Virginia"],
@@ -1201,4 +1198,4 @@ const facilitators = {
   1426:["Staci Peterson"],
   1427:["Anna","British Columbia"]
 };
-const cachedAt = "2025-09-19T14:03:04Z";
+const cachedAt = "2025-09-19T15:03:04Z";
