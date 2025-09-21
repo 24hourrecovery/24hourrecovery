@@ -986,7 +986,7 @@ const facilitators = {
   831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1018,7 +1018,6 @@ const facilitators = {
   886:["Matt Flegg"],
   887:["Will"],
   888:["Chinyere Nduu Okoro"],
-  889:["Nehemiah Samuel"],
   890:["Heather"],
   892:["Bobby"],
   893:["Christine","Arkansas"],
@@ -1129,7 +1128,7 @@ const facilitators = {
   1315:["Teraya"],
   1317:["Cameron Hayes"],
   1318:["Alisa"],
-  1319:["Barbara","Georgia / Missouri"],
+  1319:["Barbara","Missouri / Georgia"],
   1323:["Louise McCarthy"],
   1325:["Rana"],
   1326:["Jessica","Virginia"],
@@ -1178,6 +1177,7 @@ const facilitators = {
   1415:["Caroline"],
   1416:["Drew P"],
   1418:["Elena Simagina"],
+  1419:["Alisa Yevsyakova"],
   1420:["Marie"],
   1423:["Bob"],
   1424:["Richard Holcombe"],
@@ -1207,4 +1207,4 @@ const facilitators = {
   1449:["Missy Jo"],
   1450:["Josay B."]
 };
-const cachedAt = "2025-09-21T18:03:05Z";
+const cachedAt = "2025-09-21T20:03:32Z";
