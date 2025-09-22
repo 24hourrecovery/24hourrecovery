@@ -1130,7 +1130,7 @@ const facilitators = {
   1315:["Teraya"],
   1317:["Cameron Hayes"],
   1318:["Alisa"],
-  1319:["Barbara","Missouri / Georgia"],
+  1319:["Barbara","Georgia / Missouri"],
   1323:["Louise McCarthy"],
   1325:["Rana"],
   1326:["Jessica","Virginia"],
@@ -1208,4 +1208,4 @@ const facilitators = {
   1449:["Missy Jo"],
   1450:["Josay B."]
 };
-const cachedAt = "2025-09-22T05:03:04Z";
+const cachedAt = "2025-09-22T06:03:04Z";
