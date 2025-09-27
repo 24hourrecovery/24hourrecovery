@@ -1,6 +1,7 @@
 const meetings = [
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Online"},
+  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z",week:[1]},type:"Both"},
   {audience:["All Welcome","Divorced partners and parents"],canceled:"2025-09-30T08:00:00Z",dataSource:"au",duration:90,facilitator:[1089],id:1450,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1327],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
@@ -974,7 +975,6 @@ const facilitators = {
   826:["SMART Espanol Women&#x27;s Meetings"],
   827:["Oscar"],
   828:["Nadezhda Borzunova"],
-  829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
@@ -991,7 +991,6 @@ const facilitators = {
   846:["Andrea Maddin"],
   847:["Carey"],
   848:["Cynthia Getman-Hubbard"],
-  851:["Remi"],
   854:["Maya","Illinois"],
   855:["Ava Burre"],
   857:["Angie","Connecticut"],
@@ -1036,6 +1035,8 @@ const facilitators = {
   940:["Travis"],
   942:["Austin Farrell"],
   945:["Paula"],
+  947:["Alex"],
+  948:["Isabel"],
   951:["Noel Elmore"],
   952:["Frank H"],
   957:["Charles Smith"],
@@ -1063,7 +1064,6 @@ const facilitators = {
   1011:["Jonathon Maxgay"],
   1013:["Paul","Colorado"],
   1021:["Leonard Murphy"],
-  1050:["Kris Runske"],
   1055:["David Wilkinson"],
   1059:["Samantha T."],
   1088:["Lea"],
@@ -1094,6 +1094,7 @@ const facilitators = {
   1245:["Jessica B"],
   1246:["Clea P"],
   1263:["Isha Isidore"],
+  1264:["Priscilla Kimari"],
   1265:["Vanessa Carle"],
   1268:["Timothy"],
   1269:["Nathan","Ohio"],
@@ -1101,7 +1102,6 @@ const facilitators = {
   1274:["Corey"],
   1275:["William L. McNeil Sr"],
   1276:["Tammy"],
-  1285:["Shayan Abdullah"],
   1289:["Mark Wronkiewicz"],
   1296:["Bruce"],
   1300:["Whit D."],
@@ -1152,7 +1152,6 @@ const facilitators = {
   1393:["Myranda LeMahieu"],
   1396:["Alisha"],
   1397:["hyesun 주"],
-  1398:["Ievhen Appolonov"],
   1400:["Riley"],
   1401:["Grace Koolhoven"],
   1402:["Jessie K"],
@@ -1204,4 +1203,4 @@ const facilitators = {
   1465:["Gina Frame"],
   1466:["Angelina B."]
 };
-const cachedAt = "2025-09-27T08:03:06Z";
+const cachedAt = "2025-09-27T11:03:06Z";
