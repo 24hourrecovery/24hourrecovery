@@ -547,7 +547,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1465],id:1774,language:"English",location:"Golspie, Scotland",program:"SMART Recovery",schedule:{day:1,time:"13:30Z",week:[1,2,4]},type:"Online"}
 ];
 const facilitators = {
-  8:["Andrew","National"],
   24:["Dave","New South Wales"],
   50:["Natalie"],
   51:["Rebecca Heller"],
@@ -572,7 +571,7 @@ const facilitators = {
   76:["Philip Evaul"],
   77:["Pascale Hough"],
   79:["Josee-Anne"],
-  80:["Jessica","Ontario / Virginia"],
+  80:["Jessica","Virginia / Ontario"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -804,7 +803,7 @@ const facilitators = {
   441:["Loretta B."],
   443:["Peter","New York"],
   444:["Andrew Garr"],
-  446:["Barbara","Louisiana / Mississippi"],
+  446:["Barbara","Mississippi / Louisiana"],
   451:["Sue"],
   452:["Denise H"],
   455:["Starr"],
@@ -1045,7 +1044,6 @@ const facilitators = {
   1055:["David Wilkinson"],
   1059:["Samantha T."],
   1088:["Lea"],
-  1089:["Tess"],
   1091:["Jess","West Virginia"],
   1099:["Monica A"],
   1121:["David"],
@@ -1190,4 +1188,4 @@ const facilitators = {
   1474:["Lindsey"],
   1475:["Oleg Khurramov"]
 };
-const cachedAt = "2025-10-01T05:03:04Z";
+const cachedAt = "2025-10-01T08:03:04Z";
