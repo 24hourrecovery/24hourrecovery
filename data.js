@@ -1,6 +1,9 @@
 const meetings = [
+  {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2025-10-06T02:00:00Z",dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Both"},
+  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:00Z",week:[2,3,4,-1]},type:"Both"},
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z",week:[1]},type:"Both"},
+  {audience:["All Welcome","Divorced partners and parents"],dataSource:"au",duration:90,facilitator:[1089],id:1450,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1327],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[53,54,55],id:1016,language:"English",location:"Silver Spring, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -547,6 +550,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1465],id:1774,language:"English",location:"Golspie, Scotland",program:"SMART Recovery",schedule:{day:1,time:"13:30Z",week:[1,2,4]},type:"Online"}
 ];
 const facilitators = {
+  8:["Andrew","National"],
   24:["Dave","New South Wales"],
   50:["Natalie"],
   51:["Rebecca Heller"],
@@ -1044,6 +1048,7 @@ const facilitators = {
   1055:["David Wilkinson"],
   1059:["Samantha T."],
   1088:["Lea"],
+  1089:["Tess"],
   1091:["Jess","West Virginia"],
   1099:["Monica A"],
   1121:["David"],
@@ -1094,7 +1099,7 @@ const facilitators = {
   1315:["Teraya"],
   1317:["Cameron Hayes"],
   1318:["Alisa"],
-  1319:["Barbara","Georgia / Missouri"],
+  1319:["Barbara","Missouri / Georgia"],
   1323:["Louise McCarthy"],
   1325:["Rana"],
   1326:["Jessica","Virginia"],
@@ -1188,4 +1193,4 @@ const facilitators = {
   1474:["Lindsey"],
   1475:["Oleg Khurramov"]
 };
-const cachedAt = "2025-10-01T08:03:04Z";
+const cachedAt = "2025-10-01T11:03:04Z";
