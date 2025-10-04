@@ -580,7 +580,7 @@ const facilitators = {
   76:["Philip Evaul"],
   77:["Pascale Hough"],
   79:["Josee-Anne"],
-  80:["Jessica","Virginia / Ontario"],
+  80:["Jessica","Ontario / Virginia"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -806,7 +806,7 @@ const facilitators = {
   441:["Loretta B."],
   443:["Peter","New York"],
   444:["Andrew Garr"],
-  446:["Barbara","Louisiana / Mississippi"],
+  446:["Barbara","Mississippi / Louisiana"],
   451:["Sue"],
   452:["Denise H"],
   454:["Rick S."],
@@ -1105,7 +1105,7 @@ const facilitators = {
   1315:["Teraya"],
   1317:["Cameron Hayes"],
   1318:["Alisa"],
-  1319:["Barbara","Missouri / Georgia"],
+  1319:["Barbara","Georgia / Missouri"],
   1323:["Louise McCarthy"],
   1325:["Rana"],
   1326:["Jessica","Virginia"],
@@ -1201,4 +1201,4 @@ const facilitators = {
   1481:["Kirstin"],
   1482:["Theresa"]
 };
-const cachedAt = "2025-10-04T05:03:04Z";
+const cachedAt = "2025-10-04T08:03:06Z";
