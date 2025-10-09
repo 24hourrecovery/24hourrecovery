@@ -1052,8 +1052,6 @@ const facilitators = {
   1159:["Amanda T"],
   1160:["Kacey"],
   1162:["Christopher"],
-  1168:["Susanne"],
-  1169:["Kerstin"],
   1172:["South African Meeting Host Team"],
   1198:["Stasia DeMarco"],
   1199:["Stephen","Virginia"],
@@ -1092,7 +1090,7 @@ const facilitators = {
   1315:["Teraya"],
   1317:["Cameron Hayes"],
   1318:["Alisa"],
-  1319:["Barbara","Missouri / Georgia"],
+  1319:["Barbara","Georgia / Missouri"],
   1323:["Louise McCarthy"],
   1325:["Rana"],
   1326:["Jessica","Virginia"],
@@ -1197,4 +1195,4 @@ const facilitators = {
   1503:["Geoff Due"],
   1504:["Josh"]
 };
-const cachedAt = "2025-10-09T05:03:04Z";
+const cachedAt = "2025-10-09T08:03:04Z";
