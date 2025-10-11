@@ -397,7 +397,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[432,772],id:8213,language:"English",location:"Richmond, Virginia",program:"Family & Friends",schedule:{day:3,time:"16:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1388],id:8231,language:"English",location:"Welland, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[782],id:8236,language:"English",location:"Addison, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],canceled:"2025-10-11T14:00:00Z",dataSource:"na",duration:60,facilitator:[782],id:8236,language:"English",location:"Addison, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[942],id:8239,language:"English",location:"Mt Vernon, Ohio",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[791],id:8251,language:"English",location:"Las Vegas, Nevada",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1296],id:8254,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:5,time:"19:30Z"},type:"Both"},
@@ -579,7 +579,7 @@ const facilitators = {
   76:["Philip Evaul"],
   77:["Pascale Hough"],
   79:["Josee-Anne"],
-  80:["Jessica","Virginia / Ontario"],
+  80:["Jessica","Ontario / Virginia"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -796,7 +796,7 @@ const facilitators = {
   441:["Loretta B."],
   443:["Peter","New York"],
   444:["Andrew Garr"],
-  446:["Barbara","Mississippi / Louisiana"],
+  446:["Barbara","Louisiana / Mississippi"],
   451:["Sue"],
   452:["Denise H"],
   454:["Rick S."],
@@ -957,7 +957,7 @@ const facilitators = {
   832:["Juan Negron"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","United States / Global"],
+  836:["Jesus Cisneros","Global / United States"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1073,6 +1073,7 @@ const facilitators = {
   1245:["Jessica B"],
   1246:["Clea P"],
   1263:["Isha Isidore"],
+  1264:["Priscilla Kimari"],
   1265:["Vanessa Carle"],
   1268:["Timothy"],
   1269:["Nathan","Ohio"],
@@ -1160,7 +1161,7 @@ const facilitators = {
   1437:["Annmarie Shafer"],
   1438:["Jocelyn"],
   1439:["Elizabeth","West Virginia"],
-  1440:["Jess","Oregon / West Virginia"],
+  1440:["Jess","West Virginia / Oregon"],
   1441:["Ian"],
   1442:["Priscilla"],
   1443:["Caleb Farmer"],
@@ -1202,4 +1203,4 @@ const facilitators = {
   1507:["Carly"],
   1509:["John Scarince"]
 };
-const cachedAt = "2025-10-11T11:03:07Z";
+const cachedAt = "2025-10-11T14:03:04Z";
