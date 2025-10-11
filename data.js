@@ -497,6 +497,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1481],id:8817,language:"English",location:"Kamloops, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1462],id:8818,language:"English",location:"Marlton, New Jersey",program:"4-Point Recovery",schedule:{day:4,time:"06:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[878],id:8823,language:"English",location:"Brampton, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
+  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[1482],id:8831,language:"English",location:"Coeur D&#x27;Alene, Idaho",program:"Successful Life Skills",schedule:{day:5,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1489],id:8845,language:"English",location:"Cheyenne, Wyoming",program:"4-Point Recovery",schedule:{day:4,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1490],id:8846,language:"English",location:"Toledo, Ohio",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1489],id:8848,language:"English",location:"Glenrock, Wyoming",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
@@ -795,7 +796,7 @@ const facilitators = {
   441:["Loretta B."],
   443:["Peter","New York"],
   444:["Andrew Garr"],
-  446:["Barbara","Louisiana / Mississippi"],
+  446:["Barbara","Mississippi / Louisiana"],
   451:["Sue"],
   452:["Denise H"],
   454:["Rick S."],
@@ -1036,6 +1037,7 @@ const facilitators = {
   984:["Vladislav Khardzhiev"],
   985:["Lisa Goodkind"],
   987:["Trish R"],
+  988:["Trista Wysong"],
   989:["Andrew","Pennsylvania"],
   991:["Kaela Hampton"],
   1011:["Jonathon Maxgay"],
@@ -1157,7 +1159,7 @@ const facilitators = {
   1437:["Annmarie Shafer"],
   1438:["Jocelyn"],
   1439:["Elizabeth","West Virginia"],
-  1440:["Jess","West Virginia / Oregon"],
+  1440:["Jess","Oregon / West Virginia"],
   1441:["Ian"],
   1442:["Priscilla"],
   1443:["Caleb Farmer"],
@@ -1184,9 +1186,9 @@ const facilitators = {
   1478:["Katie Lowe"],
   1480:["Paul","Utah"],
   1481:["Kirstin"],
+  1482:["Theresa"],
   1483:["Brandy"],
   1484:["James","Kentucky"],
-  1485:["Olesia Kolesova"],
   1488:["Steve C."],
   1489:["Tanya M"],
   1490:["Vincent"],
@@ -1199,4 +1201,4 @@ const facilitators = {
   1507:["Carly"],
   1509:["John Scarince"]
 };
-const cachedAt = "2025-10-11T02:03:05Z";
+const cachedAt = "2025-10-11T05:03:04Z";
