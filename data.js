@@ -581,7 +581,7 @@ const facilitators = {
   76:["Philip Evaul"],
   77:["Pascale Hough"],
   79:["Josee-Anne"],
-  80:["Jessica","Ontario / Virginia"],
+  80:["Jessica","Virginia / Ontario"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -798,7 +798,7 @@ const facilitators = {
   441:["Loretta B."],
   443:["Peter","New York"],
   444:["Andrew Garr"],
-  446:["Barbara","Mississippi / Louisiana"],
+  446:["Barbara","Louisiana / Mississippi"],
   451:["Sue"],
   452:["Denise H"],
   454:["Rick S."],
@@ -954,11 +954,11 @@ const facilitators = {
   826:["SMART Espanol Women&#x27;s Meetings"],
   827:["Oscar"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   834:["Fernando Cote"],
   835:["Lili"],
-  836:["Jesus Cisneros","Global / United States"],
+  836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1021,7 +1021,6 @@ const facilitators = {
   956:["Christian Bee"],
   957:["Charles Smith"],
   958:["Brandon Yost"],
-  959:["Victor Lenoxe"],
   962:["John H"],
   963:["Keith H"],
   964:["Hayden","Oklahoma"],
@@ -1190,6 +1189,7 @@ const facilitators = {
   1482:["Theresa"],
   1483:["Brandy"],
   1484:["James","Kentucky"],
+  1485:["Olesia Kolesova"],
   1488:["Steve C."],
   1489:["Tanya M"],
   1490:["Vincent"],
@@ -1202,4 +1202,4 @@ const facilitators = {
   1509:["John Scarince"],
   1510:["Dina Bezmelnitsyna"]
 };
-const cachedAt = "2025-10-12T08:03:04Z";
+const cachedAt = "2025-10-12T11:03:04Z";
