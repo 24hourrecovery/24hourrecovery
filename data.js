@@ -551,8 +551,7 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1323],id:1721,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"05:00Z"},type:"Online"},
   {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:90,facilitator:[1309,1310],id:1733,language:"English",location:"Sheffield, England",program:"SMART Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1465],id:1774,language:"English",location:"Golspie, Scotland",program:"SMART Recovery",schedule:{day:1,time:"13:30Z",week:[1,2,4]},type:"Online"}
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"}
 ];
 const facilitators = {
   8:["Andrew","National"],
@@ -957,6 +956,7 @@ const facilitators = {
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
+  834:["Fernando Cote"],
   836:["Jesus Cisneros","United States / Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
@@ -1156,7 +1156,7 @@ const facilitators = {
   1436:["Julia"],
   1438:["Jocelyn"],
   1439:["Elizabeth","West Virginia"],
-  1440:["Jess","Oregon / West Virginia"],
+  1440:["Jess","West Virginia / Oregon"],
   1441:["Ian"],
   1442:["Priscilla"],
   1443:["Caleb Farmer"],
@@ -1199,4 +1199,4 @@ const facilitators = {
   1510:["Dina Bezmelnitsyna"],
   1511:["Annmarie Shafer"]
 };
-const cachedAt = "2025-10-13T14:03:04Z";
+const cachedAt = "2025-10-13T17:03:04Z";
