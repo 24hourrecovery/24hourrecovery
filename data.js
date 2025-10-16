@@ -1043,7 +1043,6 @@ const facilitators = {
   1013:["Paul","Colorado"],
   1021:["Leonard Murphy"],
   1050:["Kris Runske"],
-  1055:["David Wilkinson"],
   1059:["Samantha T."],
   1088:["Lea"],
   1089:["Tess"],
@@ -1056,8 +1055,6 @@ const facilitators = {
   1159:["Amanda T"],
   1160:["Kacey"],
   1162:["Christopher"],
-  1168:["Susanne"],
-  1169:["Kerstin"],
   1172:["South African Meeting Host Team"],
   1198:["Stasia DeMarco"],
   1199:["Stephen","Virginia"],
@@ -1131,7 +1128,6 @@ const facilitators = {
   1391:["Jess Ott"],
   1392:["Ben","Massachusetts"],
   1393:["Myranda LeMahieu"],
-  1397:["hyesun 주"],
   1398:["Ievhen Appolonov"],
   1400:["Riley"],
   1401:["Grace Koolhoven"],
@@ -1213,4 +1209,4 @@ const facilitators = {
   1519:["Terrance"],
   1520:["Jonathan Thompson"]
 };
-const cachedAt = "2025-10-16T05:03:04Z";
+const cachedAt = "2025-10-16T11:03:04Z";
