@@ -583,7 +583,7 @@ const facilitators = {
   76:["Philip Evaul"],
   77:["Pascale Hough"],
   79:["Josee-Anne"],
-  80:["Jessica","Ontario / Virginia"],
+  80:["Jessica","Virginia / Ontario"],
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
@@ -799,7 +799,7 @@ const facilitators = {
   441:["Loretta B."],
   443:["Peter","New York"],
   444:["Andrew Garr"],
-  446:["Barbara","Louisiana / Mississippi"],
+  446:["Barbara","Mississippi / Louisiana"],
   451:["Sue"],
   452:["Denise H"],
   454:["Rick S."],
@@ -950,6 +950,7 @@ const facilitators = {
   822:["Kasia Stubba"],
   823:["Dave and Tina"],
   825:["Mike Hooper"],
+  826:["SMART Espanol Women&#x27;s Meetings"],
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
@@ -1095,7 +1096,7 @@ const facilitators = {
   1315:["Teraya"],
   1317:["Cameron Hayes"],
   1318:["Alisa"],
-  1319:["Barbara","Georgia / Missouri"],
+  1319:["Barbara","Missouri / Georgia"],
   1323:["Louise McCarthy"],
   1325:["Rana"],
   1326:["Jessica","Virginia"],
@@ -1143,7 +1144,6 @@ const facilitators = {
   1414:["Sharyn Duffey"],
   1415:["Caroline"],
   1416:["Drew P"],
-  1418:["Elena Simagina"],
   1419:["Alisa Yevsyakova"],
   1420:["Marie"],
   1423:["Bob"],
@@ -1213,4 +1213,4 @@ const facilitators = {
   1519:["Terrance"],
   1520:["Jonathan Thompson"]
 };
-const cachedAt = "2025-10-16T02:03:04Z";
+const cachedAt = "2025-10-16T05:03:04Z";
