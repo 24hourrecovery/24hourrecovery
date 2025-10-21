@@ -471,6 +471,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1319],id:8703,language:"English",location:"Warrenton, Missouri",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1408],id:8708,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1362],id:8709,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:2,time:"19:05Z",week:[3]},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1363],id:8712,language:"English",location:"Middletown, Connecticut",program:"Family & Friends",schedule:{day:2,time:"13:00Z",week:[2,4]},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:120,facilitator:[1370],id:8722,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1444],id:8728,language:"English",location:"Newland, North Carolina",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1415],id:8730,language:"English",location:"Atlanta, Georgia",program:"4-Point Recovery",schedule:{day:4,time:"00:30Z"},type:"Online"},
@@ -934,7 +935,6 @@ const facilitators = {
   801:["Leo"],
   802:["Johnny"],
   804:["Jess","Georgia"],
-  813:["Dahlia Skuncikiene"],
   814:["Irina Berg"],
   816:["Judy"],
   819:["Juliana Anake-Ugwu"],
@@ -947,7 +947,7 @@ const facilitators = {
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
-  831:["Gerardo Matamoros","Global / United States"],
+  831:["Gerardo Matamoros","United States / Global"],
   832:["Juan Negron"],
   834:["Fernando Cote"],
   837:["Anabel"],
@@ -1021,6 +1021,7 @@ const facilitators = {
   979:["Bruce S. Liese"],
   981:["Sheila","Michigan"],
   983:["Megan"],
+  984:["Vladislav Khardzhiev"],
   985:["Lisa Goodkind"],
   987:["Trish R"],
   988:["Trista Wysong"],
@@ -1095,6 +1096,7 @@ const facilitators = {
   1355:["MJ"],
   1357:["Chris M."],
   1362:["Kayla","Texas"],
+  1363:["Adria"],
   1364:["Angela Towne"],
   1365:["Chris M"],
   1366:["Bernard G"],
@@ -1139,7 +1141,7 @@ const facilitators = {
   1436:["Julia"],
   1438:["Jocelyn"],
   1439:["Elizabeth","West Virginia"],
-  1440:["Jess","Oregon / West Virginia"],
+  1440:["Jess","West Virginia / Oregon"],
   1441:["Ian"],
   1442:["Priscilla"],
   1443:["Caleb Farmer"],
@@ -1193,4 +1195,4 @@ const facilitators = {
   1526:["Rich Porter"],
   1527:["Caryn"]
 };
-const cachedAt = "2025-10-21T11:03:04Z";
+const cachedAt = "2025-10-21T14:03:04Z";
