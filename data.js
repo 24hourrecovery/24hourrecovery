@@ -394,7 +394,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[563,564],id:823,language:"English",location:"Arlington, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1388],id:8231,language:"English",location:"Welland, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[782],id:8236,language:"English",location:"Addison, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[942],id:8239,language:"English",location:"Mt Vernon, Ohio",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-11-12 17:30:00-06",dataSource:"na",duration:60,facilitator:[942],id:8239,language:"English",location:"Mt Vernon, Ohio",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[791],id:8251,language:"English",location:"Las Vegas, Nevada",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1296],id:8254,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:5,time:"20:30Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1454],id:8256,language:"English",location:"Rockford, Illinois",program:"Family & Friends",schedule:{day:2,time:"00:00Z",week:[1,3]},type:"Online"},
@@ -566,8 +566,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[939,940],id:1684,language:"English",location:"Harrogate, England",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1323],id:1721,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"06:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1465],id:1774,language:"English",location:"Golspie, Scotland",program:"SMART Recovery",schedule:{day:1,time:"14:30Z",week:[1,2,4]},type:"Online"}
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"}
 ];
 const facilitators = {
   8:["Andrew","National"],
@@ -1170,7 +1169,6 @@ const facilitators = {
   1458:["Craig R"],
   1461:["Bill B"],
   1462:["Chaz"],
-  1465:["Gina Frame"],
   1470:["Yiyang"],
   1471:["Tyler"],
   1472:["Mo Christiano she/her"],
@@ -1240,4 +1238,4 @@ const facilitators = {
   1574:["Zack Allison","Georgia"],
   1575:["hyesun ì£¼"]
 };
-const cachedAt = "2025-11-11T14:17:04Z";
+const cachedAt = "2025-11-11T17:17:04Z";
