@@ -558,7 +558,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1311],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1535,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Family & Friends Only"],canceled:"2025-11-11 04:30:00-06",dataSource:"uk",duration:90,facilitator:[575],id:1567,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"10:30Z"},type:"Online"},
+  {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[575],id:1567,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"10:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[902],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:60,facilitator:[701],id:1603,language:"English",location:"Stevenage, England",program:"SMART Veterans",schedule:{day:2,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[752,753],id:1640,language:"Punjabi",location:"National",program:"SMART Recovery",schedule:{day:0,time:"08:00Z"},type:"Online"},
@@ -1126,7 +1126,6 @@ const facilitators = {
   1391:["Jess Ott"],
   1392:["Ben","Massachusetts"],
   1393:["Myranda LeMahieu"],
-  1397:["hyesun 주"],
   1398:["Ievhen Appolonov"],
   1400:["Riley"],
   1401:["Grace Koolhoven"],
@@ -1238,6 +1237,7 @@ const facilitators = {
   1571:["Colleen C"],
   1572:["Terrance","Texas"],
   1573:["Trish R"],
-  1574:["Zack Allison","Georgia"]
+  1574:["Zack Allison","Georgia"],
+  1575:["hyesun ì£¼"]
 };
-const cachedAt = "2025-11-11T11:17:04Z";
+const cachedAt = "2025-11-11T14:17:04Z";
