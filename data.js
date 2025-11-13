@@ -12,7 +12,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[60],id:1027,language:"English",location:"North Bethesda, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[62,1368],id:103,language:"English",location:"Northampton, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[63,64,185,1429,1526],id:1033,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:6,time:"03:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[65],id:105,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-11-13 16:30:00-06",dataSource:"na",duration:90,facilitator:[65],id:105,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[67],id:106,language:"English",location:"Cambridge, Massachusetts",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[68,69,71,710],id:107,language:"English",location:"Concord, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[743],id:1107,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"15:30Z"},type:"Online"},
@@ -491,7 +491,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1491],id:8849,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[610],id:8851,language:"English",location:"Terre Haute, Indiana",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1495],id:8853,language:"English",location:"Centerville, Tennessee",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2025-11-13 11:00:00-06",dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[1514],id:8861,language:"English",location:"Berkeley, California",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1517],id:8863,language:"English",location:"North Bend, Washington",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1518],id:8865,language:"English",location:"Dunedin, Florida",program:"Successful Life Skills",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -561,6 +561,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[939,940],id:1684,language:"English",location:"Harrogate, England",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1323],id:1721,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"06:00Z"},type:"Online"},
+  {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:90,facilitator:[1309,1310],id:1733,language:"English",location:"Sheffield, England",program:"SMART Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"}
 ];
 const facilitators = {
@@ -941,7 +942,10 @@ const facilitators = {
   819:["Juliana Anake-Ugwu"],
   822:["Kasia Stubba"],
   823:["Dave and Tina"],
+  824:["Patrese Calheiros"],
   825:["Mike Hooper"],
+  826:["SMART Espanol Women&#x27;s Meetings"],
+  827:["Oscar"],
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
@@ -1029,6 +1033,7 @@ const facilitators = {
   1013:["Paul","Colorado"],
   1021:["Leonard Murphy"],
   1050:["Kris Runske"],
+  1055:["David Wilkinson"],
   1059:["Samantha T."],
   1088:["Lea"],
   1089:["Tess"],
@@ -1041,6 +1046,8 @@ const facilitators = {
   1159:["Amanda T"],
   1160:["Kacey"],
   1162:["Christopher"],
+  1168:["Susanne"],
+  1169:["Kerstin"],
   1172:["South African Meeting Host Team"],
   1198:["Stasia DeMarco"],
   1199:["Stephen","Virginia"],
@@ -1066,6 +1073,8 @@ const facilitators = {
   1296:["Bruce"],
   1300:["Whit D."],
   1301:["Nathan (they/them)"],
+  1309:["Michael Onwuke"],
+  1310:["Samantha Critchley"],
   1311:["Danielle Lankford"],
   1312:["Nthan Recovery (They/Them)"],
   1313:["Thomas"],
@@ -1119,6 +1128,7 @@ const facilitators = {
   1414:["Sharyn Duffey"],
   1415:["Caroline"],
   1416:["Drew P"],
+  1418:["Elena Simagina"],
   1419:["Alisa Yevsyakova"],
   1423:["Bob"],
   1424:["Richard Holcombe"],
@@ -1221,4 +1231,4 @@ const facilitators = {
   1580:["Yulia T."],
   1581:["Christy"]
 };
-const cachedAt = "2025-11-13T17:17:04Z";
+const cachedAt = "2025-11-13T20:17:04Z";
