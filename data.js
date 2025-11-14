@@ -507,7 +507,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1559],id:8898,language:"English",location:"Lexington Park, Maryland",program:"Family & Friends",schedule:{day:1,time:"23:30Z"},type:"Both"},
   {audience:["School & College"],dataSource:"na",duration:60,facilitator:[1552],id:8901,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1560],id:8904,language:"English",location:"Baraboo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"19:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1301],id:8905,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"12:00Z",week:[2,4]},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1572],id:8907,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1572],id:8908,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1572],id:8909,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
@@ -989,7 +988,6 @@ const facilitators = {
   892:["Bobby"],
   893:["Christine","Arkansas"],
   894:["Shannon","North Carolina"],
-  896:["Patrick Clancey"],
   900:["Abby Bolin"],
   901:["Thomas A"],
   902:["Josephine McCormick"],
@@ -1214,7 +1212,6 @@ const facilitators = {
   1548:["Russ M"],
   1551:["Ashley Fulmer"],
   1552:["Millie G"],
-  1555:["Sanaz"],
   1556:["Sean (he/him)"],
   1559:["Laura Stewart Webb"],
   1560:["Joshua McBride"],
@@ -1237,4 +1234,4 @@ const facilitators = {
   1581:["Christy"],
   1583:["Ron Stricklin"]
 };
-const cachedAt = "2025-11-14T08:17:04Z";
+const cachedAt = "2025-11-14T11:17:05Z";
