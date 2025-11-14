@@ -1201,7 +1201,6 @@ const facilitators = {
   1528:["Jess","Georgia"],
   1529:["Sean Kelson"],
   1530:["Chris","Ontario"],
-  1531:["Soo-young bhang"],
   1532:["Roman Prishchenko"],
   1533:["Olesya Nilova"],
   1535:["Cheryl"],
@@ -1238,4 +1237,4 @@ const facilitators = {
   1581:["Christy"],
   1583:["Ron Stricklin"]
 };
-const cachedAt = "2025-11-14T02:17:04Z";
+const cachedAt = "2025-11-14T05:17:04Z";
