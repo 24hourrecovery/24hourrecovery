@@ -950,7 +950,6 @@ const facilitators = {
   826:["SMART Espanol Women&#x27;s Meetings"],
   827:["Oscar"],
   828:["Nadezhda Borzunova"],
-  829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
@@ -1032,12 +1031,12 @@ const facilitators = {
   983:["Megan"],
   984:["Vladislav Khardzhiev"],
   985:["Lisa Goodkind"],
+  988:["Trista Wysong"],
   989:["Andrew","Pennsylvania"],
   991:["Kaela Hampton"],
   1011:["Jonathon Maxgay"],
   1013:["Paul","Colorado"],
   1021:["Leonard Murphy"],
-  1050:["Kris Runske"],
   1055:["David Wilkinson"],
   1059:["Samantha T."],
   1088:["Lea"],
@@ -1121,7 +1120,6 @@ const facilitators = {
   1391:["Jess Ott"],
   1392:["Ben","Massachusetts"],
   1393:["Myranda LeMahieu"],
-  1398:["Ievhen Appolonov"],
   1400:["Riley"],
   1401:["Grace Koolhoven"],
   1402:["Jessie K"],
@@ -1190,7 +1188,6 @@ const facilitators = {
   1513:["Hannah","Tennessee"],
   1514:["Mye M."],
   1515:["Summer"],
-  1516:["Doronina Elena Viktorovna"],
   1517:["Miranda"],
   1518:["Petra"],
   1520:["Jonathan Thompson"],
@@ -1234,4 +1231,4 @@ const facilitators = {
   1581:["Christy"],
   1583:["Ron Stricklin"]
 };
-const cachedAt = "2025-11-15T14:17:04Z";
+const cachedAt = "2025-11-15T17:17:05Z";
