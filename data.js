@@ -949,7 +949,6 @@ const facilitators = {
   825:["Mike Hooper"],
   826:["SMART Espanol Women&#x27;s Meetings"],
   827:["Oscar"],
-  828:["Nadezhda Borzunova"],
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
@@ -1233,4 +1232,4 @@ const facilitators = {
   1581:["Christy"],
   1583:["Ron Stricklin"]
 };
-const cachedAt = "2025-11-15T23:17:04Z";
+const cachedAt = "2025-11-16T02:17:05Z";
