@@ -565,7 +565,8 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1323],id:1721,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"06:00Z"},type:"Online"},
   {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:90,facilitator:[1309,1310],id:1733,language:"English",location:"Sheffield, England",program:"SMART Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"}
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1465],id:1774,language:"English",location:"Golspie, Scotland",program:"SMART Recovery",schedule:{day:1,time:"14:30Z",week:[1,2,4]},type:"Online"}
 ];
 const facilitators = {
   8:["Andrew","National"],
@@ -1104,6 +1105,7 @@ const facilitators = {
   1368:["Alvin N."],
   1370:["Khare"],
   1371:["Suz Fuller"],
+  1374:["Arvo"],
   1379:["Amy Weston"],
   1380:["Hardial Kandola"],
   1381:["Shannon","California"],
@@ -1154,6 +1156,7 @@ const facilitators = {
   1458:["Craig R"],
   1461:["Bill B"],
   1462:["Chaz"],
+  1465:["Gina Frame"],
   1470:["Yiyang"],
   1471:["Tyler"],
   1472:["Mo Christiano she/her"],
@@ -1189,8 +1192,6 @@ const facilitators = {
   1529:["Sean Kelson"],
   1530:["Chris","Ontario"],
   1531:["Soo-young bhang"],
-  1532:["Roman Prishchenko"],
-  1533:["Olesya Nilova"],
   1535:["Cheryl"],
   1537:["Nik"],
   1538:["Laura Westbrook"],
@@ -1228,4 +1229,4 @@ const facilitators = {
   1583:["Ron Stricklin"],
   1584:["Eric","Massachusetts"]
 };
-const cachedAt = "2025-11-17T14:17:05Z";
+const cachedAt = "2025-11-17T17:17:04Z";
