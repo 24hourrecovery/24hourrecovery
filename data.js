@@ -99,7 +99,7 @@ const meetings = [
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[205],id:4143,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[446,462,528,724],id:4146,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:4,time:"00:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[207],id:4158,language:"English",location:"Wellfleet, Massachusetts",program:"Family & Friends",schedule:{day:1,time:"23:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[62,208],id:4165,language:"English",location:"Wellfleet, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z",week:[2,4]},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[62,1584],id:4165,language:"English",location:"Wellfleet, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[209],id:4213,language:"English",location:"Seattle, Washington",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[67],id:4223,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[1370,1538],id:4228,language:"English",location:"Shoreline, Washington",program:"Family & Friends",schedule:{day:6,time:"02:00Z"},type:"Online"},
@@ -681,7 +681,6 @@ const facilitators = {
   204:["Dan Chalykoff"],
   205:["Teresa Susmaras"],
   207:["Martha Gordon"],
-  208:["Eric","Massachusetts"],
   209:["Bryan Hicks"],
   213:["Gaboury Benoit"],
   214:["Paul Caluscos"],
@@ -983,7 +982,6 @@ const facilitators = {
   884:["Cheryl P."],
   886:["Matt Flegg"],
   887:["Will"],
-  888:["Chinyere Nduu Okoro"],
   890:["Heather"],
   892:["Bobby"],
   893:["Christine","Arkansas"],
@@ -1232,6 +1230,7 @@ const facilitators = {
   1579:["Alex Libre"],
   1580:["Yulia T."],
   1581:["Christy"],
-  1583:["Ron Stricklin"]
+  1583:["Ron Stricklin"],
+  1584:["Eric","Massachusetts"]
 };
-const cachedAt = "2025-11-16T23:17:04Z";
+const cachedAt = "2025-11-17T02:17:05Z";
