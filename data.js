@@ -1093,7 +1093,6 @@ const facilitators = {
   1331:["Keith Battle"],
   1336:["Connie C."],
   1339:["Elizabeth","North Carolina"],
-  1345:["Rahmat Santoso"],
   1350:["Tony Allen"],
   1351:["Curtis Banks"],
   1352:["Justin"],
@@ -1233,4 +1232,4 @@ const facilitators = {
   1583:["Ron Stricklin"],
   1584:["Eric","Massachusetts"]
 };
-const cachedAt = "2025-11-17T08:17:04Z";
+const cachedAt = "2025-11-17T11:17:04Z";
