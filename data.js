@@ -950,9 +950,7 @@ const facilitators = {
   819:["Juliana Anake-Ugwu"],
   822:["Kasia Stubba"],
   823:["Dave and Tina"],
-  824:["Patrese Calheiros"],
   825:["Mike Hooper"],
-  827:["Oscar"],
   828:["Nadezhda Borzunova"],
   829:["Tomasz Nawrocki"],
   831:["Gerardo Matamoros","Global / United States"],
@@ -1258,4 +1256,4 @@ const facilitators = {
   1590:["Michael McNally"],
   1591:["Chris Brasse"]
 };
-const cachedAt = "2025-11-19T20:17:04Z";
+const cachedAt = "2025-11-19T23:17:04Z";
