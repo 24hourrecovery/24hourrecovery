@@ -1089,6 +1089,7 @@ const facilitators = {
   1309:["Michael Onwuke"],
   1310:["Samantha Critchley"],
   1311:["Danielle Lankford"],
+  1312:["Nthan Recovery (They/Them)"],
   1313:["Thomas"],
   1314:["Anita Z"],
   1315:["Teraya"],
@@ -1178,6 +1179,7 @@ const facilitators = {
   1472:["Mo Christiano she/her"],
   1473:["Sarah S"],
   1474:["Lindsey"],
+  1475:["Oleg Khurramov"],
   1477:["Joe","California"],
   1478:["Katie Lowe"],
   1480:["Paul","Utah"],
@@ -1207,6 +1209,8 @@ const facilitators = {
   1529:["Sean Kelson"],
   1530:["Chris","Ontario"],
   1531:["Soo-young bhang"],
+  1532:["Roman Prishchenko"],
+  1533:["Olesya Nilova"],
   1535:["Cheryl"],
   1537:["Nik"],
   1538:["Laura Westbrook"],
@@ -1250,4 +1254,4 @@ const facilitators = {
   1589:["Jake A"],
   1590:["Michael McNally"]
 };
-const cachedAt = "2025-11-19T11:17:04Z";
+const cachedAt = "2025-11-19T14:17:05Z";
