@@ -537,7 +537,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[1379,1380],id:1061,language:"English",location:"Leicester, England",program:"SMART Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],id:1064,language:"English",location:"Bangor, Wales",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"Both"},
   {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:60,facilitator:[573],id:1261,language:"English",location:"Manchester, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[886,887],id:1298,language:"English",location:"Chester, England",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[886,887],id:1298,language:"English",location:"Chester, England",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1343,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:3,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[575,902],id:1346,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1403],id:1347,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
@@ -1051,6 +1051,7 @@ const facilitators = {
   1091:["Jess","West Virginia"],
   1099:["Monica A"],
   1121:["David"],
+  1127:["Sammy Ombisa"],
   1135:["William","Texas"],
   1136:["Jason D"],
   1144:["Cindy"],
@@ -1249,4 +1250,4 @@ const facilitators = {
   1589:["Jake A"],
   1590:["Michael McNally"]
 };
-const cachedAt = "2025-11-19T08:17:05Z";
+const cachedAt = "2025-11-19T11:17:04Z";
