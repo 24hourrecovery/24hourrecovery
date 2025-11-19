@@ -959,6 +959,7 @@ const facilitators = {
   831:["Gerardo Matamoros","Global / United States"],
   832:["Juan Negron"],
   834:["Fernando Cote"],
+  835:["Lili"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1248,4 +1249,4 @@ const facilitators = {
   1589:["Jake A"],
   1590:["Michael McNally"]
 };
-const cachedAt = "2025-11-19T05:17:04Z";
+const cachedAt = "2025-11-19T08:17:05Z";
