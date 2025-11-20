@@ -1046,7 +1046,6 @@ const facilitators = {
   1013:["Paul","Colorado"],
   1021:["Leonard Murphy"],
   1050:["Kris Runske"],
-  1055:["David Wilkinson"],
   1059:["Samantha T."],
   1088:["Lea"],
   1089:["Tess"],
@@ -1241,7 +1240,6 @@ const facilitators = {
   1572:["Terrance","Texas"],
   1573:["Trish R"],
   1574:["Zack Allison","Georgia"],
-  1575:["hyesun ì£¼"],
   1576:["Nicole","Minnesota"],
   1577:["Brian PM"],
   1578:["Frank","New Jersey"],
@@ -1257,4 +1255,4 @@ const facilitators = {
   1590:["Michael McNally"],
   1591:["Chris Brasse"]
 };
-const cachedAt = "2025-11-20T08:17:04Z";
+const cachedAt = "2025-11-20T11:17:05Z";
