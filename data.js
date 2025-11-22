@@ -210,7 +210,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1579],id:6177,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:4,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[367],id:6180,language:"English",location:"San Luis Obispo, California",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[368],id:6188,language:"English",location:"Kansas City, Missouri",program:"4-Point Recovery",schedule:{day:3,time:"02:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[370,371],id:6215,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-11-22 12:00:00-06",dataSource:"na",duration:60,facilitator:[370,371],id:6215,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[372],id:6231,language:"English",location:"Louisville, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[373],id:6238,language:"Spanish",location:"National",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1246,1371],id:6250,language:"English",location:"Vancouver, Washington",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Both"},
@@ -1255,4 +1255,4 @@ const facilitators = {
   1590:["Michael McNally"],
   1591:["Chris Brasse"]
 };
-const cachedAt = "2025-11-21T23:17:05Z";
+const cachedAt = "2025-11-22T02:17:04Z";
