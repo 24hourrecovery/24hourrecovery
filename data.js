@@ -183,7 +183,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[322],id:5612,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[323],id:5651,language:"English",location:"Bernardsville, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[324],id:5675,language:"English",location:"Bristol, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[176,325,1136],id:5678,language:"English",location:"Nashville, Tennessee",program:"4-Point Recovery",schedule:{day:1,time:"01:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[176,325,1136,1607],id:5678,language:"English",location:"Nashville, Tennessee",program:"4-Point Recovery",schedule:{day:1,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[613],id:569,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[698,800,1059],id:5706,language:"English",location:"Mentor, Ohio",program:"Family & Friends",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[329],id:5710,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
@@ -1251,6 +1251,7 @@ const facilitators = {
   1600:["Reece Boulton"],
   1601:["Christopher R."],
   1602:["Johnnie H."],
-  1603:["Ken Bae"]
+  1603:["Ken Bae"],
+  1607:["Joe S."]
 };
-const cachedAt = "2025-11-29T23:17:04Z";
+const cachedAt = "2025-11-30T02:17:04Z";
