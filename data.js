@@ -486,7 +486,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1491],id:8849,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[610],id:8851,language:"English",location:"Terre Haute, Indiana",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1495],id:8853,language:"English",location:"Centerville, Tennessee",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-12-04 11:00:00-06",dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Women"],canceled:"2025-12-04 13:00:00-06",dataSource:"na",duration:90,facilitator:[1514],id:8861,language:"English",location:"Berkeley, California",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1517],id:8863,language:"English",location:"North Bend, Washington",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1518],id:8865,language:"English",location:"Dunedin, Florida",program:"Successful Life Skills",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -1253,4 +1253,4 @@ const facilitators = {
   1610:["Todd H"],
   1612:["Janine Crowdy","National"]
 };
-const cachedAt = "2025-12-04T14:17:04Z";
+const cachedAt = "2025-12-04T17:17:04Z";
