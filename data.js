@@ -553,7 +553,7 @@ const meetings = [
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[598],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[599],id:1460,language:"Polish",location:"Edinburgh, Scotland",program:"SMART Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[600],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"12:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1311],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"11:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[601,1311],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:90,facilitator:[600],id:1535,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:90,facilitator:[1612],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[902],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"11:00Z"},type:"Online"},
@@ -857,6 +857,7 @@ const facilitators = {
   598:["Jeni Langley"],
   599:["Klaudia Rzeczkowska"],
   600:["Janine Crowdy","National"],
+  601:["Melanie Stewart"],
   605:["Eboni Jewel Sears"],
   610:["Melissa","Indiana"],
   613:["Gordon M"],
@@ -1246,4 +1247,4 @@ const facilitators = {
   1612:["Janine Crowdy","National"],
   1616:["Kristany"]
 };
-const cachedAt = "2025-12-06T08:17:04Z";
+const cachedAt = "2025-12-06T11:17:04Z";
