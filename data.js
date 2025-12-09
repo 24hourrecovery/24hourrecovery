@@ -566,8 +566,7 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1323],id:1721,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"06:00Z"},type:"Online"},
   {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:90,facilitator:[1309,1310],id:1733,language:"English",location:"Sheffield, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1465],id:1774,language:"English",location:"Golspie, Scotland",program:"SMART Recovery",schedule:{day:1,time:"14:30Z",week:[1,2,4]},type:"Online"}
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"}
 ];
 const facilitators = {
   8:["Andrew","National"],
@@ -1156,7 +1155,6 @@ const facilitators = {
   1458:["Craig R"],
   1461:["Bill B"],
   1462:["Chaz"],
-  1465:["Gina Frame"],
   1470:["Yiyang"],
   1471:["Tyler"],
   1472:["Mo Christiano she/her"],
@@ -1256,4 +1254,4 @@ const facilitators = {
   1621:["Manuela"],
   1622:["Shannon M"]
 };
-const cachedAt = "2025-12-09T11:17:04Z";
+const cachedAt = "2025-12-09T14:17:05Z";
