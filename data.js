@@ -222,7 +222,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[255,257,259,1367],id:6325,language:"English",location:"Mankato, Minnesota",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[97,114],id:6329,language:"English",location:"Lexington Park, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[386,802,816,1442,1477],id:634,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:6,time:"03:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,1011],id:6380,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"14:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140],id:6380,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"14:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,1011],id:6381,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[100,101,855],id:6383,language:"English",location:"Overland Park, Kansas",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Both"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[908],id:6403,language:"English",location:"St. Louis, Missouri",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
@@ -476,7 +476,7 @@ const meetings = [
   {audience:["Family & Friends Only"],canceled:"2025-12-18 17:00:00-06",dataSource:"na",duration:120,facilitator:[1370,1511],id:8779,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1425],id:8786,language:"English",location:"Nashville, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1447],id:8805,language:"Spanish",location:"Coachella, California",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1443],id:8808,language:"English",location:"Lima, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"13:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1443],id:8808,language:"English",location:"Lima, Ohio",program:"4-Point Recovery",schedule:{day:2,time:"10:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1448],id:8810,language:"English",location:"Parma, Ohio",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1450],id:8816,language:"English",location:"King City, California",program:"4-Point Recovery",schedule:{day:4,time:"02:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1462],id:8818,language:"English",location:"Marlton, New Jersey",program:"4-Point Recovery",schedule:{day:4,time:"07:00Z"},type:"Online"},
@@ -570,7 +570,8 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1323],id:1721,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"06:00Z"},type:"Online"},
   {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:90,facilitator:[1309,1310],id:1733,language:"English",location:"Sheffield, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"}
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1350,1351],id:1735,language:"English",location:"Wakefield, England",program:"SMART Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1465],id:1774,language:"English",location:"Golspie, Scotland",program:"SMART Recovery",schedule:{day:1,time:"14:30Z",week:[1,2,4]},type:"Online"}
 ];
 const facilitators = {
   8:["Andrew","National"],
@@ -1160,6 +1161,7 @@ const facilitators = {
   1458:["Craig R"],
   1461:["Bill B"],
   1462:["Chaz"],
+  1465:["Gina Frame"],
   1470:["Yiyang"],
   1471:["Tyler"],
   1472:["Mo Christiano she/her"],
@@ -1266,4 +1268,4 @@ const facilitators = {
   1631:["Janine Crowdy","National"],
   1632:["Jola H"]
 };
-const cachedAt = "2025-12-15T14:17:04Z";
+const cachedAt = "2025-12-15T17:17:04Z";
