@@ -534,8 +534,8 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],id:1064,language:"English",location:"Bangor, Wales",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"Both"},
   {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:90,facilitator:[1600],id:1261,language:"English",location:"Manchester, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[886,887],id:1298,language:"English",location:"Chester, England",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1343,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:3,time:"11:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[575,902],id:1346,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Cameras Required/London and South East Only"],canceled:"2025-12-24 05:00:00-06",dataSource:"uk",duration:90,facilitator:[574],id:1343,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:3,time:"11:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2025-12-24 07:00:00-06",dataSource:"uk",duration:90,facilitator:[575,902],id:1346,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1403],id:1347,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1403],id:1348,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1403],id:1349,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"10:00Z"},type:"Online"},
@@ -1266,4 +1266,4 @@ const facilitators = {
   1635:["Tommy K."],
   1636:["Tommy Max"]
 };
-const cachedAt = "2025-12-17T11:17:03Z";
+const cachedAt = "2025-12-17T14:17:04Z";
