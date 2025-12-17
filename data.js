@@ -54,7 +54,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[133,288,357,1265],id:2400,language:"English",location:"Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[130],id:2419,language:"English",location:"Hinsdale, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[936],id:2487,language:"English",location:"Santa Monica, California",program:"4-Point Recovery",schedule:{day:4,time:"03:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139],id:2504,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"05:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139],id:2504,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"04:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[139],id:2629,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:2,time:"02:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[144,145],id:2685,language:"English",location:"Baltimore, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"15:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[108,1391],id:2730,language:"English",location:"Greenwood, Indiana",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
@@ -1272,4 +1272,4 @@ const facilitators = {
   1635:["Tommy K."],
   1636:["Tommy Max"]
 };
-const cachedAt = "2025-12-17T02:17:03Z";
+const cachedAt = "2025-12-17T05:17:03Z";
