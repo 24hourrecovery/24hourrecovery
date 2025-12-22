@@ -553,9 +553,9 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],canceled:"2025-12-25 13:00:00-06",dataSource:"uk",duration:90,facilitator:[597,763],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Women Only"],canceled:"2025-12-25 09:00:00-06",dataSource:"uk",duration:90,facilitator:[598],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[599],id:1460,language:"Polish",location:"Edinburgh, Scotland",program:"SMART Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[575],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"12:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Women Only"],canceled:"2025-12-29 06:00:00-06",dataSource:"uk",duration:90,facilitator:[575],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[601],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"11:00Z"},type:"Online"},
-  {audience:["Military Veterans"],canceled:"2025-12-22 13:00:00-06",dataSource:"uk",duration:90,facilitator:[1641],id:1535,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"19:00Z"},type:"Online"},
+  {audience:["Military Veterans"],dataSource:"uk",duration:90,facilitator:[1641],id:1535,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Military Veterans"],canceled:"2025-12-24 13:00:00-06",dataSource:"uk",duration:90,facilitator:[1631],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[902],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:60,facilitator:[701],id:1603,language:"English",location:"Stevenage, England",program:"SMART Veterans",schedule:{day:2,time:"18:30Z"},type:"Online"},
@@ -1264,4 +1264,4 @@ const facilitators = {
   1640:["Noni"],
   1641:["Kenny Reid"]
 };
-const cachedAt = "2025-12-22T11:17:04Z";
+const cachedAt = "2025-12-22T14:17:04Z";
