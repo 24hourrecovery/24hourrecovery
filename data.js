@@ -41,7 +41,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1388],id:8231,language:"English",location:"Welland, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Patients & Clients"],dataSource:"ca",duration:60,facilitator:[786],id:8232,language:"English",location:"Saint John, New Brunswick",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1296],id:8254,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:5,time:"20:30Z"},type:"Both"},
-  {audience:["Women"],dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
+  {audience:["Women"],canceled:"2026-01-01 17:30:00-06",dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1427],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8566,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -213,7 +213,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[386,802,816,1442,1477],id:5602,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:1,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[322],id:5612,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[323],id:5651,language:"English",location:"Bernardsville, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-01-01 09:00:00-06",dataSource:"na",duration:60,facilitator:[324],id:5675,language:"English",location:"Bristol, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[324],id:5675,language:"English",location:"Bristol, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[176,325,1136,1607],id:5678,language:"English",location:"Nashville, Tennessee",program:"4-Point Recovery",schedule:{day:1,time:"01:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],canceled:"2026-01-01 17:30:00-06",dataSource:"na",duration:90,facilitator:[698,800,1059],id:5706,language:"English",location:"Mentor, Ohio",program:"Family & Friends",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1515,1635,1636],id:5725,language:"English",location:"Austin, Texas",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
@@ -333,7 +333,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1443],id:7439,language:"English",location:"Lima, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1442,1458],id:7445,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1442,1458],id:7446,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:1,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1442,1458],id:7447,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458],id:7447,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1442,1458],id:7448,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:5,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[847],id:7451,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"12:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278,505],id:747,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
@@ -559,7 +559,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[809],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],canceled:"2026-01-05 13:30:00-06",dataSource:"uk",duration:90,facilitator:[469],id:1402,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],canceled:"2026-01-01 13:00:00-06",dataSource:"uk",duration:90,facilitator:[597,763],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Women Only"],canceled:"2026-01-01 09:00:00-06",dataSource:"uk",duration:90,facilitator:[593],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[593],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[599],id:1460,language:"Polish",location:"Edinburgh, Scotland",program:"SMART Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[575],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[601],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"11:00Z"},type:"Online"},
@@ -569,7 +569,7 @@ const meetings = [
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:60,facilitator:[701],id:1603,language:"English",location:"Stevenage, England",program:"SMART Veterans",schedule:{day:2,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[752,753],id:1640,language:"Punjabi",location:"National",program:"SMART Recovery",schedule:{day:0,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[846],id:1643,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-01-01 08:00:00-06",dataSource:"uk",duration:90,facilitator:[939,940],id:1684,language:"English",location:"Harrogate, England",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[939,940],id:1684,language:"English",location:"Harrogate, England",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1323],id:1721,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"06:00Z"},type:"Online"},
   {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:90,facilitator:[1309,1310],id:1733,language:"English",location:"Sheffield, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
@@ -1271,4 +1271,4 @@ const facilitators = {
   1661:["Nonie Sims"],
   1662:["Suz"]
 };
-const cachedAt = "2026-01-01T14:17:04Z";
+const cachedAt = "2026-01-01T17:17:04Z";
