@@ -238,7 +238,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[368],id:6188,language:"English",location:"Kansas City, Missouri",program:"4-Point Recovery",schedule:{day:3,time:"02:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[372],id:6231,language:"English",location:"Louisville, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[831],id:6238,language:"Spanish",location:"National",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1246,1371],id:6250,language:"English",location:"Vancouver, Washington",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1246,1662],id:6250,language:"English",location:"Vancouver, Washington",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[378,379],id:6251,language:"English",location:"Newton, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[380,1509],id:6257,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[605],id:6265,language:"English",location:"Las Vegas, Nevada",program:"Family & Friends",schedule:{day:1,time:"20:00Z"},type:"Online"},
@@ -1097,7 +1097,6 @@ const facilitators = {
   1367:["Paige Malloy"],
   1368:["Alvin N."],
   1370:["Khare"],
-  1371:["Suz Fuller"],
   1374:["Arvo"],
   1379:["Amy Weston"],
   1380:["Hardial Kandola"],
@@ -1270,6 +1269,7 @@ const facilitators = {
   1658:["Dustin Pryce"],
   1659:["Ledy","Florida"],
   1660:["Marty Goodman"],
-  1661:["Nonie Sims"]
+  1661:["Nonie Sims"],
+  1662:["Suz"]
 };
-const cachedAt = "2026-01-01T02:17:03Z";
+const cachedAt = "2026-01-01T05:17:04Z";
