@@ -43,7 +43,7 @@ const meetings = [
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1427],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8566,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"22:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1406],id:8719,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[878],id:8823,language:"English",location:"Brampton, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1530],id:8876,language:"English",location:"Sault Ste Marie, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"03:30Z"},type:"Online"},
@@ -391,7 +391,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[711],id:8123,language:"English",location:"Encinitas, California",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[745],id:8129,language:"English",location:"Naugatuck, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1583],id:8137,language:"English",location:"Savannah, Tennessee",program:"Successful Life Skills",schedule:{day:6,time:"01:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-01-03 12:00:00-06",dataSource:"na",duration:90,facilitator:[748],id:8188,language:"English",location:"Los Gatos, California",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[748],id:8188,language:"English",location:"Los Gatos, California",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[759],id:8194,language:"English",location:"Aurora, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8199,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541],id:8201,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:5,time:"02:30Z"},type:"Online"},
@@ -1263,4 +1263,4 @@ const facilitators = {
   1661:["Nonie Sims"],
   1662:["Suz"]
 };
-const cachedAt = "2026-01-03T17:17:04Z";
+const cachedAt = "2026-01-03T20:17:04Z";
