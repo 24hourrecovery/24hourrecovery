@@ -329,7 +329,7 @@ const meetings = [
   {audience:["BIPOC","Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[503,1021],id:7425,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1591],id:7436,language:"English",location:"Orlando, Florida",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1443],id:7439,language:"English",location:"Lima, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1442,1458],id:7445,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458],id:7445,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1442,1458],id:7446,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:1,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458],id:7447,language:"English",location:"Harrisville, West Virginia",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458],id:7448,language:"English",location:"Harrisville, West Virginia",program:"Family & Friends",schedule:{day:5,time:"18:00Z"},type:"Online"},
@@ -1265,4 +1265,4 @@ const facilitators = {
   1661:["Nonie Sims"],
   1662:["Suz"]
 };
-const cachedAt = "2026-01-04T14:17:03Z";
+const cachedAt = "2026-01-04T17:17:03Z";
