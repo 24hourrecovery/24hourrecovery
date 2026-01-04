@@ -208,7 +208,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[197,198,199,200,312],id:5500,language:"English",location:"Indio, California",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[313],id:5504,language:"English",location:"La Crosse, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[317],id:5542,language:"English",location:"Williamsport, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[386,802,816,1442,1477],id:5602,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:1,time:"03:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[386,802,816,1477],id:5602,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:1,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[322],id:5612,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[323],id:5651,language:"English",location:"Bernardsville, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[324],id:5675,language:"English",location:"Bristol, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
@@ -1265,4 +1265,4 @@ const facilitators = {
   1661:["Nonie Sims"],
   1662:["Suz"]
 };
-const cachedAt = "2026-01-04T02:17:04Z";
+const cachedAt = "2026-01-04T05:17:04Z";
