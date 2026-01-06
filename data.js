@@ -463,7 +463,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1408],id:8708,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1363],id:8712,language:"English",location:"Middletown, Connecticut",program:"Family & Friends",schedule:{day:2,time:"14:00Z",week:[2,4]},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:120,facilitator:[1370],id:8722,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1581],id:8724,language:"English",location:"Delta, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1444],id:8728,language:"English",location:"Newland, North Carolina",program:"4-Point Recovery",schedule:{day:1,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1415],id:8730,language:"English",location:"Atlanta, Georgia",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1381],id:8738,language:"English",location:"Pomona, California",program:"4-Point Recovery",schedule:{day:6,time:"04:00Z"},type:"Online"},
@@ -1188,7 +1187,6 @@ const facilitators = {
   1578:["Frank","New Jersey"],
   1579:["Alex Libre"],
   1580:["Yulia T."],
-  1581:["Christy"],
   1583:["Ron Stricklin"],
   1584:["Eric","Massachusetts"],
   1585:["Mikhail Barzykin"],
@@ -1253,4 +1251,4 @@ const facilitators = {
   1666:["Karen Bernetti"],
   1667:["Rusty"]
 };
-const cachedAt = "2026-01-06T14:17:04Z";
+const cachedAt = "2026-01-06T17:17:04Z";
