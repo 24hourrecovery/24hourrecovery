@@ -466,7 +466,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1581],id:8724,language:"English",location:"Delta, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1444],id:8728,language:"English",location:"Newland, North Carolina",program:"4-Point Recovery",schedule:{day:1,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1415],id:8730,language:"English",location:"Atlanta, Georgia",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1416],id:8736,language:"English",location:"Bryn Mawr, Pennsylvania",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1381],id:8738,language:"English",location:"Pomona, California",program:"4-Point Recovery",schedule:{day:6,time:"04:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[361,362,1274,1275,1445,1446],id:8745,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[440],id:8765,language:"English",location:"Bushnell, Florida",program:"4-Point Recovery",schedule:{day:6,time:"00:30Z"},type:"Online"},
@@ -536,7 +535,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],id:1064,language:"English",location:"Bangor, Wales",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"Both"},
   {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:90,facilitator:[1600],id:1261,language:"English",location:"Manchester, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[886,887],id:1298,language:"English",location:"Chester, England",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Cameras Required/London and South East Only"],dataSource:"uk",duration:90,facilitator:[574],id:1343,language:"English",location:"London, England",program:"SMART Recovery",schedule:{day:3,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[575,902],id:1346,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1403],id:1347,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1403],id:1348,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
@@ -843,7 +841,6 @@ const facilitators = {
   567:["Jeremy Kindall"],
   568:["Kevin Lyons"],
   572:["Kevin Morris"],
-  574:["Emma Renton"],
   575:["Kelly Doig"],
   577:["Toby Branfoot"],
   578:["Michael Hussey"],
@@ -1097,7 +1094,6 @@ const facilitators = {
   1403:["Steve Saunders"],
   1408:["Morgan"],
   1415:["Caroline"],
-  1416:["Drew P"],
   1418:["Elena Simagina"],
   1419:["Alisa Yevsyakova"],
   1420:["Marie"],
@@ -1257,4 +1253,4 @@ const facilitators = {
   1666:["Karen Bernetti"],
   1667:["Rusty"]
 };
-const cachedAt = "2026-01-06T08:17:04Z";
+const cachedAt = "2026-01-06T11:17:04Z";
