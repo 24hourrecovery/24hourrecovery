@@ -533,6 +533,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[1379,1380],id:1061,language:"English",location:"Leicester, England",program:"SMART Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],id:1064,language:"English",location:"Bangor, Wales",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"Both"},
   {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:90,facilitator:[1600],id:1261,language:"English",location:"Manchester, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1674],id:1286,language:"English",location:"Birmingham, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[886,887],id:1298,language:"English",location:"Chester, England",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[575,902],id:1346,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1403],id:1347,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
@@ -1253,6 +1254,7 @@ const facilitators = {
   1669:["James D"],
   1670:["Roger S"],
   1671:["Logan Bradley"],
-  1672:["Rich"]
+  1672:["Rich"],
+  1674:["Richard Quinn"]
 };
-const cachedAt = "2026-01-08T11:17:04Z";
+const cachedAt = "2026-01-08T14:17:04Z";
