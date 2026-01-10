@@ -519,6 +519,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8978,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:1,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1654],id:8979,language:"English",location:"La Grange, Kentucky",program:"Family & Friends",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1630],id:8984,language:"English",location:"Rohnert Park, California",program:"4-Point Recovery",schedule:{day:5,time:"18:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1651],id:8990,language:"English",location:"Pineville, West Virginia",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1658],id:8995,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1648],id:9003,language:"English",location:"Charlottesville, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1647],id:9005,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
@@ -1245,6 +1246,7 @@ const facilitators = {
   1648:["Jenni K"],
   1649:["Catherine S"],
   1650:["Paula"],
+  1651:["Sylvia Cline"],
   1652:["Johny Brooklyn"],
   1653:["Ashley Earle"],
   1654:["Bridgette T"],
@@ -1269,4 +1271,4 @@ const facilitators = {
   1676:["Clifford G"],
   1677:["Kelsey"]
 };
-const cachedAt = "2026-01-10T02:17:04Z";
+const cachedAt = "2026-01-10T05:17:04Z";
