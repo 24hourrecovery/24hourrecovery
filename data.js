@@ -427,6 +427,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[141,142],id:8363,language:"English",location:"Ferndale, Michigan",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[981],id:8369,language:"English",location:"Flushing, Michigan",program:"Family & Friends",schedule:{day:5,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1160],id:8378,language:"English",location:"Greenville, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[544],id:8384,language:"English",location:"Trinidad, California",program:"4-Point Recovery",schedule:{day:2,time:"04:00Z",week:[1,3]},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[929],id:8385,language:"English",location:"Easthampton, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[916],id:8386,language:"English",location:"Raritan, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1659],id:8400,language:"Spanish",location:"Fort Lauderdale, Florida",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
@@ -1291,4 +1292,4 @@ const facilitators = {
   1680:["Bobby"],
   1681:["Sarah Bristow"]
 };
-const cachedAt = "2026-01-13T02:17:03Z";
+const cachedAt = "2026-01-13T05:17:04Z";
