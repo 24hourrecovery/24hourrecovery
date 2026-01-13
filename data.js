@@ -121,7 +121,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[166],id:3228,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1574],id:3231,language:"English",location:"Decatur, Georgia",program:"4-Point Recovery",schedule:{day:2,time:"23:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[801,882,883,1451,1528],id:3246,language:"English",location:"Duluth, Georgia",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[223],id:3415,language:"English",location:"Rochester, New York",program:"Family & Friends",schedule:{day:2,time:"00:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2026-01-19 16:30:00-06",dataSource:"na",duration:60,facilitator:[172],id:3418,language:"English",location:"Haverhill, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[173,174],id:3431,language:"English",location:"Worthington, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[175],id:3449,language:"English",location:"Grayslake, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Online"},
@@ -1288,4 +1287,4 @@ const facilitators = {
   1681:["Sarah Bristow"],
   1683:["Bonnie Kimpling","Illinois"]
 };
-const cachedAt = "2026-01-13T20:17:03Z";
+const cachedAt = "2026-01-13T23:17:04Z";
