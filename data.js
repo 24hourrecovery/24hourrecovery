@@ -325,7 +325,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:75,facilitator:[700,1159],id:7358,language:"English",location:"Sacramento, California",program:"4-Point Recovery",schedule:{day:6,time:"20:15Z",week:[1,3]},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458],id:7360,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458],id:7361,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:2,time:"19:00Z"},type:"Online"},
-  {audience:["Women"],dataSource:"na",duration:60,facilitator:[1412,1413],id:7406,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z",week:[1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458],id:7420,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458],id:7421,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["BIPOC","Young Adults (18-30)"],dataSource:"na",duration:90,facilitator:[503,1021],id:7425,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
@@ -486,7 +485,8 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1566],id:8848,language:"English",location:"Casper, Wyoming",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1491],id:8849,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1495],id:8853,language:"English",location:"Centerville, Tennessee",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-01-15 11:00:00-06",dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
+  {audience:["Women"],dataSource:"na",duration:90,facilitator:[1514],id:8861,language:"English",location:"Berkeley, California",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z",week:[4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1517],id:8863,language:"English",location:"North Bend, Washington",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8866,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[1603],id:8868,language:"English",location:"New Brunswick, New Jersey",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
@@ -1106,7 +1106,6 @@ const facilitators = {
   1406:["Maya","Alberta"],
   1408:["Morgan"],
   1412:["Alexandra"],
-  1413:["Wendy"],
   1415:["Caroline"],
   1418:["Elena Simagina"],
   1419:["Alisa Yevsyakova"],
@@ -1160,6 +1159,7 @@ const facilitators = {
   1510:["Dina Bezmelnitsyna"],
   1511:["Annmarie Shafer"],
   1513:["Hannah","Tennessee"],
+  1514:["Mye M."],
   1515:["Summer"],
   1516:["Doronina Elena Viktorovna"],
   1517:["Miranda"],
@@ -1280,4 +1280,4 @@ const facilitators = {
   1684:["Brian Herzer"],
   1685:["Hayley Sarah"]
 };
-const cachedAt = "2026-01-15T17:17:04Z";
+const cachedAt = "2026-01-15T20:17:04Z";
