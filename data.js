@@ -512,7 +512,6 @@ const meetings = [
   {audience:["Teens (13-17)"],dataSource:"na",duration:60,facilitator:[1566],id:8966,language:"English",location:"Casper, Wyoming",program:"Successful Life Skills",schedule:{day:0,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1458,1639,1640],id:8976,language:"English",location:"Jacksonville, Florida",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1634],id:8977,language:"English",location:"Shaker Heights, Ohio",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8978,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:1,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1654],id:8979,language:"English",location:"La Grange, Kentucky",program:"Family & Friends",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1630],id:8984,language:"English",location:"Rohnert Park, California",program:"4-Point Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1651],id:8990,language:"English",location:"Pineville, West Virginia",program:"4-Point Recovery",schedule:{day:0,time:"00:30Z",week:[1,2,3,4]},type:"Online"},
@@ -1276,4 +1275,4 @@ const facilitators = {
   1690:["Angel Rodriguez"],
   1691:["Samuel Foisy"]
 };
-const cachedAt = "2026-01-21T08:17:03Z";
+const cachedAt = "2026-01-21T11:17:05Z";
