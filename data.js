@@ -202,7 +202,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[89],id:5295,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[700,1159],id:5329,language:"English",location:"Sacramento, California",program:"4-Point Recovery",schedule:{day:0,time:"17:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[301],id:5374,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"na",duration:90,facilitator:[1436],id:5379,language:"English",location:"San Diego, California",program:"Family & Friends",schedule:{day:2,time:"03:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1436],id:5379,language:"English",location:"San Diego, California",program:"Family & Friends",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[305,552],id:5399,language:"English",location:"Ocoee, Florida",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[446,462,528,724],id:5447,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:6,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1483,1484],id:5468,language:"English",location:"Lexington, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"23:30Z"},type:"Both"},
@@ -442,7 +442,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1213,1541],id:8609,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1229],id:8621,language:"English",location:"Chanute, Kansas",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1364],id:8631,language:"English",location:"Carbondale, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1627,1628,1629],id:8642,language:"English",location:"Powhatan, Virginia",program:"Family & Friends",schedule:{day:1,time:"22:00Z"},type:"Both"},
+  {audience:["Family & Friends Only"],canceled:"2026-01-26 16:00:00-06",dataSource:"na",duration:60,facilitator:[1627,1628,1629],id:8642,language:"English",location:"Powhatan, Virginia",program:"Family & Friends",schedule:{day:1,time:"22:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],canceled:"2026-01-22 16:00:00-06",dataSource:"na",duration:60,facilitator:[1627,1628,1629],id:8643,language:"English",location:"Goochland, Virginia",program:"Family & Friends",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1301],id:8646,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1277],id:8649,language:"English",location:"Ypsilanti, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z",week:[4]},type:"Online"},
@@ -1275,4 +1275,4 @@ const facilitators = {
   1690:["Angel Rodriguez"],
   1691:["Samuel Foisy"]
 };
-const cachedAt = "2026-01-21T14:17:04Z";
+const cachedAt = "2026-01-21T17:17:04Z";
