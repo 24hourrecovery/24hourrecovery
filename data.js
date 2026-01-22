@@ -440,12 +440,12 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1135],id:8574,language:"English",location:"Temple, Texas",program:"4-Point Recovery",schedule:{day:2,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1162],id:8581,language:"English",location:"Greenville, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"00:45Z"},type:"Both"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1218],id:8588,language:"English",location:"Waco, Texas",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1213,1541],id:8609,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1213,1541,1695],id:8609,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1229],id:8621,language:"English",location:"Chanute, Kansas",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1230],id:8622,language:"English",location:"Santa Clarita, California",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z",week:[4]},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1364],id:8631,language:"English",location:"Carbondale, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],canceled:"2026-01-26 16:00:00-06",dataSource:"na",duration:60,facilitator:[1627,1628,1629],id:8642,language:"English",location:"Powhatan, Virginia",program:"Family & Friends",schedule:{day:1,time:"22:00Z"},type:"Both"},
-  {audience:["Family & Friends Only"],canceled:"2026-01-22 16:00:00-06",dataSource:"na",duration:60,facilitator:[1627,1628,1629],id:8643,language:"English",location:"Goochland, Virginia",program:"Family & Friends",schedule:{day:4,time:"22:00Z"},type:"Both"},
+  {audience:["Family & Friends Only"],canceled:"2026-01-29 16:00:00-06",dataSource:"na",duration:60,facilitator:[1627,1628,1629],id:8643,language:"English",location:"Goochland, Virginia",program:"Family & Friends",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1301],id:8646,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1277],id:8649,language:"English",location:"Ypsilanti, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z",week:[4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[745],id:8651,language:"English",location:"Naugatuck, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"13:00Z"},type:"Online"},
@@ -1275,4 +1275,4 @@ const facilitators = {
   1694:["Joshua","Michigan"],
   1695:["Jessica Cole"]
 };
-const cachedAt = "2026-01-22T20:17:04Z";
+const cachedAt = "2026-01-22T23:17:04Z";
