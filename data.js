@@ -484,7 +484,7 @@ const meetings = [
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[1514],id:8861,language:"English",location:"Berkeley, California",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z",week:[4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1517],id:8863,language:"English",location:"North Bend, Washington",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8866,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
-  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[1603],id:8868,language:"English",location:"New Brunswick, New Jersey",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
+  {audience:["Young Adults (18-30)"],canceled:"2026-01-29 17:30:00-06",dataSource:"na",duration:60,facilitator:[1603],id:8868,language:"English",location:"New Brunswick, New Jersey",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1647],id:8869,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1556],id:8873,language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1589],id:8877,language:"English",location:"Rochelle, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z",week:[4]},type:"Online"},
@@ -1025,6 +1025,8 @@ const facilitators = {
   1159:["Amanda T"],
   1160:["Kacey"],
   1162:["Christopher"],
+  1168:["Susanne"],
+  1169:["Kerstin"],
   1172:["South African Meeting Host Team"],
   1198:["Stasia DeMarco"],
   1199:["Stephen","Virginia"],
@@ -1187,7 +1189,6 @@ const facilitators = {
   1581:["Christy"],
   1583:["Ron Stricklin"],
   1584:["Eric","Massachusetts"],
-  1585:["Mikhail Barzykin"],
   1586:["Genia"],
   1587:["Heather","Kentucky"],
   1588:["Nicole","Nova Scotia"],
@@ -1196,7 +1197,6 @@ const facilitators = {
   1591:["Chris Brasse"],
   1594:["Chris","Wisconsin"],
   1597:["Millie"],
-  1598:["Rinat Khayrullin"],
   1599:["Alex","Ontario"],
   1600:["Reece Boulton"],
   1601:["Christopher R."],
@@ -1274,4 +1274,4 @@ const facilitators = {
   1694:["Joshua","Michigan"],
   1695:["Jessica Cole"]
 };
-const cachedAt = "2026-01-23T05:17:04Z";
+const cachedAt = "2026-01-23T08:17:04Z";
