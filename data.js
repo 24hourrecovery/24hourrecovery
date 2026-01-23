@@ -501,6 +501,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1577],id:8921,language:"English",location:"Peaks Island, Maine",program:"4-Point Recovery",schedule:{day:2,time:"23:15Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1616],id:8923,language:"English",location:"Great Barrington, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1576],id:8924,language:"English",location:"Minneapolis, Minnesota",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z",week:[-1]},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8931,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1602],id:8934,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"20:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1144],id:8938,language:"English",location:"Owenton, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
@@ -1154,7 +1155,6 @@ const facilitators = {
   1520:["Jonathan Thompson"],
   1528:["Jess","Georgia"],
   1530:["Chris","Ontario"],
-  1531:["Soo-young bhang"],
   1532:["Roman Prishchenko"],
   1533:["Olesya Nilova"],
   1535:["Cheryl"],
@@ -1213,6 +1213,7 @@ const facilitators = {
   1621:["Manuela"],
   1622:["Shannon M"],
   1625:["Brent"],
+  1626:["Shawn"],
   1627:["A. Downey"],
   1628:["Emily","Virginia"],
   1629:["Mike","Virginia"],
@@ -1273,4 +1274,4 @@ const facilitators = {
   1694:["Joshua","Michigan"],
   1695:["Jessica Cole"]
 };
-const cachedAt = "2026-01-23T02:17:04Z";
+const cachedAt = "2026-01-23T05:17:04Z";
