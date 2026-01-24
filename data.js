@@ -388,7 +388,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[745],id:8129,language:"English",location:"Naugatuck, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1583],id:8137,language:"English",location:"Savannah, Tennessee",program:"Successful Life Skills",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[739],id:8161,language:"English",location:"Blue Point, New York",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z",week:[-1]},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[748],id:8188,language:"English",location:"Los Gatos, California",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-01-24 12:00:00-06",dataSource:"na",duration:90,facilitator:[748],id:8188,language:"English",location:"Los Gatos, California",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[759],id:8194,language:"English",location:"Aurora, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8199,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541],id:8201,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:5,time:"02:30Z"},type:"Online"},
@@ -939,6 +939,7 @@ const facilitators = {
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","Global / New York / United States"],
+  832:["Juan Negron"],
   834:["Fernando Cote"],
   835:["Lili"],
   836:["Jesus Cisneros","Global"],
@@ -1134,7 +1135,6 @@ const facilitators = {
   1480:["Paul","Utah"],
   1483:["Brandy"],
   1484:["James","Kentucky"],
-  1485:["Olesia Kolesova"],
   1488:["Steve C."],
   1490:["Vincent"],
   1491:["Amber"],
@@ -1269,4 +1269,4 @@ const facilitators = {
   1694:["Joshua","Michigan"],
   1695:["Jessica Cole"]
 };
-const cachedAt = "2026-01-24T02:17:04Z";
+const cachedAt = "2026-01-24T05:17:04Z";
