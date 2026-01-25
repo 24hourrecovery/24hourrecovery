@@ -1072,7 +1072,6 @@ const facilitators = {
   1367:["Paige Malloy"],
   1368:["Alvin N."],
   1370:["Khare"],
-  1374:["Arvo"],
   1379:["Amy Weston"],
   1380:["Hardial Kandola"],
   1381:["Shannon","California"],
@@ -1175,6 +1174,7 @@ const facilitators = {
   1581:["Christy"],
   1583:["Ron Stricklin"],
   1584:["Eric","Massachusetts"],
+  1585:["Mikhail Barzykin"],
   1586:["Genia"],
   1587:["Heather","Kentucky"],
   1588:["Nicole","Nova Scotia"],
@@ -1183,6 +1183,7 @@ const facilitators = {
   1591:["Chris Brasse"],
   1594:["Chris","Wisconsin"],
   1597:["Millie"],
+  1598:["Rinat Khayrullin"],
   1599:["Alex","Ontario"],
   1600:["Reece Boulton"],
   1601:["Christopher R."],
@@ -1260,4 +1261,4 @@ const facilitators = {
   1694:["Joshua","Michigan"],
   1695:["Jessica Cole"]
 };
-const cachedAt = "2026-01-25T05:17:04Z";
+const cachedAt = "2026-01-25T08:17:04Z";
