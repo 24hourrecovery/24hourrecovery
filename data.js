@@ -32,7 +32,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[725],id:7301,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[236,506,1656],id:7495,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:60,facilitator:[725],id:7820,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:1,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[553],id:7911,language:"English",location:"Winnipeg, Manitoba",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[632],id:8016,language:"English",location:"Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:1,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[725],id:8144,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"ca",duration:90,facilitator:[795],id:8205,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:2,time:"02:00Z"},type:"Online"},
@@ -49,7 +48,7 @@ const meetings = [
   {audience:["BIPOC"],dataSource:"ca",duration:60,facilitator:[1561],id:8911,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"ca",duration:60,facilitator:[1568],id:8919,language:"English",location:"Victoria, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z",week:[1,2,-1]},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[1588],id:8937,language:"English",location:"Amherst, Nova Scotia",program:"4-Point Recovery",schedule:{day:1,time:"21:00Z"},type:"Online"},
-  {audience:["Young Adults (18-30)"],dataSource:"ca",duration:90,facilitator:[1599,1621],id:8954,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
+  {audience:["Young Adults (18-30)"],canceled:"2026-01-27 17:00:00-06",dataSource:"ca",duration:90,facilitator:[1599,1621],id:8954,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1619],id:8969,language:"English",location:"Abbotsford, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1388],id:9010,language:"English",location:"Welland, Ontario",program:"Family & Friends",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1691],id:9011,language:"English",location:"MontrÃ©al, QuÃ©bec",program:"Successful Life Skills",schedule:{day:3,time:"00:00Z"},type:"Online"},
@@ -123,7 +122,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[166],id:3228,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1574],id:3231,language:"English",location:"Decatur, Georgia",program:"4-Point Recovery",schedule:{day:2,time:"23:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[801,882,883,1451,1528],id:3246,language:"English",location:"Duluth, Georgia",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[223],id:3415,language:"English",location:"Rochester, New York",program:"Family & Friends",schedule:{day:2,time:"00:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[172],id:3418,language:"English",location:"Haverhill, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[173,174],id:3431,language:"English",location:"Worthington, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[175],id:3449,language:"English",location:"Grayslake, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Online"},
@@ -171,7 +169,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[176,254,1136,1458],id:4657,language:"English",location:"Nashville, Tennessee",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[255,257,259,1367],id:4697,language:"English",location:"Mankato, Minnesota",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[255,257,259],id:4727,language:"English",location:"Mankato, Minnesota",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[51,483,1471],id:473,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[51,483,977,1471],id:473,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[261],id:4771,language:"English",location:"Concord, New Hampshire",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[250],id:4790,language:"English",location:"South Pasadena, California",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[262,666],id:4796,language:"English",location:"Woodbridge Township, New Jersey",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -324,7 +322,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[492],id:7328,language:"English",location:"Holyoke, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[971],id:7345,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:6,time:"17:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[971],id:7346,language:"English",location:"Lakewood, Colorado",program:"Family & Friends",schedule:{day:6,time:"19:00Z"},type:"Both"},
-  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1639],id:7360,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1639],id:7360,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1639],id:7361,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1639],id:7420,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1639],id:7421,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:3,time:"19:00Z"},type:"Online"},
@@ -837,7 +835,6 @@ const facilitators = {
   544:["Blair Bush"],
   546:["Darren M"],
   552:["Hank Molesky"],
-  553:["Robert Z"],
   555:["Theresa G"],
   556:["Barry"],
   563:["Phil Mattson"],
@@ -1276,4 +1273,4 @@ const facilitators = {
   1700:["Ashley"],
   1701:["Sarah Shepherd"]
 };
-const cachedAt = "2026-01-27T20:17:04Z";
+const cachedAt = "2026-01-27T23:17:04Z";
