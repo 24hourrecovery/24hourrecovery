@@ -57,6 +57,7 @@ const meetings = [
   {audience:["Adults Welcome","All Welcome"],dataSource:"ca",duration:60,facilitator:[371],id:9012,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"ca",duration:60,facilitator:[1675],id:9014,language:"English",location:"Fredericton, New Brunswick",program:"4-Point Recovery",schedule:{day:0,time:"23:30Z"},type:"Online"},
   {audience:["Family & Friends Only","Military, Veterans & First Responders"],dataSource:"ca",duration:60,facilitator:[1675],id:9015,language:"English",location:"Fredericton, New Brunswick",program:"Family & Friends",schedule:{day:3,time:"23:30Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[1699],id:9021,language:"French",location:"Ottawa, Ontario",program:"Family & Friends",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome","All Welcome"],dataSource:"ca",duration:90,facilitator:[613],id:9022,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1327],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
@@ -1066,6 +1067,7 @@ const facilitators = {
   1318:["Alisa"],
   1319:["Barbara","Missouri"],
   1323:["Louise McCarthy"],
+  1325:["Rana"],
   1326:["Jessica","Virginia"],
   1327:["MG"],
   1328:["Andrea C"],
@@ -1233,7 +1235,7 @@ const facilitators = {
   1644:["Tony Deese"],
   1647:["Holly","Wisconsin"],
   1648:["Jenni K"],
-  1649:["Catherine S"],
+  1649:["Catherine S","North Carolina"],
   1650:["Paula"],
   1652:["Johny Brooklyn"],
   1653:["Ashley Earle"],
@@ -1274,6 +1276,7 @@ const facilitators = {
   1694:["Joshua","Michigan"],
   1695:["Jessica Cole"],
   1697:["Tiffany S."],
-  1698:["James J"]
+  1698:["James J"],
+  1699:["Catherine S","Ontario"]
 };
-const cachedAt = "2026-01-27T05:17:04Z";
+const cachedAt = "2026-01-27T08:17:04Z";
