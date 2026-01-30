@@ -493,7 +493,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1301],id:8905,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"12:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8907,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8908,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:3,time:"03:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8909,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8909,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:6,time:"03:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8910,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:0,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1562],id:8914,language:"English",location:"Middlebury, Vermont",program:"4-Point Recovery",schedule:{day:4,time:"18:00Z"},type:"Both"},
   {audience:["Men"],dataSource:"na",duration:60,facilitator:[1563],id:8916,language:"English",location:"Oronogo, Missouri",program:"4-Point Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
@@ -1284,4 +1284,4 @@ const facilitators = {
   1711:["William Freeman"],
   1712:["Zoel Lopez"]
 };
-const cachedAt = "2026-01-30T02:17:03Z";
+const cachedAt = "2026-01-30T05:17:04Z";
