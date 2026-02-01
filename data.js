@@ -44,6 +44,8 @@ const meetings = [
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1427],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8566,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"19:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1406],id:8719,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[878],id:8823,language:"English",location:"Brampton, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1530],id:8876,language:"English",location:"Sault Ste Marie, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"04:30Z"},type:"Online"},
   {audience:["BIPOC"],dataSource:"ca",duration:60,facilitator:[1561],id:8911,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -529,7 +531,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"na",duration:120,facilitator:[1370],id:9045,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:120,facilitator:[1370],id:9046,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[1693],id:9050,language:"English",location:"Sarasota, Florida",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1690],id:9051,language:"Spanish",location:"Brownsville, Texas",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-02-01 17:00:00-06",dataSource:"na",duration:90,facilitator:[1690],id:9051,language:"Spanish",location:"Brownsville, Texas",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1694],id:9052,language:"English",location:"Owosso, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1698],id:9065,language:"English",location:"Waukegan, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[751],id:9072,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Both"},
@@ -1096,6 +1098,7 @@ const facilitators = {
   1401:["Grace Koolhoven"],
   1402:["Jessie K"],
   1403:["Steve Saunders"],
+  1406:["Maya","Alberta"],
   1408:["Morgan"],
   1412:["Alexandra"],
   1413:["Wendy"],
@@ -1283,4 +1286,4 @@ const facilitators = {
   1714:["Shannon M","Washington"],
   1715:["Gordon M"]
 };
-const cachedAt = "2026-02-01T20:17:04Z";
+const cachedAt = "2026-02-01T23:17:03Z";
