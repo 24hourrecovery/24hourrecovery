@@ -1025,7 +1025,6 @@ const facilitators = {
   1089:["Tess"],
   1099:["Monica A"],
   1121:["David"],
-  1127:["Sammy Ombisa"],
   1135:["William","Texas"],
   1136:["Jason D"],
   1144:["Cindy"],
@@ -1288,4 +1287,4 @@ const facilitators = {
   1715:["Gordon M"],
   1717:["Sean M"]
 };
-const cachedAt = "2026-02-02T11:17:04Z";
+const cachedAt = "2026-02-02T14:17:04Z";
