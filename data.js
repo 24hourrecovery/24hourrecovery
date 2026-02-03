@@ -452,7 +452,7 @@ const meetings = [
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1301],id:8646,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[745],id:8651,language:"English",location:"Naugatuck, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1366],id:8654,language:"English",location:"Lancaster, Texas",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
-  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[1314],id:8668,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"21:30Z"},type:"Online"},
+  {audience:["Young Adults (18-30)"],canceled:"2026-02-03 15:30:00-06",dataSource:"na",duration:60,facilitator:[1314],id:8668,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1315],id:8671,language:"English",location:"Westport, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1315],id:8672,language:"English",location:"Westport, Connecticut",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1366],id:8678,language:"English",location:"Lancaster, Texas",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
@@ -463,6 +463,7 @@ const meetings = [
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[976],id:8696,language:"English",location:"Bridgeport, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1319],id:8703,language:"English",location:"Warrenton, Missouri",program:"4-Point Recovery",schedule:{day:6,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1408],id:8708,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1363],id:8712,language:"English",location:"Middletown, Connecticut",program:"Family & Friends",schedule:{day:2,time:"14:00Z",week:[2,4]},type:"Both"},
   {audience:["Family & Friends Only"],canceled:"2026-02-04 14:00:00-06",dataSource:"na",duration:120,facilitator:[1370],id:8722,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1581],id:8724,language:"English",location:"Delta, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1444],id:8728,language:"English",location:"Newland, North Carolina",program:"4-Point Recovery",schedule:{day:1,time:"18:00Z"},type:"Both"},
@@ -930,7 +931,6 @@ const facilitators = {
   801:["Leo"],
   802:["Johnny"],
   809:["Danny"],
-  813:["Dahlia Skuncikiene"],
   814:["Irina Berg"],
   816:["Judy"],
   818:["Mel Du Toit"],
@@ -969,6 +969,8 @@ const facilitators = {
   884:["Cheryl P."],
   886:["Matt Flegg"],
   887:["Will"],
+  888:["Chinyere Nduu Okoro"],
+  889:["Nehemiah Samuel"],
   890:["Heather","Connecticut"],
   893:["Christine","Arkansas"],
   894:["Shannon","North Carolina"],
@@ -1066,6 +1068,7 @@ const facilitators = {
   1354:["Jay Quicksall"],
   1355:["MJ"],
   1357:["Chris M."],
+  1363:["Adria"],
   1364:["Angela Towne"],
   1365:["Chris M"],
   1366:["Bernard G"],
@@ -1270,4 +1273,4 @@ const facilitators = {
   1717:["Sean M"],
   1718:["Makayla"]
 };
-const cachedAt = "2026-02-03T11:17:04Z";
+const cachedAt = "2026-02-03T14:17:04Z";
