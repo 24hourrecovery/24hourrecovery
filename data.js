@@ -555,7 +555,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1403],id:1348,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[1403],id:1349,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[577],id:1350,language:"English",location:"Bath, England",program:"SMART Recovery",schedule:{day:6,time:"10:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[577],id:1351,language:"English",location:"Bath, England",program:"SMART Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[577],id:1351,language:"English",location:"Bath, England",program:"SMART Recovery",schedule:{day:3,time:"17:00Z",week:[1,2,3,4,-1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[578],id:1352,language:"English",location:"Exeter, England",program:"SMART Recovery",schedule:{day:1,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[579],id:1353,language:"English",location:"England",program:"SMART Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[788,1220],id:1355,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:2,time:"10:30Z"},type:"Online"},
@@ -1057,6 +1057,7 @@ const facilitators = {
   1318:["Alisa"],
   1319:["Barbara","Missouri"],
   1323:["Louise McCarthy"],
+  1325:["Rana"],
   1326:["Jessica","Virginia"],
   1327:["MG"],
   1328:["Andrea C"],
@@ -1153,7 +1154,6 @@ const facilitators = {
   1538:["Laura Westbrook"],
   1539:["Caryn"],
   1541:["Keshaw"],
-  1545:["Feodora Frolov"],
   1547:["David Luu"],
   1548:["Russ M"],
   1551:["Ashley Fulmer"],
@@ -1271,6 +1271,7 @@ const facilitators = {
   1714:["Shannon M","Washington"],
   1715:["Gordon M"],
   1717:["Sean M"],
-  1718:["Makayla"]
+  1718:["Makayla"],
+  1719:["Jim Jones"]
 };
-const cachedAt = "2026-02-03T14:17:04Z";
+const cachedAt = "2026-02-03T17:17:03Z";
