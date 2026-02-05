@@ -518,7 +518,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1667],id:9011,language:"English",location:"Eau Claire, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1666],id:9014,language:"English",location:"Wallingford, Connecticut",program:"Family & Friends",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[556],id:9018,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1665],id:9020,language:"English",location:"Buffalo, New York",program:"Family & Friends",schedule:{day:3,time:"18:00Z",week:[1,3]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[751],id:9026,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1665],id:9027,language:"English",location:"Buffalo, New York",program:"Family & Friends",schedule:{day:3,time:"18:00Z",week:[2,4]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1681],id:9034,language:"English",location:"Wisconsin Rapids, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
@@ -917,7 +916,6 @@ const facilitators = {
   791:["Daniel"],
   793:["Shannon Hughes"],
   795:["Chris","Alberta"],
-  796:["Helena Machado"],
   797:["Antonio"],
   800:["Jen T"],
   801:["Leo"],
@@ -934,7 +932,6 @@ const facilitators = {
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","Global / New York / United States"],
-  832:["Juan Negron"],
   834:["Fernando Cote"],
   835:["Lili"],
   836:["Jesus Cisneros","Global"],
@@ -1017,7 +1014,6 @@ const facilitators = {
   1159:["Amanda T"],
   1162:["Christopher"],
   1163:["Eddie Cass"],
-  1172:["South African Meeting Host Team"],
   1198:["Stasia DeMarco"],
   1199:["Stephen","Virginia"],
   1213:["Rosana"],
@@ -1270,4 +1266,4 @@ const facilitators = {
   1721:["Ryan","Arizona"],
   1722:["Jim"]
 };
-const cachedAt = "2026-02-05T14:17:03Z";
+const cachedAt = "2026-02-05T17:17:05Z";
