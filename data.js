@@ -968,7 +968,6 @@ const facilitators = {
   890:["Heather","Connecticut"],
   893:["Christine","Arkansas"],
   894:["Shannon","North Carolina"],
-  896:["Patrick Clancey"],
   900:["Abby Bolin"],
   901:["Thomas A"],
   902:["Josephine McCormick"],
@@ -1154,6 +1153,7 @@ const facilitators = {
   1547:["David Luu"],
   1548:["Russ M"],
   1551:["Ashley Fulmer"],
+  1553:["Megan Goodrich"],
   1555:["Sanaz"],
   1556:["Sean (he/him)"],
   1559:["Laura Stewart Webb"],
@@ -1270,4 +1270,4 @@ const facilitators = {
   1721:["Ryan","Arizona"],
   1722:["Jim"]
 };
-const cachedAt = "2026-02-06T08:17:03Z";
+const cachedAt = "2026-02-06T11:17:03Z";
