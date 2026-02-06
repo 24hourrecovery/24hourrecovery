@@ -23,6 +23,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[80,302,303,304,1657],id:5388,language:"English",location:"Ottawa, Ontario",program:"Family & Friends",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[315],id:5532,language:"English",location:"Kelowna, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[326],id:5686,language:"English",location:"Kamloops, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1706],id:5710,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[181],id:5955,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"17:10Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[357,358,1265],id:6053,language:"English",location:"Squamish, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"02:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[370,371],id:6215,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
@@ -38,7 +39,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[725],id:8144,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"ca",duration:90,facilitator:[795],id:8205,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:2,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1388],id:8231,language:"English",location:"Welland, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
-  {audience:["Patients & Clients"],dataSource:"ca",duration:60,facilitator:[786],id:8232,language:"English",location:"Saint John, New Brunswick",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1296],id:8254,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"20:30Z"},type:"Both"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Online"},
@@ -911,11 +911,11 @@ const facilitators = {
   774:["Kelly S"],
   782:["Blake"],
   784:["Michler Bishop"],
-  786:["Wanda L."],
   788:["Indy Noble (Admin Contact)"],
   791:["Daniel"],
   793:["Shannon Hughes"],
   795:["Chris","Alberta"],
+  796:["Helena Machado"],
   797:["Antonio"],
   800:["Jen T"],
   801:["Leo"],
@@ -935,7 +935,6 @@ const facilitators = {
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","Global / New York / United States"],
   834:["Fernando Cote"],
-  835:["Lili"],
   836:["Jesus Cisneros","Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
@@ -1017,6 +1016,7 @@ const facilitators = {
   1163:["Eddie Cass"],
   1168:["Susanne"],
   1169:["Kerstin"],
+  1172:["South African Meeting Host Team"],
   1198:["Stasia DeMarco"],
   1199:["Stephen","Virginia"],
   1213:["Rosana"],
@@ -1253,6 +1253,7 @@ const facilitators = {
   1699:["Catherine S","Ontario"],
   1700:["Ashley"],
   1701:["Sarah Shepherd"],
+  1706:["Lindsay Elmgren"],
   1711:["William Freeman"],
   1712:["Zoel Lopez"],
   1713:["Evan Huber"],
@@ -1264,4 +1265,4 @@ const facilitators = {
   1721:["Ryan","Arizona"],
   1722:["Jim"]
 };
-const cachedAt = "2026-02-06T17:17:04Z";
+const cachedAt = "2026-02-06T20:17:04Z";
