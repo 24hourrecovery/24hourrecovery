@@ -27,6 +27,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[357,358,1265],id:6053,language:"English",location:"Squamish, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"02:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[370,371],id:6215,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[1423],id:6432,language:"English",location:"Edmonton, Alberta",program:"Family & Friends",schedule:{day:3,time:"02:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[397,398,1478],id:6564,language:"English",location:"Kitchener, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"ca",duration:90,facilitator:[318],id:6909,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[291],id:7187,language:"English",location:"Mississauga, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[725],id:7301,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
@@ -767,6 +768,8 @@ const facilitators = {
   386:["Catherine"],
   394:["Marilyn Roysdon"],
   396:["Donnis"],
+  397:["Stephen Theall"],
+  398:["Mike Davies"],
   401:["Patrick W"],
   402:["Matteo Giles"],
   406:["Mary Kay Betz"],
@@ -930,6 +933,7 @@ const facilitators = {
   829:["Tomasz Nawrocki"],
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","Global / New York / United States"],
+  832:["Juan Negron"],
   834:["Fernando Cote"],
   835:["Lili"],
   836:["Jesus Cisneros","Global"],
@@ -1115,10 +1119,10 @@ const facilitators = {
   1474:["Lindsey"],
   1475:["Oleg Khurramov"],
   1477:["Joe","California"],
+  1478:["Katie Lowe"],
   1480:["Paul","Utah"],
   1483:["Brandy"],
   1484:["James","Kentucky"],
-  1485:["Olesia Kolesova"],
   1488:["Steve C."],
   1490:["Vincent"],
   1491:["Amber"],
@@ -1260,4 +1264,4 @@ const facilitators = {
   1721:["Ryan","Arizona"],
   1722:["Jim"]
 };
-const cachedAt = "2026-02-07T02:17:04Z";
+const cachedAt = "2026-02-07T05:17:04Z";
