@@ -337,7 +337,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[847],id:7451,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"12:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278,505],id:747,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[509],id:7523,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[845],id:7524,language:"English",location:"Moorestown, New Jersey",program:"4-Point Recovery",schedule:{day:0,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-02-08 08:00:00-06",dataSource:"na",duration:120,facilitator:[845],id:7524,language:"English",location:"Moorestown, New Jersey",program:"4-Point Recovery",schedule:{day:0,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1652],id:7528,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:5,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[511],id:7531,language:"English",location:"Esko, Minnesota",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[512],id:7533,language:"English",location:"Wilmington, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Online"},
@@ -1082,7 +1082,6 @@ const facilitators = {
   1412:["Alexandra"],
   1413:["Wendy"],
   1418:["Elena Simagina"],
-  1419:["Alisa Yevsyakova"],
   1420:["Marie","Manitoba"],
   1423:["Bob"],
   1424:["Richard Holcombe"],
@@ -1266,4 +1265,4 @@ const facilitators = {
   1722:["Jim"],
   1723:["Skylar"]
 };
-const cachedAt = "2026-02-08T11:17:03Z";
+const cachedAt = "2026-02-08T14:17:03Z";
