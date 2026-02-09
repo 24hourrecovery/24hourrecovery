@@ -494,7 +494,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1577],id:8921,language:"English",location:"Peaks Island, Maine",program:"4-Point Recovery",schedule:{day:2,time:"23:15Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1616],id:8923,language:"English",location:"Great Barrington, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1576],id:8924,language:"English",location:"Minneapolis, Minnesota",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:0,time:"05:07Z",week:[2]},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"06:00Z",week:[2]},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1633],id:8931,language:"English",location:"San Antonio, Texas",program:"4-Point Recovery",schedule:{day:1,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1602],id:8934,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"20:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1144],id:8938,language:"English",location:"Owenton, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
@@ -996,12 +996,12 @@ const facilitators = {
   978:["Trista"],
   979:["Bruce S. Liese"],
   981:["Sheila","Michigan"],
-  984:["Vladislav Khardzhiev"],
   985:["Lisa Goodkind"],
   988:["Trista Wysong"],
   1011:["Jonathon Maxgay"],
   1013:["Paul","Colorado"],
   1021:["Leonard Murphy"],
+  1050:["Kris Runske"],
   1055:["David Wilkinson"],
   1059:["Samantha T."],
   1088:["Lea"],
@@ -1267,4 +1267,4 @@ const facilitators = {
   1722:["Jim"],
   1723:["Skylar"]
 };
-const cachedAt = "2026-02-09T05:17:04Z";
+const cachedAt = "2026-02-09T08:17:04Z";
