@@ -936,7 +936,6 @@ const facilitators = {
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","Global / New York / United States"],
   832:["Juan Negron"],
-  835:["Lili"],
   836:["Jesus Cisneros","Global"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
@@ -1040,7 +1039,6 @@ const facilitators = {
   1301:["Nathan (they/them)"],
   1309:["Michael Onwuke"],
   1310:["Samantha Critchley"],
-  1312:["Nthan Recovery (They/Them)"],
   1313:["Thomas"],
   1314:["Anita Z"],
   1315:["Teraya"],
@@ -1072,6 +1070,7 @@ const facilitators = {
   1388:["Terry Bochansky"],
   1391:["Jess Ott"],
   1392:["Ben","Massachusetts"],
+  1398:["Ievhen Appolonov"],
   1400:["Riley"],
   1401:["Grace Koolhoven"],
   1402:["Jessie K"],
@@ -1112,7 +1111,6 @@ const facilitators = {
   1472:["Mo Christiano she/her"],
   1473:["Sarah S"],
   1474:["Lindsey"],
-  1475:["Oleg Khurramov"],
   1477:["Joe","California"],
   1478:["Katie Lowe"],
   1480:["Paul","Utah"],
@@ -1266,4 +1264,4 @@ const facilitators = {
   1722:["Jim"],
   1723:["Skylar"]
 };
-const cachedAt = "2026-02-09T11:17:03Z";
+const cachedAt = "2026-02-09T14:17:04Z";
