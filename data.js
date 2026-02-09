@@ -1054,7 +1054,6 @@ const facilitators = {
   1331:["Keith Battle"],
   1336:["Connie C."],
   1339:["Elizabeth","North Carolina"],
-  1345:["Rahmat Santoso"],
   1352:["Justin"],
   1354:["Jay Quicksall"],
   1355:["MJ"],
@@ -1267,4 +1266,4 @@ const facilitators = {
   1722:["Jim"],
   1723:["Skylar"]
 };
-const cachedAt = "2026-02-09T08:17:04Z";
+const cachedAt = "2026-02-09T11:17:03Z";
