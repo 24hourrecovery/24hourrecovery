@@ -1090,6 +1090,7 @@ const facilitators = {
   1412:["Alexandra"],
   1413:["Wendy"],
   1418:["Elena Simagina"],
+  1419:["Alisa Yevsyakova"],
   1420:["Marie","Manitoba"],
   1423:["Bob"],
   1424:["Richard Holcombe"],
@@ -1272,4 +1273,4 @@ const facilitators = {
   1725:["Stephen Molaro"],
   1726:["Ad Ball"]
 };
-const cachedAt = "2026-02-10T05:17:03Z";
+const cachedAt = "2026-02-10T08:17:04Z";
