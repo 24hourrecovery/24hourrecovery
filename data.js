@@ -89,7 +89,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[665,816],id:1867,language:"English",location:"Sebastopol, California",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[105],id:1868,language:"English",location:"Burlington, Vermont",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[68,69,710],id:1947,language:"English",location:"Belmont, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-02-10 16:30:00-06",dataSource:"na",duration:90,facilitator:[1424],id:1963,language:"English",location:"Traverse City, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1424],id:1963,language:"English",location:"Traverse City, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[108,1391],id:1986,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[109,110],id:2021,language:"English",location:"Easton, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:2033,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -526,7 +526,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1610],id:9036,language:"English",location:"Farwell, Michigan",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1714],id:9040,language:"English",location:"Omak, Washington",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],canceled:"2026-02-13 17:00:00-06",dataSource:"na",duration:120,facilitator:[1370],id:9045,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],canceled:"2026-02-10 17:00:00-06",dataSource:"na",duration:120,facilitator:[1370],id:9046,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],canceled:"2026-02-17 17:00:00-06",dataSource:"na",duration:120,facilitator:[1370],id:9046,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[1693],id:9050,language:"English",location:"Sarasota, Florida",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1690],id:9051,language:"Spanish",location:"Brownsville, Texas",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1694],id:9052,language:"English",location:"Owosso, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
@@ -1284,4 +1284,4 @@ const facilitators = {
   1725:["Stephen Molaro"],
   1726:["Ad Ball"]
 };
-const cachedAt = "2026-02-10T23:17:03Z";
+const cachedAt = "2026-02-11T02:17:03Z";
