@@ -561,7 +561,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[591],id:1388,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:1,time:"17:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[717],id:1399,language:"English",location:"National",program:"SMART Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[595],id:1400,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[809],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-02-13 02:00:00-06",dataSource:"uk",duration:90,facilitator:[809],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[469],id:1402,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[597,763],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[593],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
@@ -1006,6 +1006,7 @@ const facilitators = {
   1013:["Paul","Colorado"],
   1021:["Leonard Murphy"],
   1050:["Kris Runske"],
+  1055:["David Wilkinson"],
   1059:["Samantha T."],
   1088:["Lea"],
   1089:["Tess"],
@@ -1168,7 +1169,6 @@ const facilitators = {
   1581:["Christy"],
   1583:["Ron Stricklin"],
   1584:["Eric","Massachusetts"],
-  1585:["Mikhail Barzykin"],
   1586:["Genia"],
   1587:["Heather","Kentucky"],
   1588:["Nicole","Nova Scotia"],
@@ -1176,7 +1176,6 @@ const facilitators = {
   1591:["Chris Brasse"],
   1594:["Chris","Wisconsin"],
   1597:["Millie"],
-  1598:["Rinat Khayrullin"],
   1600:["Reece Boulton"],
   1601:["Christopher R."],
   1602:["Johnnie H."],
@@ -1266,4 +1265,4 @@ const facilitators = {
   1727:["Alexis"],
   1728:["Sharon"]
 };
-const cachedAt = "2026-02-13T05:17:03Z";
+const cachedAt = "2026-02-13T08:17:03Z";
