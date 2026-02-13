@@ -561,7 +561,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[591],id:1388,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:1,time:"17:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[717],id:1399,language:"English",location:"National",program:"SMART Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[595],id:1400,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-02-13 02:00:00-06",dataSource:"uk",duration:90,facilitator:[809],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[809],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[469],id:1402,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[597,763],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[593],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
@@ -967,7 +967,6 @@ const facilitators = {
   890:["Heather","Connecticut"],
   893:["Christine","Arkansas"],
   894:["Shannon","North Carolina"],
-  896:["Patrick Clancey"],
   900:["Abby Bolin"],
   901:["Thomas A"],
   902:["Josephine McCormick"],
@@ -1265,4 +1264,4 @@ const facilitators = {
   1727:["Alexis"],
   1728:["Sharon"]
 };
-const cachedAt = "2026-02-13T08:17:03Z";
+const cachedAt = "2026-02-13T11:17:03Z";
