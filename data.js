@@ -930,7 +930,6 @@ const facilitators = {
   824:["Patrese Calheiros"],
   826:["SMART Espanol Women&#x27;s Meetings"],
   827:["Oscar"],
-  828:["Nadezhda Borzunova"],
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","Global / New York / United States"],
   832:["Juan Negron"],
@@ -1265,4 +1264,4 @@ const facilitators = {
   1737:["Linda C."],
   1738:["Skylar"]
 };
-const cachedAt = "2026-02-14T23:17:04Z";
+const cachedAt = "2026-02-15T02:17:04Z";
