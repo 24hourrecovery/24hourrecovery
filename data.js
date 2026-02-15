@@ -260,7 +260,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[396],id:6553,language:"English",location:"Swansea, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[664],id:658,language:"English",location:"Waterford Township, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140],id:6581,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"00:45Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,1011],id:6582,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[140,1011],id:6582,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[401],id:6587,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[402],id:6594,language:"English",location:"Flemington, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[322],id:6634,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -1122,6 +1122,7 @@ const facilitators = {
   1480:["Paul","Utah"],
   1483:["Brandy"],
   1484:["James","Kentucky"],
+  1485:["Olesia Kolesova"],
   1488:["Steve C."],
   1490:["Vincent"],
   1491:["Amber"],
@@ -1133,6 +1134,7 @@ const facilitators = {
   1510:["Dina Bezmelnitsyna"],
   1513:["Hannah","Tennessee"],
   1515:["Summer"],
+  1516:["Doronina Elena Viktorovna"],
   1520:["Jonathan Thompson"],
   1528:["Jess","Georgia"],
   1530:["Chris","Ontario"],
@@ -1271,4 +1273,4 @@ const facilitators = {
   1738:["Skylar"],
   1739:["MJ","Texas"]
 };
-const cachedAt = "2026-02-15T17:17:03Z";
+const cachedAt = "2026-02-15T20:17:03Z";
