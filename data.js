@@ -493,7 +493,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1577],id:8921,language:"English",location:"Peaks Island, Maine",program:"4-Point Recovery",schedule:{day:2,time:"23:15Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1616],id:8923,language:"English",location:"Great Barrington, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1576],id:8924,language:"English",location:"Minneapolis, Minnesota",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"04:30Z",week:[3]},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"05:45Z",week:[3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1602],id:8934,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"20:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1144],id:8938,language:"English",location:"Owenton, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1601],id:8939,language:"English",location:"Hartford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
@@ -567,7 +567,7 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[597,763],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[593],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[599],id:1460,language:"Polish",location:"Edinburgh, Scotland",program:"SMART Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[575],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"12:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Women Only"],canceled:"2026-02-16 06:00:00-06",dataSource:"uk",duration:90,facilitator:[575],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[601],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"11:00Z"},type:"Online"},
   {audience:["Military Veterans"],dataSource:"uk",duration:90,facilitator:[1686],id:1535,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Military Veterans"],dataSource:"uk",duration:90,facilitator:[1720],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"19:00Z"},type:"Online"},
@@ -1061,7 +1061,6 @@ const facilitators = {
   1331:["Keith Battle"],
   1336:["Connie C."],
   1339:["Elizabeth","North Carolina"],
-  1345:["Rahmat Santoso"],
   1352:["Justin"],
   1354:["Jay Quicksall"],
   1357:["Chris M."],
@@ -1275,4 +1274,4 @@ const facilitators = {
   1738:["Skylar"],
   1739:["MJ","Texas"]
 };
-const cachedAt = "2026-02-16T08:17:03Z";
+const cachedAt = "2026-02-16T11:17:04Z";
