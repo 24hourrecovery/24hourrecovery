@@ -944,6 +944,7 @@ const facilitators = {
   830:["Kurt Brewster"],
   831:["Gerardo Matamoros","Global / New York / United States"],
   832:["Juan Negron"],
+  834:["Fernando Cote"],
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
@@ -1275,4 +1276,4 @@ const facilitators = {
   1738:["Skylar"],
   1739:["MJ","Texas"]
 };
-const cachedAt = "2026-02-17T05:17:04Z";
+const cachedAt = "2026-02-17T08:17:03Z";
