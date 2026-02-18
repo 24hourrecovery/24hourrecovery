@@ -1256,7 +1256,6 @@ const facilitators = {
   1700:["Ashley"],
   1701:["Sarah Shepherd"],
   1706:["Lindsay Elmgren"],
-  1707:["Ashwin Thind"],
   1711:["William Freeman"],
   1712:["Zoel Lopez"],
   1713:["Evan Huber"],
@@ -1265,7 +1264,6 @@ const facilitators = {
   1718:["Makayla"],
   1720:["SMART Veterans Facilitator"],
   1721:["Ryan","Arizona"],
-  1722:["Jim"],
   1725:["Stephen Molaro"],
   1726:["Ad Ball"],
   1727:["Alexis"],
@@ -1281,4 +1279,4 @@ const facilitators = {
   1740:["Josh Albus"],
   1741:["Stefanie B"]
 };
-const cachedAt = "2026-02-18T08:17:04Z";
+const cachedAt = "2026-02-18T11:17:04Z";
