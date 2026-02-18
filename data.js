@@ -1192,7 +1192,6 @@ const facilitators = {
   1617:["Carol Spink"],
   1618:["Jules"],
   1619:["Joshua","British Columbia"],
-  1620:["Alisa Levchenko-Plekhanova"],
   1622:["Shannon M","California"],
   1625:["Brent"],
   1626:["Shawn"],
@@ -1280,4 +1279,4 @@ const facilitators = {
   1740:["Josh Albus"],
   1741:["Stefanie B"]
 };
-const cachedAt = "2026-02-18T02:17:04Z";
+const cachedAt = "2026-02-18T05:17:04Z";
