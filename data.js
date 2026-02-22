@@ -26,7 +26,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1706],id:5710,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[181],id:5955,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"17:10Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[357,358,1265],id:6053,language:"English",location:"Squamish, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"02:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-02-21 12:00:00-06",dataSource:"ca",duration:60,facilitator:[370,371],id:6215,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[370,371],id:6215,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[1423],id:6432,language:"English",location:"Edmonton, Alberta",program:"Family & Friends",schedule:{day:3,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[397,398,1478],id:6564,language:"English",location:"Kitchener, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"ca",duration:90,facilitator:[318],id:6909,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
@@ -1013,6 +1013,7 @@ const facilitators = {
   1089:["Tess"],
   1099:["Monica A"],
   1121:["David"],
+  1127:["Sammy Ombisa"],
   1135:["William","Texas"],
   1136:["Jason D"],
   1144:["Cindy"],
@@ -1289,4 +1290,4 @@ const facilitators = {
   1749:["Lisa Q"],
   1750:["Kelly Doig","National"]
 };
-const cachedAt = "2026-02-22T14:17:03Z";
+const cachedAt = "2026-02-22T17:17:04Z";
