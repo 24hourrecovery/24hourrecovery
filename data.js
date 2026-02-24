@@ -158,7 +158,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[222,1480],id:4312,language:"English",location:"South Salt Lake, Utah",program:"4-Point Recovery",schedule:{day:6,time:"16:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[223,224],id:4333,language:"English",location:"Rochester, New York",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[225],id:4368,language:"English",location:"Ravenna, Ohio",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[226,1452],id:4383,language:"English",location:"Baltimore, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-02-24 17:30:00-06",dataSource:"na",duration:90,facilitator:[226,1452],id:4383,language:"English",location:"Baltimore, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[233,859],id:4473,language:"English",location:"Folsom, California",program:"4-Point Recovery",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[734],id:4496,language:"English",location:"Webster, Texas",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:120,facilitator:[238,912],id:4498,language:"English",location:"Indianapolis, Indiana",program:"Family & Friends",schedule:{day:3,time:"23:30Z"},type:"Online"},
@@ -526,7 +526,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[751],id:9026,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1665],id:9027,language:"English",location:"Buffalo, New York",program:"Family & Friends",schedule:{day:3,time:"18:00Z",week:[2,4]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1681],id:9034,language:"English",location:"Wisconsin Rapids, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1680],id:9035,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1610],id:9036,language:"English",location:"Farwell, Michigan",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1714],id:9040,language:"English",location:"Omak, Washington",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Both"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:120,facilitator:[1370],id:9045,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -936,6 +935,7 @@ const facilitators = {
   813:["Dahlia Skuncikiene"],
   814:["Irina Berg"],
   816:["Judy"],
+  818:["Mel Du Toit"],
   819:["Juliana Anake-Ugwu"],
   822:["Kasia Stubba"],
   823:["Dave and Tina"],
@@ -1247,7 +1247,6 @@ const facilitators = {
   1676:["Clifford G"],
   1677:["Kelsey"],
   1678:["Juan G."],
-  1680:["Bobby"],
   1681:["Sarah Bristow"],
   1683:["Bonnie Kimpling","Illinois"],
   1684:["Brian Herzer"],
@@ -1304,4 +1303,4 @@ const facilitators = {
   1753:["Dana","Pennsylvania"],
   1754:["Jason"]
 };
-const cachedAt = "2026-02-24T14:17:04Z";
+const cachedAt = "2026-02-24T17:17:04Z";
