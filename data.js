@@ -450,7 +450,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1277],id:8649,language:"English",location:"Ypsilanti, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z",week:[4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[745],id:8651,language:"English",location:"Naugatuck, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1366],id:8654,language:"English",location:"Lancaster, Texas",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
-  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[1314],id:8668,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"21:30Z"},type:"Online"},
+  {audience:["Young Adults (18-30)"],canceled:"2026-02-24 15:30:00-06",dataSource:"na",duration:60,facilitator:[1314],id:8668,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1315],id:8671,language:"English",location:"Westport, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1315],id:8672,language:"English",location:"Westport, Connecticut",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1366],id:8678,language:"English",location:"Lancaster, Texas",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
@@ -1302,4 +1302,4 @@ const facilitators = {
   1753:["Dana","Pennsylvania"],
   1754:["Jason"]
 };
-const cachedAt = "2026-02-24T08:17:04Z";
+const cachedAt = "2026-02-24T11:17:03Z";
