@@ -363,7 +363,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[728],id:7873,language:"English",location:"Reading, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[546],id:7874,language:"English",location:"Covington, Kentucky",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[555],id:7919,language:"English",location:"York, Pennsylvania",program:"Successful Life Skills",schedule:{day:5,time:"00:00Z",week:[2,3,4,-1]},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1643,1644,1754],id:7939,language:"English",location:"Trinidad, Colorado",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],canceled:"2026-02-27 17:00:00-06",dataSource:"na",duration:60,facilitator:[1643,1644,1754],id:7939,language:"English",location:"Trinidad, Colorado",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[560],id:7958,language:"English",location:"Redford Charter Township, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[962,963],id:7974,language:"English",location:"South Bend, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[618],id:7983,language:"English",location:"Fountain City, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
@@ -1300,4 +1300,4 @@ const facilitators = {
   1761:["TJ Trent"],
   1762:["Elisa"]
 };
-const cachedAt = "2026-02-27T14:17:04Z";
+const cachedAt = "2026-02-27T17:17:04Z";
