@@ -1,6 +1,7 @@
 const meetings = [
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Both"},
+  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"04:00Z",week:[1]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"02:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[133,288,357,1265],id:2400,language:"English",location:"Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z",week:[1,2,4]},type:"Online"},
@@ -985,6 +986,8 @@ const facilitators = {
   939:["Andrea","England"],
   940:["Travis"],
   942:["Austin Farrell"],
+  947:["Alex","National"],
+  948:["Isabel"],
   951:["Noel Elmore"],
   952:["Frank H"],
   957:["Charles Smith"],
@@ -1297,4 +1300,4 @@ const facilitators = {
   1762:["Elisa"],
   1763:["Leigh","Indiana"]
 };
-const cachedAt = "2026-02-28T05:17:03Z";
+const cachedAt = "2026-02-28T08:17:04Z";
