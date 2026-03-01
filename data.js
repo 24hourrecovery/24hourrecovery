@@ -57,7 +57,7 @@ const meetings = [
   {audience:["Family & Friends Only","Military, Veterans & First Responders"],dataSource:"ca",duration:60,facilitator:[1675],id:9015,language:"English",location:"Fredericton, New Brunswick",program:"Family & Friends",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[1699,1733,1734,1735,1736,1737],id:9021,language:"French",location:"Ottawa, Ontario",program:"Family & Friends",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome","All Welcome"],dataSource:"ca",duration:90,facilitator:[1725],id:9025,language:"English",location:"Saskatoon, Saskatchewan",program:"4-Point Recovery",schedule:{day:0,time:"01:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-02-28 13:00:00-06",dataSource:"ca",duration:90,facilitator:[1752],id:9026,language:"English",location:"Kingston, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"19:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1752],id:9026,language:"English",location:"Kingston, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1327],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[53,54,55],id:1016,language:"English",location:"Silver Spring, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -1302,4 +1302,4 @@ const facilitators = {
   1762:["Elisa"],
   1763:["Leigh","Indiana"]
 };
-const cachedAt = "2026-03-01T14:17:03Z";
+const cachedAt = "2026-03-01T17:17:04Z";
