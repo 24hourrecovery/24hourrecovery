@@ -540,8 +540,8 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1762],id:9111,language:"English",location:"Colorado Springs, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[1495],id:9112,language:"English",location:"Centerville, Tennessee",program:"Family & Friends",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1760],id:9114,language:"English",location:"Denver, Colorado",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1761],id:9118,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1761],id:9119,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1761],id:9118,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1761],id:9119,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1761],id:9120,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:2,time:"20:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1766],id:9125,language:"English",location:"Parkway Village, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1528,1763],id:9127,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -1301,4 +1301,4 @@ const facilitators = {
   1763:["Leigh","Indiana"],
   1766:["Meagan S."]
 };
-const cachedAt = "2026-03-03T08:17:04Z";
+const cachedAt = "2026-03-03T11:17:06Z";
