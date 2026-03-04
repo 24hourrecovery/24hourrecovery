@@ -506,6 +506,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[556],id:9018,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:3,time:"20:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1665],id:9020,language:"English",location:"Buffalo, New York",program:"Family & Friends",schedule:{day:3,time:"18:00Z",week:[1,3]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[751],id:9026,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
+  {audience:["Family & Friends Only"],dataSource:"na",duration:60,facilitator:[1665],id:9027,language:"English",location:"Buffalo, New York",program:"Family & Friends",schedule:{day:3,time:"17:00Z",week:[2,4]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1681],id:9034,language:"English",location:"Wisconsin Rapids, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1610],id:9036,language:"English",location:"Farwell, Michigan",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1714],id:9040,language:"English",location:"Omak, Washington",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Both"},
@@ -918,7 +919,6 @@ const facilitators = {
   813:["Dahlia Skuncikiene"],
   814:["Irina Berg"],
   816:["Judy"],
-  818:["Mel Du Toit"],
   819:["Juliana Anake-Ugwu"],
   822:["Kasia Stubba"],
   823:["Dave and Tina"],
@@ -1286,4 +1286,4 @@ const facilitators = {
   1766:["Meagan S."],
   1768:["Kenny Reid"]
 };
-const cachedAt = "2026-03-04T14:17:04Z";
+const cachedAt = "2026-03-04T17:17:04Z";
