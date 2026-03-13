@@ -523,7 +523,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1761],id:9119,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:6,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1761],id:9120,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1766],id:9125,language:"English",location:"Parkway Village, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
-  {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1528,1763],id:9127,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
+  {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1528,1786],id:9127,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1770,1774,1775],id:9141,language:"English",location:"Greenville, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1783],id:9143,language:"English",location:"Jacksonville, Florida",program:"4-Point Recovery",schedule:{day:2,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1781],id:9149,language:"English",location:"Grand Junction, Colorado",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Both"},
@@ -1270,7 +1270,6 @@ const facilitators = {
   1760:["Stephanie","Colorado"],
   1761:["TJ Trent"],
   1762:["Elisa"],
-  1763:["Leigh","Indiana"],
   1766:["Meagan S."],
   1768:["Kenny Reid"],
   1769:["Elquire"],
@@ -1284,6 +1283,7 @@ const facilitators = {
   1781:["Heather U."],
   1782:["Katrina Benson"],
   1783:["Nick Padlo"],
-  1784:["Brandon S."]
+  1784:["Brandon S."],
+  1786:["Leigh","Indiana"]
 };
-const cachedAt = "2026-03-13T16:17:05Z";
+const cachedAt = "2026-03-13T19:17:05Z";
