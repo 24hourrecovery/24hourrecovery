@@ -1,7 +1,6 @@
 const meetings = [
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Online"},
-  {audience:["Women only"],dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"01:30Z",week:[2,4]},type:"Both"},
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:00Z",week:[2,3,4,-1]},type:"Both"},
   {audience:["All Welcome","Divorced partners and parents"],dataSource:"au",duration:90,facilitator:[1089],id:1450,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
@@ -63,7 +62,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[60],id:1027,language:"English",location:"North Bethesda, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[62,1368],id:103,language:"English",location:"Northampton, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[63,64,185,1429,1672],id:1033,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-03-12 16:30:00-05",dataSource:"na",duration:90,facilitator:[65],id:105,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[65],id:105,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[67],id:106,language:"English",location:"Cambridge, Massachusetts",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[68,69,71,710],id:107,language:"English",location:"Concord, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[743],id:1107,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"14:30Z"},type:"Online"},
@@ -306,6 +305,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1739],id:7206,language:"English",location:"Denison, Texas",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1352],id:7214,language:"English",location:"Petoskey, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1352],id:7215,language:"English",location:"Petoskey, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Both"},
+  {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1412],id:7233,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z",week:[3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[472,473],id:7244,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"13:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[216,474],id:7245,language:"English",location:"Wauwatosa, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[427],id:7257,language:"English",location:"New York",program:"Family & Friends",schedule:{day:5,time:"00:30Z"},type:"Online"},
@@ -353,6 +353,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1013,1684],id:7800,language:"English",location:"Boulder, Colorado",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[408],id:7836,language:"English",location:"Baraboo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541,1331],id:7853,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[728],id:7859,language:"English",location:"Reading, Pennsylvania",program:"Family & Friends",schedule:{day:4,time:"23:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[310],id:7861,language:"Spanish",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7863,language:"Russian",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7864,language:"Russian",location:"Portland, Oregon",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
@@ -422,6 +423,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[952],id:8440,language:"English",location:"Port Richey, Florida",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8450,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[966,1470,1473,1474,1507,1687,1689],id:8459,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[991],id:8468,language:"English",location:"Columbia, South Carolina",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[977],id:8471,language:"English",location:"Buffalo, New York",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[978],id:8478,language:"English",location:"Bogue, Kansas",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1653],id:8518,language:"English",location:"Johnson, Vermont",program:"4-Point Recovery",schedule:{day:2,time:"20:30Z"},type:"Both"},
@@ -864,7 +866,6 @@ const facilitators = {
   675:["Mara O."],
   681:["Kurt"],
   685:["Natalya Orlando"],
-  688:["Jade"],
   694:["Amy M"],
   695:["Annaleise McCullough"],
   697:["Alexandra Gutierrez"],
@@ -987,6 +988,7 @@ const facilitators = {
   984:["Vladislav Khardzhiev"],
   985:["Lisa Goodkind"],
   988:["Trista Wysong"],
+  991:["Kaela Hampton"],
   1011:["Jonathon Maxgay"],
   1013:["Paul","Colorado"],
   1021:["Leonard Murphy"],
@@ -1066,6 +1068,7 @@ const facilitators = {
   1401:["Grace Koolhoven"],
   1403:["Steve Saunders"],
   1408:["Morgan"],
+  1412:["Alexandra"],
   1418:["Elena Simagina"],
   1419:["Alisa Yevsyakova"],
   1423:["Bob"],
@@ -1285,4 +1288,4 @@ const facilitators = {
   1783:["Nick Padlo"],
   1784:["Brandon S."]
 };
-const cachedAt = "2026-03-12T22:17:04Z";
+const cachedAt = "2026-03-13T01:17:04Z";
