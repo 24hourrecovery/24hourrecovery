@@ -506,7 +506,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1713],id:9075,language:"English",location:"Oak Park, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1163],id:9076,language:"English",location:"Greenville, South Carolina",program:"Successful Life Skills",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["BIPOC"],dataSource:"na",duration:60,facilitator:[1755,1756,1757,1758,1759],id:9077,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1718],id:9078,language:"English",location:"Annandale, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1732],id:9093,language:"English",location:"Galesville, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[1581],id:9096,language:"English",location:"Delta, Colorado",program:"Family & Friends",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["School & College"],dataSource:"na",duration:60,facilitator:[1597],id:9099,language:"English",location:"Conway, Arkansas",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
@@ -1052,6 +1051,7 @@ const facilitators = {
   1368:["Alvin N."],
   1370:["Khare"],
   1374:["Arvo"],
+  1378:["Honest Anaba"],
   1379:["Amy Weston"],
   1380:["Hardial Kandola"],
   1381:["Shannon","California"],
@@ -1230,7 +1230,6 @@ const facilitators = {
   1712:["Zoel Lopez"],
   1713:["Evan Huber"],
   1714:["Shannon M","Washington"],
-  1718:["Makayla"],
   1720:["SMART Veterans Facilitator"],
   1721:["Ryan","Arizona"],
   1722:["Jim"],
@@ -1284,4 +1283,4 @@ const facilitators = {
   1786:["Leigh","Indiana"],
   1787:["Rhonda C."]
 };
-const cachedAt = "2026-03-14T10:17:03Z";
+const cachedAt = "2026-03-14T13:17:04Z";
