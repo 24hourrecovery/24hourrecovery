@@ -309,7 +309,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[476],id:7261,language:"English",location:"Bethlehem, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"11:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[741],id:7269,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[455,741,784],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[483,540,938,1567],id:7274,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z",week:[1,3]},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-03-15 17:00:00-05",dataSource:"na",duration:90,facilitator:[483,540,938,1567],id:7274,language:"English",location:"New York",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z",week:[1,3]},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[427,469,487],id:7302,language:"English",location:"National",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[492],id:7328,language:"English",location:"Holyoke, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[971],id:7345,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Both"},
@@ -1002,7 +1002,6 @@ const facilitators = {
   1163:["Eddie Cass"],
   1168:["Susanne"],
   1169:["Kerstin"],
-  1172:["South African Meeting Host Team"],
   1198:["Stasia DeMarco"],
   1199:["Stephen","Virginia"],
   1213:["Rosana"],
@@ -1275,7 +1274,6 @@ const facilitators = {
   1774:["Fred"],
   1775:["Greg","Michigan"],
   1776:["Michael","New York"],
-  1778:["Tintin (Caiden)"],
   1781:["Heather U."],
   1782:["Katrina Benson"],
   1783:["Nick Padlo"],
@@ -1283,4 +1281,4 @@ const facilitators = {
   1786:["Leigh","Indiana"],
   1787:["Rhonda C."]
 };
-const cachedAt = "2026-03-14T13:17:04Z";
+const cachedAt = "2026-03-14T16:17:04Z";
