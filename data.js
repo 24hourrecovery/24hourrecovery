@@ -1239,7 +1239,6 @@ const facilitators = {
   1700:["Ashley"],
   1701:["Sarah Shepherd"],
   1706:["Lindsay Elmgren"],
-  1707:["Ashwin Thind"],
   1712:["Zoel Lopez"],
   1713:["Evan Huber"],
   1714:["Shannon M","Washington"],
@@ -1299,4 +1298,4 @@ const facilitators = {
   1790:["Steven H"],
   1793:["Mylee"]
 };
-const cachedAt = "2026-03-18T07:17:04Z";
+const cachedAt = "2026-03-18T10:17:03Z";
