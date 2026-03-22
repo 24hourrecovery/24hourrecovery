@@ -490,7 +490,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1609],id:8959,language:"English",location:"Harker Heights, Texas",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1660,1661],id:8965,language:"English",location:"Hartsville, South Carolina",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1458,1639,1640],id:8976,language:"English",location:"Jacksonville, Florida",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-03-22 09:00:00-05",dataSource:"na",duration:60,facilitator:[1634],id:8977,language:"English",location:"Shaker Heights, Ohio",program:"4-Point Recovery",schedule:{day:0,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1634],id:8977,language:"English",location:"Shaker Heights, Ohio",program:"4-Point Recovery",schedule:{day:0,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1654],id:8979,language:"English",location:"La Grange, Kentucky",program:"Family & Friends",schedule:{day:1,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1630],id:8984,language:"English",location:"Rohnert Park, California",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1658],id:8995,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"},
@@ -1302,4 +1302,4 @@ const facilitators = {
   1794:["Danielle","Illinois"],
   1795:["Will A."]
 };
-const cachedAt = "2026-03-22T13:17:03Z";
+const cachedAt = "2026-03-22T16:17:04Z";
