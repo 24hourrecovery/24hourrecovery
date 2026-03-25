@@ -551,7 +551,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[578],id:1352,language:"English",location:"Exeter, England",program:"SMART Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[579],id:1353,language:"English",location:"England",program:"SMART Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[788,1220],id:1355,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:2,time:"09:30Z"},type:"Online"},
-  {audience:["Women Only"],dataSource:"uk",duration:90,facilitator:null,id:1357,language:"English",location:"Woking, England",program:"SMART Recovery",schedule:{day:3,time:"11:30Z"},type:"Online"},
+  {audience:["Women Only"],dataSource:"uk",duration:90,facilitator:null,id:1357,language:"English",location:"Woking, England",program:"SMART Recovery",schedule:{day:3,time:"10:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[584,585],id:1369,language:"English",location:"Gloucester, England",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[588,788],id:1373,language:"English",location:"Weymouth, England",program:"SMART Recovery",schedule:{day:3,time:"19:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[597],id:1381,language:"English",location:"Inverness, Scotland",program:"SMART Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
@@ -570,7 +570,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[902],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:60,facilitator:[701],id:1603,language:"English",location:"Stevenage, England",program:"SMART Veterans",schedule:{day:2,time:"17:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[752,753],id:1640,language:"Punjabi",location:"National",program:"SMART Recovery",schedule:{day:0,time:"07:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[846],id:1643,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[846],id:1643,language:"English",location:"National",program:"SMART Recovery",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[939,940],id:1684,language:"English",location:"Harrogate, England",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[1263],id:1687,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:4,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:90,facilitator:[1309,1310],id:1733,language:"English",location:"Sheffield, England",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
@@ -1289,4 +1289,4 @@ const facilitators = {
   1801:["Logan Bradley"],
   1802:["Peter","Virginia"]
 };
-const cachedAt = "2026-03-25T10:17:04Z";
+const cachedAt = "2026-03-25T13:17:04Z";
