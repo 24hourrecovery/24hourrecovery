@@ -354,8 +354,6 @@ const meetings = [
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7863,language:"Russian",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7864,language:"Russian",location:"Portland, Oregon",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[544],id:7867,language:"English",location:"Trinidad, California",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[728],id:7873,language:"English",location:"Reading, Pennsylvania",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z",week:[2,4]},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[555],id:7919,language:"English",location:"York, Pennsylvania",program:"Successful Life Skills",schedule:{day:5,time:"00:00Z",week:[2,3,4,-1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1643,1644,1754],id:7939,language:"English",location:"Trinidad, Colorado",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[560],id:7958,language:"English",location:"Redford Charter Township, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[962,963],id:7974,language:"English",location:"South Bend, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Online"},
@@ -400,7 +398,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[847],id:8315,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:8318,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[774],id:8324,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:2,time:"02:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[851],id:8329,language:"English",location:"Trumbull, Connecticut",program:"4-Point Recovery",schedule:{day:5,time:"13:30Z",week:[3,4]},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,433,661,861,880,1269,1276,1365,1462,1799],id:8337,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"01:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:90,facilitator:[906],id:8343,language:"English",location:"Edmond, Oklahoma",program:"Family & Friends",schedule:{day:3,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[605,875,876],id:8354,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
@@ -812,7 +809,6 @@ const facilitators = {
   544:["Blair Bush"],
   552:["Hank Molesky"],
   553:["Robert Z"],
-  555:["Theresa G"],
   556:["Barry"],
   560:["Thomas A"],
   563:["Phil Mattson"],
@@ -928,7 +924,6 @@ const facilitators = {
   843:["Angie A."],
   846:["Andrea Maddin"],
   847:["Carey"],
-  851:["Remi"],
   855:["Ava Burre"],
   858:["Mel M"],
   859:["James C"],
@@ -1283,4 +1278,4 @@ const facilitators = {
   1805:["Carol Spink","National"],
   1806:["Holly","Wisconsin"]
 };
-const cachedAt = "2026-03-27T16:17:04Z";
+const cachedAt = "2026-03-27T22:17:04Z";
