@@ -3,7 +3,7 @@ const meetings = [
   {audience:["All Welcome"],canceled:"2026-04-05 22:00:00-05",dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[688],id:1333,language:"English",location:"Edinburgh North, South Australia",program:"Standard",schedule:{day:4,time:"02:30Z",week:[2,4]},type:"Both"},
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"05:00Z",week:[2,3,4,-1]},type:"Both"},
-  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"04:00Z",week:[1]},type:"Both"},
+  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z",week:[1]},type:"Both"},
   {audience:["All Welcome","Divorced partners and parents"],dataSource:"au",duration:90,facilitator:[1089],id:1450,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
@@ -539,7 +539,7 @@ const meetings = [
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[278,505],id:957,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278],id:962,language:"English",location:"Bowie, Maryland",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[567,568],id:98,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[1379,1380],id:1061,language:"English",location:"Leicester, England",program:"SMART Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[1816],id:1061,language:"English",location:"Leicester, England",program:"SMART Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[572],id:1064,language:"English",location:"Bangor, Wales",program:"SMART Recovery",schedule:{day:2,time:"09:00Z"},type:"Both"},
   {audience:["Adults Welcome"],canceled:"2026-04-03 06:00:00-05",dataSource:"uk",duration:90,facilitator:[1768],id:1125,language:"English",location:"Regional",program:"SMART Recovery",schedule:{day:5,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:90,facilitator:[1600],id:1261,language:"English",location:"Manchester, England",program:"SMART Recovery",schedule:{day:4,time:"17:00Z"},type:"Both"},
@@ -1055,8 +1055,6 @@ const facilitators = {
   1368:["Alvin N."],
   1370:["Khare"],
   1374:["Arvo"],
-  1379:["Amy Weston"],
-  1380:["Hardial Kandola"],
   1381:["Shannon","California"],
   1385:["Heather Ledford"],
   1388:["Terry Bochansky"],
@@ -1303,6 +1301,7 @@ const facilitators = {
   1812:["Drew","National"],
   1813:["Elise B"],
   1814:["Rick Lewis"],
-  1815:["Samantha Crowhurst"]
+  1815:["Samantha Crowhurst"],
+  1816:["Rikki Anderson"]
 };
-const cachedAt = "2026-04-02T04:17:03Z";
+const cachedAt = "2026-04-02T07:17:04Z";
