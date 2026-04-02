@@ -11,7 +11,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139],id:2629,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139],id:3353,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:0,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[181],id:3673,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[203,1547],id:4096,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[203,1547,1815],id:4096,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2026-04-06 18:15:00-05",dataSource:"ca",duration:90,facilitator:[204],id:4109,language:"English",location:"Burlington, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"23:15Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[231],id:4441,language:"English",location:"Calgary, Alberta",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[235,236,1423,1656],id:4491,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
@@ -42,7 +42,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1296],id:8254,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"19:30Z"},type:"Both"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1427],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1427],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1406],id:8719,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:6,time:"22:00Z",week:[1,3]},type:"Online"},
   {audience:["BIPOC"],dataSource:"ca",duration:60,facilitator:[1561],id:8911,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"ca",duration:60,facilitator:[1568],id:8919,language:"English",location:"Victoria, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z",week:[1,2,-1]},type:"Online"},
@@ -280,7 +280,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[216,1688],id:6881,language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"20:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders","Women"],dataSource:"na",duration:90,facilitator:[422,424,433,623,662,1276,1328],id:6882,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1565],id:6883,language:"English",location:"Huntsville, Alabama",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,433,623,661,1269,1276,1365,1462,1799],id:6888,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,433,623,661,1269,1276,1365,1462,1812],id:6888,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,434,623,661,1269,1276,1365,1462,1799],id:6891,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:6,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[69,455],id:6893,language:"English",location:"Lancaster, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[443],id:6896,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"21:30Z"},type:"Online"},
@@ -1300,6 +1300,7 @@ const facilitators = {
   1811:["Annie"],
   1812:["Drew","National"],
   1813:["Elise B"],
-  1814:["Rick Lewis"]
+  1814:["Rick Lewis"],
+  1815:["Samantha Crowhurst"]
 };
-const cachedAt = "2026-04-01T22:17:04Z";
+const cachedAt = "2026-04-02T01:17:04Z";
