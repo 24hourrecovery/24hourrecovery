@@ -548,7 +548,7 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[597,763],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[593],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[599],id:1460,language:"Polish",location:"Edinburgh, Scotland",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Women Only"],canceled:"2026-04-06 06:00:00-05",dataSource:"uk",duration:90,facilitator:[593,601],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"11:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Women Only"],dataSource:"uk",duration:90,facilitator:[593,601],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[601],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"10:00Z"},type:"Online"},
   {audience:["Military Veterans"],dataSource:"uk",duration:90,facilitator:[1686],id:1535,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"18:30Z"},type:"Online"},
   {audience:["Military Veterans"],dataSource:"uk",duration:90,facilitator:[1720],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"18:00Z"},type:"Online"},
@@ -974,7 +974,6 @@ const facilitators = {
   1088:["Lea"],
   1089:["Tess"],
   1099:["Monica A"],
-  1127:["Sammy Ombisa"],
   1132:["Simone"],
   1135:["William","Texas"],
   1136:["Jason D"],
@@ -1278,4 +1277,4 @@ const facilitators = {
   1820:["Nashima"],
   1821:["Barbara Ozga"]
 };
-const cachedAt = "2026-04-06T10:17:04Z";
+const cachedAt = "2026-04-06T13:17:04Z";
