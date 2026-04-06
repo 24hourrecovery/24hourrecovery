@@ -260,7 +260,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[412],id:6700,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[415,446,528,724],id:6709,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:0,time:"15:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[416],id:6712,language:"English",location:"Farmington, Maine",program:"4-Point Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,623,661,1269,1276,1365,1462,1739,1799],id:6797,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,623,661,1269,1276,1365,1462,1739,1812],id:6797,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"na",duration:120,facilitator:[238,427,912],id:6806,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[131],id:6821,language:"English",location:"Hamden, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[727],id:6826,language:"English",location:"College Station, Texas",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Both"},
@@ -444,7 +444,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1462],id:8818,language:"English",location:"Marlton, New Jersey",program:"4-Point Recovery",schedule:{day:4,time:"06:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1513],id:8841,language:"English",location:"Clarksville, Tennessee",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1490],id:8846,language:"English",location:"Toledo, Ohio",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-04-05 17:00:00-05",dataSource:"na",duration:60,facilitator:[1566],id:8848,language:"English",location:"Casper, Wyoming",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1566],id:8848,language:"English",location:"Casper, Wyoming",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[165,1491],id:8849,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2026-04-08 09:00:00-05",dataSource:"na",duration:90,facilitator:[1495],id:8853,language:"English",location:"Centerville, Tennessee",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
@@ -1258,7 +1258,6 @@ const facilitators = {
   1795:["Will A."],
   1797:["Brian Hayes"],
   1798:["Wes Walton"],
-  1799:["Drew","National"],
   1800:["Rusty Dilley"],
   1801:["Logan Bradley"],
   1802:["Peter","Virginia"],
@@ -1278,4 +1277,4 @@ const facilitators = {
   1819:["Kayla B."],
   1820:["Nashima"]
 };
-const cachedAt = "2026-04-05T22:17:04Z";
+const cachedAt = "2026-04-06T01:17:04Z";
