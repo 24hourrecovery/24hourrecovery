@@ -341,7 +341,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[446,528,724],id:7746,language:"English",location:"Gulfport, Mississippi",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[284,761],id:7768,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[530],id:7777,language:"English",location:"Town of Rockingham, Vermont",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[511],id:7778,language:"English",location:"Esko, Minnesota",program:"Family & Friends",schedule:{day:2,time:"22:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-04-21 17:00:00-05",dataSource:"na",duration:60,facilitator:[511],id:7778,language:"English",location:"Esko, Minnesota",program:"Family & Friends",schedule:{day:2,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[534],id:7798,language:"English",location:"New York",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1013,1684],id:7800,language:"English",location:"Boulder, Colorado",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[408],id:7836,language:"English",location:"Baraboo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Both"},
@@ -1291,4 +1291,4 @@ const facilitators = {
   1835:["Sharme"],
   1836:["Cameron Lewis"]
 };
-const cachedAt = "2026-04-17T10:17:04Z";
+const cachedAt = "2026-04-17T13:17:04Z";
