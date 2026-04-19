@@ -44,7 +44,6 @@ const meetings = [
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1427],id:8428,language:"English",location:"Maple Ridge, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:15Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1406],id:8719,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:6,time:"22:00Z",week:[1,3]},type:"Online"},
   {audience:["BIPOC"],dataSource:"ca",duration:60,facilitator:[1561],id:8911,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[1588],id:8937,language:"English",location:"Amherst, Nova Scotia",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome","All Welcome"],dataSource:"ca",duration:60,facilitator:[371],id:9012,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -221,7 +220,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1317],id:5911,language:"English",location:"Lincoln, Nebraska",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[353],id:5984,language:"English",location:"Shoreline, Washington",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[930],id:5987,language:"English",location:"Joliet, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],canceled:"2026-04-19 14:00:00-05",dataSource:"na",duration:90,facilitator:[356],id:6032,language:"English",location:"Leesburg, Virginia",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[356],id:6032,language:"English",location:"Leesburg, Virginia",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[123,1503],id:6061,language:"English",location:"Santa Rosa, California",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[360],id:6074,language:"English",location:"Bethlehem, Pennsylvania",program:"Family & Friends",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[361,362,1274,1275,1446],id:6095,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
@@ -986,6 +985,7 @@ const facilitators = {
   1218:["Bee"],
   1220:["Anna","England"],
   1223:["Abigail"],
+  1232:["Angela Bekederemo"],
   1239:["Ifechidere Ugwuibe"],
   1245:["Jessica B"],
   1246:["Clea P"],
@@ -1039,7 +1039,6 @@ const facilitators = {
   1400:["Riley","Oregon"],
   1401:["Grace Koolhoven"],
   1403:["Steve Saunders"],
-  1406:["Maya","Alberta"],
   1408:["Morgan"],
   1418:["Elena Simagina"],
   1419:["Alisa Yevsyakova"],
@@ -1284,4 +1283,4 @@ const facilitators = {
   1835:["Sharme"],
   1836:["Cameron Lewis"]
 };
-const cachedAt = "2026-04-19T19:17:04Z";
+const cachedAt = "2026-04-19T22:17:04Z";
