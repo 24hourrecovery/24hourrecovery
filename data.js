@@ -390,6 +390,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[797],id:8279,language:"English",location:"Torrington, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[859],id:8296,language:"English",location:"Mountain Brook, Alabama",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[100,101,855],id:8302,language:"English",location:"Overland Park, Kansas",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
+  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[841],id:8303,language:"English",location:"Los Angeles, California",program:"4-Point Recovery",schedule:{day:0,time:"02:30Z",week:[-1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[842],id:8306,language:"English",location:"Wallingford, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[890],id:8307,language:"English",location:"Vernon, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[847],id:8315,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"},
@@ -911,6 +912,7 @@ const facilitators = {
   837:["Anabel"],
   838:["Vitaly Kozyrev"],
   839:["Dimitrii Frolov"],
+  841:["Tammy C"],
   842:["Ana"],
   846:["Andrea Maddin"],
   847:["Carey"],
@@ -1284,4 +1286,4 @@ const facilitators = {
   1835:["Sharme"],
   1836:["Cameron Lewis"]
 };
-const cachedAt = "2026-04-19T01:17:04Z";
+const cachedAt = "2026-04-19T04:17:04Z";
