@@ -118,6 +118,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[166],id:3228,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1574],id:3231,language:"English",location:"Decatur, Georgia",program:"4-Point Recovery",schedule:{day:2,time:"22:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[801,882,883,1451,1528],id:3246,language:"English",location:"Duluth, Georgia",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[195,223],id:3415,language:"English",location:"Rochester, New York",program:"Family & Friends",schedule:{day:1,time:"23:00Z",week:[2,4]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[172,1795],id:3418,language:"English",location:"Haverhill, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"21:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[173,174],id:3431,language:"English",location:"Worthington, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[175],id:3449,language:"English",location:"Grayslake, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
@@ -183,7 +184,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1618,1683],id:5135,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:3,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1618,1683],id:5136,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:4,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[284,761,1289,1318,1435],id:5139,language:"English",location:"Beach Park, Illinois",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-04-20 17:30:00-05",dataSource:"na",duration:60,facilitator:[145,285,884],id:514,language:"English",location:"Towson, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[145,285,884],id:514,language:"English",location:"Towson, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[289],id:5154,language:"English",location:"Malibu, California",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[290],id:5170,language:"English",location:"Asheville, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1198,1245],id:522,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:6,time:"12:30Z"},type:"Online"},
@@ -367,7 +368,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[971],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[694,709],id:8070,language:"English",location:"Oakland, California",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1515,1635,1636,1721],id:8075,language:"English",location:"Phoenix, Arizona",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1328],id:8080,language:"English",location:"Columbus, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-04-27 17:30:00-05",dataSource:"na",duration:60,facilitator:[1328],id:8080,language:"English",location:"Columbus, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[685],id:8086,language:"English",location:"Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[700],id:8089,language:"English",location:"Rocklin, California",program:"4-Point Recovery",schedule:{day:3,time:"04:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1830],id:8110,language:"English",location:"Royal Oak, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
@@ -502,7 +503,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1761],id:9118,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1761],id:9119,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"20:20Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1761],id:9120,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:3,time:"00:30Z"},type:"Online"},
-  {audience:["LGBTQIA+"],canceled:"2026-04-20 17:00:00-05",dataSource:"na",duration:60,facilitator:[1766],id:9125,language:"English",location:"Parkway Village, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
+  {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1766],id:9125,language:"English",location:"Parkway Village, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1528,1786],id:9127,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1787],id:9135,language:"English",location:"Hammond, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Both"},
   {audience:["Adults Welcome"],canceled:"2026-04-22 09:30:00-05",dataSource:"na",duration:60,facilitator:[1770,1774,1775],id:9141,language:"English",location:"Belding, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"14:30Z"},type:"Both"},
@@ -1284,4 +1285,4 @@ const facilitators = {
   1840:["Alex S."],
   1841:["Tristan G."]
 };
-const cachedAt = "2026-04-20T22:17:05Z";
+const cachedAt = "2026-04-21T01:17:04Z";
