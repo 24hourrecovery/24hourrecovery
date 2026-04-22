@@ -341,7 +341,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1013,1684],id:7800,language:"English",location:"Boulder, Colorado",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[408],id:7836,language:"English",location:"Baraboo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[541,1331],id:7853,language:"English",location:"Dubois, Wyoming",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[310,322],id:7861,language:"Spanish",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7863,language:"Russian",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7864,language:"Russian",location:"Portland, Oregon",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[544],id:7867,language:"English",location:"Trinidad, California",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
@@ -707,12 +706,10 @@ const facilitators = {
   295:["Craig"],
   296:["Elizabeth Patton"],
   305:["Viktoras Binkys"],
-  310:["Jesus Cisneros","Illinois"],
   312:["Suzy"],
   313:["Arianna Cirincione"],
   315:["Kate Carr"],
   318:["Luke Koops"],
-  322:["Daryl Pass"],
   323:["Jim Hughes"],
   324:["Eileen Kriczky"],
   325:["Richard","Tennessee"],
@@ -1279,4 +1276,4 @@ const facilitators = {
   1843:["Jackson K"],
   1844:["Lucy Jo Tuttle"]
 };
-const cachedAt = "2026-04-22T10:17:04Z";
+const cachedAt = "2026-04-22T13:17:04Z";
