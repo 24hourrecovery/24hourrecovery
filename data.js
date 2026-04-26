@@ -590,6 +590,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,861,1805],id:9191,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[435,1810],id:9199,language:"English",location:"Laguna Niguel, California",program:"4-Point Recovery",schedule:{day:0,time:"05:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1824],id:9200,language:"Spanish",location:"Tampa, Florida",program:"4-Point Recovery",schedule:{day:2,time:"15:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1439,1440],id:9204,language:"English",location:"Portland, Oregon",program:"Family & Friends",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1823,1832,1844],id:9213,language:"English",location:"Lowville, New York",program:"Family & Friends",schedule:{day:2,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1837],id:9215,language:"English",location:"Birmingham, Alabama",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z",week:[-1]},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1852],id:9217,language:"English",location:"Cleveland, Georgia",program:"4-Point Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
@@ -1156,7 +1157,7 @@ const facilitators = {
   1435:["Teagan Ferraresi"],
   1436:["Julia"],
   1438:["Jocelyn"],
-  1439:["Elizabeth","West Virginia"],
+  1439:["Elizabeth","Oregon / West Virginia"],
   1440:["Jess","Oregon / West Virginia"],
   1441:["Ian"],
   1443:["Caleb Farmer"],
@@ -1432,4 +1433,4 @@ const facilitators = {
   1853:["Laura Westbrook"],
   1854:["ÐÐ½Ð³ÐµÐ»Ð¸Ð½Ð°"]
 };
-const cachedAt = "2026-04-25T22:17:04Z";
+const cachedAt = "2026-04-26T01:17:04Z";
