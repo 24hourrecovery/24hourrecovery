@@ -531,7 +531,7 @@ const meetings = [
   {audience:["Men"],dataSource:"na",duration:60,facilitator:[1563],id:8916,language:"English",location:"Oronogo, Missouri",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1577],id:8921,language:"English",location:"Peaks Island, Maine",program:"4-Point Recovery",schedule:{day:2,time:"22:15Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1616,1843],id:8923,language:"English",location:"Great Barrington, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1602],id:8934,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"19:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1144],id:8938,language:"English",location:"Owenton, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1601],id:8939,language:"English",location:"Hartford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
@@ -599,7 +599,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[658],id:9231,language:"English",location:"Palm Desert, California",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:60,facilitator:[1834],id:9233,language:"English",location:"Franklin Township, New Jersey",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1849],id:9245,language:"English",location:"Williamsport, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"16:15Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1848],id:9246,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1848,1859],id:9246,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1856],id:9249,language:"English",location:"Longview, Texas",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1855],id:9254,language:"English",location:"Watterson Park, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
@@ -989,6 +989,7 @@ const facilitators = {
   813:["Dahlia Skuncikiene"],
   814:["Irina Berg"],
   816:["Judy"],
+  818:["Mel Du Toit"],
   819:["Juliana Anake-Ugwu"],
   822:["Kasia Stubba"],
   823:["Dave and Tina"],
@@ -1068,6 +1069,7 @@ const facilitators = {
   1059:["Samantha T."],
   1088:["Lea"],
   1089:["Tess"],
+  1098:["Cassandra Kane"],
   1099:["Monica A"],
   1117:["Jill"],
   1121:["David"],
@@ -1436,6 +1438,7 @@ const facilitators = {
   1855:["Meagan S."],
   1856:["Kevin Jordan"],
   1857:["Rachel D"],
-  1858:["Paul Fitzgerald"]
+  1858:["Paul Fitzgerald"],
+  1859:["Liz Robey"]
 };
-const cachedAt = "2026-04-28T16:17:04Z";
+const cachedAt = "2026-04-28T19:17:03Z";
