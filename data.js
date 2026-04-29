@@ -24,7 +24,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[29],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
-  {audience:["Alcohol Focus."],canceled:"2026-04-29 04:15:00-05",dataSource:"au",duration:90,facilitator:[1143,1807],id:1282,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:15Z"},type:"Online"},
+  {audience:["Alcohol Focus."],dataSource:"au",duration:90,facilitator:[1143,1807],id:1282,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:15Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1284,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1285,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[44],id:1289,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
@@ -1445,4 +1445,4 @@ const facilitators = {
   1858:["Paul Fitzgerald"],
   1859:["Liz Robey"]
 };
-const cachedAt = "2026-04-29T07:17:03Z";
+const cachedAt = "2026-04-29T10:17:04Z";
