@@ -629,7 +629,7 @@ const meetings = [
   {audience:["Adults Welcome","National Online Meeting","Women Only"],canceled:"2026-05-04 06:00:00-05",dataSource:"uk",duration:90,facilitator:[1750],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[601],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"10:00Z"},type:"Online"},
   {audience:["Military Veterans","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[1686],id:1535,language:"English",location:"National",program:"SMART Veterans",schedule:{day:1,time:"18:30Z"},type:"Online"},
-  {audience:["Military Veterans","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[1720],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"18:00Z"},type:"Online"},
+  {audience:["Military Veterans","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[1720],id:1542,language:"English",location:"National",program:"SMART Veterans",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[902],id:1601,language:"English",location:"National",program:"SMART Recovery",schedule:{day:6,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:60,facilitator:[701],id:1603,language:"English",location:"Stevenage, England",program:"SMART Veterans",schedule:{day:2,time:"17:30Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[752,753],id:1640,language:"Punjabi",location:"National",program:"SMART Recovery",schedule:{day:0,time:"07:00Z"},type:"Online"},
@@ -1431,4 +1431,4 @@ const facilitators = {
   1858:["Paul Fitzgerald"],
   1859:["Liz Robey"]
 };
-const cachedAt = "2026-04-30T07:17:04Z";
+const cachedAt = "2026-04-30T10:17:03Z";
