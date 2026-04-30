@@ -515,7 +515,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1566],id:8848,language:"English",location:"Casper, Wyoming",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[165,1491],id:8849,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1495],id:8853,language:"English",location:"Centerville, Tennessee",program:"4-Point Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-04-30 11:00:00-05",dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[1603],id:8868,language:"English",location:"New Brunswick, New Jersey",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1806],id:8869,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],canceled:"2026-05-03 17:00:00-05",dataSource:"na",duration:90,facilitator:[1556],id:8873,language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
@@ -580,7 +580,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1761],id:9158,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1789],id:9166,language:"English",location:"Westminster, California",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1793],id:9179,language:"English",location:"New Market, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1825],id:9189,language:"English",location:"Jacksonville, Florida",program:"Family & Friends",schedule:{day:2,time:"15:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-05-05 10:00:00-05",dataSource:"na",duration:60,facilitator:[1825],id:9189,language:"English",location:"Jacksonville, Florida",program:"Family & Friends",schedule:{day:2,time:"15:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,861,1805],id:9191,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[435,1810],id:9199,language:"English",location:"Laguna Niguel, California",program:"4-Point Recovery",schedule:{day:0,time:"05:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1824],id:9200,language:"Spanish",location:"Tampa, Florida",program:"4-Point Recovery",schedule:{day:2,time:"15:00Z"},type:"Online"},
@@ -1431,4 +1431,4 @@ const facilitators = {
   1858:["Paul Fitzgerald"],
   1859:["Liz Robey"]
 };
-const cachedAt = "2026-04-30T16:17:04Z";
+const cachedAt = "2026-04-30T19:17:03Z";
