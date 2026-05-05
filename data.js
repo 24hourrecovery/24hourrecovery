@@ -551,7 +551,6 @@ const meetings = [
   {audience:["Teens (13-17)"],dataSource:"na",duration:60,facilitator:[1822],id:9058,language:"English",location:"Clinton Twp, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[751],id:9072,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1713],id:9075,language:"English",location:"Oak Park, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"22:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1163],id:9076,language:"English",location:"Greenville, South Carolina",program:"Successful Life Skills",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["BIPOC"],dataSource:"na",duration:60,facilitator:[1755,1756,1757,1758,1759,1851],id:9077,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1732],id:9093,language:"English",location:"Galesville, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1581],id:9096,language:"English",location:"Delta, Colorado",program:"Family & Friends",schedule:{day:5,time:"22:00Z"},type:"Both"},
@@ -622,7 +621,7 @@ const meetings = [
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[809],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[469],id:1402,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[597,763],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[1839],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[593],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[599],id:1460,language:"Polish",location:"Edinburgh, Scotland",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[1750],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[601],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"10:00Z"},type:"Online"},
@@ -901,6 +900,7 @@ const facilitators = {
   579:["Spencer Suckling"],
   588:["Cassandra Dear"],
   591:["Simon Jackson"],
+  593:["Emma Sharp-Lau"],
   595:["Manny"],
   597:["Robbi Lyttle"],
   599:["Klaudia Rzeczkowska"],
@@ -1065,7 +1065,6 @@ const facilitators = {
   1143:["Kelly"],
   1144:["Cindy"],
   1162:["Christopher"],
-  1163:["Eddie Cass"],
   1167:["Nicole","National"],
   1168:["Susanne"],
   1169:["Kerstin"],
@@ -1397,7 +1396,6 @@ const facilitators = {
   1833:["Kayla B."],
   1834:["Christopher Zito"],
   1836:["Cameron Lewis"],
-  1839:["Claire Daff"],
   1840:["Alex S."],
   1841:["Tristan G."],
   1842:["Connie C."],
@@ -1423,4 +1421,4 @@ const facilitators = {
   1862:["Gini"],
   1863:["Sean"]
 };
-const cachedAt = "2026-05-05T10:17:04Z";
+const cachedAt = "2026-05-05T13:17:04Z";
