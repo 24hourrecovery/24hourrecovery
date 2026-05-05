@@ -573,10 +573,10 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153,385,816,957],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1776],id:9151,language:"English",location:"Mohegan Lake, New York",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1788],id:9155,language:"English",location:"Middle River, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-05-05 07:30:00-05",dataSource:"na",duration:60,facilitator:[1761],id:9158,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1761],id:9158,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1789],id:9166,language:"English",location:"Westminster, California",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1793],id:9179,language:"English",location:"New Market, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-05-05 10:00:00-05",dataSource:"na",duration:60,facilitator:[1825],id:9189,language:"English",location:"Jacksonville, Florida",program:"Family & Friends",schedule:{day:2,time:"15:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1825],id:9189,language:"English",location:"Jacksonville, Florida",program:"Family & Friends",schedule:{day:2,time:"15:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,861,1805],id:9191,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[435,1810],id:9199,language:"English",location:"Laguna Niguel, California",program:"4-Point Recovery",schedule:{day:0,time:"05:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1824],id:9200,language:"Spanish",location:"Tampa, Florida",program:"4-Point Recovery",schedule:{day:2,time:"15:00Z"},type:"Online"},
@@ -979,7 +979,6 @@ const facilitators = {
   813:["Dahlia Skuncikiene"],
   814:["Irina Berg"],
   816:["Judy"],
-  818:["Mel Du Toit"],
   819:["Juliana Anake-Ugwu"],
   822:["Kasia Stubba"],
   823:["Dave and Tina"],
@@ -1421,4 +1420,4 @@ const facilitators = {
   1862:["Gini"],
   1863:["Sean"]
 };
-const cachedAt = "2026-05-05T13:17:04Z";
+const cachedAt = "2026-05-05T16:17:03Z";
