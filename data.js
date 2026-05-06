@@ -2,7 +2,7 @@ const meetings = [
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604],id:1006,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:00Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:00Z"},type:"Online"},
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
-  {audience:["Men only"],canceled:"2026-05-05 22:00:00-05",dataSource:"au",duration:90,facilitator:[7,1702],id:1026,language:"English",location:"Wollongong, New South Wales",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Both"},
+  {audience:["Men only"],dataSource:"au",duration:90,facilitator:[7,1702],id:1026,language:"English",location:"Wollongong, New South Wales",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[7],id:1031,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[14],id:1034,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:00Z"},type:"Online"},
@@ -1414,4 +1414,4 @@ const facilitators = {
   1862:["Gini"],
   1863:["Sean"]
 };
-const cachedAt = "2026-05-06T01:17:04Z";
+const cachedAt = "2026-05-06T04:17:04Z";
