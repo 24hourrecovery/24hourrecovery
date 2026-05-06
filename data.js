@@ -59,7 +59,7 @@ const meetings = [
   {audience:["Drug and Alcohol Focus","LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1604,1605],id:1573,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1615],id:1576,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1696],id:1591,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-05-06 04:30:00-05",dataSource:"au",duration:90,facilitator:[1724],id:1598,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1598,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1608,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["ADHD"],dataSource:"au",duration:90,facilitator:[1304,1764],id:1617,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1618,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Online"},
@@ -433,7 +433,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:90,facilitator:[422,861,1805],id:8051,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[657,1370],id:8052,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[681],id:8053,language:"English",location:"Sioux Falls, South Dakota",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[971],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Both"},
+  {audience:["Military, Veterans & First Responders"],canceled:"2026-05-06 16:00:00-05",dataSource:"na",duration:60,facilitator:[971],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[694,709],id:8070,language:"English",location:"Oakland, California",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1515,1635,1636,1721],id:8075,language:"English",location:"Phoenix, Arizona",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1328],id:8080,language:"English",location:"Columbus, Ohio",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
@@ -1291,7 +1291,6 @@ const facilitators = {
   1702:["Steven"],
   1704:["Aiguli Bulire"],
   1706:["Lindsay Elmgren"],
-  1707:["Ashwin Thind"],
   1709:["Jula"],
   1710:["Marina Gindina"],
   1712:["Zoel Lopez"],
@@ -1413,4 +1412,4 @@ const facilitators = {
   1862:["Gini"],
   1863:["Sean"]
 };
-const cachedAt = "2026-05-06T10:17:04Z";
+const cachedAt = "2026-05-06T13:17:03Z";
