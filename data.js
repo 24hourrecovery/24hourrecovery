@@ -91,7 +91,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[235,236,1423,1656],id:4491,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[1590],id:4644,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[204],id:4711,language:"English",location:"Oakville, Ontario",program:"Family & Friends",schedule:{day:0,time:"23:15Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[754,1423],id:5015,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[275,754],id:5015,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:60,facilitator:[133,288,357,1265,1535],id:5147,language:"English",location:"Vancouver, British Columbia",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1740,1741],id:5276,language:"English",location:"Victoria, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[1657,1699,1736,1737,1742,1747,1748,1749],id:5388,language:"English",location:"Ottawa, Ontario",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
@@ -789,6 +789,7 @@ const facilitators = {
   266:["Linda Morrell"],
   271:["Maribeth Batsford"],
   273:["Nina"],
+  275:["Bob","Alberta"],
   278:["Donny Phillips"],
   279:["Bernie Q"],
   281:["Barbara Raviol"],
@@ -1146,7 +1147,7 @@ const facilitators = {
   1413:["Wendy"],
   1418:["Elena Simagina"],
   1419:["Alisa Yevsyakova"],
-  1423:["Bob"],
+  1423:["Bob","Alberta"],
   1427:["Anna","British Columbia"],
   1429:["Derrick P."],
   1431:["Dan Diaz"],
@@ -1356,7 +1357,6 @@ const facilitators = {
   1775:["Greg","Michigan"],
   1776:["Michael","New York"],
   1777:["Jordan"],
-  1778:["Tintin (Caiden)"],
   1781:["Heather U."],
   1782:["Katrina Benson"],
   1783:["Nick Padlo"],
@@ -1429,4 +1429,4 @@ const facilitators = {
   1866:["Jason G"],
   1867:["Rosana P"]
 };
-const cachedAt = "2026-05-09T13:17:04Z";
+const cachedAt = "2026-05-09T16:17:08Z";
