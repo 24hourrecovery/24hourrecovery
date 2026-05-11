@@ -603,7 +603,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1855],id:9254,language:"English",location:"Watterson Park, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1366],id:9256,language:"English",location:"Lancaster, Texas",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1652],id:9266,language:"English",location:"Dickinson, Texas",program:"4-Point Recovery",schedule:{day:6,time:"22:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1867],id:9268,language:"English",location:"Meriden, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-05-14 18:00:00-05",dataSource:"na",duration:60,facilitator:[1867],id:9268,language:"English",location:"Meriden, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1864],id:9276,language:"English",location:"Eugene, Oregon",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[278,505],id:957,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
@@ -1435,4 +1435,4 @@ const facilitators = {
   1866:["Jason G"],
   1867:["Rosana P"]
 };
-const cachedAt = "2026-05-11T10:17:04Z";
+const cachedAt = "2026-05-11T13:17:03Z";
