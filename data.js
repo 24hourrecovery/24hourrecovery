@@ -511,7 +511,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[361,362,1274,1275,1445,1446],id:8745,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[440],id:8765,language:"English",location:"Bushnell, Florida",program:"4-Point Recovery",schedule:{day:5,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1781],id:8771,language:"English",location:"Grand Junction, Colorado",program:"4-Point Recovery",schedule:{day:6,time:"20:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1678],id:8805,language:"Spanish",location:"Coachella, California",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-05-11 14:00:00-05",dataSource:"na",duration:90,facilitator:[1678],id:8805,language:"Spanish",location:"Coachella, California",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1448],id:8810,language:"English",location:"Parma, Ohio",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1450],id:8816,language:"English",location:"King City, California",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1829],id:8818,language:"English",location:"Marlton, New Jersey",program:"4-Point Recovery",schedule:{day:4,time:"06:00Z"},type:"Online"},
@@ -1435,4 +1435,4 @@ const facilitators = {
   1866:["Jason G"],
   1867:["Rosana P"]
 };
-const cachedAt = "2026-05-11T13:17:03Z";
+const cachedAt = "2026-05-11T16:17:03Z";
