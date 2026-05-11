@@ -62,14 +62,14 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1598,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1608,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["ADHD"],dataSource:"au",duration:90,facilitator:[1304,1764],id:1617,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-05-10 22:00:00-05",dataSource:"au",duration:90,facilitator:[1724],id:1618,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1618,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Online"},
   {audience:["Drug focus"],dataSource:"au",duration:60,facilitator:[1777],id:1621,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:00Z"},type:"Online"},
   {audience:["Men only","Porn"],dataSource:"au",duration:90,facilitator:[1771],id:1624,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1626,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1767],id:1628,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1767],id:1629,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1630,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-05-10 21:30:00-05",dataSource:"au",duration:60,facilitator:[1807],id:1633,language:"English",location:"Prestons, New South Wales",program:"Standard",schedule:{day:1,time:"02:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1807],id:1633,language:"English",location:"Prestons, New South Wales",program:"Standard",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1468],id:1635,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1636,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["Men only","Porn"],dataSource:"au",duration:90,facilitator:[1771],id:1649,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
@@ -1435,4 +1435,4 @@ const facilitators = {
   1866:["Jason G"],
   1867:["Rosana P"]
 };
-const cachedAt = "2026-05-11T01:17:04Z";
+const cachedAt = "2026-05-11T04:17:05Z";
