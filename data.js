@@ -27,7 +27,7 @@ const meetings = [
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1284,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1285,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[44],id:1289,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
-  {audience:["Drug and Alcohol Focus","People living in New Zealand only"],canceled:"2026-05-14 01:00:00-05",dataSource:"au",duration:90,facilitator:[1457],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
+  {audience:["Drug and Alcohol Focus","People living in New Zealand only"],dataSource:"au",duration:90,facilitator:[1457],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:30Z"},type:"Online"},
   {audience:["Chronic Pain only"],dataSource:"au",duration:60,facilitator:[1716],id:1300,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"02:00Z",week:[1,3]},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:30Z"},type:"Online"},
@@ -1431,4 +1431,4 @@ const facilitators = {
   1875:["Dana","Iowa"],
   1876:["Diana Whitten"]
 };
-const cachedAt = "2026-05-14T04:17:04Z";
+const cachedAt = "2026-05-14T07:17:04Z";
