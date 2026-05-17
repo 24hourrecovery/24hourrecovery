@@ -49,7 +49,7 @@ const meetings = [
   {audience:["Alcohol Focus","Women only"],dataSource:"au",duration:90,facilitator:[1500],id:1524,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1508],id:1534,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1536,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"04:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-05-17 01:30:00-05",dataSource:"au",duration:90,facilitator:[1807],id:1537,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1807],id:1537,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:30Z"},type:"Online"},
   {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1487,1536],id:1549,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"03:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1604,1605],id:1573,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1615],id:1576,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
@@ -1124,7 +1124,6 @@ const facilitators = {
   1368:["Alvin N."],
   1370:["Khare"],
   1374:["Arvo"],
-  1378:["Honest Anaba"],
   1379:["Amy Weston"],
   1380:["Hardial Kandola"],
   1381:["Shannon","California"],
@@ -1434,4 +1433,4 @@ const facilitators = {
   1880:["edward conrad"],
   1881:["Ray K"]
 };
-const cachedAt = "2026-05-17T07:17:04Z";
+const cachedAt = "2026-05-17T10:17:04Z";
