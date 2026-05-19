@@ -79,6 +79,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1877],id:1676,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Food and eating focus","Women only"],dataSource:"au",duration:90,facilitator:[1877],id:1678,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[1879],id:1680,language:"English",location:"National",program:"Youth",schedule:{day:4,time:"05:30Z"},type:"Online"},
+  {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[1888],id:1683,language:"English",location:"National",program:"Youth",schedule:{day:2,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome","Private"],dataSource:"au",duration:120,facilitator:[1887],id:1684,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742,1850],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
@@ -1437,6 +1438,7 @@ const facilitators = {
   1884:["Steve C"],
   1885:["Ari"],
   1886:["Jun"],
-  1887:["Lorraine Sapet ACA Level 2 Registration: 24407"]
+  1887:["Lorraine Sapet ACA Level 2 Registration: 24407"],
+  1888:["Eliza"]
 };
-const cachedAt = "2026-05-19T04:17:04Z";
+const cachedAt = "2026-05-19T07:17:04Z";
