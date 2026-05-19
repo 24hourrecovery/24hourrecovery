@@ -275,7 +275,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1436],id:5379,language:"English",location:"San Diego, California",program:"Family & Friends",schedule:{day:2,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[305,552],id:5399,language:"English",location:"Ocoee, Florida",program:"4-Point Recovery",schedule:{day:6,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[446,462,528,724],id:5447,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:5,time:"23:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1483,1484],id:5468,language:"English",location:"Lexington, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"22:30Z"},type:"Both"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:60,facilitator:[310,322],id:5487,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[322,1564],id:5488,language:"English",location:"Schaumburg, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[643,951],id:5490,language:"English",location:"Austin, Texas",program:"Family & Friends",schedule:{day:6,time:"14:15Z"},type:"Online"},
@@ -577,7 +576,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153,385,816,957],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1776],id:9151,language:"English",location:"Mohegan Lake, New York",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1788],id:9155,language:"English",location:"Middle River, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-05-19 07:30:00-05",dataSource:"na",duration:60,facilitator:[1761],id:9158,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-05-26 07:30:00-05",dataSource:"na",duration:60,facilitator:[1761],id:9158,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1789],id:9166,language:"English",location:"Westminster, California",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1793],id:9179,language:"English",location:"New Market, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1825],id:9189,language:"English",location:"Jacksonville, Florida",program:"Family & Friends",schedule:{day:2,time:"15:00Z"},type:"Online"},
@@ -1174,8 +1173,6 @@ const facilitators = {
   1477:["Joe","California"],
   1478:["Katie Lowe"],
   1480:["Paul","Utah"],
-  1483:["Brandy"],
-  1484:["James","Kentucky"],
   1485:["Olesia Kolesova"],
   1487:["Menas"],
   1488:["Steve C."],
@@ -1441,4 +1438,4 @@ const facilitators = {
   1887:["Lorraine Sapet ACA Level 2 Registration: 24407"],
   1888:["Eliza"]
 };
-const cachedAt = "2026-05-19T13:17:04Z";
+const cachedAt = "2026-05-19T16:17:04Z";
