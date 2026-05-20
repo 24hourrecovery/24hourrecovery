@@ -20,6 +20,7 @@ const meetings = [
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[29,1557],id:1126,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2026-05-26 03:30:00-05",dataSource:"au",duration:90,facilitator:[1307,1796],id:1129,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[32],id:1182,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"04:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1142,1479],id:1188,language:"English",location:"Sydney, New South Wales",program:"Standard",schedule:{day:3,time:"08:30Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[29],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
@@ -81,6 +82,7 @@ const meetings = [
   {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[1879],id:1680,language:"English",location:"National",program:"Youth",schedule:{day:4,time:"05:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[1888],id:1683,language:"English",location:"National",program:"Youth",schedule:{day:2,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome","Private"],dataSource:"au",duration:120,facilitator:[1887],id:1684,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1890],id:1686,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1889],id:1688,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1889],id:1689,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
@@ -164,7 +166,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[99],id:1768,language:"English",location:"Cincinnati, Ohio",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[100,101,855],id:1848,language:"English",location:"Leawood, Kansas",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[665,816],id:1867,language:"English",location:"Sebastopol, California",program:"4-Point Recovery",schedule:{day:6,time:"17:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[105],id:1868,language:"English",location:"Burlington, Vermont",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-05-24 16:00:00-05",dataSource:"na",duration:90,facilitator:[105],id:1868,language:"English",location:"Burlington, Vermont",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[68,69,710],id:1947,language:"English",location:"Belmont, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[108,1391],id:1986,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[109,110],id:2021,language:"English",location:"Easton, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Online"},
@@ -409,7 +411,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[962,963],id:7603,language:"English",location:"South Bend, Indiana",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[520],id:7624,language:"English",location:"Seattle, Washington",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[522,1857],id:7631,language:"English",location:"Floral Park, New York",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[105],id:7654,language:"English",location:"Burlington, Vermont",program:"4-Point Recovery",schedule:{day:5,time:"21:30Z"},type:"Both"},
+  {audience:["Adults Welcome"],canceled:"2026-05-22 16:30:00-05",dataSource:"na",duration:90,facilitator:[105],id:7654,language:"English",location:"Burlington, Vermont",program:"4-Point Recovery",schedule:{day:5,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[105],id:7655,language:"English",location:"Burlington, Vermont",program:"4-Point Recovery",schedule:{day:4,time:"17:15Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[527],id:7732,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[971,1625],id:7740,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
@@ -1069,6 +1071,7 @@ const facilitators = {
   1132:["Simone"],
   1135:["William","Texas"],
   1136:["Jason D"],
+  1142:["Lucy"],
   1143:["Kelly"],
   1144:["Cindy"],
   1162:["Christopher"],
@@ -1175,6 +1178,7 @@ const facilitators = {
   1474:["Lindsey"],
   1477:["Joe","California"],
   1478:["Katie Lowe"],
+  1479:["Claire"],
   1480:["Paul","Utah"],
   1485:["Olesia Kolesova"],
   1487:["Menas"],
@@ -1441,6 +1445,7 @@ const facilitators = {
   1886:["Jun"],
   1887:["Lorraine Sapet ACA Level 2 Registration: 24407"],
   1888:["Eliza"],
-  1889:["Tania"]
+  1889:["Tania"],
+  1890:["Jess","National"]
 };
-const cachedAt = "2026-05-20T01:17:04Z";
+const cachedAt = "2026-05-20T04:17:04Z";
