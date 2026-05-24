@@ -81,7 +81,7 @@ const meetings = [
   {audience:["Food and eating focus","Women only"],dataSource:"au",duration:90,facilitator:[1877],id:1678,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[1879],id:1680,language:"English",location:"National",program:"Youth",schedule:{day:4,time:"05:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[1888],id:1683,language:"English",location:"National",program:"Youth",schedule:{day:2,time:"08:00Z"},type:"Online"},
-  {audience:["All Welcome","Private"],dataSource:"au",duration:120,facilitator:[1887],id:1684,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:30Z"},type:"Online"},
+  {audience:["All Welcome","Private"],canceled:"2026-05-25 00:30:00-05",dataSource:"au",duration:90,facilitator:[1887],id:1684,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"05:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[38,1890],id:1685,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1890],id:1686,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"14:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1889],id:1688,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
@@ -1439,4 +1439,4 @@ const facilitators = {
   1892:["Mike A"],
   1894:["Tressa J"]
 };
-const cachedAt = "2026-05-24T10:17:04Z";
+const cachedAt = "2026-05-24T13:17:04Z";
