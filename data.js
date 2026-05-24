@@ -64,7 +64,7 @@ const meetings = [
   {audience:["Men only","Porn"],dataSource:"au",duration:90,facilitator:[1771],id:1624,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1626,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1767],id:1628,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1767],id:1629,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-05-26 04:00:00-05",dataSource:"au",duration:90,facilitator:[1767],id:1629,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1630,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1807],id:1633,language:"English",location:"Prestons, New South Wales",program:"Standard",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1468,1885,1886],id:1635,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:00Z"},type:"Online"},
@@ -76,7 +76,7 @@ const meetings = [
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1863],id:1663,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1751],id:1666,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"10:30Z"},type:"Online"},
   {audience:["Drug focus"],dataSource:"au",duration:90,facilitator:[1751],id:1667,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1767],id:1668,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-05-26 19:00:00-05",dataSource:"au",duration:90,facilitator:[1767],id:1668,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1877],id:1676,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Food and eating focus","Women only"],dataSource:"au",duration:90,facilitator:[1877],id:1678,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[1879],id:1680,language:"English",location:"National",program:"Youth",schedule:{day:4,time:"05:30Z"},type:"Online"},
@@ -1439,4 +1439,4 @@ const facilitators = {
   1892:["Mike A"],
   1894:["Tressa J"]
 };
-const cachedAt = "2026-05-24T07:17:04Z";
+const cachedAt = "2026-05-24T10:17:04Z";
