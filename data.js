@@ -551,7 +551,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1806],id:9005,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1806],id:9006,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1440],id:9007,language:"English",location:"Portland, Oregon",program:"Family & Friends",schedule:{day:4,time:"17:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1669,1670],id:9008,language:"English",location:"Wenatchee, Washington",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],canceled:"2026-05-25 14:00:00-05",dataSource:"na",duration:60,facilitator:[1669,1670],id:9008,language:"English",location:"Wenatchee, Washington",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1800],id:9011,language:"English",location:"Eau Claire, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1666,1728],id:9014,language:"English",location:"Wallingford, Connecticut",program:"Family & Friends",schedule:{day:2,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1738],id:9017,language:"English",location:"Superior, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"17:00Z"},type:"Online"},
@@ -1442,6 +1442,8 @@ const facilitators = {
   1892:["Mike A"],
   1894:["Tressa J"],
   1895:["Cameron"],
-  1896:["Nav"]
+  1896:["Nav"],
+  1897:["Allie Assia"],
+  1898:["Kemal Husein"]
 };
-const cachedAt = "2026-05-25T13:17:03Z";
+const cachedAt = "2026-05-25T16:17:04Z";
