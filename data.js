@@ -67,7 +67,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1630,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1807],id:1633,language:"English",location:"Prestons, New South Wales",program:"Standard",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1468,1885,1886],id:1635,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-05-25 02:30:00-05",dataSource:"au",duration:90,facilitator:[1304],id:1636,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1636,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["Men only","Porn"],dataSource:"au",duration:90,facilitator:[1771],id:1649,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[34],id:1650,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"05:00Z"},type:"Online"},
   {audience:["Anxiety support"],dataSource:"au",duration:90,facilitator:[1117,1831],id:1651,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
@@ -1444,4 +1444,4 @@ const facilitators = {
   1895:["Cameron"],
   1896:["Nav"]
 };
-const cachedAt = "2026-05-25T07:17:04Z";
+const cachedAt = "2026-05-25T10:17:03Z";
