@@ -37,8 +37,9 @@ const meetings = [
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[811],id:1368,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,1304,1308],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["Hospitality Workers"],dataSource:"au",duration:90,facilitator:[1304],id:1431,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
+  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z",week:[1]},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"03:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1751],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1906],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1201],id:1475,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"04:30Z"},type:"Online"},
@@ -70,8 +71,8 @@ const meetings = [
   {audience:["Anxiety support"],dataSource:"au",duration:90,facilitator:[1117,1831],id:1651,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1861],id:1661,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"10:00Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1863],id:1663,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1751],id:1666,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"11:30Z"},type:"Online"},
-  {audience:["Drug focus"],dataSource:"au",duration:90,facilitator:[1751],id:1667,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"11:30Z"},type:"Online"},
+  {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1906],id:1666,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"11:30Z"},type:"Online"},
+  {audience:["Drug focus"],dataSource:"au",duration:90,facilitator:[1906],id:1667,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"11:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1767],id:1668,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1877],id:1676,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Food and eating focus","Women only"],dataSource:"au",duration:90,facilitator:[1877],id:1678,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:30Z"},type:"Online"},
@@ -1041,6 +1042,8 @@ const facilitators = {
   936:["Ted"],
   939:["Andrea","England"],
   940:["Travis"],
+  947:["Alex","National"],
+  948:["Isabel"],
   951:["Noel Elmore"],
   952:["Frank H"],
   957:["Charles Smith"],
@@ -1318,7 +1321,6 @@ const facilitators = {
   1747:["Joe Holubowich"],
   1748:["Kim S."],
   1749:["Lisa Q"],
-  1751:["Sam","National"],
   1752:["Christopher Huff"],
   1753:["Dana","Pennsylvania"],
   1754:["Jason"],
@@ -1444,6 +1446,7 @@ const facilitators = {
   1902:["Tyler","National"],
   1903:["C Me"],
   1904:["Clare"],
-  1905:["India"]
+  1905:["India"],
+  1906:["Healing Presence Counselling and Psychotherapy (Sam)"]
 };
-const cachedAt = "2026-05-28T04:17:04Z";
+const cachedAt = "2026-05-28T07:17:04Z";
