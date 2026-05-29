@@ -1447,6 +1447,7 @@ const facilitators = {
   1905:["India"],
   1906:["Healing Presence Counselling and Psychotherapy (Sam)"],
   1907:["Brennan C."],
-  1909:["Jose PR"]
+  1909:["Jose PR"],
+  1910:["Myra"]
 };
-const cachedAt = "2026-05-29T13:17:06Z";
+const cachedAt = "2026-05-29T16:17:04Z";
