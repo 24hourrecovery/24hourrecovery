@@ -38,7 +38,7 @@ const meetings = [
   {audience:["Hospitality Workers"],dataSource:"au",duration:90,facilitator:[1304],id:1431,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z",week:[1]},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"03:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-05-30 04:30:00-05",dataSource:"au",duration:90,facilitator:[1906],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1906],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1201],id:1475,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"04:30Z"},type:"Online"},
@@ -1452,4 +1452,4 @@ const facilitators = {
   1909:["Jose PR"],
   1910:["Myra"]
 };
-const cachedAt = "2026-05-30T10:17:05Z";
+const cachedAt = "2026-05-30T13:17:04Z";
