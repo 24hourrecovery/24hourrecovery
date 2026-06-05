@@ -53,7 +53,7 @@ const meetings = [
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1508],id:1534,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1536,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1807],id:1537,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:30Z"},type:"Online"},
-  {audience:["Alcohol Focus"],canceled:"2026-06-04 22:30:00-05",dataSource:"au",duration:90,facilitator:[1487,1536],id:1549,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"03:30Z"},type:"Online"},
+  {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1487,1536],id:1549,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"03:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1604,1605],id:1573,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2026-06-07 19:00:00-05",dataSource:"au",duration:90,facilitator:[1615],id:1576,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1696],id:1591,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
@@ -649,7 +649,7 @@ const meetings = [
   {audience:["Family & Friends Only"],canceled:"2026-06-08 11:45:00-05",dataSource:"uk",duration:90,facilitator:[591],id:1388,language:"English",location:"London, England",program:"Family & Friends",schedule:{day:1,time:"16:45Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[717],id:1399,language:"English",location:"National",program:"SMART Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[595],id:1400,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[809],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"07:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],canceled:"2026-06-05 02:00:00-05",dataSource:"uk",duration:90,facilitator:[809],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[469],id:1402,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[597,763],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[1839],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
@@ -1481,4 +1481,4 @@ const facilitators = {
   1922:["Ed","Ohio"],
   1923:["Lori C."]
 };
-const cachedAt = "2026-06-05T04:17:04Z";
+const cachedAt = "2026-06-05T07:17:04Z";
