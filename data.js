@@ -271,7 +271,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[266],id:4871,language:"English",location:"Maryland",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[271],id:4959,language:"English",location:"Chestertown, New York",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[80,273,1648,1801,1802],id:4987,language:"English",location:"Charlottesville, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1434,1914],id:5062,language:"English",location:"Buffalo, New York",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1434,1924],id:5062,language:"English",location:"Buffalo, New York",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[278],id:5089,language:"English",location:"Columbia, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"22:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[225],id:5091,language:"English",location:"Ravenna, Ohio",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[279],id:5109,language:"English",location:"Cranston, Rhode Island",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
@@ -1360,6 +1360,7 @@ const facilitators = {
   1774:["Fred"],
   1775:["Greg","Michigan"],
   1776:["Michael","New York"],
+  1778:["Tintin (Caiden)"],
   1781:["Heather U."],
   1782:["Katrina Benson"],
   1784:["Brandon S."],
@@ -1469,7 +1470,6 @@ const facilitators = {
   1911:["Dina"],
   1912:["Cameron","National"],
   1913:["Kandace Weiskel"],
-  1914:["Erica"],
   1915:["Healing Presence Counselling and Psychotherapy (Sam)","National"],
   1916:["Megan R","Vermont"],
   1917:["Evan Huber","Illinois"],
@@ -1478,6 +1478,7 @@ const facilitators = {
   1920:["Tasha Longbine"],
   1921:["August"],
   1922:["Ed","Ohio"],
-  1923:["Lori C."]
+  1923:["Lori C."],
+  1924:["Erica"]
 };
-const cachedAt = "2026-06-05T13:17:04Z";
+const cachedAt = "2026-06-05T16:17:04Z";
