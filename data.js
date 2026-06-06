@@ -58,7 +58,7 @@ const meetings = [
   {audience:["All Welcome"],canceled:"2026-06-07 19:00:00-05",dataSource:"au",duration:90,facilitator:[1615],id:1576,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1696],id:1591,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1598,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1608,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"00:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-06-12 19:00:00-05",dataSource:"au",duration:90,facilitator:[1304],id:1608,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["ADHD"],dataSource:"au",duration:90,facilitator:[1304,1764],id:1617,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
   {audience:["Men only","Porn"],dataSource:"au",duration:90,facilitator:[1771],id:1624,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1626,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:30Z"},type:"Online"},
@@ -75,7 +75,6 @@ const meetings = [
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1863],id:1663,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1915],id:1666,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"11:30Z"},type:"Online"},
   {audience:["Drug focus"],dataSource:"au",duration:90,facilitator:[1915],id:1667,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"11:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1767],id:1668,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1877],id:1676,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Food and eating focus","Women only"],dataSource:"au",duration:90,facilitator:[1877],id:1678,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[1879],id:1680,language:"English",location:"National",program:"Youth",schedule:{day:4,time:"05:30Z"},type:"Online"},
@@ -149,6 +148,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"ca",duration:60,facilitator:[1675],id:9015,language:"English",location:"Fredericton, New Brunswick",program:"Family & Friends",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[1699,1733,1736,1737],id:9021,language:"French",location:"Ottawa, Ontario",program:"Family & Friends",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1752],id:9026,language:"English",location:"Kingston, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1773],id:9028,language:"English",location:"Pointe-Claire, Quebec",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1530],id:9029,language:"English",location:"Sault Ste. Marie, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:60,facilitator:[1884],id:9043,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"23:30Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2026-06-06 13:00:00-05",dataSource:"ca",duration:90,facilitator:[1121],id:9044,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
@@ -1354,6 +1354,7 @@ const facilitators = {
   1770:["Brittani"],
   1771:["Lachlan"],
   1772:["Amanda T","California"],
+  1773:["Lorne S."],
   1774:["Fred"],
   1775:["Greg","Michigan"],
   1776:["Michael","New York"],
@@ -1477,4 +1478,4 @@ const facilitators = {
   1923:["Lori C."],
   1924:["Erica"]
 };
-const cachedAt = "2026-06-06T01:17:04Z";
+const cachedAt = "2026-06-06T04:17:04Z";
