@@ -150,7 +150,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1773],id:9028,language:"English",location:"Pointe-Claire, Quebec",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1530],id:9029,language:"English",location:"Sault Ste. Marie, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:60,facilitator:[1884],id:9043,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"23:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-06-06 13:00:00-05",dataSource:"ca",duration:90,facilitator:[1121],id:9044,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:9044,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1892],id:9045,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[1921],id:9048,language:"English",location:"Port Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1327],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -431,7 +431,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[971,1625],id:7740,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[446,528,724],id:7746,language:"English",location:"Gulfport, Mississippi",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[284,761],id:7768,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[530],id:7777,language:"English",location:"Town of Rockingham, Vermont",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1916],id:7777,language:"English",location:"Town of Rockingham, Vermont",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[511],id:7778,language:"English",location:"Esko, Minnesota",program:"Family & Friends",schedule:{day:2,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[534],id:7798,language:"English",location:"New York",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1013,1684],id:7800,language:"English",location:"Boulder, Colorado",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
@@ -532,7 +532,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1566],id:8848,language:"English",location:"Casper, Wyoming",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[165,1491],id:8849,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1806],id:8869,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1803],id:8869,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1556],id:8873,language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1559,1804],id:8898,language:"English",location:"Lexington Park, Maryland",program:"Family & Friends",schedule:{day:1,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1560],id:8904,language:"English",location:"Baraboo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"18:00Z"},type:"Both"},
@@ -904,7 +904,6 @@ const facilitators = {
   522:["Sara D"],
   527:["Bonnie Deroo"],
   528:["Christopher Toomey"],
-  530:["Megan R","Vermont"],
   534:["Lois Greene-Hernandez"],
   540:["Amit H"],
   541:["Roche"],
@@ -1472,4 +1471,4 @@ const facilitators = {
   1923:["Lori C."],
   1924:["Erica"]
 };
-const cachedAt = "2026-06-07T13:17:05Z";
+const cachedAt = "2026-06-07T16:17:04Z";
