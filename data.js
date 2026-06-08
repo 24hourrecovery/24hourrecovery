@@ -14,7 +14,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[671],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"08:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-06-07 22:00:00-05",dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1291],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"05:00Z"},type:"Both"},
   {audience:["Drug and Alcohol Focus","Youth only"],dataSource:"au",duration:90,facilitator:[1053],id:1107,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[29,1557],id:1126,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
@@ -1467,4 +1467,4 @@ const facilitators = {
   1923:["Lori C."],
   1924:["Erica"]
 };
-const cachedAt = "2026-06-08T01:17:04Z";
+const cachedAt = "2026-06-08T04:17:04Z";
