@@ -62,7 +62,7 @@ const meetings = [
   {audience:["Men only","Porn"],dataSource:"au",duration:90,facilitator:[1771],id:1624,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1626,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1767],id:1628,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1767],id:1629,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-06-09 04:00:00-05",dataSource:"au",duration:90,facilitator:[1767],id:1629,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1630,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1807],id:1633,language:"English",location:"Prestons, New South Wales",program:"Standard",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1468,1885,1886],id:1635,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:00Z"},type:"Online"},
@@ -1075,7 +1075,6 @@ const facilitators = {
   1099:["Monica A"],
   1117:["Jill"],
   1121:["David"],
-  1127:["Sammy Ombisa"],
   1132:["Simone"],
   1135:["William","Texas"],
   1136:["Jason D"],
@@ -1467,4 +1466,4 @@ const facilitators = {
   1923:["Lori C."],
   1924:["Erica"]
 };
-const cachedAt = "2026-06-08T10:17:04Z";
+const cachedAt = "2026-06-08T13:17:04Z";
