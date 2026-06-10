@@ -567,7 +567,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[751],id:9072,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Both"},
   {audience:["BIPOC"],dataSource:"na",duration:60,facilitator:[1755,1756,1757,1758,1759,1851],id:9077,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1732],id:9093,language:"English",location:"Galesville, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1581],id:9096,language:"English",location:"Delta, Colorado",program:"Family & Friends",schedule:{day:5,time:"22:00Z"},type:"Both"},
+  {audience:["Adults Welcome"],canceled:"2026-06-12 17:00:00-05",dataSource:"na",duration:90,facilitator:[1581],id:9096,language:"English",location:"Delta, Colorado",program:"Family & Friends",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[109,110],id:91,language:"English",location:"Easton, Maryland",program:"Family & Friends",schedule:{day:3,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1630],id:9100,language:"English",location:"Rohnert Park, California",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1727],id:9101,language:"English",location:"Delta Junction, Alaska",program:"Family & Friends",schedule:{day:5,time:"02:00Z"},type:"Online"},
@@ -1471,4 +1471,4 @@ const facilitators = {
   1929:["Andreea"],
   1930:["Fehintioluwa Ojelabi"]
 };
-const cachedAt = "2026-06-10T13:17:04Z";
+const cachedAt = "2026-06-10T16:17:04Z";
