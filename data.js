@@ -138,7 +138,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1388],id:8231,language:"English",location:"Welland, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1296],id:8254,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"19:30Z"},type:"Both"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
-  {audience:["Women"],dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
+  {audience:["Women"],canceled:"2026-06-14 15:00:00-05",dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"17:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1420],id:8782,language:"English",location:"Selkirk, Manitoba",program:"4-Point Recovery",schedule:{day:1,time:"18:30Z",week:[1,3]},type:"Online"},
   {audience:["BIPOC"],dataSource:"ca",duration:60,facilitator:[1561],id:8911,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -620,7 +620,7 @@ const meetings = [
   {audience:["Men"],dataSource:"na",duration:90,facilitator:[1909],id:9338,language:"English",location:"San Juan, Puerto Rico",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1922,1923],id:9344,language:"English",location:"New Richmond, Ohio",program:"Successful Life Skills",schedule:{day:5,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1928],id:9349,language:"English",location:"Douglasville, Georgia",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Both"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1925],id:9350,language:"English",location:"Roswell, Georgia",program:"4-Point Recovery",schedule:{day:1,time:"11:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1935],id:9350,language:"English",location:"Roswell, Georgia",program:"4-Point Recovery",schedule:{day:1,time:"11:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[652,875,1528],id:9357,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[802,1477],id:9360,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:1,time:"03:45Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1626],id:9362,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z"},type:"Online"},
@@ -1457,7 +1457,6 @@ const facilitators = {
   1922:["Ed","Ohio"],
   1923:["Lori C."],
   1924:["Erica"],
-  1925:["Michele K."],
   1926:["Rebecca","South Australia"],
   1927:["TJ Trent","Texas"],
   1928:["Allen Ayers"],
@@ -1466,6 +1465,7 @@ const facilitators = {
   1931:["Margaret Imaizumi"],
   1932:["Michael Onwukwe"],
   1933:["Dan M"],
-  1934:["Michael Cummings"]
+  1934:["Michael Cummings"],
+  1935:["Michele K."]
 };
-const cachedAt = "2026-06-14T10:17:04Z";
+const cachedAt = "2026-06-14T13:17:04Z";
