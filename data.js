@@ -67,7 +67,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1468,1885,1886],id:1635,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1636,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["Men only","Porn"],dataSource:"au",duration:90,facilitator:[1771],id:1649,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
-  {audience:["Youth only"],canceled:"2026-06-15 00:00:00-05",dataSource:"au",duration:60,facilitator:[34],id:1650,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"05:00Z"},type:"Online"},
+  {audience:["Youth only"],canceled:"2026-06-22 00:00:00-05",dataSource:"au",duration:60,facilitator:[34],id:1650,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"05:00Z"},type:"Online"},
   {audience:["Anxiety support"],dataSource:"au",duration:90,facilitator:[1117,1831],id:1651,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1861],id:1661,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"10:00Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1863],id:1663,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -1471,4 +1471,4 @@ const facilitators = {
   1935:["Michele K."],
   1936:["Jennifer","California"]
 };
-const cachedAt = "2026-06-15T04:17:04Z";
+const cachedAt = "2026-06-15T07:17:04Z";
