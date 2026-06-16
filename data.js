@@ -20,6 +20,7 @@ const meetings = [
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[29,1557],id:1126,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1307,1796],id:1129,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[32],id:1182,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"04:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1142,1479],id:1188,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[29],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[14],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
@@ -576,8 +577,8 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1727],id:9101,language:"English",location:"Delta Junction, Alaska",program:"Family & Friends",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1762],id:9111,language:"English",location:"Colorado Springs, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1760],id:9114,language:"English",location:"Denver, Colorado",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders"],dataSource:"na",duration:60,facilitator:[1927],id:9118,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"18:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1927],id:9119,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"20:20Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],canceled:"2026-06-16 13:30:00-05",dataSource:"na",duration:60,facilitator:[1927],id:9118,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"18:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-06-16 15:20:00-05",dataSource:"na",duration:60,facilitator:[1927],id:9119,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"20:20Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1927],id:9120,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1855],id:9125,language:"English",location:"Parkway Village, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1528,1786],id:9127,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -587,7 +588,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[153,385,816,957],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:90,facilitator:[1776],id:9151,language:"English",location:"Mohegan Lake, New York",program:"4-Point Recovery",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2026-06-18 17:00:00-05",dataSource:"na",duration:90,facilitator:[1788],id:9155,language:"English",location:"Middle River, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1927],id:9158,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-06-16 07:30:00-05",dataSource:"na",duration:60,facilitator:[1927],id:9158,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:60,facilitator:[1789],id:9166,language:"English",location:"Westminster, California",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"na",duration:120,facilitator:[1803],id:9181,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:6,time:"16:30Z"},type:"Online"},
   {audience:["Adults Welcome"],canceled:"2026-06-16 10:00:00-05",dataSource:"na",duration:60,facilitator:[1825],id:9189,language:"English",location:"Jacksonville, Florida",program:"Family & Friends",schedule:{day:2,time:"15:00Z"},type:"Online"},
@@ -1082,6 +1083,7 @@ const facilitators = {
   1132:["Simone"],
   1135:["William","Texas"],
   1136:["Jason D"],
+  1142:["Lucy"],
   1143:["Kelly"],
   1144:["Cindy"],
   1162:["Christopher"],
@@ -1185,6 +1187,7 @@ const facilitators = {
   1474:["Lindsey"],
   1477:["Joe","California"],
   1478:["Katie Lowe"],
+  1479:["Claire"],
   1480:["Paul","Utah"],
   1485:["Olesia Kolesova"],
   1487:["Menas"],
@@ -1477,4 +1480,4 @@ const facilitators = {
   1937:["Hanah Braxton"],
   1938:["Brian Peterson"]
 };
-const cachedAt = "2026-06-16T07:17:03Z";
+const cachedAt = "2026-06-16T10:17:04Z";
