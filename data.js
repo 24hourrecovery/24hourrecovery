@@ -99,7 +99,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1905],id:1707,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1926],id:1708,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:45Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1926],id:1709,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1911],id:1710,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"00:30Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-06-17 19:30:00-05",dataSource:"au",duration:90,facilitator:[1911],id:1710,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"00:30Z"},type:"Online"},
   {audience:["Food and eating focus","Wellbeing & Lifestyle"],dataSource:"au",duration:90,facilitator:[1807],id:1712,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1807],id:1713,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1911],id:1714,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:30Z"},type:"Online"},
@@ -583,7 +583,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1927],id:9120,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1855],id:9125,language:"English",location:"Parkway Village, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1528,1786],id:9127,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1770,1774,1775],id:9141,language:"English",location:"Belding, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"14:30Z"},type:"Both"},
+  {audience:["Adults"],canceled:"2026-06-17 09:30:00-05",dataSource:"na",duration:60,facilitator:[1770,1774,1775],id:9141,language:"English",location:"Belding, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"14:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1808],id:9147,language:"English",location:"Carmel Hamlet, New York",program:"Family & Friends",schedule:{day:5,time:"17:00Z",week:[1,3]},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1781,1894],id:9149,language:"English",location:"Grand Junction, Colorado",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[153,385,816,957],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
@@ -1308,7 +1308,6 @@ const facilitators = {
   1702:["Steven"],
   1704:["Aiguli Bulire"],
   1706:["Lindsay Elmgren"],
-  1707:["Ashwin Thind"],
   1709:["Jula"],
   1710:["Marina Gindina"],
   1712:["Zoel Lopez"],
@@ -1472,7 +1471,6 @@ const facilitators = {
   1927:["TJ Trent","Texas"],
   1928:["Allen Ayers"],
   1929:["Andreea"],
-  1930:["Fehintioluwa Ojelabi"],
   1931:["Margaret Imaizumi"],
   1932:["Michael Onwukwe"],
   1933:["Dan M"],
@@ -1484,4 +1482,4 @@ const facilitators = {
   1940:["Jennifer","California"],
   1941:["Natasha Gwynnette"]
 };
-const cachedAt = "2026-06-17T10:17:04Z";
+const cachedAt = "2026-06-17T13:17:04Z";
