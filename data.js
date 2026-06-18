@@ -4,7 +4,7 @@ const meetings = [
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[7,1702],id:1026,language:"English",location:"Wollongong, New South Wales",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[7],id:1031,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"01:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-06-17 20:00:00-05",dataSource:"au",duration:90,facilitator:[7],id:1031,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[14],id:1034,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1035,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[17],id:1037,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
@@ -34,7 +34,7 @@ const meetings = [
   {audience:["Life beyond addiction"],dataSource:"au",duration:90,facilitator:[671,689],id:1336,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1845,1846,1847],id:1366,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:30Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[811],id:1368,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:30Z"},type:"Online"},
-  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"05:00Z",week:[2,3,4,-1]},type:"Both"},
+  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[1943,1944],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"05:00Z"},type:"Both"},
   {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,1304,1308],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["Hospitality Workers"],dataSource:"au",duration:90,facilitator:[1304],id:1431,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome","Medically Assisted Therapies for AUD"],dataSource:"au",duration:60,facilitator:[1256],id:1441,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Online"},
@@ -397,7 +397,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[427,469],id:7257,language:"English",location:"New York",program:"Family & Friends",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[476],id:7261,language:"English",location:"Bethlehem, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"11:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[741],id:7269,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[455,741,784],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-06-18 11:00:00-05",dataSource:"na",duration:60,facilitator:[455,741,784],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Family Members and Friends"],dataSource:"na",duration:90,facilitator:[427,469,487],id:7302,language:"English",location:"National",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[488],id:7312,language:"English",location:"Boone, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[971],id:7345,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Both"},
@@ -1055,8 +1055,6 @@ const facilitators = {
   936:["Ted"],
   939:["Andrea","England"],
   940:["Travis"],
-  947:["Alex","National"],
-  948:["Isabel"],
   951:["Noel Elmore"],
   952:["Frank H"],
   953:["Brooke M"],
@@ -1479,6 +1477,8 @@ const facilitators = {
   1939:["Ангелина"],
   1940:["Jennifer","California"],
   1941:["Natasha Gwynnette"],
-  1942:["Brittany","Vermont"]
+  1942:["Brittany","Vermont"],
+  1943:["Rosie"],
+  1944:["Suzanne"]
 };
-const cachedAt = "2026-06-17T22:17:07Z";
+const cachedAt = "2026-06-18T01:17:04Z";
