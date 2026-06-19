@@ -103,7 +103,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1911],id:1710,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"00:30Z"},type:"Online"},
   {audience:["Food and eating focus","Wellbeing & Lifestyle"],dataSource:"au",duration:90,facilitator:[1807],id:1712,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1807],id:1713,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-06-18 19:30:00-05",dataSource:"au",duration:90,facilitator:[1911],id:1714,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1911],id:1714,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742,1850],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[133,288,357,1265],id:2400,language:"English",location:"Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z",week:[1,3,-1]},type:"Online"},
@@ -633,6 +633,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[652,875,1528],id:9357,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[802,1477],id:9360,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:1,time:"03:45Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9362,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1950],id:9369,language:"English",location:"Sunnyvale, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[278,505],id:957,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[278],id:962,language:"English",location:"Bowie, Maryland",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -1486,6 +1487,7 @@ const facilitators = {
   1946:["Simon Eversfield"],
   1947:["Matthew Williams"],
   1948:["Todd"],
-  1949:["Tonya Ellis"]
+  1949:["Tonya Ellis"],
+  1950:["Sydney"]
 };
-const cachedAt = "2026-06-19T01:17:04Z";
+const cachedAt = "2026-06-19T04:17:04Z";
