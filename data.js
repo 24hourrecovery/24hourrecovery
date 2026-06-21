@@ -109,7 +109,6 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139],id:2504,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139],id:2629,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139],id:3353,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:0,time:"01:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[181],id:3673,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[203,1547],id:4096,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[204],id:4109,language:"English",location:"Burlington, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"23:15Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[231],id:4441,language:"English",location:"Calgary, Alberta",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
@@ -1488,4 +1487,4 @@ const facilitators = {
   1949:["Tonya Ellis"],
   1950:["Sydney"]
 };
-const cachedAt = "2026-06-21T10:17:05Z";
+const cachedAt = "2026-06-21T13:17:05Z";
