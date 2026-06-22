@@ -56,6 +56,7 @@ const meetings = [
   {audience:["Drug and Alcohol Focus","LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1604,1605],id:1573,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1615,1807],id:1576,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1696],id:1591,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1708],id:1594,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"04:30Z",week:[-1]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1598,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1608,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["ADHD"],dataSource:"au",duration:90,facilitator:[1304,1764],id:1617,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
@@ -68,7 +69,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1468,1885,1886],id:1635,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1636,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["Men only","Porn"],dataSource:"au",duration:90,facilitator:[1771],id:1649,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
-  {audience:["Youth only"],canceled:"2026-06-22 00:00:00-05",dataSource:"au",duration:60,facilitator:[34],id:1650,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"05:00Z"},type:"Online"},
+  {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[34],id:1650,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"05:00Z"},type:"Online"},
   {audience:["Anxiety support"],dataSource:"au",duration:90,facilitator:[1117,1831],id:1651,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1861],id:1661,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"10:00Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1863],id:1663,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -579,7 +580,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1630],id:9100,language:"English",location:"Rohnert Park, California",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1727],id:9101,language:"English",location:"Delta Junction, Alaska",program:"Family & Friends",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1762],id:9111,language:"English",location:"Colorado Springs, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1760],id:9114,language:"English",location:"Denver, Colorado",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1760],id:9114,language:"English",location:"Denver, Colorado",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:60,facilitator:[1927],id:9118,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"18:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1927],id:9119,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"20:20Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1927],id:9120,language:"English",location:"Killeen, Texas",program:"Family & Friends",schedule:{day:3,time:"00:30Z"},type:"Online"},
@@ -1308,6 +1309,7 @@ const facilitators = {
   1702:["Steven"],
   1704:["Aiguli Bulire"],
   1706:["Lindsay Elmgren"],
+  1708:["Ty"],
   1709:["Jula"],
   1710:["Marina Gindina"],
   1712:["Zoel Lopez"],
@@ -1351,7 +1353,7 @@ const facilitators = {
   1771:["Lachlan"],
   1772:["Amanda T","California"],
   1773:["Lorne S."],
-  1774:["Fred"],
+  1774:["Fred","Michigan"],
   1775:["Greg","Michigan"],
   1776:["Michael","New York"],
   1778:["Tintin (Caiden)"],
@@ -1489,6 +1491,7 @@ const facilitators = {
   1948:["Todd"],
   1949:["Tonya Ellis"],
   1950:["Sydney"],
-  1951:["Ria"]
+  1951:["Ria"],
+  1952:["Fred","Hong Kong SAR"]
 };
-const cachedAt = "2026-06-22T04:17:04Z";
+const cachedAt = "2026-06-22T07:17:04Z";
