@@ -1492,6 +1492,6 @@ const facilitators = {
   1949:["Tonya Ellis"],
   1950:["Sydney"],
   1951:["Ria"],
-  1952:["Fred","Hong Kong SAR"]
+  1953:["Frederic Basquin"]
 };
-const cachedAt = "2026-06-22T07:17:04Z";
+const cachedAt = "2026-06-22T10:17:04Z";
