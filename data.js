@@ -630,7 +630,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1928,1937],id:9352,language:"English",location:"Douglasville, Georgia",program:"Successful Life Skills",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[652,875,1528],id:9357,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[802,1477],id:9360,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:1,time:"03:45Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9362,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9362,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"01:55Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1950],id:9369,language:"English",location:"Sunnyvale, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[278,505],id:957,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
@@ -1488,4 +1488,4 @@ const facilitators = {
   1949:["Tonya Ellis"],
   1950:["Sydney"]
 };
-const cachedAt = "2026-06-21T22:17:04Z";
+const cachedAt = "2026-06-22T01:17:04Z";
