@@ -35,7 +35,6 @@ const meetings = [
   {audience:["Life beyond addiction"],dataSource:"au",duration:90,facilitator:[671,689],id:1336,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1845,1846,1847],id:1366,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:30Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[811],id:1368,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:30Z"},type:"Online"},
-  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[1943,1944],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"05:00Z"},type:"Both"},
   {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,1304,1308],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["Hospitality Workers"],dataSource:"au",duration:90,facilitator:[1304],id:1431,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"02:30Z"},type:"Online"},
@@ -135,6 +134,7 @@ const meetings = [
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[236,506,1656],id:7495,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:60,facilitator:[725],id:7820,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:1,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[553],id:7911,language:"English",location:"Winnipeg, Manitoba",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[632],id:8016,language:"English",location:"Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[725,1918],id:8144,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders"],dataSource:"ca",duration:90,facilitator:[795],id:8205,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1388],id:8231,language:"English",location:"Welland, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -944,6 +944,7 @@ const facilitators = {
   622:["Dee"],
   623:["Sharm"],
   627:["Lesley S"],
+  632:["Desmond"],
   642:["Kimberly Tobar"],
   643:["Mike S"],
   646:["Mich F"],
@@ -1476,8 +1477,6 @@ const facilitators = {
   1940:["Jennifer","California"],
   1941:["Natasha Gwynnette"],
   1942:["Brittany","Vermont"],
-  1943:["Rosie"],
-  1944:["Suzanne"],
   1945:["Sarah"],
   1946:["Simon Eversfield"],
   1947:["Matthew Williams"],
@@ -1488,4 +1487,4 @@ const facilitators = {
   1953:["Frederic Basquin"],
   1954:["Dennis McMahon"]
 };
-const cachedAt = "2026-06-23T01:17:04Z";
+const cachedAt = "2026-06-23T04:17:04Z";
