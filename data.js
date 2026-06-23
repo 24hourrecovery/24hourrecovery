@@ -624,6 +624,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[652,875,1528],id:9357,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[802,1477],id:9360,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:1,time:"03:45Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9362,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"01:55Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1955],id:9365,language:"English",location:"Freehold, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1950],id:9369,language:"English",location:"Sunnyvale, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1776],id:9372,language:"English",location:"Mohegan Lake, New York",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
@@ -651,7 +652,7 @@ const meetings = [
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[809],id:1401,language:"English",location:"National",program:"SMART Recovery",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[469],id:1402,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[597,763],id:1403,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[1839],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting","Women Only"],canceled:"2026-06-25 09:00:00-05",dataSource:"uk",duration:90,facilitator:[1839],id:1404,language:"English",location:"National",program:"SMART Recovery",schedule:{day:4,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[599],id:1460,language:"Polish",location:"Edinburgh, Scotland",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[1839],id:1467,language:"English",location:"National",program:"SMART Recovery",schedule:{day:1,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[601],id:1478,language:"English",location:"National",program:"SMART Recovery",schedule:{day:0,time:"10:00Z"},type:"Online"},
@@ -1476,6 +1477,7 @@ const facilitators = {
   1950:["Sydney"],
   1951:["Ria"],
   1953:["Frederic Basquin"],
-  1954:["Dennis McMahon"]
+  1954:["Dennis McMahon"],
+  1955:["Keith J Coleman"]
 };
-const cachedAt = "2026-06-23T13:17:04Z";
+const cachedAt = "2026-06-23T16:17:04Z";
