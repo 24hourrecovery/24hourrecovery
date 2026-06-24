@@ -280,7 +280,7 @@ const meetings = [
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[281,667,1440],id:5112,language:"English",location:"Hillsboro, Oregon",program:"Family & Friends",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[279],id:5113,language:"English",location:"Cranston, Rhode Island",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1618,1683],id:5134,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:2,time:"17:00Z"},type:"Both"},
-  {audience:["Adult Family Members and Friends"],canceled:"2026-06-24 12:00:00-05",dataSource:"na",duration:60,facilitator:[1618,1683,1901],id:5135,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:3,time:"17:00Z"},type:"Both"},
+  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1618,1683,1901],id:5135,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:3,time:"17:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1618,1683],id:5136,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:4,time:"17:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[284,761,1289,1318,1435,1858],id:5139,language:"English",location:"Beach Park, Illinois",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[145,285,1883],id:514,language:"English",location:"Towson, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
@@ -516,7 +516,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1368],id:8688,language:"English",location:"Scranton, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Teens (13-17)"],dataSource:"na",duration:90,facilitator:[976],id:8696,language:"English",location:"Bridgeport, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1408],id:8708,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1363],id:8712,language:"English",location:"Middletown, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"19:00Z",week:[2,4]},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:120,facilitator:[1370],id:8722,language:"English",location:"Ann Arbor, Michigan",program:"Family & Friends",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1581],id:8724,language:"English",location:"Delta, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1444],id:8728,language:"English",location:"Newland, North Carolina",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Both"},
@@ -542,7 +541,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1616,1843,1913],id:8923,language:"English",location:"Great Barrington, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1602],id:8934,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"19:30Z"},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1601],id:8939,language:"English",location:"Hartford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-06-24 14:00:00-05",dataSource:"na",duration:60,facilitator:[1601],id:8939,language:"English",location:"Hartford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[556],id:8944,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1660,1661],id:8965,language:"English",location:"Hartsville, South Carolina",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1458,1639,1640],id:8976,language:"English",location:"Jacksonville, Florida",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
@@ -557,6 +556,7 @@ const meetings = [
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[1666,1728],id:9014,language:"English",location:"Wallingford, Connecticut",program:"Family & Friends",schedule:{day:2,time:"22:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1738],id:9017,language:"English",location:"Superior, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"17:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[556],id:9018,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:3,time:"19:30Z"},type:"Online"},
+  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1665],id:9020,language:"English",location:"Buffalo, New York",program:"Family & Friends",schedule:{day:3,time:"17:00Z",week:[1,3]},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[751],id:9026,language:"English",location:"Bowling Green, Kentucky",program:"Successful Life Skills",schedule:{day:1,time:"22:00Z"},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1665],id:9027,language:"English",location:"Buffalo, New York",program:"Family & Friends",schedule:{day:3,time:"17:00Z",week:[2,4]},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1681],id:9034,language:"English",location:"Wisconsin Rapids, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"18:00Z"},type:"Online"},
@@ -617,6 +617,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1935],id:9350,language:"English",location:"Roswell, Georgia",program:"4-Point Recovery",schedule:{day:1,time:"11:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1928,1937],id:9352,language:"English",location:"Douglasville, Georgia",program:"Successful Life Skills",schedule:{day:4,time:"22:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1957],id:9353,language:"English",location:"Newport News, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"22:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1958],id:9354,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[652,875,1528],id:9357,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[802,1477],id:9360,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:1,time:"03:45Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9362,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"01:55Z"},type:"Online"},
@@ -1128,7 +1129,6 @@ const facilitators = {
   1354:["Jay Quicksall"],
   1359:["Steve"],
   1360:["Abbie"],
-  1363:["Adria"],
   1365:["Chris M"],
   1366:["Bernard G"],
   1367:["Paige Malloy"],
@@ -1473,6 +1473,7 @@ const facilitators = {
   1954:["Dennis McMahon"],
   1955:["Keith J Coleman"],
   1956:["Jacqui T"],
-  1957:["Lavar Reynolds"]
+  1957:["Lavar Reynolds"],
+  1958:["Dom G"]
 };
-const cachedAt = "2026-06-24T16:17:03Z";
+const cachedAt = "2026-06-24T19:17:05Z";
