@@ -98,7 +98,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1905],id:1707,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1926],id:1708,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:45Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1926],id:1709,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1911],id:1710,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"00:30Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-06-24 19:30:00-05",dataSource:"au",duration:90,facilitator:[1911],id:1710,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"00:30Z"},type:"Online"},
   {audience:["Food and eating focus","Wellbeing & Lifestyle"],dataSource:"au",duration:90,facilitator:[1807],id:1712,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1807],id:1713,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1911],id:1714,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:30Z"},type:"Online"},
@@ -248,7 +248,7 @@ const meetings = [
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[154,155,213],id:4270,language:"English",location:"Hamden, Connecticut",program:"Family & Friends",schedule:{day:1,time:"21:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[214],id:4285,language:"English",location:"Houston, Texas",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[216,217,1688],id:4286,language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[222,1480],id:4312,language:"English",location:"South Salt Lake, Utah",program:"4-Point Recovery",schedule:{day:6,time:"15:30Z"},type:"Both"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[222,1480,1959],id:4312,language:"English",location:"South Salt Lake, Utah",program:"4-Point Recovery",schedule:{day:6,time:"15:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[223,224,1797],id:4333,language:"English",location:"Rochester, New York",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z",week:[1,3,-1]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[225],id:4368,language:"English",location:"Ravenna, Ohio",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[233,859],id:4473,language:"English",location:"Folsom, California",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Online"},
@@ -491,7 +491,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1659],id:8400,language:"Spanish",location:"Fort Lauderdale, Florida",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1695,1860],id:8403,language:"English",location:"Lapeer, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[841],id:8410,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:1,time:"02:30Z",week:[-1]},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[953],id:8417,language:"English",location:"Fort Worth, Texas",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z",week:[4]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1318],id:8424,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[952],id:8440,language:"English",location:"Port Richey, Florida",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[658],id:8450,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
@@ -541,7 +540,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1616,1843,1913],id:8923,language:"English",location:"Great Barrington, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1602],id:8934,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"19:30Z"},type:"Both"},
-  {audience:["Adults"],canceled:"2026-06-24 14:00:00-05",dataSource:"na",duration:60,facilitator:[1601],id:8939,language:"English",location:"Hartford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1601],id:8939,language:"English",location:"Hartford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[556],id:8944,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1660,1661],id:8965,language:"English",location:"Hartsville, South Carolina",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1458,1639,1640],id:8976,language:"English",location:"Jacksonville, Florida",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Online"},
@@ -624,7 +623,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1955],id:9365,language:"English",location:"Freehold, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1950],id:9369,language:"English",location:"Sunnyvale, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1776],id:9372,language:"English",location:"Mohegan Lake, New York",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1956],id:9383,language:"English",location:"Philadelphia, Pennsylvania",program:"Family & Friends",schedule:{day:4,time:"18:00Z",week:[4]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[565],id:94,language:"English",location:"Burlington, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[278,505],id:957,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[278],id:962,language:"English",location:"Bowie, Maryland",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -1050,7 +1048,6 @@ const facilitators = {
   940:["Travis"],
   951:["Noel Elmore"],
   952:["Frank H"],
-  953:["Brooke M"],
   957:["Charles Smith"],
   959:["Victor Lenoxe"],
   962:["John H"],
@@ -1472,8 +1469,8 @@ const facilitators = {
   1953:["Frederic Basquin"],
   1954:["Dennis McMahon"],
   1955:["Keith J Coleman"],
-  1956:["Jacqui T"],
   1957:["Lavar Reynolds"],
-  1958:["Dom G"]
+  1958:["Dom G"],
+  1959:["Steve B."]
 };
-const cachedAt = "2026-06-24T19:17:05Z";
+const cachedAt = "2026-06-24T22:17:04Z";
