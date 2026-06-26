@@ -86,7 +86,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1893],id:1693,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:00Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[1893],id:1694,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1891],id:1695,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"04:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-06-26 04:30:00-05",dataSource:"au",duration:90,facilitator:[1912],id:1697,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"09:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1912],id:1697,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1900],id:1699,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"22:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1900],id:1700,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1701,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:30Z"},type:"Online"},
@@ -1481,4 +1481,4 @@ const facilitators = {
   1962:["Neil"],
   1963:["Chris Jorgensen"]
 };
-const cachedAt = "2026-06-26T10:17:04Z";
+const cachedAt = "2026-06-26T13:17:05Z";
