@@ -490,7 +490,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[145,1883],id:8386,language:"English",location:"Raritan, New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1659],id:8400,language:"Spanish",location:"Fort Lauderdale, Florida",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1695,1860],id:8403,language:"English",location:"Lapeer, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Both"},
-  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[841],id:8410,language:"English",location:"San Francisco, California",program:"4-Point Recovery",schedule:{day:1,time:"02:30Z",week:[-1]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1318],id:8424,language:"English",location:"Arlington Heights, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[952],id:8440,language:"English",location:"Port Richey, Florida",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[658],id:8450,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:5,time:"20:00Z"},type:"Online"},
@@ -581,7 +580,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1788],id:9155,language:"English",location:"Middle River, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1927],id:9158,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1789],id:9166,language:"English",location:"Westminster, California",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:120,facilitator:[1803],id:9181,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:6,time:"16:30Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-06-27 11:30:00-05",dataSource:"na",duration:120,facilitator:[1803],id:9181,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:6,time:"16:30Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1825],id:9189,language:"English",location:"Jacksonville, Florida",program:"Family & Friends",schedule:{day:2,time:"15:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:90,facilitator:[422,861,1805],id:9191,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[435,1810],id:9199,language:"English",location:"Laguna Niguel, California",program:"4-Point Recovery",schedule:{day:0,time:"05:00Z"},type:"Online"},
@@ -1019,7 +1018,6 @@ const facilitators = {
   836:["Jesus Cisneros","Global"],
   837:["Anabel"],
   839:["Dimitrii Frolov"],
-  841:["Tammy C"],
   842:["Ana"],
   846:["Andrea Maddin"],
   847:["Carey"],
@@ -1340,7 +1338,6 @@ const facilitators = {
   1773:["Lorne S."],
   1774:["Fred","Michigan"],
   1775:["Greg","Michigan"],
-  1778:["Tintin (Caiden)"],
   1781:["Heather U."],
   1782:["Katrina Benson"],
   1784:["Brandon S."],
@@ -1484,4 +1481,4 @@ const facilitators = {
   1963:["Chris Jorgensen"],
   1964:["MO"]
 };
-const cachedAt = "2026-06-27T13:17:04Z";
+const cachedAt = "2026-06-27T16:17:04Z";
