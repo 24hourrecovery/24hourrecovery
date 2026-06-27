@@ -38,7 +38,7 @@ const meetings = [
   {audience:["Hospitality Workers"],dataSource:"au",duration:90,facilitator:[1304],id:1431,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z",week:[1]},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"02:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-06-27 04:30:00-05",dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2026-06-26 23:30:00-05",dataSource:"au",duration:90,facilitator:[1201],id:1475,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"04:30Z"},type:"Online"},
@@ -475,7 +475,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[797],id:8279,language:"English",location:"Torrington, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[859],id:8296,language:"English",location:"Mountain Brook, Alabama",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[100,101,855],id:8302,language:"English",location:"Overland Park, Kansas",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
-  {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[841],id:8303,language:"English",location:"Los Angeles, California",program:"4-Point Recovery",schedule:{day:0,time:"02:30Z",week:[-1]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[842],id:8306,language:"English",location:"Wallingford, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Women"],dataSource:"na",duration:60,facilitator:[890],id:8307,language:"English",location:"Vernon, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[847],id:8315,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"},
@@ -621,7 +620,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[652,875,1528],id:9357,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[802,1477],id:9360,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:1,time:"03:45Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[238,1440,1940,1961],id:9361,language:"English",location:"National",program:"Family & Friends",schedule:{day:4,time:"02:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9362,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"06:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9362,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"05:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1955],id:9365,language:"English",location:"Freehold, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1950],id:9369,language:"English",location:"Sunnyvale, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1960],id:9372,language:"English",location:"Mohegan Lake, New York",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z",week:[3]},type:"Online"},
@@ -1483,4 +1482,4 @@ const facilitators = {
   1963:["Chris Jorgensen"],
   1964:["MO"]
 };
-const cachedAt = "2026-06-27T01:17:04Z";
+const cachedAt = "2026-06-27T04:17:04Z";
