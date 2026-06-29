@@ -591,7 +591,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1824],id:9200,language:"Spanish",location:"Tampa, Florida",program:"4-Point Recovery",schedule:{day:2,time:"15:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[1439,1440],id:9204,language:"English",location:"Portland, Oregon",program:"Family & Friends",schedule:{day:6,time:"16:30Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[1823,1832,1844],id:9213,language:"English",location:"Lowville, New York",program:"Family & Friends",schedule:{day:2,time:"22:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1837],id:9215,language:"Spanish",location:"Birmingham, Alabama",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z",week:[-1]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1852],id:9217,language:"English",location:"Cleveland, Georgia",program:"4-Point Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[658],id:9231,language:"English",location:"Palm Desert, California",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1938],id:9239,language:"English",location:"Hamilton Township, New Jersey",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
@@ -1099,7 +1098,6 @@ const facilitators = {
   1218:["Bee"],
   1220:["Anna","England"],
   1223:["Abigail"],
-  1232:["Angela Bekederemo"],
   1239:["Ifechidere Ugwuibe"],
   1245:["Jessica B"],
   1246:["Clea P"],
@@ -1383,7 +1381,6 @@ const facilitators = {
   1831:["Sue"],
   1832:["Jennifer H"],
   1833:["Kayla B."],
-  1837:["Garland C."],
   1839:["Claire Daff"],
   1840:["Alex S."],
   1841:["Tristan G."],
@@ -1494,4 +1491,4 @@ const facilitators = {
   1967:["Odyssey House CES","Regional"],
   1968:["James Slater"]
 };
-const cachedAt = "2026-06-29T16:17:04Z";
+const cachedAt = "2026-06-29T19:17:06Z";
