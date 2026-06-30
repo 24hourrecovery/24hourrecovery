@@ -27,7 +27,6 @@ const meetings = [
   {audience:["Alcohol Focus."],dataSource:"au",duration:90,facilitator:[1143],id:1282,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:15Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1284,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1285,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"00:00Z"},type:"Both"},
-  {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[44],id:1289,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","People living in New Zealand only"],dataSource:"au",duration:90,facilitator:[1457],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:30Z"},type:"Online"},
@@ -680,7 +679,6 @@ const facilitators = {
   33:["Warrondi Engage & Link"],
   34:["Olivia"],
   38:["Denis Smith"],
-  44:["Relationships Australia"],
   46:["PCD"],
   50:["Natalie"],
   51:["Rebecca Heller"],
@@ -1474,4 +1472,4 @@ const facilitators = {
   1967:["Odyssey House CES","Regional"],
   1968:["James Slater"]
 };
-const cachedAt = "2026-06-30T04:17:04Z";
+const cachedAt = "2026-06-30T07:17:04Z";
