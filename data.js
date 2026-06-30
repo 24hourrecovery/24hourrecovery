@@ -57,7 +57,6 @@ const meetings = [
   {audience:["Drug and Alcohol Focus","LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1604,1605],id:1573,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1615,1807],id:1576,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1696],id:1591,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1708],id:1594,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"04:30Z",week:[-1]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1598,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1608,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["ADHD"],dataSource:"au",duration:90,facilitator:[1304,1764],id:1617,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
@@ -244,10 +243,9 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[214],id:4285,language:"English",location:"Houston, Texas",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[216,217,1688],id:4286,language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[222,1480,1959,1963],id:4312,language:"English",location:"South Salt Lake, Utah",program:"4-Point Recovery",schedule:{day:6,time:"15:30Z"},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[223,224,1797],id:4333,language:"English",location:"Rochester, New York",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z",week:[1,3,-1]},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[223,224,1797],id:4333,language:"English",location:"Rochester, New York",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[225],id:4368,language:"English",location:"Ravenna, Ohio",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[233,859],id:4473,language:"English",location:"Folsom, California",program:"4-Point Recovery",schedule:{day:3,time:"02:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[734],id:4496,language:"English",location:"Webster, Texas",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:120,facilitator:[238,912],id:4498,language:"English",location:"Indianapolis, Indiana",program:"Family & Friends",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[165,1491],id:4571,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:6,time:"13:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[243],id:4603,language:"English",location:"Gaithersburg, Maryland",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
@@ -966,7 +964,6 @@ const facilitators = {
   724:["Joe Wusnack"],
   725:["Lezlie G","Ontario"],
   727:["Joseph"],
-  734:["Peter Meyer"],
   741:["Danielle","New York"],
   743:["Zach"],
   745:["Leigh","Connecticut"],
@@ -1289,7 +1286,6 @@ const facilitators = {
   1702:["Steven"],
   1704:["Aiguli Bulire"],
   1706:["Lindsay Elmgren"],
-  1708:["Ty"],
   1709:["Jula"],
   1710:["Marina Gindina"],
   1712:["Zoel Lopez"],
@@ -1478,4 +1474,4 @@ const facilitators = {
   1967:["Odyssey House CES","Regional"],
   1968:["James Slater"]
 };
-const cachedAt = "2026-06-30T01:17:04Z";
+const cachedAt = "2026-06-30T04:17:04Z";
