@@ -106,6 +106,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1951],id:1717,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1725,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1726,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"01:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1972],id:1727,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742,1850],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[133,288,357,1265],id:2400,language:"English",location:"Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z",week:[1,3,-1]},type:"Online"},
@@ -1493,6 +1494,7 @@ const facilitators = {
   1968:["James Slater"],
   1969:["Mark Alexander"],
   1970:["Brooke Buchik"],
-  1971:["Zak G."]
+  1971:["Zak G."],
+  1972:["Celeste Stratford"]
 };
-const cachedAt = "2026-07-01T04:17:04Z";
+const cachedAt = "2026-07-01T07:17:04Z";
