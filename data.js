@@ -9,7 +9,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1035,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[17],id:1037,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1359,1360],id:1038,language:"English",location:"Regional",program:"Standard",schedule:{day:5,time:"01:30Z"},type:"Online"},
-  {audience:["All Welcome","Gaming and Gambling"],dataSource:"au",duration:90,facilitator:[20],id:1039,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"01:00Z"},type:"Online"},
+  {audience:["All Welcome","Gaming and Gambling"],canceled:"2026-07-02 20:00:00-05",dataSource:"au",duration:90,facilitator:[20],id:1039,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[21],id:1041,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[671],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:00Z"},type:"Online"},
@@ -110,6 +110,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742,1850],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[133,288,357,1265],id:2400,language:"English",location:"Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z",week:[1,3,-1]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139],id:2504,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139],id:2629,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139],id:3353,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:0,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[181],id:3673,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[203,1547],id:4096,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
@@ -134,8 +135,10 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[725],id:7301,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[236,506,1656],id:7495,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:60,facilitator:[725],id:7820,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:1,time:"18:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[553],id:7911,language:"English",location:"Winnipeg, Manitoba",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[632],id:8016,language:"English",location:"Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[725,1918],id:8144,language:"English",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders"],dataSource:"ca",duration:90,facilitator:[795],id:8205,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1388],id:8231,language:"English",location:"Welland, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1296],id:8254,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"19:30Z"},type:"Both"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
@@ -919,6 +922,7 @@ const facilitators = {
   543:["Timofey S."],
   544:["Blair Bush"],
   552:["Hank Molesky"],
+  553:["Robert Z"],
   556:["Barry"],
   563:["Phil Mattson"],
   564:["Doug Libassi"],
@@ -998,6 +1002,7 @@ const facilitators = {
   791:["Daniel"],
   792:["Brian","California"],
   793:["Shannon Hughes"],
+  795:["Chris","Alberta"],
   796:["Helena Machado"],
   797:["Antonio"],
   800:["Jen T"],
@@ -1490,4 +1495,4 @@ const facilitators = {
   1970:["Brooke Buchik"],
   1971:["Zak G."]
 };
-const cachedAt = "2026-07-01T01:17:04Z";
+const cachedAt = "2026-07-01T04:17:04Z";
