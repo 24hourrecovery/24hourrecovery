@@ -606,7 +606,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1652],id:9266,language:"English",location:"Dickinson, Texas",program:"4-Point Recovery",schedule:{day:6,time:"22:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1867],id:9268,language:"Spanish",location:"Meriden, Connecticut",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[802,816,1864],id:9276,language:"English",location:"Eugene, Oregon",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-07-04 16:00:00-05",dataSource:"na",duration:90,facilitator:[1881],id:9289,language:"English",location:"Irvine, California",program:"4-Point Recovery",schedule:{day:6,time:"21:00Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-07-11 16:00:00-05",dataSource:"na",duration:90,facilitator:[1881],id:9289,language:"English",location:"Irvine, California",program:"4-Point Recovery",schedule:{day:6,time:"21:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1848,1859],id:9298,language:"English",location:"Bowling Green, Kentucky",program:"Family & Friends",schedule:{day:0,time:"17:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1907],id:9328,language:"English",location:"Oklahoma City, Oklahoma",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[700],id:9329,language:"English",location:"Rocklin, California",program:"4-Point Recovery",schedule:{day:4,time:"04:00Z"},type:"Online"},
@@ -1496,4 +1496,4 @@ const facilitators = {
   1977:["Nicole Manzer"],
   1978:["Ms Kay"]
 };
-const cachedAt = "2026-07-04T19:17:04Z";
+const cachedAt = "2026-07-04T22:17:04Z";
