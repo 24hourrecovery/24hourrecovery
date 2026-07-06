@@ -1075,7 +1075,6 @@ const facilitators = {
   1099:["Monica A"],
   1117:["Jill"],
   1121:["David"],
-  1127:["Sammy Ombisa"],
   1132:["Simone"],
   1135:["William","Texas"],
   1136:["Jason D"],
@@ -1487,4 +1486,4 @@ const facilitators = {
   1977:["Nicole Manzer"],
   1978:["Ms Kay"]
 };
-const cachedAt = "2026-07-06T10:17:04Z";
+const cachedAt = "2026-07-06T13:17:07Z";
