@@ -538,7 +538,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1616,1843,1913],id:8923,language:"English",location:"Great Barrington, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:0,time:"07:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1602],id:8934,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"19:30Z"},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1144],id:8938,language:"English",location:"Owenton, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"14:00Z",week:[1]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1601],id:8939,language:"English",location:"Hartford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[556],id:8944,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1660,1661],id:8965,language:"English",location:"Hartsville, South Carolina",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
@@ -1073,7 +1072,6 @@ const facilitators = {
   1132:["Simone"],
   1135:["William","Texas"],
   1136:["Jason D"],
-  1144:["Cindy"],
   1162:["Christopher"],
   1167:["Nicole","National"],
   1168:["Susanne"],
@@ -1435,6 +1433,7 @@ const facilitators = {
   1926:["Rebecca","South Australia"],
   1927:["TJ Trent","Texas"],
   1929:["Andreea"],
+  1930:["Fehintioluwa Ojelabi"],
   1931:["Margaret Imaizumi"],
   1932:["Michael Onwukwe"],
   1933:["Dan M"],
@@ -1477,4 +1476,4 @@ const facilitators = {
   1977:["Nicole Manzer"],
   1978:["Ms Kay"]
 };
-const cachedAt = "2026-07-07T10:17:04Z";
+const cachedAt = "2026-07-07T13:17:04Z";
