@@ -167,7 +167,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[801,882,883,1451,1528],id:1108,language:"English",location:"Cumming, Georgia",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[76],id:1111,language:"English",location:"Annapolis, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"22:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[83,985],id:1209,language:"English",location:"Rockville, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-07-11 11:30:00-05",dataSource:"na",duration:90,facilitator:[85,86],id:1213,language:"English",location:"Phoenix, Arizona",program:"4-Point Recovery",schedule:{day:6,time:"16:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[87,1659],id:1283,language:"English",location:"Miami Beach, Florida",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[88,246],id:1330,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[758,1811],id:1402,language:"English",location:"Greenville, South Carolina",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Both"},
@@ -708,8 +707,6 @@ const facilitators = {
   81:["Christine","Ontario"],
   82:["Ben","Ontario"],
   83:["Jean Clark"],
-  85:["Brad","Arizona"],
-  86:["Joe Ferrara"],
   87:["Joe Gerstein"],
   88:["Laura Bullen"],
   89:["Will Gargan"],
@@ -1272,7 +1269,6 @@ const facilitators = {
   1702:["Steven"],
   1704:["Aiguli Bulire"],
   1706:["Lindsay Elmgren"],
-  1707:["Ashwin Thind"],
   1709:["Jula"],
   1710:["Marina Gindina"],
   1712:["Zoel Lopez"],
@@ -1470,4 +1466,4 @@ const facilitators = {
   1979:["Aimee H."],
   1980:["Tom Horvath"]
 };
-const cachedAt = "2026-07-08T10:17:04Z";
+const cachedAt = "2026-07-08T13:17:07Z";
