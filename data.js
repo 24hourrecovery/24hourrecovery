@@ -35,7 +35,7 @@ const meetings = [
   {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,1304,1308],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-07-10 01:30:00-05",dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2026-07-10 23:30:00-05",dataSource:"au",duration:90,facilitator:[1201],id:1475,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"04:30Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604],id:1494,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:00Z"},type:"Online"},
@@ -1469,4 +1469,4 @@ const facilitators = {
   1982:["Jessica","Virginia"],
   1983:["Tony Scannell"]
 };
-const cachedAt = "2026-07-09T13:17:04Z";
+const cachedAt = "2026-07-09T16:17:04Z";
