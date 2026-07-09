@@ -23,6 +23,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[29],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[1967],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
+  {audience:["Alcohol Focus."],dataSource:"au",duration:90,facilitator:[1143],id:1282,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1284,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1285,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Drug and Alcohol Focus","People living in New Zealand only"],dataSource:"au",duration:90,facilitator:[1457],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"06:00Z"},type:"Online"},
@@ -97,7 +98,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1725,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1724],id:1726,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1972],id:1727,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1972],id:1728,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"09:30Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-07-09 04:30:00-05",dataSource:"au",duration:60,facilitator:[1972],id:1728,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1886],id:1730,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742,1850],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
@@ -1066,6 +1067,7 @@ const facilitators = {
   1132:["Simone"],
   1135:["William","Texas"],
   1136:["Jason D"],
+  1143:["Kelly"],
   1162:["Christopher"],
   1167:["Nicole","National"],
   1168:["Susanne"],
@@ -1467,4 +1469,4 @@ const facilitators = {
   1982:["Jessica","Virginia"],
   1983:["Tony Scannell"]
 };
-const cachedAt = "2026-07-09T07:17:04Z";
+const cachedAt = "2026-07-09T10:17:04Z";
