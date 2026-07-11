@@ -37,12 +37,13 @@ const meetings = [
   {audience:["All Welcome"],canceled:"2026-07-11 04:30:00-05",dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-07-10 23:30:00-05",dataSource:"au",duration:90,facilitator:[1201],id:1475,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"04:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1201],id:1475,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"04:30Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604],id:1494,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["Australia wide Russian speaking community - Австралийское сообщество русскоговорящих по всей стране"],dataSource:"au",duration:90,facilitator:[1382,1709],id:1497,language:"Russian",location:"National",program:"Standard",schedule:{day:5,time:"09:30Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1384],id:1500,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"11:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1399,1912],id:1509,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1523,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"09:00Z"},type:"Online"},
+  {audience:["Alcohol Focus","Women only"],dataSource:"au",duration:90,facilitator:[1500],id:1524,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1508],id:1534,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1536,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1807],id:1537,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:30Z"},type:"Online"},
@@ -1168,6 +1169,7 @@ const facilitators = {
   1487:["Menas"],
   1488:["Steve C."],
   1491:["Amber"],
+  1500:["Paola"],
   1503:["Geoff Due"],
   1504:["Josh"],
   1507:["Carly"],
@@ -1471,4 +1473,4 @@ const facilitators = {
   1987:["Julie Cleveland"],
   1988:["Danielle","Saskatchewan"]
 };
-const cachedAt = "2026-07-11T04:17:05Z";
+const cachedAt = "2026-07-11T07:17:04Z";
