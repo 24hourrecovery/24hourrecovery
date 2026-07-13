@@ -40,7 +40,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1201],id:1475,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"04:30Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604],id:1494,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["Australia wide Russian speaking community - Австралийское сообщество русскоговорящих по всей стране"],dataSource:"au",duration:90,facilitator:[1382,1709],id:1497,language:"Russian",location:"National",program:"Standard",schedule:{day:5,time:"09:30Z"},type:"Online"},
-  {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1384],id:1500,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"11:30Z"},type:"Online"},
+  {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1384],id:1500,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1399,1912],id:1509,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1523,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"09:00Z"},type:"Online"},
   {audience:["Alcohol Focus","Women only"],dataSource:"au",duration:90,facilitator:[1500],id:1524,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
@@ -100,6 +100,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1972],id:1727,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1972],id:1728,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1886],id:1730,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"23:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1989],id:1731,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742,1850],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139],id:2504,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
@@ -1476,6 +1477,7 @@ const facilitators = {
   1985:["Seth Daly"],
   1986:["Mark Powell"],
   1987:["Julie Cleveland"],
-  1988:["Danielle","Saskatchewan"]
+  1988:["Danielle","Saskatchewan"],
+  1989:["Wendy","National"]
 };
-const cachedAt = "2026-07-12T22:17:05Z";
+const cachedAt = "2026-07-13T01:17:04Z";
