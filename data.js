@@ -1136,7 +1136,6 @@ const facilitators = {
   1368:["Alvin N."],
   1370:["Khare"],
   1374:["Arvo"],
-  1378:["Honest Anaba"],
   1379:["Amy Weston"],
   1380:["Hardial Kandola"],
   1381:["Shannon","California"],
@@ -1497,4 +1496,4 @@ const facilitators = {
   1996:["Nancy"],
   1997:["Jamie-Lee"]
 };
-const cachedAt = "2026-07-19T07:17:03Z";
+const cachedAt = "2026-07-19T10:17:03Z";
