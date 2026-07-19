@@ -141,7 +141,6 @@ const meetings = [
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"18:55Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1406],id:8719,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:6,time:"22:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1420],id:8782,language:"English",location:"Selkirk, Manitoba",program:"4-Point Recovery",schedule:{day:1,time:"18:30Z",week:[1,3]},type:"Online"},
   {audience:["BIPOC"],dataSource:"ca",duration:60,facilitator:[1561],id:8911,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Youth/Young Adults (16-25)"],dataSource:"ca",duration:90,facilitator:[1840,1841],id:8954,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"21:30Z"},type:"Both"},
@@ -1147,7 +1146,6 @@ const facilitators = {
   1400:["Riley","Oregon"],
   1401:["Grace Koolhoven"],
   1403:["Steve Saunders"],
-  1406:["Maya","Alberta"],
   1408:["Morgan"],
   1418:["Elena Simagina"],
   1419:["Alisa Yevsyakova"],
@@ -1494,4 +1492,4 @@ const facilitators = {
   1997:["Jamie-Lee"],
   1998:["Chris Taylor"]
 };
-const cachedAt = "2026-07-19T19:17:02Z";
+const cachedAt = "2026-07-19T22:17:02Z";
