@@ -571,7 +571,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1760],id:9114,language:"English",location:"Denver, Colorado",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],canceled:"2026-07-27 12:00:00-05",dataSource:"na",duration:60,facilitator:[1855],id:9125,language:"English",location:"Parkway Village, Kentucky",program:"4-Point Recovery",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1528,1786],id:9127,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1770,1775],id:9141,language:"English",location:"Stanton, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"14:30Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-07-22 09:30:00-05",dataSource:"na",duration:60,facilitator:[1770,1775],id:9141,language:"English",location:"Stanton, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"14:30Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[1781,1894],id:9149,language:"English",location:"Grand Junction, Colorado",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[153,385,816,957],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1960],id:9151,language:"English",location:"Mohegan Lake, New York",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
@@ -1490,4 +1490,4 @@ const facilitators = {
   2002:["Chad Moore"],
   2003:["Sarah M-I"]
 };
-const cachedAt = "2026-07-22T10:17:02Z";
+const cachedAt = "2026-07-22T13:17:02Z";
