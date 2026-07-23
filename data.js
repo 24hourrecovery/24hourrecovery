@@ -94,7 +94,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1997],id:1725,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1997],id:1726,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1972],id:1727,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-07-23 04:30:00-05",dataSource:"au",duration:60,facilitator:[1972],id:1728,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"09:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[1972],id:1728,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1885,1886,2001],id:1730,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1989],id:1731,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1991],id:1735,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:00Z"},type:"Online"},
@@ -1490,4 +1490,4 @@ const facilitators = {
   2005:["Darian Graells"],
   2006:["Rob Schultz"]
 };
-const cachedAt = "2026-07-23T10:17:03Z";
+const cachedAt = "2026-07-23T13:17:03Z";
