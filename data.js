@@ -80,8 +80,8 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1900],id:1700,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1896],id:1702,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1891],id:1703,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"03:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-07-22 23:00:00-05",dataSource:"au",duration:90,facilitator:[1904],id:1704,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"04:00Z"},type:"Online"},
-  {audience:["Food and eating focus"],canceled:"2026-07-23 00:30:00-05",dataSource:"au",duration:90,facilitator:[1904],id:1705,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1904],id:1704,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"04:00Z"},type:"Online"},
+  {audience:["Food and eating focus"],dataSource:"au",duration:90,facilitator:[1904],id:1705,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1905],id:1706,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1905],id:1707,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1926],id:1708,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:45Z"},type:"Online"},
@@ -1488,4 +1488,4 @@ const facilitators = {
   2005:["Darian Graells"],
   2006:["Rob Schultz"]
 };
-const cachedAt = "2026-07-23T04:17:02Z";
+const cachedAt = "2026-07-23T07:17:03Z";
