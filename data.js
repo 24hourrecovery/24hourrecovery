@@ -28,7 +28,6 @@ const meetings = [
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1285,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Drug and Alcohol Focus","People living in New Zealand only"],dataSource:"au",duration:90,facilitator:[1457],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:30Z"},type:"Online"},
-  {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[46],id:1317,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:30Z"},type:"Online"},
   {audience:["Life beyond addiction"],dataSource:"au",duration:90,facilitator:[671,689],id:1336,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1845,1846,1847],id:1366,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:30Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[811],id:1368,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:30Z"},type:"Online"},
@@ -1497,4 +1496,4 @@ const facilitators = {
   2008:["Russ"],
   2009:["Brooke"]
 };
-const cachedAt = "2026-07-24T07:17:02Z";
+const cachedAt = "2026-07-24T10:17:02Z";
