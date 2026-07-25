@@ -41,6 +41,7 @@ const meetings = [
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1384],id:1500,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1399,1912],id:1509,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1523,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"09:00Z"},type:"Online"},
+  {audience:["Alcohol Focus","Women only"],dataSource:"au",duration:90,facilitator:[1500],id:1524,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"07:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[1508],id:1534,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1536,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1807],id:1537,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:30Z"},type:"Online"},
@@ -1168,6 +1169,7 @@ const facilitators = {
   1487:["Menas"],
   1488:["Steve C."],
   1491:["Amber","Wisconsin"],
+  1500:["Paola"],
   1503:["Geoff Due"],
   1504:["Josh"],
   1507:["Carly"],
@@ -1487,4 +1489,4 @@ const facilitators = {
   2008:["Russ"],
   2009:["Brooke"]
 };
-const cachedAt = "2026-07-25T04:17:02Z";
+const cachedAt = "2026-07-25T07:17:02Z";
