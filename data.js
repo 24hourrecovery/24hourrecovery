@@ -146,12 +146,12 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[1699,1733,1736,1737],id:9021,language:"French",location:"Ottawa, Ontario",program:"Family & Friends",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1773],id:9028,language:"English",location:"Pointe-Claire, Quebec",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:60,facilitator:[1884],id:9043,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"23:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:9044,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"18:35Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1892],id:9045,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[1921],id:9048,language:"English",location:"Port Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[315],id:9052,language:"English",location:"Kelowna, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1971],id:9058,language:"English",location:"Regina, Saskatchewan",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1988],id:9062,language:"English",location:"Loon Lake, Saskatchewan",program:"4-Point Recovery",schedule:{day:6,time:"00:45Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1752],id:9095,language:"English",location:"Kingston, Ontario",program:"Family & Friends",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1752],id:9096,language:"English",location:"Kingston, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1752],id:9097,language:"English",location:"Kingston, Ontario",program:"Successful Life Skills",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[1996],id:9099,language:"English",location:"Amherst, Nova Scotia",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Both"},
@@ -596,7 +596,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2008],id:9272,language:"English",location:"Greeley, Colorado",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[802,816,1864],id:9276,language:"English",location:"Eugene, Oregon",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1881],id:9289,language:"English",location:"Irvine, California",program:"4-Point Recovery",schedule:{day:6,time:"21:00Z"},type:"Online"},
-  {audience:["Adult Family Members and Friends"],canceled:"2026-07-26 12:00:00-05",dataSource:"na",duration:60,facilitator:[1848,1859],id:9298,language:"English",location:"Bowling Green, Kentucky",program:"Family & Friends",schedule:{day:0,time:"17:00Z"},type:"Both"},
+  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1848,1859],id:9298,language:"English",location:"Bowling Green, Kentucky",program:"Family & Friends",schedule:{day:0,time:"17:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1917],id:9332,language:"English",location:"Oak Park, Illinois",program:"4-Point Recovery",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1917],id:9335,language:"English",location:"Oak Park, Illinois",program:"4-Point Recovery",schedule:{day:3,time:"19:30Z"},type:"Online"},
   {audience:["Men"],dataSource:"na",duration:90,facilitator:[2004],id:9338,language:"English",location:"San Juan, Puerto Rico",program:"4-Point Recovery",schedule:{day:0,time:"00:00Z"},type:"Online"},
@@ -1490,4 +1490,4 @@ const facilitators = {
   2009:["Brooke"],
   2010:["NZDF Team"]
 };
-const cachedAt = "2026-07-26T16:17:03Z";
+const cachedAt = "2026-07-26T19:17:02Z";
