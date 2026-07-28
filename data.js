@@ -1288,6 +1288,7 @@ const facilitators = {
   1702:["Steven"],
   1704:["Aiguli Bulire"],
   1706:["Lindsay Elmgren"],
+  1707:["Ashwin Thind"],
   1709:["Jula"],
   1710:["Marina Gindina"],
   1712:["Zoel Lopez"],
@@ -1513,4 +1514,4 @@ const facilitators = {
   2013:["Joy Moseri"],
   2014:["Jason S."]
 };
-const cachedAt = "2026-07-28T10:17:03Z";
+const cachedAt = "2026-07-28T13:17:02Z";
