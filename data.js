@@ -23,7 +23,6 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"04:30Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[29,1995],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[1967],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"07:00Z"},type:"Online"},
-  {audience:["Alcohol Focus."],canceled:"2026-07-30 05:00:00-05",dataSource:"au",duration:90,facilitator:[1143],id:1282,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1994],id:1284,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"04:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1285,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"00:00Z"},type:"Both"},
   {audience:["Drug and Alcohol Focus","People living in New Zealand only"],dataSource:"au",duration:90,facilitator:[1457],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"06:00Z"},type:"Online"},
@@ -37,7 +36,7 @@ const meetings = [
   {audience:["Alcohol Focus","All Welcome","Medically Assisted Therapies for AUD"],dataSource:"au",duration:60,facilitator:[1256],id:1441,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2026-08-01 21:30:00-05",dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-07-31 01:30:00-05",dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604],id:1494,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["Australia wide Russian speaking community - Австралийское сообщество русскоговорящих по всей стране"],dataSource:"au",duration:90,facilitator:[1382,1709],id:1497,language:"Russian",location:"National",program:"Standard",schedule:{day:5,time:"09:30Z"},type:"Online"},
@@ -65,7 +64,7 @@ const meetings = [
   {audience:["Anxiety support"],dataSource:"au",duration:90,facilitator:[1117,1831],id:1651,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1861,2009],id:1661,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"10:00Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1863],id:1663,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1915],id:1666,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"12:00Z"},type:"Online"},
+  {audience:["Alcohol Focus"],canceled:"2026-07-31 07:00:00-05",dataSource:"au",duration:90,facilitator:[1915],id:1666,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"12:00Z"},type:"Online"},
   {audience:["Drug focus"],dataSource:"au",duration:90,facilitator:[1915],id:1667,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"12:00Z"},type:"Online"},
   {audience:["Anxiety support","Camera-On Meeting","Women only"],dataSource:"au",duration:90,facilitator:[1877],id:1676,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Camera-On Meeting","Food and eating focus","Women only"],dataSource:"au",duration:90,facilitator:[1877],id:1678,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:30Z"},type:"Online"},
@@ -1084,7 +1083,6 @@ const facilitators = {
   1135:["William","Texas"],
   1136:["Jason D"],
   1142:["Lucy"],
-  1143:["Kelly"],
   1144:["Cindy"],
   1162:["Christopher"],
   1167:["Nicole","National"],
@@ -1517,4 +1515,4 @@ const facilitators = {
   2022:["Will A."],
   2023:["Rook Hine"]
 };
-const cachedAt = "2026-07-31T07:17:02Z";
+const cachedAt = "2026-07-31T10:17:02Z";
