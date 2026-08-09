@@ -35,7 +35,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-08-09 04:00:00-05",dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604],id:1494,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["Australia wide Russian speaking community - Австралийское сообщество русскоговорящих по всей стране"],dataSource:"au",duration:90,facilitator:[1382,1709],id:1497,language:"Russian",location:"National",program:"Standard",schedule:{day:5,time:"09:30Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1384],id:1500,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
@@ -1416,4 +1416,4 @@ const facilitators = {
   2029:["John Peele"],
   2030:["Melissa T"]
 };
-const cachedAt = "2026-08-09T04:17:02Z";
+const cachedAt = "2026-08-09T07:17:02Z";
