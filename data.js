@@ -350,7 +350,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[664],id:658,language:"English",location:"Waterford Township, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:120,facilitator:[140],id:6581,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:1,time:"23:45Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:120,facilitator:[140,1011],id:6582,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[401,1566],id:6587,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:1,time:"13:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1566,2031],id:6587,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:1,time:"13:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[402],id:6594,language:"English",location:"Flemington, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[322],id:6649,language:"English",location:"Schaumburg, Illinois",program:"Family & Friends",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[847],id:6674,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
@@ -826,7 +826,6 @@ const facilitators = {
   394:["Marilyn Roysdon"],
   397:["Stephen Theall"],
   398:["Mike Davies"],
-  401:["Patrick W"],
   402:["Matteo Giles"],
   408:["Benjamin Miller"],
   415:["Dan Kasriel"],
@@ -1425,6 +1424,7 @@ const facilitators = {
   2026:["Colin Boland"],
   2028:["Fayne Bouguyon"],
   2029:["John Peele"],
-  2030:["Melissa T"]
+  2030:["Melissa T"],
+  2031:["Patrick W"]
 };
-const cachedAt = "2026-08-10T10:17:02Z";
+const cachedAt = "2026-08-10T13:17:02Z";
