@@ -1349,7 +1349,6 @@ const facilitators = {
   1927:["TJ Trent","Texas"],
   1928:["Allen Ayers"],
   1929:["Andreea"],
-  1930:["Fehintioluwa Ojelabi"],
   1933:["Dan M"],
   1934:["Michael Cummings"],
   1935:["Michele K."],
@@ -1434,4 +1433,4 @@ const facilitators = {
   2032:["Stephanie Liu"],
   2033:["Karen M"]
 };
-const cachedAt = "2026-08-12T10:17:02Z";
+const cachedAt = "2026-08-12T13:17:02Z";
