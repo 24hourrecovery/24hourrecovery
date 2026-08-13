@@ -287,7 +287,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[284,761,1289,1318,1435,1858],id:5139,language:"English",location:"Beach Park, Illinois",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[145,285,1883],id:514,language:"English",location:"Towson, Maryland",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[289],id:5154,language:"English",location:"Malibu, California",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[290],id:5170,language:"English",location:"Asheville, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-08-13 16:00:00-05",dataSource:"na",duration:90,facilitator:[290],id:5170,language:"English",location:"Asheville, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1198,1245],id:522,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:6,time:"12:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[53,54,55],id:523,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[178],id:524,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
@@ -404,7 +404,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:75,facilitator:[700,1772],id:7358,language:"English",location:"Sacramento, California",program:"4-Point Recovery",schedule:{day:6,time:"19:15Z",week:[1,3]},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1964],id:7360,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1964],id:7361,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Online"},
-  {audience:["Women"],dataSource:"na",duration:60,facilitator:[1412,1413],id:7406,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z",week:[2]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1964],id:7420,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1964],id:7421,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["BIPOC"],dataSource:"na",duration:90,facilitator:[1021,2027],id:7425,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
@@ -612,6 +611,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2011,2012],id:9365,language:"English",location:"Freehold, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1950],id:9369,language:"English",location:"Sunnyvale, California",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[847],id:9377,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z"},type:"Online"},
+  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1956],id:9383,language:"English",location:"Philadelphia, Pennsylvania",program:"Family & Friends",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults"],canceled:"2026-08-17 14:00:00-05",dataSource:"na",duration:60,facilitator:[1979],id:9384,language:"English",location:"Providence, Rhode Island",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1962],id:9386,language:"English",location:"Tustin, California",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9390,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Both"},
@@ -1083,8 +1083,6 @@ const facilitators = {
   1401:["Grace Koolhoven"],
   1406:["Maya","Alberta"],
   1408:["Morgan"],
-  1412:["Alexandra"],
-  1413:["Wendy","New York"],
   1418:["Elena Simagina"],
   1419:["Alisa Yevsyakova"],
   1420:["Marie","Manitoba"],
@@ -1367,6 +1365,7 @@ const facilitators = {
   1950:["Sydney"],
   1953:["Frederic Basquin"],
   1954:["Dennis McMahon"],
+  1956:["Jacqui T"],
   1958:["Dom G"],
   1959:["Steve B."],
   1960:["Michael","New York"],
@@ -1442,4 +1441,4 @@ const facilitators = {
   2037:["Gavin"],
   2038:["Karen"]
 };
-const cachedAt = "2026-08-13T16:17:02Z";
+const cachedAt = "2026-08-13T19:17:02Z";
