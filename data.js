@@ -73,7 +73,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1889],id:1688,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1889],id:1689,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1896],id:1692,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"03:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1893],id:1693,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1893],id:1693,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"07:00Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[1893],id:1694,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1891],id:1695,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1912],id:1697,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"09:30Z"},type:"Online"},
@@ -113,7 +113,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[231],id:4441,language:"English",location:"Calgary, Alberta",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[235,236,275,1656],id:4491,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[1590],id:4644,language:"English",location:"Toronto, Ontario",program:"Family & Friends",schedule:{day:3,time:"23:00Z"},type:"Online"},
-  {audience:["Family & Friends Only"],canceled:"2026-08-16 18:15:00-05",dataSource:"ca",duration:90,facilitator:[204],id:4711,language:"English",location:"Oakville, Ontario",program:"Family & Friends",schedule:{day:0,time:"23:15Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[204],id:4711,language:"English",location:"Oakville, Ontario",program:"Family & Friends",schedule:{day:0,time:"23:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[275,754],id:5015,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:60,facilitator:[133,288,357,1265,1535],id:5147,language:"English",location:"Vancouver, British Columbia",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1740,1741],id:5276,language:"English",location:"Victoria, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
@@ -1441,4 +1441,4 @@ const facilitators = {
   2040:["Sean Patrick McNally"],
   2041:["Brandon Fields"]
 };
-const cachedAt = "2026-08-17T01:17:02Z";
+const cachedAt = "2026-08-17T04:17:03Z";
