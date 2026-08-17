@@ -39,7 +39,6 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604],id:1494,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:00Z"},type:"Online"},
-  {audience:["Australia wide Russian speaking community - Австралийское сообщество русскоговорящих по всей стране"],dataSource:"au",duration:90,facilitator:[1382,1709],id:1497,language:"Russian",location:"National",program:"Standard",schedule:{day:5,time:"09:30Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1384],id:1500,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1399,1912],id:1509,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1523,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"09:00Z"},type:"Online"},
@@ -356,7 +355,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[646,1659],id:6688,language:"English",location:"Miami, Florida",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[415,446,528,724],id:6709,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:0,time:"15:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[416],id:6712,language:"English",location:"Farmington, Maine",program:"4-Point Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:90,facilitator:[422,861,1276,2034,2035],id:6797,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:90,facilitator:[422,861,1276,2034,2039],id:6797,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:2,time:"00:30Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:120,facilitator:[238,427,912],id:6806,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[131],id:6821,language:"English",location:"Hamden, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[658],id:6827,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Online"},
@@ -525,7 +524,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[165,1491],id:8849,language:"English",location:"Sheboygan, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1551],id:8860,language:"English",location:"Watertown, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:120,facilitator:[1803],id:8869,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
-  {audience:["Adults"],canceled:"2026-08-16 17:00:00-05",dataSource:"na",duration:90,facilitator:[1556],id:8873,language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1556],id:8873,language:"English",location:"Kalamazoo, Michigan",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[114,1559,1804,2006],id:8898,language:"English",location:"Lexington Park, Maryland",program:"Family & Friends",schedule:{day:5,time:"22:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1560],id:8904,language:"English",location:"Baraboo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"18:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1562],id:8914,language:"English",location:"Middlebury, Vermont",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Both"},
@@ -1070,7 +1069,6 @@ const facilitators = {
   1370:["Khare"],
   1374:["Arvo"],
   1381:["Shannon","California"],
-  1382:["Marina"],
   1384:["Lewis"],
   1388:["Terry Bochansky"],
   1391:["Jess Ott"],
@@ -1210,7 +1208,6 @@ const facilitators = {
   1704:["Aiguli Bulire"],
   1706:["Lindsay Elmgren"],
   1707:["Ashwin Thind"],
-  1709:["Jula"],
   1710:["Marina Gindina"],
   1712:["Zoel Lopez"],
   1717:["Sean M"],
@@ -1444,4 +1441,4 @@ const facilitators = {
   2040:["Sean Patrick McNally"],
   2041:["Brandon Fields"]
 };
-const cachedAt = "2026-08-16T22:17:02Z";
+const cachedAt = "2026-08-17T01:17:02Z";
