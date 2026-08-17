@@ -241,7 +241,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[62,1584],id:4165,language:"English",location:"Wellfleet, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[209],id:4213,language:"English",location:"Seattle, Washington",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[67,2022],id:4223,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Online"},
-  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:120,facilitator:[1370,1853],id:4228,language:"English",location:"Shoreline, Washington",program:"Family & Friends",schedule:{day:6,time:"01:00Z"},type:"Online"},
+  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:120,facilitator:[1853],id:4228,language:"English",location:"Shoreline, Washington",program:"Family & Friends",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[154,155,1809],id:4248,language:"English",location:"Southbury, Connecticut",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[154,155,213],id:4270,language:"English",location:"Hamden, Connecticut",program:"Family & Friends",schedule:{day:1,time:"21:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[214],id:4285,language:"English",location:"Houston, Texas",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
@@ -1438,4 +1438,4 @@ const facilitators = {
   2040:["Sean Patrick McNally"],
   2041:["Brandon Fields"]
 };
-const cachedAt = "2026-08-17T13:17:02Z";
+const cachedAt = "2026-08-17T16:17:02Z";
