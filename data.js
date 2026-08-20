@@ -67,11 +67,11 @@ const meetings = [
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1888],id:1683,language:"English",location:"National",program:"Youth",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1887],id:1684,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"05:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[38,1890],id:1685,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"01:00Z"},type:"Online"},
-  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1890],id:1686,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"02:00Z"},type:"Online"},
+  {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-08-19 21:00:00-05",dataSource:"au",duration:90,facilitator:[1890],id:1686,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2026-08-25 01:30:00-05",dataSource:"au",duration:90,facilitator:[1889],id:1688,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1889],id:1689,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1896],id:1692,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"03:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1893],id:1693,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"07:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1893],id:1693,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:00Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[1893],id:1694,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1891],id:1695,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1912],id:1697,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"09:30Z"},type:"Online"},
@@ -264,7 +264,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[255,257,259,1367],id:4727,language:"English",location:"Mankato, Minnesota",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[51,483,977,1471],id:473,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[261],id:4771,language:"English",location:"Concord, New Hampshire",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-08-19 18:00:00-05",dataSource:"na",duration:60,facilitator:[262,666],id:4796,language:"English",location:"Woodbridge Township, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[262,666],id:4796,language:"English",location:"Woodbridge Township, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[264,1947],id:4824,language:"English",location:"Asheville, North Carolina",program:"4-Point Recovery",schedule:{day:4,time:"20:00Z"},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1586,1587],id:4830,language:"English",location:"Lexington, Kentucky",program:"Family & Friends",schedule:{day:2,time:"22:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[266],id:4871,language:"English",location:"Maryland",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
@@ -445,7 +445,7 @@ const meetings = [
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[278,1692],id:8022,language:"English",location:"Richmond, Virginia",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[656,1698],id:8030,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:30Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:120,facilitator:[159],id:8042,language:"English",location:"Bellingham, Washington",program:"Family & Friends",schedule:{day:0,time:"14:00Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-08-19 16:30:00-05",dataSource:"na",duration:60,facilitator:[1700,1701],id:8044,language:"English",location:"Buena Vista, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1700,1701],id:8044,language:"English",location:"Buena Vista, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:90,facilitator:[422,861,1805,2034,2039],id:8051,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[657,1370],id:8052,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:60,facilitator:[971],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Both"},
@@ -639,6 +639,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2036],id:9501,language:"English",location:"Roanoke, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"14:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2040],id:9503,language:"English",location:"Ogdensburg, New York",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2042],id:9504,language:"English",location:"Peachtree City, Georgia",program:"Family & Friends",schedule:{day:3,time:"23:30Z",week:[1,3]},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2048],id:9506,language:"English",location:"Pineville, West Virginia",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[278,505],id:957,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[278,1987],id:962,language:"English",location:"Bowie, Maryland",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:120,facilitator:[567,568],id:98,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"}
@@ -1432,6 +1433,7 @@ const facilitators = {
   2044:["Tina B."],
   2045:["Byron"],
   2046:["Amber K"],
-  2047:["Haley E."]
+  2047:["Haley E."],
+  2048:["Sylvia"]
 };
-const cachedAt = "2026-08-19T22:17:02Z";
+const cachedAt = "2026-08-20T01:17:03Z";
