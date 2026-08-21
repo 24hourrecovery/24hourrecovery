@@ -136,7 +136,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders"],dataSource:"ca",duration:90,facilitator:[795],id:8205,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1388],id:8231,language:"English",location:"Welland, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1296],id:8254,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"19:30Z"},type:"Both"},
-  {audience:["Women"],canceled:"2026-08-20 17:30:00-05",dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
+  {audience:["Women"],dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"19:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1561],id:8911,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -530,7 +530,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1562],id:8914,language:"English",location:"Middlebury, Vermont",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Both"},
   {audience:["Men"],dataSource:"na",duration:60,facilitator:[1563],id:8916,language:"English",location:"Oronogo, Missouri",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1577],id:8921,language:"English",location:"Peaks Island, Maine",program:"4-Point Recovery",schedule:{day:2,time:"22:15Z"},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1616,1843,1913],id:8923,language:"English",location:"Great Barrington, Massachusetts",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"01:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1602],id:8934,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"19:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1601],id:8939,language:"English",location:"Hartford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
@@ -1159,7 +1158,6 @@ const facilitators = {
   1605:["Michele"],
   1607:["Joe S."],
   1615:["Pippa"],
-  1616:["Kristany"],
   1618:["Jules"],
   1620:["Alisa Levchenko-Plekhanova"],
   1625:["Brent"],
@@ -1277,7 +1275,6 @@ const facilitators = {
   1840:["Alex S."],
   1841:["Tristan G."],
   1842:["Connie C."],
-  1843:["Jackson K"],
   1844:["Lucy Jo Tuttle"],
   1845:["Jo"],
   1846:["Sam","National"],
@@ -1330,7 +1327,6 @@ const facilitators = {
   1910:["Myra"],
   1911:["Dina"],
   1912:["Cameron","National"],
-  1913:["Kandace Weiskel"],
   1915:["Healing Presence Counselling and Psychotherapy (Sam)","National"],
   1916:["Megan R","Vermont"],
   1918:["Jonathan H"],
@@ -1438,4 +1434,4 @@ const facilitators = {
   2048:["Sylvia"],
   2049:["Mike","Virginia"]
 };
-const cachedAt = "2026-08-21T16:17:02Z";
+const cachedAt = "2026-08-21T19:17:02Z";
