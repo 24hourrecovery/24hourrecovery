@@ -35,7 +35,7 @@ const meetings = [
   {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,1304,1308],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-08-21 01:30:00-05",dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604],id:1494,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1384],id:1500,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
@@ -1440,4 +1440,4 @@ const facilitators = {
   2048:["Sylvia"],
   2049:["Mike","Virginia"]
 };
-const cachedAt = "2026-08-21T04:17:02Z";
+const cachedAt = "2026-08-21T07:17:02Z";
