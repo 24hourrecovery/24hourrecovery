@@ -397,7 +397,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[472,473],id:7244,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"13:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[216,474],id:7245,language:"English",location:"Wauwatosa, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[427,469],id:7257,language:"English",location:"New York",program:"Family & Friends",schedule:{day:5,time:"00:30Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-09-07 06:30:00-05",dataSource:"na",duration:90,facilitator:[476],id:7261,language:"English",location:"Bethlehem, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"11:30Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[476],id:7261,language:"English",location:"Bethlehem, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"11:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[741],id:7269,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[455,741,784],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[427,469,487],id:7302,language:"English",location:"National",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
@@ -675,11 +675,11 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[597,2081],id:1087,language:"English",location:"London, GB",program:"Family & Friends",schedule:{day:4,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[2066],id:1088,language:"English",location:"Telford, GB",program:"SMART Recovery",schedule:{day:4,time:"10:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[2074],id:1116,language:"Polski",location:"Edinburgh, GB",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting","Women Only"],canceled:"2027-09-07 06:00:00-05",dataSource:"uk",duration:90,facilitator:[2057],id:1119,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:1,time:"06:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting","Women Only"],canceled:"2027-09-14 06:00:00-05",dataSource:"uk",duration:90,facilitator:[2057],id:1119,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:1,time:"06:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[601],id:1125,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:0,time:"05:00Z"},type:"Online"},
   {audience:["Military Veterans","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2059],id:1157,language:"English",location:"London, GB",program:"SMART Veterans",schedule:{day:1,time:"13:30Z"},type:"Online"},
   {audience:["Military Veterans","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2093],id:1161,language:"English",location:"London, GB",program:"SMART Veterans",schedule:{day:3,time:"08:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[902],id:1199,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:6,time:"12:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[902],id:1199,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:6,time:"05:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:null,facilitator:[2091],id:1201,language:"English",location:"Stevenage, GB",program:"SMART Veterans",schedule:{day:2,time:"12:30Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2062,2088],id:1226,language:"Punjabi",location:"London, GB",program:"SMART Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[2054,2092],id:1250,language:"English",location:"Harrogate, GB",program:"SMART Recovery",schedule:{day:4,time:"08:00Z"},type:"Online"},
@@ -1538,6 +1538,7 @@ const facilitators = {
   2116:["Karl"],
   2119:["Irina"],
   2120:["Christopher"],
-  2121:["Juliet"]
+  2121:["Juliet"],
+  2122:["Sofia Yurevna Startseva"]
 };
-const cachedAt = "2026-09-07T10:17:01Z";
+const cachedAt = "2026-09-07T13:17:02Z";
