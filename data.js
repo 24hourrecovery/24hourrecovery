@@ -16,7 +16,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1291],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"00:00Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2037,2038],id:1101,language:"English",location:"Regional",program:"Standard",schedule:{day:1,time:"03:30Z"},type:"Online"},
-  {audience:["Drug and Alcohol Focus","Youth only"],canceled:"2026-09-09 04:00:00-05",dataSource:"au",duration:90,facilitator:[1053],id:1107,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"09:00Z"},type:"Online"},
+  {audience:["Drug and Alcohol Focus","Youth only"],dataSource:"au",duration:90,facilitator:[1053],id:1107,language:"English",location:"National",program:"Youth",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["LGBTIQ+ only"],dataSource:"au",duration:90,facilitator:[29,1557],id:1126,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2026-09-15 03:30:00-05",dataSource:"au",duration:90,facilitator:[1966],id:1129,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[32],id:1182,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"04:30Z"},type:"Online"},
@@ -451,7 +451,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1643,1644,1754],id:7939,language:"English",location:"Trinidad, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Both"},
   {audience:["Adults"],canceled:"2026-09-09 16:00:00-05",dataSource:"na",duration:60,facilitator:[962,963],id:7974,language:"English",location:"South Bend, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2104],id:7983,language:"English",location:"Fountain City, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[722],id:7990,language:"English",location:"Newberry Township, Pennsylvania",program:"4-Point Recovery",schedule:{day:2,time:"12:00Z",week:[2]},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[675],id:8002,language:"English",location:"New York, New York",program:"Family & Friends",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[278,1692],id:8022,language:"English",location:"Richmond, Virginia",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[656,1698],id:8030,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:30Z"},type:"Online"},
@@ -983,7 +982,6 @@ const facilitators = {
   713:["Niki"],
   717:["Jean"],
   721:["Ron Stricklin"],
-  722:["Josh CruverKibi"],
   724:["Joe Wusnack"],
   725:["Lezlie G","Ontario"],
   727:["Joseph"],
@@ -1553,4 +1551,4 @@ const facilitators = {
   2123:["Juliet","National"],
   2124:["Joshua","Michigan"]
 };
-const cachedAt = "2026-09-09T07:17:01Z";
+const cachedAt = "2026-09-09T10:17:01Z";
