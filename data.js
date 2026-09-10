@@ -55,7 +55,7 @@ const meetings = [
   {audience:["ADHD only"],dataSource:"au",duration:90,facilitator:[1304,1764],id:1617,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
   {audience:["Men only","Porn"],dataSource:"au",duration:120,facilitator:[1771],id:1624,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1626,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"00:30Z"},type:"Online"},
-  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1767],id:1628,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:00Z"},type:"Online"},
+  {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-09-14 04:00:00-05",dataSource:"au",duration:90,facilitator:[1767],id:1628,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1630,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1304],id:1636,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:30Z"},type:"Online"},
   {audience:["Men only","Porn"],dataSource:"au",duration:90,facilitator:[1771],id:1649,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
@@ -110,7 +110,7 @@ const meetings = [
   {audience:["All Welcome"],canceled:"2026-09-14 20:00:00-05",dataSource:"au",duration:60,facilitator:[1708],id:1790,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[2113],id:1791,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"10:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2113],id:1792,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1796,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:30Z"},type:"Online"},
+  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2120],id:1796,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742,1850],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139],id:2504,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
@@ -635,7 +635,7 @@ const meetings = [
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[1370,1993],id:9470,language:"English",location:"Coopersburg, Pennsylvania",program:"Family & Friends",schedule:{day:2,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[2014],id:9478,language:"English",location:"Monroe, Georgia",program:"4-Point Recovery",schedule:{day:1,time:"22:45Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2033],id:9482,language:"English",location:"Ellijay, Georgia",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[2046,2047],id:9485,language:"English",location:"Long Beach, California",program:"4-Point Recovery",schedule:{day:5,time:"02:30Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[2046,2127],id:9485,language:"English",location:"Long Beach, California",program:"4-Point Recovery",schedule:{day:5,time:"02:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2023],id:9492,language:"English",location:"Brunswick, Maine",program:"4-Point Recovery",schedule:{day:2,time:"15:30Z"},type:"Both"},
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:60,facilitator:[2028],id:9495,language:"English",location:"Richardson, Texas",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2100],id:9500,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"16:30Z"},type:"Online"},
@@ -1488,7 +1488,6 @@ const facilitators = {
   2044:["Tina B."],
   2045:["Byron"],
   2046:["Amber K"],
-  2047:["Haley E."],
   2048:["Sylvia"],
   2049:["Mike","Virginia"],
   2050:["Sarah Bristow"],
@@ -1542,6 +1541,7 @@ const facilitators = {
   2123:["Juliet","National"],
   2124:["Joshua","Michigan"],
   2125:["Claire Daff","GB"],
-  2126:["Sonia","National"]
+  2126:["Sonia","National"],
+  2127:["Haley E."]
 };
-const cachedAt = "2026-09-10T01:17:01Z";
+const cachedAt = "2026-09-10T04:17:01Z";
