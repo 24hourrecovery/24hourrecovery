@@ -407,6 +407,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[497,652,1567],id:7343,language:"English",location:"Canfield, Ohio",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[971],id:7345,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[971],id:7346,language:"English",location:"Lakewood, Colorado",program:"Family & Friends",schedule:{day:6,time:"18:00Z"},type:"Both"},
+  {audience:["Adults"],dataSource:"na",duration:75,facilitator:[700,1772],id:7358,language:"English",location:"Sacramento, California",program:"4-Point Recovery",schedule:{day:6,time:"19:15Z",week:[1,3]},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1964],id:7360,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1964],id:7361,language:"English",location:"West Union, West Virginia",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1438,1439,1440,1441,1458,1964],id:7420,language:"English",location:"West Union, West Virginia",program:"4-Point Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
@@ -1542,4 +1543,4 @@ const facilitators = {
   2131:["Sahand"],
   2132:["Diana U."]
 };
-const cachedAt = "2026-09-12T16:17:01Z";
+const cachedAt = "2026-09-12T19:17:01Z";
