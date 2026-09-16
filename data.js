@@ -301,7 +301,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[53,54,55],id:523,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[178],id:524,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[295,462],id:5283,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:2,time:"12:30Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-09-16T15:00:00Z",dataSource:"na",duration:60,facilitator:[296],id:5294,language:"English",location:"Columbus, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[296],id:5294,language:"English",location:"Columbus, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[89],id:5295,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[700,1772],id:5329,language:"English",location:"Sacramento, California",program:"4-Point Recovery",schedule:{day:0,time:"16:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1753],id:5374,language:"English",location:"Philadelphia, Pennsylvania",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -616,9 +616,9 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[847],id:9377,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adults"],canceled:"2026-09-21T19:00:00Z",dataSource:"na",duration:60,facilitator:[1979],id:9384,language:"English",location:"Providence, Rhode Island",program:"4-Point Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1962],id:9386,language:"English",location:"Tustin, California",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9390,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9391,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9392,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9390,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Both"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9391,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Both"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9392,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1566,1640],id:9396,language:"English",location:"Austin, Texas",program:"4-Point Recovery",schedule:{day:2,time:"14:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1973],id:9397,language:"English",location:"Dallas, Texas",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[1717],id:9399,language:"English",location:"Mechanicsburg, Pennsylvania",program:"4-Point Recovery",schedule:{day:0,time:"18:00Z"},type:"Online"},
@@ -640,7 +640,6 @@ const meetings = [
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:60,facilitator:[2028],id:9495,language:"English",location:"Richardson, Texas",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2100],id:9500,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"16:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2036,2049],id:9501,language:"English",location:"Roanoke, Virginia",program:"4-Point Recovery",schedule:{day:4,time:"14:00Z"},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2040],id:9503,language:"English",location:"Ogdensburg, New York",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Aviation Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[2042],id:9504,language:"English",location:"Peachtree City, Georgia",program:"Family & Friends",schedule:{day:3,time:"23:30Z",week:[1,3,-1]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2132],id:9505,language:"English",location:"Toledo, Ohio",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z",week:[3]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2048],id:9506,language:"English",location:"Pineville, West Virginia",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -1471,7 +1470,6 @@ const facilitators = {
   2036:["Jessica","Virginia"],
   2037:["Gavin"],
   2038:["Karen"],
-  2040:["Sean Patrick McNally"],
   2042:["Tanya Kroge"],
   2043:["Rackel"],
   2044:["Tina B."],
@@ -1544,4 +1542,4 @@ const facilitators = {
   2137:["Joshua","Michigan"],
   2138:["Mike Fitts"]
 };
-const cachedAt = "2026-09-16T13:17:01Z";
+const cachedAt = "2026-09-16T16:17:01Z";
