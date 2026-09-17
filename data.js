@@ -481,7 +481,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[792],id:8259,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:6,time:"22:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[658],id:8266,language:"English",location:"Palm Springs, California",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[793,1504],id:8268,language:"English",location:"Portland, Oregon",program:"4-Point Recovery",schedule:{day:6,time:"17:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1916],id:8274,language:"English",location:"Town of Rockingham, Vermont",program:"4-Point Recovery",schedule:{day:4,time:"12:30Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-09-17T12:30:00Z",dataSource:"na",duration:60,facilitator:[1916],id:8274,language:"English",location:"Town of Rockingham, Vermont",program:"4-Point Recovery",schedule:{day:4,time:"12:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2005],id:8279,language:"English",location:"Torrington, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[100,101,855],id:8302,language:"English",location:"Overland Park, Kansas",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[842],id:8306,language:"English",location:"Wallingford, Connecticut",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
@@ -1545,4 +1545,4 @@ const facilitators = {
   2138:["Mike Fitts"],
   2139:["David","Illinois"]
 };
-const cachedAt = "2026-09-17T10:17:01Z";
+const cachedAt = "2026-09-17T13:17:01Z";
