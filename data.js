@@ -693,6 +693,7 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2082],id:1400,language:"English",location:"Barnet, London Borough of Barnet, GB",program:"Family & Friends",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2109],id:1437,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:3,time:"10:30Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2115],id:1440,language:"Português",location:"Nationwide",program:"SMART Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2141],id:1443,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:1,time:"13:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[1379,1380],id:879,language:"English",location:"Leicester, GB",program:"SMART Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[2073],id:882,language:"English",location:"Penrhyn House, Llandegai Road, Bangor, LL57, GB",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"Online, In-person"},
   {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:90,facilitator:[2076],id:998,language:"English",location:"LGBT Foundation, Fairbairn House (2nd Floor), Manchester, M1 3NJ, GB",program:"SMART Recovery",schedule:{day:4,time:"17:00Z"},type:"Online, In-person"}
@@ -1546,6 +1547,7 @@ const facilitators = {
   2136:["Sarah","National"],
   2137:["Joshua","Michigan"],
   2138:["Mike Fitts"],
-  2139:["David","Illinois"]
+  2139:["David","Illinois"],
+  2141:["Gina Frame"]
 };
-const cachedAt = "2026-09-18T10:17:01Z";
+const cachedAt = "2026-09-18T13:17:01Z";
