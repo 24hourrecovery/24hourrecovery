@@ -130,6 +130,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[275,754],id:5015,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:60,facilitator:[133,288,357,1265,1535],id:5147,language:"English",location:"Vancouver, British Columbia",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1740,1741],id:5276,language:"English",location:"Victoria, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
+  {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[1657,1699,1736,1737,1742,1747,1748,1749],id:5388,language:"English",location:"Ottawa, Ontario",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[315],id:5532,language:"English",location:"Kelowna, British Columbia",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1706],id:5710,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[181],id:5955,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"16:10Z"},type:"Online"},
@@ -1254,6 +1255,7 @@ const facilitators = {
   1692:["Cindy Kauffman"],
   1696:["Bianca"],
   1698:["James J"],
+  1699:["Catherine S","Ontario"],
   1700:["Ashley"],
   1701:["Sarah Shepherd"],
   1702:["Steven"],
@@ -1266,6 +1268,8 @@ const facilitators = {
   1722:["Jim"],
   1727:["Alexis"],
   1728:["Sharon"],
+  1736:["Diane O."],
+  1737:["Linda C."],
   1738:["Skylar"],
   1740:["Josh Albus"],
   1741:["Stefanie B"],
@@ -1274,6 +1278,9 @@ const facilitators = {
   1744:["Ekaterina Chalova"],
   1745:["Viktor Ekkert"],
   1746:["Viktor Koshelev"],
+  1747:["Joe Holubowich"],
+  1748:["Kim S."],
+  1749:["Lisa Q"],
   1753:["Dana","Pennsylvania"],
   1754:["Jason"],
   1755:["Augie"],
@@ -1541,4 +1548,4 @@ const facilitators = {
   2141:["Gina Frame"],
   2142:["Zel R"]
 };
-const cachedAt = "2026-09-19T01:17:01Z";
+const cachedAt = "2026-09-19T04:17:02Z";
