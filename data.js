@@ -645,7 +645,7 @@ const meetings = [
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1940],id:9532,language:"English",location:"New York",program:"Family & Friends",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2142],id:9540,language:"English",location:"New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2104],id:9541,language:"English",location:"Fountain City, Wisconsin",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2110],id:9542,language:"English",location:"Kentucky",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-09-27T15:00:00Z",dataSource:"na",duration:60,facilitator:[2110],id:9542,language:"English",location:"Kentucky",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2140],id:9551,language:"English",location:"Schenectady, New York",program:"4-Point Recovery",schedule:{day:5,time:"18:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2129],id:9553,language:"English",location:"Owego, New York",program:"4-Point Recovery",schedule:{day:4,time:"21:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2137],id:9556,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:4,time:"21:30Z"},type:"Both"},
@@ -1544,4 +1544,4 @@ const facilitators = {
   2141:["Gina Frame"],
   2142:["Zel R"]
 };
-const cachedAt = "2026-09-22T07:17:01Z";
+const cachedAt = "2026-09-22T10:17:01Z";
