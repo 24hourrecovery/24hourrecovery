@@ -35,6 +35,7 @@ const meetings = [
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[1943,1944],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"05:00Z"},type:"Both"},
   {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,1304,1308],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome","Drug focus"],dataSource:"au",duration:90,facilitator:[2108],id:1436,language:"English",location:"National",program:"Family & Friends",schedule:{day:5,time:"04:00Z"},type:"Online"},
+  {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z",week:[1]},type:"Both"},
   {audience:["Alcohol Focus","All Welcome","Medically Assisted Therapies for AUD"],dataSource:"au",duration:60,facilitator:[1256],id:1441,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
@@ -67,7 +68,7 @@ const meetings = [
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1888],id:1683,language:"English",location:"National",program:"Youth",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1887],id:1684,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[38,1890],id:1685,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"01:00Z"},type:"Online"},
-  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1890,2123],id:1686,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"02:00Z"},type:"Online"},
+  {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-09-25T02:00:00Z",dataSource:"au",duration:90,facilitator:[1890,2123],id:1686,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1889],id:1688,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1889],id:1689,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1896],id:1692,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
@@ -1034,6 +1035,8 @@ const facilitators = {
   912:["Maya Prejbisz"],
   930:["Maria Kroener \"MK\""],
   936:["Ted"],
+  947:["Alex","National"],
+  948:["Isabel"],
   951:["Noel Elmore"],
   952:["Frank H"],
   957:["Charles Smith"],
@@ -1531,4 +1534,4 @@ const facilitators = {
   2145:["Jason","Colorado"],
   2146:["Benjamin Fuller"]
 };
-const cachedAt = "2026-09-24T04:17:01Z";
+const cachedAt = "2026-09-24T07:17:01Z";
