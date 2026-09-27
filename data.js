@@ -11,7 +11,7 @@ const meetings = [
   {audience:["All Welcome","Gaming and Gambling"],dataSource:"au",duration:90,facilitator:[20],id:1039,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[21],id:1041,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1043,language:"English",location:"Perth, Western Australia",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
-  {audience:["Camera-On Meeting","Women only"],dataSource:"au",duration:90,facilitator:[671],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:00Z"},type:"Online"},
+  {audience:["Camera-On Meeting","Women only"],dataSource:"au",duration:90,facilitator:[671],id:1045,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[23],id:1047,language:"English",location:"National",program:"Family & Friends",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[24],id:1065,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1291],id:1071,language:"English",location:"Frankston, Victoria",program:"Standard",schedule:{day:2,time:"00:00Z"},type:"Both"},
@@ -30,7 +30,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[46,713],id:1294,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"08:30Z"},type:"Online"},
   {audience:["Camera-On Meeting","Life beyond addiction"],dataSource:"au",duration:90,facilitator:[671,689],id:1336,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","LGBTQIA+ only"],dataSource:"au",duration:90,facilitator:[1845,1846,1847],id:1366,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:30Z"},type:"Online"},
-  {audience:["Women only"],dataSource:"au",duration:90,facilitator:[811],id:1368,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:30Z"},type:"Online"},
+  {audience:["Women only"],dataSource:"au",duration:90,facilitator:[811],id:1368,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:30Z"},type:"Online"},
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[1943,1944],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"05:00Z"},type:"Both"},
   {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,1304,1308],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["All Welcome","Drug focus"],dataSource:"au",duration:90,facilitator:[2108],id:1436,language:"English",location:"National",program:"Family & Friends",schedule:{day:5,time:"04:00Z"},type:"Online"},
@@ -39,7 +39,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"09:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[604],id:1494,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:00Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1384],id:1500,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1399,1912],id:1509,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
@@ -87,7 +87,7 @@ const meetings = [
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1989],id:1731,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1991],id:1735,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1992],id:1737,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"09:00Z"},type:"Online"},
-  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1992],id:1738,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:00Z"},type:"Online"},
+  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1992],id:1738,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1989],id:1748,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[2117,2118],id:1749,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["Korean speakers only"],dataSource:"au",duration:90,facilitator:[2017],id:1750,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"09:00Z"},type:"Online"},
@@ -673,7 +673,7 @@ const meetings = [
   {audience:["Military Veterans","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2093],id:1161,language:"English",location:"London, GB",program:"SMART Veterans",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[902],id:1199,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:null,facilitator:[2091],id:1201,language:"English",location:"Stevenage, GB",program:"SMART Veterans",schedule:{day:2,time:"17:30Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2062,2088],id:1226,language:"Punjabi",location:"London, GB",program:"SMART Recovery",schedule:{day:0,time:"07:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2062,2088],id:1226,language:"Punjabi",location:"London, GB",program:"SMART Recovery",schedule:{day:6,time:"07:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[2054,2092],id:1250,language:"English",location:"Harrogate, GB",program:"SMART Recovery",schedule:{day:3,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[980],id:1253,language:"English",location:"London, SW1A 2, GB",program:"Family & Friends",schedule:{day:3,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:null,facilitator:[2064,2086],id:1287,language:"English",location:"Sheffield, S1 4PT, GB",program:"SMART Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
@@ -1529,4 +1529,4 @@ const facilitators = {
   2147:["Alina Rusanova"],
   2148:["Ryabova Olesya"]
 };
-const cachedAt = "2026-09-27T07:17:01Z";
+const cachedAt = "2026-09-27T10:17:01Z";
