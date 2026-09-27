@@ -76,7 +76,7 @@ const meetings = [
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1891],id:1695,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1912],id:1697,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1900],id:1699,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"21:30Z"},type:"Online"},
-  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1900],id:1700,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"00:30Z"},type:"Online"},
+  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1900],id:1700,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"23:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1896],id:1702,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1891],id:1703,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1905],id:1706,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
@@ -132,6 +132,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[315],id:5532,language:"English",location:"Kelowna, British Columbia",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1706],id:5710,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[181],id:5955,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"16:10Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[357,358,1265],id:6053,language:"English",location:"Squamish, British Columbia",program:"4-Point Recovery",schedule:{day:6,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[370],id:6215,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"ca",duration:90,facilitator:[275],id:6432,language:"English",location:"Edmonton, Alberta",program:"Family & Friends",schedule:{day:3,time:"01:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[397,398,1478],id:6564,language:"English",location:"Kitchener, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"23:30Z"},type:"Online"},
@@ -530,7 +531,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1562],id:8914,language:"English",location:"Middlebury, Vermont",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Both"},
   {audience:["Men"],dataSource:"na",duration:60,facilitator:[1563],id:8916,language:"English",location:"Oronogo, Missouri",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1577],id:8921,language:"English",location:"Peaks Island, Maine",program:"4-Point Recovery",schedule:{day:2,time:"22:15Z"},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626,2046],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"03:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1626,2046],id:8929,language:"English",location:"Woburn, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1602],id:8934,language:"English",location:"Raleigh, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"19:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1601],id:8939,language:"English",location:"Hartford, Connecticut",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[556],id:8944,language:"English",location:"Salt Lake City, Utah",program:"4-Point Recovery",schedule:{day:1,time:"19:30Z"},type:"Online"},
@@ -859,6 +860,7 @@ const facilitators = {
   353:["Abdul A."],
   356:["Seth Schroeder"],
   357:["Manouane"],
+  358:["Soroush Zonuzi"],
   361:["Rob Martin"],
   363:["Emily Tompkins"],
   366:["Alex Libre"],
@@ -1529,4 +1531,4 @@ const facilitators = {
   2147:["Alina Rusanova"],
   2148:["Ryabova Olesya"]
 };
-const cachedAt = "2026-09-27T01:17:01Z";
+const cachedAt = "2026-09-27T04:17:01Z";
