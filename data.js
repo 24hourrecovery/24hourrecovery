@@ -455,7 +455,6 @@ const meetings = [
   {audience:["Adult Family Members and Friends","LGBTQIA+"],dataSource:"na",duration:90,facilitator:[543],id:7864,language:"Russian",location:"Portland, Oregon",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[544],id:7867,language:"English",location:"Trinidad, California",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[555],id:7919,language:"English",location:"York, Pennsylvania",program:"Successful Life Skills",schedule:{day:5,time:"00:00Z",week:[2,3,4,-1]},type:"Online"},
-  {audience:["Adults"],canceled:"2026-10-12T20:00:00Z",dataSource:"na",duration:60,facilitator:[1643,1644,1754],id:7939,language:"English",location:"Trinidad, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Both"},
   {audience:["Adults"],canceled:"2026-10-07T21:00:00Z",dataSource:"na",duration:60,facilitator:[962,963],id:7974,language:"English",location:"South Bend, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2104],id:7983,language:"English",location:"Fountain City, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[722],id:7990,language:"English",location:"Newberry Township, Pennsylvania",program:"4-Point Recovery",schedule:{day:2,time:"12:00Z",week:[2]},type:"Online"},
@@ -1215,8 +1214,6 @@ const facilitators = {
   1637:["Anne Cappelletti"],
   1638:["James G"],
   1640:["Noni"],
-  1643:["Kat Serrato"],
-  1644:["Tony Deese"],
   1648:["Jenni K"],
   1652:["Johny Brooklyn"],
   1653:["Ashley Earle"],
@@ -1270,7 +1267,6 @@ const facilitators = {
   1748:["Kim S."],
   1749:["Lisa Q"],
   1753:["Dana","Pennsylvania"],
-  1754:["Jason","Colorado"],
   1755:["Augie"],
   1756:["Manrou/Mandy Zhen"],
   1757:["Max Tang"],
@@ -1543,4 +1539,4 @@ const facilitators = {
   2163:["Danielle H"],
   2164:["Dom"]
 };
-const cachedAt = "2026-10-07T16:17:01Z";
+const cachedAt = "2026-10-07T19:17:02Z";
