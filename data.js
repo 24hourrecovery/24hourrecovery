@@ -388,7 +388,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[216,435,1810],id:6873,language:"English",location:"Maple Grove, Minnesota",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[216,1688],id:6881,language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"20:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders Only","Women"],dataSource:"na",duration:90,facilitator:[422,1276,1328,1805],id:6882,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:90,facilitator:[422,433,623,1269,1276,1812,1829,1902,2034],id:6888,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:90,facilitator:[422,433,623,1269,1276,1812,1902,2034],id:6888,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:90,facilitator:[422,434,1269,2034],id:6891,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:6,time:"00:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[68,69,455,1392,2134],id:6893,language:"English",location:"Lancaster, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[443],id:6896,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"21:30Z"},type:"Online"},
@@ -651,7 +651,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2137],id:9557,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2137],id:9558,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2139],id:9567,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:4,time:"17:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9568,language:"English",location:"Antigo, Wisconsin",program:"Family & Friends",schedule:{day:4,time:"15:00Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-10-08T15:00:00Z",dataSource:"na",duration:90,facilitator:[1803],id:9568,language:"English",location:"Antigo, Wisconsin",program:"Family & Friends",schedule:{day:4,time:"15:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9569,language:"English",location:"Antigo, Wisconsin",program:"Family & Friends",schedule:{day:2,time:"15:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[278,505],id:957,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[2167],id:9581,language:"English",location:"Elizabeth City, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
@@ -1548,4 +1548,4 @@ const facilitators = {
   2166:["Christopher Huff","Ontario"],
   2167:["Cody Marks"]
 };
-const cachedAt = "2026-10-08T10:17:02Z";
+const cachedAt = "2026-10-08T13:17:01Z";
