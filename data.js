@@ -588,7 +588,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[658],id:9231,language:"English",location:"Palm Desert, California",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends","Military, Veterans & First Responders Only"],canceled:"2026-10-13T23:30:00Z",dataSource:"na",duration:60,facilitator:[1829],id:9244,language:"English",location:"Evesham, New Jersey",program:"Family & Friends",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1848,1859],id:9246,language:"English",location:"Bowling Green, Kentucky",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
-  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1856],id:9247,language:"English",location:"Longview, Texas",program:"Family & Friends",schedule:{day:0,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1856],id:9249,language:"English",location:"Longview, Texas",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1855],id:9254,language:"English",location:"Watterson Park, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"14:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1366],id:9256,language:"English",location:"Lancaster, Texas",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
@@ -651,7 +650,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2137],id:9557,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2137],id:9558,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"16:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2139],id:9567,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:4,time:"17:00Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-10-08T15:00:00Z",dataSource:"na",duration:90,facilitator:[1803],id:9568,language:"English",location:"Antigo, Wisconsin",program:"Family & Friends",schedule:{day:4,time:"15:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9568,language:"English",location:"Antigo, Wisconsin",program:"Family & Friends",schedule:{day:4,time:"15:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9569,language:"English",location:"Antigo, Wisconsin",program:"Family & Friends",schedule:{day:2,time:"15:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[278,505],id:957,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[2167],id:9581,language:"English",location:"Elizabeth City, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
@@ -1548,4 +1547,4 @@ const facilitators = {
   2166:["Christopher Huff","Ontario"],
   2167:["Cody Marks"]
 };
-const cachedAt = "2026-10-08T13:17:01Z";
+const cachedAt = "2026-10-08T16:17:02Z";
