@@ -71,7 +71,7 @@ const meetings = [
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1889],id:1689,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1896],id:1692,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1893],id:1693,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:00Z"},type:"Online"},
-  {audience:["Women only"],dataSource:"au",duration:90,facilitator:[1893],id:1694,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:00Z"},type:"Online"},
+  {audience:["Women only"],dataSource:"au",duration:90,facilitator:[1893],id:1694,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1891],id:1695,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-10-09T08:30:00Z",dataSource:"au",duration:90,facilitator:[1912],id:1697,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1900],id:1699,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"21:30Z"},type:"Online"},
@@ -97,7 +97,6 @@ const meetings = [
   {audience:["Alcohol Focus","Camera-On Meeting","Women only"],dataSource:"au",duration:90,facilitator:[2043],id:1767,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2097],id:1769,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2043],id:1770,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:00Z"},type:"Online"},
-  {audience:["Camera-On Meeting","Military, Veterans & First Responders Only"],dataSource:"au",duration:60,facilitator:[38,2106],id:1771,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
   {audience:["Anxiety support"],dataSource:"au",duration:90,facilitator:[1831],id:1775,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome","Family, friends and carers"],dataSource:"au",duration:90,facilitator:[2103],id:1781,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["ADHD only"],dataSource:"au",duration:90,facilitator:[2010],id:1785,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"23:00Z"},type:"Online"},
@@ -1498,7 +1497,6 @@ const facilitators = {
   2103:["Lisa"],
   2104:["Mike Christner"],
   2105:["Rohena"],
-  2106:["Shaun"],
   2107:["Stephen Jay Warren"],
   2108:["STEPS team"],
   2109:["Jake Hall"],
@@ -1549,4 +1547,4 @@ const facilitators = {
   2167:["Cody Marks"],
   2168:["Sean"]
 };
-const cachedAt = "2026-10-09T04:17:02Z";
+const cachedAt = "2026-10-09T07:17:01Z";
