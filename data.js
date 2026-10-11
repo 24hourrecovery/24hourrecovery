@@ -119,7 +119,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2153],id:1812,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2153],id:1813,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2153],id:1814,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"06:00Z"},type:"Online"},
-  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2152],id:1815,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-10-11T07:00:00Z",dataSource:"au",duration:90,facilitator:[2152],id:1815,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[2152],id:1816,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2164],id:1818,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Family, friends and carers"],dataSource:"au",duration:120,facilitator:[1831],id:1819,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"07:30Z"},type:"Online"},
@@ -654,7 +654,7 @@ const meetings = [
   {audience:["Women"],canceled:"2026-10-14T22:30:00Z",dataSource:"na",duration:90,facilitator:[278,505],id:957,language:"English",location:"Laurel, Maryland",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[2167],id:9581,language:"English",location:"Elizabeth City, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[2127],id:9584,language:"English",location:"Granite Falls, Washington",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9590,language:"English",location:"Stoneham, Massachusetts",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9590,language:"English",location:"Stoneham, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"01:15Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1800],id:9591,language:"English",location:"Eau Claire, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[2161],id:9597,language:"English",location:"Quincy, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[2162],id:9600,language:"English",location:"Hollywood, Florida",program:"Family & Friends",schedule:{day:6,time:"16:00Z"},type:"Both"},
@@ -1543,4 +1543,4 @@ const facilitators = {
   2167:["Cody Marks"],
   2168:["Sean"]
 };
-const cachedAt = "2026-10-11T04:17:01Z";
+const cachedAt = "2026-10-11T07:17:01Z";
