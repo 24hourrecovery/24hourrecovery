@@ -111,6 +111,7 @@ const meetings = [
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2120],id:1801,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"18:30Z"},type:"Online"},
   {audience:["Anxiety support","Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[2130],id:1802,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1803,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"18:30Z"},type:"Online"},
+  {audience:["Drug focus"],dataSource:"au",duration:90,facilitator:[2136],id:1805,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2153],id:1807,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2152],id:1808,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1809,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"18:30Z"},type:"Online"},
@@ -391,7 +392,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:90,facilitator:[422,434,1269,2034],id:6891,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:6,time:"00:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[68,69,455,1392,2134],id:6893,language:"English",location:"Lancaster, Massachusetts",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[443],id:6896,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:6,time:"21:30Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-10-10T23:00:00Z",dataSource:"na",duration:120,facilitator:[444],id:6917,language:"English",location:"Menomonie, Wisconsin",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:120,facilitator:[444],id:6917,language:"English",location:"Menomonie, Wisconsin",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[831],id:6933,language:"Spanish",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"na",duration:90,facilitator:[446],id:6959,language:"English",location:"New Orleans, Louisiana",program:"4-Point Recovery",schedule:{day:0,time:"23:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[198,199,312,336],id:6961,language:"English",location:"Rancho Mirage, California",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
@@ -1514,6 +1515,7 @@ const facilitators = {
   2133:["Anglicare Tasmania"],
   2134:["Mike B."],
   2135:["Layna Vankirk"],
+  2136:["Sarah","National"],
   2137:["Joshua","Michigan"],
   2138:["Mike Fitts"],
   2139:["David","Illinois"],
@@ -1543,4 +1545,4 @@ const facilitators = {
   2167:["Cody Marks"],
   2168:["Sean"]
 };
-const cachedAt = "2026-10-10T22:17:02Z";
+const cachedAt = "2026-10-11T01:17:01Z";
