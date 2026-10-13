@@ -78,7 +78,7 @@ const meetings = [
   {audience:["Camera-On Meeting","Food and eating focus"],dataSource:"au",duration:90,facilitator:[1904],id:1705,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"04:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1905],id:1706,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1905],id:1707,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"22:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-10-13T09:30:00Z",dataSource:"au",duration:90,facilitator:[1926],id:1708,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1926],id:1708,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1911],id:1710,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1911],id:1714,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"23:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1967],id:1721,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"03:30Z"},type:"Online"},
@@ -1250,6 +1250,7 @@ const facilitators = {
   1702:["Steven"],
   1703:["Alwyne"],
   1706:["Lindsay Elmgren"],
+  1707:["Ashwin Thind"],
   1712:["Zoel Lopez"],
   1721:["Ryan","Arizona"],
   1722:["Jim"],
@@ -1376,6 +1377,7 @@ const facilitators = {
   1927:["TJ Trent","Texas"],
   1928:["Allen Ayers"],
   1929:["Andreea"],
+  1930:["Fehintioluwa Ojelabi"],
   1933:["Dan M"],
   1934:["Michael Cummings"],
   1935:["Michele K."],
@@ -1544,4 +1546,4 @@ const facilitators = {
   2171:["Sim"],
   2172:["Vince A."]
 };
-const cachedAt = "2026-10-13T10:17:01Z";
+const cachedAt = "2026-10-13T13:17:01Z";
