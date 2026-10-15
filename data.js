@@ -23,6 +23,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[33],id:1192,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:30Z"},type:"Online"},
   {audience:["LGBTQIA+ only"],dataSource:"au",duration:90,facilitator:[29,1995],id:1216,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["NSW based clients only"],dataSource:"au",duration:90,facilitator:[1967],id:1243,language:"English",location:"Regional",program:"Family & Friends",schedule:{day:2,time:"06:00Z"},type:"Online"},
+  {audience:["Alcohol Focus","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1143],id:1282,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1994],id:1284,language:"English",location:"National",program:"Youth",schedule:{day:5,time:"03:30Z"},type:"Both"},
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[683],id:1285,language:"English",location:"National",program:"Youth",schedule:{day:4,time:"23:00Z"},type:"Both"},
   {audience:["Drug and Alcohol Focus","People living in New Zealand only"],dataSource:"au",duration:90,facilitator:[1457],id:1290,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"05:00Z"},type:"Online"},
@@ -92,6 +93,7 @@ const meetings = [
   {audience:["Alcohol Focus","Camera-On Meeting","Women only"],dataSource:"au",duration:90,facilitator:[2043],id:1767,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2097],id:1769,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-10-19T07:00:00Z",dataSource:"au",duration:90,facilitator:[2043],id:1770,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:00Z"},type:"Online"},
+  {audience:["Camera-On Meeting","Military, Veterans & First Responders Only"],dataSource:"au",duration:60,facilitator:[38,2106],id:1771,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
   {audience:["Anxiety support"],dataSource:"au",duration:90,facilitator:[1831],id:1775,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome","Family, friends and carers"],dataSource:"au",duration:90,facilitator:[2103],id:1781,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["ADHD only"],dataSource:"au",duration:90,facilitator:[2010],id:1785,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"23:00Z"},type:"Online"},
@@ -712,6 +714,7 @@ const facilitators = {
   32:["Alicia"],
   33:["Warrondi Engage & Link"],
   34:["Olivia"],
+  38:["Denis Smith"],
   46:["PCD"],
   50:["Natalie"],
   51:["Rebecca Heller"],
@@ -1070,6 +1073,7 @@ const facilitators = {
   1135:["William","Texas"],
   1136:["Jason D"],
   1142:["Lucy"],
+  1143:["Kelly"],
   1167:["Nicole","National"],
   1168:["Susanne"],
   1169:["Kerstin"],
@@ -1487,6 +1491,7 @@ const facilitators = {
   2103:["Lisa"],
   2104:["Mike Christner"],
   2105:["Rohena"],
+  2106:["Shaun"],
   2107:["Stephen Jay Warren"],
   2108:["STEPS team"],
   2109:["Jake Hall"],
@@ -1541,4 +1546,4 @@ const facilitators = {
   2172:["Vince A."],
   2175:["Widad"]
 };
-const cachedAt = "2026-10-15T07:17:01Z";
+const cachedAt = "2026-10-15T10:17:01Z";
