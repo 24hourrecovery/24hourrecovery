@@ -107,7 +107,6 @@ const meetings = [
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2120],id:1801,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"18:30Z"},type:"Online"},
   {audience:["Anxiety support","Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[2130],id:1802,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1803,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"18:30Z"},type:"Online"},
-  {audience:["Drug focus"],dataSource:"au",duration:60,facilitator:[2136],id:1805,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"05:00Z",week:[1]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2153],id:1807,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2171],id:1808,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1809,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"18:30Z"},type:"Online"},
@@ -160,7 +159,6 @@ const meetings = [
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:90,facilitator:[864],id:8345,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:0,time:"20:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"21:45Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[439,2143],id:8719,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:6,time:"22:00Z",week:[1,3]},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1561],id:8911,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Youth/Young Adults (16-25)"],dataSource:"ca",duration:90,facilitator:[1840,1841],id:8954,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome","All Welcome"],dataSource:"ca",duration:60,facilitator:[371],id:9012,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -898,7 +896,6 @@ const facilitators = {
   433:["Amy M."],
   434:["Stephen","National"],
   435:["Alan S."],
-  439:["Greg","Alberta"],
   440:["Jim M."],
   443:["Peter","New York"],
   444:["Andrew Garr"],
@@ -1084,6 +1081,7 @@ const facilitators = {
   1169:["Kerstin"],
   1198:["Stasia DeMarco"],
   1223:["Abigail"],
+  1232:["Angela Bekederemo"],
   1239:["Ifechidere Ugwuibe"],
   1245:["Jessica B"],
   1246:["Clea P"],
@@ -1517,14 +1515,12 @@ const facilitators = {
   2133:["Anglicare Tasmania"],
   2134:["Mike B."],
   2135:["Layna Vankirk"],
-  2136:["Sarah","National"],
   2137:["Joshua","Michigan"],
   2138:["Mike Fitts"],
   2139:["David","Illinois"],
   2140:["Karl"],
   2141:["Gina Frame"],
   2142:["Zel R"],
-  2143:["Maya"],
   2145:["Jason","Colorado"],
   2146:["Benjamin Fuller"],
   2147:["Alina Rusanova"],
@@ -1558,4 +1554,4 @@ const facilitators = {
   2180:["Logan R"],
   2181:["Uzma"]
 };
-const cachedAt = "2026-10-18T19:17:01Z";
+const cachedAt = "2026-10-18T22:17:01Z";
