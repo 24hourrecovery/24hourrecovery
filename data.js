@@ -86,7 +86,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1885,1886,2001],id:1730,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"22:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1989],id:1731,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1992],id:1737,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:00Z"},type:"Online"},
-  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1992],id:1738,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:00Z"},type:"Online"},
+  {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-10-18T07:00:00Z",dataSource:"au",duration:90,facilitator:[1992],id:1738,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1989],id:1748,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"01:00Z"},type:"Online"},
   {audience:["Korean speakers only"],dataSource:"au",duration:90,facilitator:[2017],id:1750,language:"Korean",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1991],id:1755,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"01:00Z"},type:"Online"},
@@ -107,7 +107,7 @@ const meetings = [
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2120],id:1801,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"18:30Z"},type:"Online"},
   {audience:["Anxiety support","Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[2130],id:1802,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1803,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"18:30Z"},type:"Online"},
-  {audience:["Drug focus"],dataSource:"au",duration:90,facilitator:[2136],id:1805,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"23:00Z"},type:"Online"},
+  {audience:["Drug focus"],dataSource:"au",duration:60,facilitator:[2136],id:1805,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"05:00Z",week:[1]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2153],id:1807,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2171],id:1808,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1809,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"18:30Z"},type:"Online"},
@@ -1555,4 +1555,4 @@ const facilitators = {
   2179:["Sam Nugraha","Global"],
   2180:["Logan R"]
 };
-const cachedAt = "2026-10-18T01:17:01Z";
+const cachedAt = "2026-10-18T04:17:01Z";
