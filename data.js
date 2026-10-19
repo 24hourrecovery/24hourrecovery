@@ -67,7 +67,7 @@ const meetings = [
   {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-10-20T05:30:00Z",dataSource:"au",duration:90,facilitator:[1889],id:1688,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"05:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-10-20T02:30:00Z",dataSource:"au",duration:90,facilitator:[1889],id:1689,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1896],id:1692,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-10-19T06:00:00Z",dataSource:"au",duration:90,facilitator:[1893],id:1693,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:00Z"},type:"Online"},
+  {audience:["All Welcome"],canceled:"2026-10-19T07:00:00Z",dataSource:"au",duration:90,facilitator:[1893],id:1693,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:00Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[1893],id:1694,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"21:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1891],id:1695,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1912],id:1697,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
@@ -124,6 +124,8 @@ const meetings = [
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[2175],id:1830,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[2181],id:1832,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[2181],id:1833,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:00Z"},type:"Online"},
+  {audience:["Women only"],dataSource:"au",duration:90,facilitator:[1893],id:1834,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"09:00Z"},type:"Online"},
+  {audience:["Drug focus","Youth only"],dataSource:"au",duration:60,facilitator:[2182],id:1835,language:"English",location:"National",program:"Youth",schedule:{day:2,time:"04:30Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742,1850],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[139,2131],id:3353,language:"English",location:"White Rock, British Columbia",program:"4-Point Recovery",schedule:{day:0,time:"01:30Z"},type:"Online"},
@@ -459,7 +461,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[962,963],id:7974,language:"English",location:"South Bend, Indiana",program:"4-Point Recovery",schedule:{day:3,time:"21:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2104],id:7983,language:"English",location:"Fountain City, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[675],id:8002,language:"English",location:"New York, New York",program:"Family & Friends",schedule:{day:4,time:"17:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[673],id:8018,language:"English",location:"Cleveland, Ohio",program:"4-Point Recovery",schedule:{day:0,time:"21:00Z",week:[1,3]},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[673],id:8018,language:"English",location:"Cleveland, Ohio",program:"4-Point Recovery",schedule:{day:0,time:"22:00Z",week:[1,3]},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[278,1692],id:8022,language:"English",location:"Richmond, Virginia",program:"Family & Friends",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[656,1698],id:8030,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"20:30Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:120,facilitator:[159],id:8042,language:"English",location:"Bellingham, Washington",program:"Family & Friends",schedule:{day:0,time:"14:00Z"},type:"Online"},
@@ -654,7 +656,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2167],id:9581,language:"English",location:"Elizabeth City, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[2178],id:9583,language:"English",location:"Pennsylvania",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[2127],id:9584,language:"English",location:"Granite Falls, Washington",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9590,language:"English",location:"Stoneham, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"01:15Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9590,language:"English",location:"Stoneham, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"03:15Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1800],id:9591,language:"English",location:"Eau Claire, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[2161],id:9597,language:"English",location:"Quincy, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[2162],id:9600,language:"English",location:"Hollywood, Florida",program:"Family & Friends",schedule:{day:6,time:"16:00Z"},type:"Both"},
@@ -1552,6 +1554,7 @@ const facilitators = {
   2178:["Kaela S."],
   2179:["Sam Nugraha","Global"],
   2180:["Logan R"],
-  2181:["Uzma"]
+  2181:["Uzma"],
+  2182:["Joshua","National"]
 };
-const cachedAt = "2026-10-18T22:17:01Z";
+const cachedAt = "2026-10-19T01:17:01Z";
