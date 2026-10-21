@@ -106,6 +106,7 @@ const meetings = [
   {audience:["African Women’s","Camera-On Meeting","Women only"],dataSource:"au",duration:90,facilitator:[2123],id:1795,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2120],id:1796,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2130],id:1797,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"08:00Z"},type:"Online"},
+  {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[2128],id:1800,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2120],id:1801,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"18:30Z"},type:"Online"},
   {audience:["Anxiety support","Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[2130],id:1802,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1803,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"18:30Z"},type:"Online"},
@@ -1518,6 +1519,7 @@ const facilitators = {
   2125:["Claire Daff","GB"],
   2126:["Sonia","National"],
   2127:["Haley E."],
+  2128:["Nikola"],
   2129:["Kate Fairchild"],
   2130:["Humaira"],
   2131:["Sahand"],
@@ -1571,4 +1573,4 @@ const facilitators = {
   2188:["Lam"],
   2189:["Tori"]
 };
-const cachedAt = "2026-10-21T04:17:02Z";
+const cachedAt = "2026-10-21T07:17:01Z";
