@@ -3,7 +3,7 @@ const meetings = [
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[7],id:1020,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Pilots only"],dataSource:"au",duration:90,facilitator:[8],id:1022,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["Men only"],dataSource:"au",duration:90,facilitator:[7,1702],id:1026,language:"English",location:"Wollongong, New South Wales",program:"Standard",schedule:{day:3,time:"02:00Z"},type:"Both"},
-  {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-10-21T08:30:00Z",dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:30Z"},type:"Online"},
+  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[12],id:1030,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[14],id:1034,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"06:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[15,16],id:1035,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1359,1360],id:1038,language:"English",location:"Regional",program:"Standard",schedule:{day:5,time:"00:30Z"},type:"Online"},
@@ -50,7 +50,7 @@ const meetings = [
   {audience:["Camera-On Meeting","Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1696],id:1591,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1608,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["ADHD only"],dataSource:"au",duration:90,facilitator:[1304,1764],id:1617,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:30Z"},type:"Online"},
-  {audience:["Men only","Porn"],canceled:"2026-10-21T07:00:00Z",dataSource:"au",duration:120,facilitator:[1771],id:1624,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"07:00Z"},type:"Online"},
+  {audience:["Men only","Porn"],dataSource:"au",duration:120,facilitator:[1771],id:1624,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1626,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1630,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1304],id:1636,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
@@ -130,7 +130,7 @@ const meetings = [
   {audience:["Women only"],dataSource:"au",duration:90,facilitator:[1893],id:1834,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"09:00Z"},type:"Online"},
   {audience:["Drug focus","Youth only"],dataSource:"au",duration:60,facilitator:[2182],id:1835,language:"English",location:"National",program:"Youth",schedule:{day:2,time:"04:30Z"},type:"Both"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1836,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"19:30Z"},type:"Online"},
-  {audience:["All Welcome","Gambling focus"],canceled:"2026-10-21T08:00:00Z",dataSource:"au",duration:90,facilitator:[2171],id:1837,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
+  {audience:["All Welcome","Gambling focus"],dataSource:"au",duration:90,facilitator:[2171],id:1837,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2171],id:1838,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2185],id:1839,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"22:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
@@ -1263,7 +1263,6 @@ const facilitators = {
   1702:["Steven"],
   1703:["Alwyne"],
   1706:["Lindsay Elmgren"],
-  1707:["Ashwin Thind"],
   1712:["Zoel Lopez"],
   1721:["Ryan","Arizona"],
   1722:["Jim"],
@@ -1573,4 +1572,4 @@ const facilitators = {
   2188:["Lam"],
   2189:["Tori"]
 };
-const cachedAt = "2026-10-21T07:17:01Z";
+const cachedAt = "2026-10-21T10:17:01Z";
