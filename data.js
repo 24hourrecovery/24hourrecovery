@@ -578,7 +578,7 @@ const meetings = [
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1727],id:9101,language:"English",location:"Delta Junction, Alaska",program:"Family & Friends",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[459,1762],id:9111,language:"English",location:"Colorado Springs, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[1528,1786],id:9127,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1770,1775],id:9141,language:"English",location:"Stanton, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"14:30Z"},type:"Both"},
+  {audience:["Adults"],canceled:"2026-10-21T14:30:00Z",dataSource:"na",duration:60,facilitator:[1770,1775],id:9141,language:"English",location:"Stanton, Michigan",program:"4-Point Recovery",schedule:{day:3,time:"14:30Z"},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[1781,1894],id:9149,language:"English",location:"Grand Junction, Colorado",program:"Family & Friends",schedule:{day:2,time:"18:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[153,385,816,957],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1960],id:9151,language:"English",location:"Mohegan Lake, New York",program:"4-Point Recovery",schedule:{day:3,time:"00:30Z"},type:"Online"},
@@ -1040,7 +1040,6 @@ const facilitators = {
   875:["Brad","National"],
   882:["Lee","Georgia"],
   883:["Val"],
-  888:["Chinyere Nduu Okoro"],
   889:["Nehemiah Samuel"],
   890:["Heather","Connecticut"],
   894:["Shannon","North Carolina"],
@@ -1389,7 +1388,6 @@ const facilitators = {
   1927:["TJ Trent","Texas"],
   1928:["Allen Ayers"],
   1929:["Andreea"],
-  1930:["Fehintioluwa Ojelabi"],
   1933:["Dan M"],
   1934:["Michael Cummings"],
   1935:["Michele K."],
@@ -1572,4 +1570,4 @@ const facilitators = {
   2188:["Lam"],
   2189:["Tori"]
 };
-const cachedAt = "2026-10-21T10:17:01Z";
+const cachedAt = "2026-10-21T13:17:01Z";
