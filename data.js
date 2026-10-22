@@ -698,7 +698,6 @@ const meetings = [
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:null,facilitator:[2091],id:1201,language:"English",location:"Stevenage, GB",program:"SMART Veterans",schedule:{day:2,time:"17:30Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2062,2088],id:1226,language:"Punjabi",location:"London, GB",program:"SMART Recovery",schedule:{day:0,time:"07:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[2054,2092],id:1250,language:"English",location:"Harrogate, GB",program:"SMART Recovery",schedule:{day:4,time:"13:00Z"},type:"Online"},
-  {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:60,facilitator:[980],id:1253,language:"English",location:"London, SW1A 2, GB",program:"Family & Friends",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:null,facilitator:[2064,2086],id:1287,language:"English",location:"Sheffield, S1 4PT, GB",program:"SMART Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2069],id:1348,language:"English",location:"Blackwood, NP12, GB",program:"Family & Friends",schedule:{day:3,time:"16:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2082],id:1400,language:"English",location:"Barnet, London Borough of Barnet, GB",program:"Family & Friends",schedule:{day:2,time:"14:00Z"},type:"Online"},
@@ -1057,7 +1056,6 @@ const facilitators = {
   976:["Jennifer","Connecticut"],
   977:["Angie","New York"],
   979:["Bruce S. Liese"],
-  980:["Isha Isidore","GB"],
   984:["Vladislav Khardzhiev"],
   985:["Lisa Goodkind"],
   988:["Trista Wysong"],
@@ -1566,4 +1564,4 @@ const facilitators = {
   2193:["James","British Columbia"],
   2194:["Tanya"]
 };
-const cachedAt = "2026-10-22T10:17:01Z";
+const cachedAt = "2026-10-22T13:17:01Z";
