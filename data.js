@@ -640,7 +640,7 @@ const meetings = [
   {audience:["Aviation Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[2042],id:9504,language:"English",location:"Peachtree City, Georgia",program:"Family & Friends",schedule:{day:3,time:"23:30Z",week:[1,3,-1]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1948,2046],id:9519,language:"English",location:"Houston, Texas",program:"4-Point Recovery",schedule:{day:4,time:"01:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[2018,2046],id:9520,language:"English",location:"Fairfax, Virginia",program:"4-Point Recovery",schedule:{day:0,time:"01:00Z"},type:"Online"},
-  {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:60,facilitator:[1276,2034],id:9523,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:6,time:"12:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:60,facilitator:[1276,2190],id:9523,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:6,time:"12:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[551],id:9526,language:"English",location:"Springfield, Oregon",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[1940],id:9532,language:"English",location:"New York",program:"Family & Friends",schedule:{day:1,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2142],id:9540,language:"English",location:"New Jersey",program:"4-Point Recovery",schedule:{day:6,time:"00:00Z"},type:"Online"},
@@ -1442,7 +1442,6 @@ const facilitators = {
   2031:["Patrick W"],
   2032:["Stephanie Liu"],
   2033:["Karen M"],
-  2034:["Alan","National"],
   2036:["Jessica","Virginia"],
   2037:["Gavin"],
   2038:["Karen","Regional"],
@@ -1561,4 +1560,4 @@ const facilitators = {
   2194:["Tanya"],
   2195:["Jill D Fields"]
 };
-const cachedAt = "2026-10-23T10:17:01Z";
+const cachedAt = "2026-10-23T13:17:01Z";
