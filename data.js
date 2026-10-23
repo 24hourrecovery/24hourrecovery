@@ -292,7 +292,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[51,483,977,1471],id:473,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[261],id:4771,language:"English",location:"Concord, New Hampshire",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[262,666],id:4796,language:"English",location:"Woodbridge Township, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
-  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1587],id:4830,language:"English",location:"Lexington, Kentucky",program:"Family & Friends",schedule:{day:2,time:"22:30Z"},type:"Both"},
+  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1587,2197],id:4830,language:"English",location:"Lexington, Kentucky",program:"Family & Friends",schedule:{day:2,time:"22:30Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[266],id:4871,language:"English",location:"Maryland",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[271],id:4959,language:"English",location:"Chestertown, New York",program:"4-Point Recovery",schedule:{day:1,time:"22:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[273,1648,1801,1802,1982],id:4987,language:"English",location:"Charlottesville, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
@@ -1554,6 +1554,7 @@ const facilitators = {
   2193:["James","British Columbia"],
   2194:["Tanya"],
   2195:["Jill D Fields"],
-  2196:["Haley E.","Pennsylvania"]
+  2196:["Haley E.","Pennsylvania"],
+  2197:["Jawna"]
 };
-const cachedAt = "2026-10-23T16:17:01Z";
+const cachedAt = "2026-10-23T19:17:01Z";
