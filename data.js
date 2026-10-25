@@ -107,6 +107,7 @@ const meetings = [
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2120],id:1801,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"18:30Z"},type:"Online"},
   {audience:["Anxiety support","Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[2130],id:1802,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1803,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"18:30Z"},type:"Online"},
+  {audience:["Drug focus"],dataSource:"au",duration:60,facilitator:[2136],id:1805,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"05:00Z",week:[1]},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2153],id:1807,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2171],id:1808,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2120],id:1809,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"18:30Z"},type:"Online"},
@@ -1495,6 +1496,7 @@ const facilitators = {
   2133:["Anglicare Tasmania"],
   2134:["Mike B."],
   2135:["Layna Vankirk"],
+  2136:["Sarah","National"],
   2137:["Joshua","Michigan"],
   2138:["Mike Fitts"],
   2139:["David","Illinois"],
@@ -1549,4 +1551,4 @@ const facilitators = {
   2196:["Haley E.","Pennsylvania"],
   2197:["Jawna"]
 };
-const cachedAt = "2026-10-25T04:17:01Z";
+const cachedAt = "2026-10-25T07:17:01Z";
