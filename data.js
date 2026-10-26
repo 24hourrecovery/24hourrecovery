@@ -32,7 +32,6 @@ const meetings = [
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[1943,1944],id:1405,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"04:00Z"},type:"Both"},
   {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,1304,1308],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["All Welcome","Drug focus"],dataSource:"au",duration:90,facilitator:[2108],id:1436,language:"English",location:"National",program:"Family & Friends",schedule:{day:5,time:"04:00Z"},type:"Online"},
-  {audience:["Alcohol Focus","All Welcome","Medically Assisted Therapies for AUD"],dataSource:"au",duration:60,facilitator:[1256],id:1441,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"02:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
@@ -176,7 +175,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:9044,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"23:15Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1892],id:9045,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:4,time:"01:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[1921],id:9048,language:"English",location:"Port Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-10-25T19:00:00Z",dataSource:"ca",duration:120,facilitator:[1971],id:9058,language:"English",location:"Regina, Saskatchewan",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:120,facilitator:[1971],id:9058,language:"English",location:"Regina, Saskatchewan",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[2166],id:9095,language:"English",location:"Kingston, Ontario",program:"Family & Friends",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[2166],id:9096,language:"English",location:"Kingston, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"23:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[2166],id:9097,language:"English",location:"Kingston, Ontario",program:"Successful Life Skills",schedule:{day:3,time:"23:00Z"},type:"Online"},
@@ -664,7 +663,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1858],id:9623,language:"English",location:"Hinsdale, Illinois",program:"4-Point Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],canceled:"2026-10-27T23:00:00Z",dataSource:"na",duration:60,facilitator:[2180],id:9624,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],canceled:"2026-10-29T23:00:00Z",dataSource:"na",duration:60,facilitator:[2180],id:9625,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2180],id:9626,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2180],id:9626,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z",week:[-1]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2180],id:9628,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:0,time:"01:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],canceled:"2026-10-30T22:00:00Z",dataSource:"na",duration:60,facilitator:[2180],id:9630,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"22:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[2183],id:9633,language:"English",location:"Kirkland, Washington",program:"4-Point Recovery",schedule:{day:6,time:"03:30Z"},type:"Online"},
@@ -1085,7 +1084,6 @@ const facilitators = {
   1245:["Jessica B"],
   1246:["Clea P"],
   1252:["Olivier Engoute"],
-  1256:["Institute of Addiction Medicine, Hannah"],
   1264:["Priscilla Kimari"],
   1265:["Vanessa Carle"],
   1269:["Nathan","National"],
@@ -1560,4 +1558,4 @@ const facilitators = {
   2200:["Frederic Basquin"],
   2201:["Michelle C"]
 };
-const cachedAt = "2026-10-25T22:17:01Z";
+const cachedAt = "2026-10-26T01:17:01Z";
