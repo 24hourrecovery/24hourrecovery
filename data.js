@@ -514,7 +514,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[105,1942],id:8518,language:"English",location:"Johnson, Vermont",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:120,facilitator:[1088],id:8522,language:"English",location:"Monroe, Michigan",program:"Family & Friends",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[284,1099],id:8531,language:"English",location:"Crystal Lake, Illinois",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Both"},
-  {audience:["Adults"],canceled:"2026-10-27T14:00:00Z",dataSource:"na",duration:90,facilitator:[1135],id:8574,language:"English",location:"Temple, Texas",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1135],id:8574,language:"English",location:"Temple, Texas",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[2024],id:8588,language:"English",location:"Waco, Texas",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1984,2135],id:8609,language:"English",location:"Flint, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"21:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1712],id:8621,language:"English",location:"Chanute, Kansas",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
@@ -681,7 +681,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[2055,2070],id:1063,language:"English",location:"Weymouth, GB",program:"SMART Recovery",schedule:{day:2,time:"10:30Z"},type:"Online"},
   {audience:["Women Only"],dataSource:"uk",duration:90,facilitator:[2095],id:1064,language:"English",location:"Woking, GB",program:"SMART Recovery",schedule:{day:3,time:"10:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[588,2070],id:1071,language:"English",location:"Weymouth, GB",program:"SMART Recovery",schedule:{day:3,time:"18:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"uk",duration:null,facilitator:[597],id:1076,language:"English",location:"Inverness, GB",program:"SMART Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"uk",duration:null,facilitator:[597],id:1076,language:"English",location:"Inverness, GB",program:"SMART Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2089],id:1079,language:"English",location:"London, GB",program:"Family & Friends",schedule:{day:0,time:"17:45Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[717],id:1083,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:2,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[595],id:1084,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
@@ -700,7 +700,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[2054,2092],id:1250,language:"English",location:"Harrogate, GB",program:"SMART Recovery",schedule:{day:4,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome","LGBTQIA+"],dataSource:"uk",duration:null,facilitator:[2064,2086],id:1287,language:"English",location:"Sheffield, S1 4PT, GB",program:"SMART Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2069],id:1348,language:"English",location:"Blackwood, NP12, GB",program:"Family & Friends",schedule:{day:3,time:"16:30Z"},type:"Online"},
-  {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2082],id:1400,language:"English",location:"Barnet, London Borough of Barnet, GB",program:"Family & Friends",schedule:{day:2,time:"14:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2082],id:1400,language:"English",location:"Barnet, London Borough of Barnet, GB",program:"Family & Friends",schedule:{day:1,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2109],id:1437,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:3,time:"10:30Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2115],id:1440,language:"Português",location:"Nationwide",program:"SMART Recovery",schedule:{day:3,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2141],id:1444,language:"English",location:"Golspie, GB",program:"SMART Recovery",schedule:{day:0,time:"14:30Z"},type:"Online"},
@@ -1562,4 +1562,4 @@ const facilitators = {
   2203:["Adrian E."],
   2204:["Charles Morgan"]
 };
-const cachedAt = "2026-10-27T13:17:01Z";
+const cachedAt = "2026-10-27T16:17:01Z";
