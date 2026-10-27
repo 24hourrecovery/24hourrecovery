@@ -413,7 +413,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[472,473],id:7244,language:"English",location:"Chicago, Illinois",program:"4-Point Recovery",schedule:{day:5,time:"13:30Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[427,469],id:7257,language:"English",location:"New York",program:"Family & Friends",schedule:{day:5,time:"00:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[476],id:7261,language:"English",location:"Bethlehem, Pennsylvania",program:"4-Point Recovery",schedule:{day:1,time:"11:30Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[741],id:7269,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-10-27T16:00:00Z",dataSource:"na",duration:60,facilitator:[741],id:7269,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[455,741,784],id:7270,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:4,time:"16:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[427,469],id:7302,language:"English",location:"National",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[497,652,1567],id:7343,language:"English",location:"Canfield, Ohio",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
@@ -1034,6 +1034,7 @@ const facilitators = {
   875:["Brad","National"],
   882:["Lee","Georgia"],
   883:["Val"],
+  888:["Chinyere Nduu Okoro"],
   889:["Nehemiah Samuel"],
   890:["Heather","Connecticut"],
   894:["Shannon","North Carolina"],
@@ -1248,6 +1249,7 @@ const facilitators = {
   1702:["Steven"],
   1703:["Alwyne"],
   1706:["Lindsay Elmgren"],
+  1707:["Ashwin Thind"],
   1712:["Zoel Lopez"],
   1721:["Ryan","Arizona"],
   1722:["Jim"],
@@ -1369,6 +1371,7 @@ const facilitators = {
   1927:["TJ Trent","Texas"],
   1928:["Allen Ayers"],
   1929:["Andreea"],
+  1930:["Fehintioluwa Ojelabi"],
   1933:["Dan M"],
   1934:["Michael Cummings"],
   1935:["Michele K."],
@@ -1559,4 +1562,4 @@ const facilitators = {
   2203:["Adrian E."],
   2204:["Charles Morgan"]
 };
-const cachedAt = "2026-10-27T10:17:01Z";
+const cachedAt = "2026-10-27T13:17:01Z";
