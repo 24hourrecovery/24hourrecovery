@@ -48,7 +48,7 @@ const meetings = [
   {audience:["ADHD only"],dataSource:"au",duration:90,facilitator:[1304,1764],id:1617,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:30Z"},type:"Online"},
   {audience:["Men only","Porn"],dataSource:"au",duration:120,facilitator:[1771],id:1624,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1626,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"23:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-10-27T03:30:00Z",dataSource:"au",duration:90,facilitator:[1785],id:1630,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1785],id:1630,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1304],id:1636,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"06:30Z"},type:"Online"},
   {audience:["Men only","Porn"],dataSource:"au",duration:90,facilitator:[1771],id:1649,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:30Z"},type:"Online"},
   {audience:["Youth only"],dataSource:"au",duration:60,facilitator:[34],id:1650,language:"English",location:"National",program:"Youth",schedule:{day:1,time:"04:00Z"},type:"Online"},
@@ -181,7 +181,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[2166],id:9097,language:"English",location:"Kingston, Ontario",program:"Successful Life Skills",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[1996],id:9099,language:"English",location:"Amherst, Nova Scotia",program:"4-Point Recovery",schedule:{day:1,time:"20:00Z"},type:"Both"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[2156],id:9163,language:"English",location:"Ontario",program:"4-Point Recovery",schedule:{day:2,time:"14:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[2158],id:9164,language:"French",location:"Montreal, Quebec",program:"4-Point Recovery",schedule:{day:2,time:"02:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[2158],id:9164,language:"French",location:"Montreal, Quebec",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[2156],id:9168,language:"English",location:"Ontario",program:"4-Point Recovery",schedule:{day:2,time:"16:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1327,2170],id:1002,language:"English",location:"New York, New York",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[52],id:101,language:"English",location:"Newton, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
@@ -1559,4 +1559,4 @@ const facilitators = {
   2203:["Adrian E."],
   2204:["Charles Morgan"]
 };
-const cachedAt = "2026-10-27T04:17:01Z";
+const cachedAt = "2026-10-27T07:17:01Z";
