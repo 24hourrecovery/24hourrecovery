@@ -166,7 +166,7 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1388],id:8231,language:"English",location:"Welland, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1296],id:8254,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:0,time:"19:30Z"},type:"Both"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[858],id:8278,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"22:30Z"},type:"Online"},
-  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:8575,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"23:20Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[1561],id:8911,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Youth/Young Adults (16-25)"],dataSource:"ca",duration:90,facilitator:[1840,1841],id:8954,language:"English",location:"Hamilton, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"22:30Z"},type:"Both"},
   {audience:["Adults Welcome","All Welcome"],dataSource:"ca",duration:60,facilitator:[371],id:9012,language:"Spanish",location:"Toronto, Ontario",program:"4-Point Recovery",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -597,7 +597,6 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1366],id:9256,language:"English",location:"Lancaster, Texas",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[556],id:9258,language:"English",location:"Salt Lake City, Utah",program:"Family & Friends",schedule:{day:5,time:"19:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1652],id:9266,language:"English",location:"Dickinson, Texas",program:"4-Point Recovery",schedule:{day:6,time:"22:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2008],id:9272,language:"English",location:"Greeley, Colorado",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[802,816,1864],id:9276,language:"English",location:"Eugene, Oregon",program:"4-Point Recovery",schedule:{day:0,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2015],id:9287,language:"English",location:"Evergreen, Colorado",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z"},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1848,1859],id:9298,language:"English",location:"Bowling Green, Kentucky",program:"Family & Friends",schedule:{day:0,time:"17:00Z"},type:"Both"},
@@ -615,7 +614,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2011,2012],id:9365,language:"English",location:"Freehold, New Jersey",program:"4-Point Recovery",schedule:{day:2,time:"14:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1950],id:9369,language:"English",location:"Sunnyvale, California",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[847],id:9377,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z"},type:"Online"},
-  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1956],id:9383,language:"English",location:"Philadelphia, Pennsylvania",program:"Family & Friends",schedule:{day:4,time:"18:00Z"},type:"Online"},
+  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1956],id:9383,language:"English",location:"Philadelphia, Pennsylvania",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1962],id:9386,language:"English",location:"Tustin, California",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9390,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9391,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Both"},
@@ -677,7 +676,7 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2079,2094],id:1022,language:"English",location:"Chester, GB",program:"Family & Friends",schedule:{day:0,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[902],id:1055,language:"English",location:"Glasgow, GB",program:"SMART Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1056,language:"English",location:"Woking, GB",program:"SMART Recovery",schedule:{day:5,time:"09:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1057,language:"English",location:"Sutton (and Epsom), Epsom, GB",program:"SMART Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1057,language:"English",location:"Sutton (and Epsom), Epsom, GB",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1058,language:"English",location:"Epsom, GB",program:"SMART Recovery",schedule:{day:0,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2151],id:1060,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[578],id:1061,language:"English",location:"Exeter, GB",program:"SMART Recovery",schedule:{day:1,time:"18:00Z"},type:"Online"},
@@ -687,10 +686,10 @@ const meetings = [
   {audience:["Adults Welcome"],dataSource:"uk",duration:null,facilitator:[597],id:1076,language:"English",location:"Inverness, GB",program:"SMART Recovery",schedule:{day:1,time:"14:00Z"},type:"Online"},
   {audience:["Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2089],id:1079,language:"English",location:"London, GB",program:"Family & Friends",schedule:{day:0,time:"17:45Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[717],id:1083,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:1,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[595],id:1084,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[595],id:1084,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2060],id:1085,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:5,time:"07:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2056],id:1086,language:"English",location:"London, GB",program:"Family & Friends",schedule:{day:0,time:"19:30Z"},type:"Online"},
-  {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[597,2081],id:1087,language:"English",location:"London, GB",program:"Family & Friends",schedule:{day:4,time:"18:00Z"},type:"Online"},
+  {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[597,2081],id:1087,language:"English",location:"London, GB",program:"Family & Friends",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[2125],id:1088,language:"English",location:"Telford, GB",program:"SMART Recovery",schedule:{day:3,time:"16:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[2074],id:1116,language:"Polski",location:"Edinburgh, GB",program:"SMART Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[2057],id:1119,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:0,time:"12:00Z"},type:"Online"},
@@ -711,7 +710,7 @@ const meetings = [
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[1768],id:1506,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[1379,1380],id:879,language:"English",location:"Leicester, GB",program:"SMART Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[2073],id:882,language:"English",location:"Penrhyn House, Llandegai Road, Bangor, LL57 1PZ, GB",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"In-person, Online"},
-  {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:90,facilitator:[2076],id:998,language:"English",location:"LGBT Foundation, Fairbairn House (2nd Floor), Manchester, M1 3NJ, GB",program:"SMART Recovery",schedule:{day:4,time:"17:00Z"},type:"Online, In-person"}
+  {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:90,facilitator:[2076],id:998,language:"English",location:"LGBT Foundation, Fairbairn House (2nd Floor), Manchester, M1 3NJ, GB",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online, In-person"}
 ];
 const facilitators = {
   7:["Watershed Lives Lived Well"],
@@ -1423,7 +1422,6 @@ const facilitators = {
   2002:["Chad Moore"],
   2003:["Sarah M-I"],
   2006:["Rob Schultz"],
-  2008:["Russ"],
   2009:["Brooke"],
   2010:["NZDF Team"],
   2011:["Jessie"],
@@ -1574,4 +1572,4 @@ const facilitators = {
   2208:["Lisa","New York"],
   2209:["Shauna"]
 };
-const cachedAt = "2026-10-29T19:17:01Z";
+const cachedAt = "2026-10-29T22:17:02Z";
