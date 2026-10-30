@@ -619,7 +619,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[847],id:9377,language:"English",location:"Cumberland, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"21:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1956],id:9383,language:"English",location:"Philadelphia, Pennsylvania",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1962],id:9386,language:"English",location:"Tustin, California",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9390,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Both"},
+  {audience:["Adults"],canceled:"2026-10-30T15:00:00Z",dataSource:"na",duration:90,facilitator:[1803],id:9390,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9391,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:3,time:"15:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1803],id:9392,language:"English",location:"Antigo, Wisconsin",program:"4-Point Recovery",schedule:{day:1,time:"15:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1640,2194],id:9396,language:"English",location:"Austin, Texas",program:"4-Point Recovery",schedule:{day:2,time:"14:30Z"},type:"Online"},
@@ -680,7 +680,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:120,facilitator:[567,568],id:98,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2079,2094],id:1022,language:"English",location:"Chester, GB",program:"Family & Friends",schedule:{day:0,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[902],id:1055,language:"English",location:"Glasgow, GB",program:"SMART Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1056,language:"English",location:"Woking, GB",program:"SMART Recovery",schedule:{day:5,time:"09:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1056,language:"English",location:"Woking, GB",program:"SMART Recovery",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1057,language:"English",location:"Sutton (and Epsom), Epsom, GB",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1058,language:"English",location:"Epsom, GB",program:"SMART Recovery",schedule:{day:0,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2151],id:1060,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
@@ -711,8 +711,9 @@ const meetings = [
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2109],id:1437,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:2,time:"11:30Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2115],id:1440,language:"Português",location:"Nationwide",program:"SMART Recovery",schedule:{day:2,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2141],id:1444,language:"English",location:"Golspie, GB",program:"SMART Recovery",schedule:{day:0,time:"14:30Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2146],id:1452,language:"English",location:"Ripley, GB",program:"SMART Recovery",schedule:{day:5,time:"09:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2146],id:1452,language:"English",location:"Ripley, GB",program:"SMART Recovery",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[1768],id:1506,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:3,time:"08:00Z"},type:"Online"},
+  {audience:["Women Only"],dataSource:"uk",duration:null,facilitator:[2095],id:1512,language:"English",location:"Women&#039;s Support Centre, 19 High Street, Woking, GU21 6BW, GB",program:"SMART Recovery",schedule:{day:2,time:"11:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[1379,1380],id:879,language:"English",location:"Leicester, GB",program:"SMART Recovery",schedule:{day:0,time:"15:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[2073],id:882,language:"English",location:"Penrhyn House, Llandegai Road, Bangor, LL57 1PZ, GB",program:"SMART Recovery",schedule:{day:2,time:"10:00Z"},type:"In-person, Online"},
   {audience:["Adults Welcome","LGBT"],dataSource:"uk",duration:90,facilitator:[2076],id:998,language:"English",location:"LGBT Foundation, Fairbairn House (2nd Floor), Manchester, M1 3NJ, GB",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online, In-person"}
@@ -1578,4 +1579,4 @@ const facilitators = {
   2210:["Aaron Ellis"],
   2211:["Link Foundation AOD"]
 };
-const cachedAt = "2026-10-30T10:17:02Z";
+const cachedAt = "2026-10-30T13:17:01Z";
