@@ -395,7 +395,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[430,2036],id:6844,language:"English",location:"Roanoke, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[353,620,2099],id:6864,language:"English",location:"Alexandria, Virginia",program:"4-Point Recovery",schedule:{day:3,time:"22:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[432],id:6866,language:"English",location:"Richmond, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Both"},
-  {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:60,facilitator:[434,1269,2190,2191],id:6868,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"12:00Z"},type:"Online"},
+  {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:60,facilitator:[434,1269,2190,2191],id:6868,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:0,time:"13:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[216,435,1810],id:6873,language:"English",location:"Maple Grove, Minnesota",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[216,1688],id:6881,language:"English",location:"Clifton, New Jersey",program:"4-Point Recovery",schedule:{day:3,time:"20:30Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders Only","Women"],dataSource:"na",duration:90,facilitator:[1276,1328,1805,2191],id:6882,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"23:30Z"},type:"Online"},
@@ -724,7 +724,7 @@ const meetings = [
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[601],id:1125,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:6,time:"11:00Z"},type:"Online"},
   {audience:["Military Veterans","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2059],id:1157,language:"English",location:"London, GB",program:"SMART Veterans",schedule:{day:0,time:"19:30Z"},type:"Online"},
   {audience:["Military Veterans","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2093],id:1161,language:"English",location:"London, GB",program:"SMART Veterans",schedule:{day:2,time:"14:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[902],id:1199,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:6,time:"11:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[902],id:1199,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:5,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","Military Veterans"],dataSource:"uk",duration:null,facilitator:[2091],id:1201,language:"English",location:"Stevenage, GB",program:"SMART Veterans",schedule:{day:1,time:"18:30Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2062,2088],id:1226,language:"Punjabi",location:"London, GB",program:"SMART Recovery",schedule:{day:6,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[2054,2092],id:1250,language:"English",location:"Harrogate, GB",program:"SMART Recovery",schedule:{day:3,time:"14:00Z"},type:"Online"},
@@ -1624,4 +1624,4 @@ const facilitators = {
   2215:["Jaci J."],
   2216:["Jonathon"]
 };
-const cachedAt = "2026-10-31T10:17:01Z";
+const cachedAt = "2026-10-31T13:17:01Z";
