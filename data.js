@@ -724,7 +724,6 @@ const meetings = [
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[597,2081],id:1087,language:"English",location:"London, GB",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[2125],id:1088,language:"English",location:"Telford, GB",program:"SMART Recovery",schedule:{day:4,time:"16:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:120,facilitator:[2074],id:1116,language:"Polski",location:"Edinburgh, GB",program:"SMART Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[2057],id:1119,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:1,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[601],id:1125,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:0,time:"11:00Z"},type:"Online"},
   {audience:["Military Veterans","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2059],id:1157,language:"English",location:"London, GB",program:"SMART Veterans",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Military Veterans","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2093],id:1161,language:"English",location:"London, GB",program:"SMART Veterans",schedule:{day:3,time:"14:00Z"},type:"Online"},
@@ -1509,7 +1508,6 @@ const facilitators = {
   2054:["Andrea Whitton"],
   2055:["Anna Clover-Brown"],
   2056:["Anne Devenport"],
-  2057:["Cerys Williams"],
   2059:["Chris Paling","GB"],
   2060:["Daniel Howell"],
   2062:["Dr. Bhagat Ram","GB"],
@@ -1632,6 +1630,7 @@ const facilitators = {
   2213:["Amy S."],
   2214:["Gary Crammer"],
   2215:["Jaci J."],
-  2216:["Jonathon"]
+  2216:["Jonathon"],
+  2217:["Licky C."]
 };
-const cachedAt = "2026-11-02T08:17:01Z";
+const cachedAt = "2026-11-02T11:17:02Z";
