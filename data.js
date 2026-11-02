@@ -679,7 +679,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2167],id:9581,language:"English",location:"Elizabeth City, North Carolina",program:"4-Point Recovery",schedule:{day:3,time:"21:30Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[2178],id:9583,language:"English",location:"Pennsylvania",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:90,facilitator:[2196],id:9584,language:"English",location:"Granite Falls, Washington",program:"4-Point Recovery",schedule:{day:0,time:"16:00Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-11-02T05:45:00Z",dataSource:"na",duration:60,facilitator:[1626],id:9590,language:"English",location:"Stoneham, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"05:45Z",week:[1]},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1626],id:9590,language:"English",location:"Stoneham, Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"05:45Z",week:[1]},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1800],id:9591,language:"English",location:"Eau Claire, Wisconsin",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2186,2187],id:9596,language:"English",location:"Wilson, North Carolina",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Both"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[2161],id:9597,language:"English",location:"Quincy, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Both"},
@@ -1634,4 +1634,4 @@ const facilitators = {
   2215:["Jaci J."],
   2216:["Jonathon"]
 };
-const cachedAt = "2026-11-02T05:17:01Z";
+const cachedAt = "2026-11-02T08:17:01Z";
