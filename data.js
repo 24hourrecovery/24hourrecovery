@@ -488,7 +488,7 @@ const meetings = [
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:90,facilitator:[861,1805,2190,2191],id:8051,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[657,1370],id:8052,language:"English",location:"San Diego, California",program:"4-Point Recovery",schedule:{day:5,time:"16:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:60,facilitator:[971],id:8059,language:"English",location:"Lakewood, Colorado",program:"4-Point Recovery",schedule:{day:3,time:"22:00Z"},type:"Both"},
-  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[158,2096],id:8070,language:"English",location:"Oakland, California",program:"Family & Friends",schedule:{day:2,time:"00:00Z"},type:"Online"},
+  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[158,2096],id:8070,language:"English",location:"Oakland, California",program:"Family & Friends",schedule:{day:2,time:"03:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1515,1721,2138],id:8075,language:"English",location:"Phoenix, Arizona",program:"4-Point Recovery",schedule:{day:2,time:"01:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[685],id:8086,language:"English",location:"Massachusetts",program:"4-Point Recovery",schedule:{day:1,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[700],id:8089,language:"English",location:"Rocklin, California",program:"4-Point Recovery",schedule:{day:5,time:"05:00Z"},type:"Online"},
@@ -1632,4 +1632,4 @@ const facilitators = {
   2224:["Jade"],
   2225:["Hayley R"]
 };
-const cachedAt = "2026-11-05T05:17:02Z";
+const cachedAt = "2026-11-05T08:17:02Z";
