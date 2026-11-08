@@ -70,7 +70,7 @@ const meetings = [
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1889],id:1689,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1896],id:1692,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1893],id:1693,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"22:00Z"},type:"Online"},
-  {audience:["Women only"],dataSource:"au",duration:90,facilitator:[1893],id:1694,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:30Z"},type:"Online"},
+  {audience:["Women only"],canceled:"2026-11-15T07:30:00Z",dataSource:"au",duration:90,facilitator:[1893],id:1694,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1891],id:1695,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1912],id:1697,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1900],id:1699,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"21:30Z"},type:"Online"},
@@ -119,7 +119,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2153],id:1812,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2153],id:1813,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2153],id:1814,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"06:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-11-08T08:00:00Z",dataSource:"au",duration:90,facilitator:[2171],id:1815,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2171],id:1815,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2171],id:1816,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2164],id:1818,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
   {audience:["Family, friends and carers"],dataSource:"au",duration:120,facilitator:[1831],id:1819,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"07:30Z"},type:"Online"},
@@ -1627,4 +1627,4 @@ const facilitators = {
   2226:["Joshua McBride"],
   2227:["Saman N"]
 };
-const cachedAt = "2026-11-08T08:17:01Z";
+const cachedAt = "2026-11-08T11:17:01Z";
