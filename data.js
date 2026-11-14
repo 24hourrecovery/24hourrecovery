@@ -101,7 +101,7 @@ const meetings = [
   {audience:["New parents"],dataSource:"au",duration:90,facilitator:[2126],id:1786,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:00Z"},type:"Online"},
   {audience:["Gambling focus"],dataSource:"au",duration:90,facilitator:[2113],id:1791,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"09:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2113],id:1792,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"09:30Z"},type:"Online"},
-  {audience:["Camera-On Meeting","Young Adults (18–26 years)"],canceled:"2026-11-14T10:00:00Z",dataSource:"au",duration:90,facilitator:[2123],id:1794,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"10:00Z"},type:"Online"},
+  {audience:["Camera-On Meeting","Young Adults (18–26 years)"],dataSource:"au",duration:90,facilitator:[2123],id:1794,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"10:00Z"},type:"Online"},
   {audience:["African Women’s","Camera-On Meeting","Women only"],dataSource:"au",duration:90,facilitator:[2123],id:1795,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"10:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[2120],id:1796,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2130],id:1797,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"08:30Z"},type:"Online"},
@@ -1633,4 +1633,4 @@ const facilitators = {
   2237:["Utkarsh Singh"],
   2238:["Joe S.","Tennessee"]
 };
-const cachedAt = "2026-11-14T08:17:01Z";
+const cachedAt = "2026-11-14T11:17:02Z";
