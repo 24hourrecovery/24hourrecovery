@@ -34,7 +34,7 @@ const meetings = [
   {audience:["All Welcome","Autism"],dataSource:"au",duration:90,facilitator:[689,1304,1308],id:1422,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["All Welcome","Drug focus"],dataSource:"au",duration:90,facilitator:[2108],id:1436,language:"English",location:"National",program:"Family & Friends",schedule:{day:5,time:"04:00Z"},type:"Online"},
   {audience:["Sex Worker"],dataSource:"au",duration:90,facilitator:[947,948],id:1439,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"04:00Z",week:[1]},type:"Both"},
-  {audience:["All Welcome"],canceled:"2026-11-15T03:00:00Z",dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"03:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1463,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1915],id:1466,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1167],id:1471,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"06:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1582],id:1473,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"08:00Z"},type:"Online"},
@@ -180,9 +180,10 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1773],id:9028,language:"English",location:"Pointe-Claire, Quebec",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:60,facilitator:[1884],id:9043,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:1,time:"00:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[1121],id:9044,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:6,time:"23:45Z"},type:"Online"},
+  {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[1892],id:9045,language:"English",location:"Calgary, Alberta",program:"4-Point Recovery",schedule:{day:6,time:"02:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[1921],id:9048,language:"English",location:"Port Coquitlam, British Columbia",program:"4-Point Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:120,facilitator:[1971],id:9058,language:"English",location:"Regina, Saskatchewan",program:"4-Point Recovery",schedule:{day:0,time:"19:00Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-11-14T15:00:00Z",dataSource:"ca",duration:90,facilitator:[2166],id:9095,language:"English",location:"Kingston, Ontario",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[2166],id:9095,language:"English",location:"Kingston, Ontario",program:"Family & Friends",schedule:{day:6,time:"15:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[2166],id:9096,language:"English",location:"Kingston, Ontario",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"ca",duration:90,facilitator:[2166],id:9097,language:"English",location:"Kingston, Ontario",program:"Successful Life Skills",schedule:{day:4,time:"00:00Z"},type:"Online"},
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[1996],id:9099,language:"English",location:"Amherst, Nova Scotia",program:"4-Point Recovery",schedule:{day:1,time:"21:30Z"},type:"Both"},
@@ -1394,6 +1395,7 @@ const facilitators = {
   1889:["Tania"],
   1890:["Jess","National"],
   1891:["Summiya"],
+  1892:["Mike A"],
   1893:["Cel J"],
   1894:["Tressa J"],
   1896:["Nav"],
@@ -1637,4 +1639,4 @@ const facilitators = {
   2237:["Utkarsh Singh"],
   2238:["Joe S.","Tennessee"]
 };
-const cachedAt = "2026-11-15T02:17:01Z";
+const cachedAt = "2026-11-15T05:17:01Z";
