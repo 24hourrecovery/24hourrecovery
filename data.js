@@ -721,7 +721,7 @@ const meetings = [
   {audience:["Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2089],id:1079,language:"English",location:"London, GB",program:"Family & Friends",schedule:{day:1,time:"17:45Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[717],id:1083,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:2,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[595],id:1084,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],canceled:"2027-11-20T08:00:00Z",dataSource:"uk",duration:90,facilitator:[2060],id:1085,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2060],id:1085,language:"English",location:"London, GB",program:"SMART Recovery",schedule:{day:5,time:"08:00Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2056],id:1086,language:"English",location:"London, GB",program:"Family & Friends",schedule:{day:1,time:"19:30Z"},type:"Online"},
   {audience:["Adults Welcome","Family & Friends Only","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[597,2081],id:1087,language:"English",location:"London, GB",program:"Family & Friends",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting","Women Only"],dataSource:"uk",duration:90,facilitator:[2125],id:1088,language:"English",location:"Telford, GB",program:"SMART Recovery",schedule:{day:4,time:"16:30Z"},type:"Online"},
@@ -1639,4 +1639,4 @@ const facilitators = {
   2245:["Stuart","National"],
   2246:["Georgie Roebuck"]
 };
-const cachedAt = "2026-11-20T08:17:01Z";
+const cachedAt = "2026-11-20T11:17:02Z";
