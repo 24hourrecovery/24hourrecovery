@@ -43,7 +43,7 @@ const meetings = [
   {audience:["Alcohol Focus","All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1384],id:1500,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1912,2150],id:1509,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"08:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1523,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"08:00Z"},type:"Online"},
-  {audience:["Alcohol Focus"],canceled:"2026-11-21T06:00:00Z",dataSource:"au",duration:90,facilitator:[1500],id:1524,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"06:00Z"},type:"Online"},
+  {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1500],id:1524,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"06:00Z"},type:"Online"},
   {audience:["LGBTQIA+ only"],dataSource:"au",duration:90,facilitator:[2010],id:1534,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"05:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1536,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1543,1991],id:1565,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"01:30Z"},type:"Online"},
@@ -64,7 +64,7 @@ const meetings = [
   {audience:["Youth only"],dataSource:"au",duration:90,facilitator:[1888],id:1683,language:"English",location:"National",program:"Youth",schedule:{day:2,time:"07:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1887],id:1684,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"01:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-11-25T01:00:00Z",dataSource:"au",duration:90,facilitator:[1890],id:1685,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"01:00Z"},type:"Online"},
-  {audience:["All Welcome","Camera-On Meeting"],canceled:"2026-11-21T05:00:00Z",dataSource:"au",duration:90,facilitator:[1890],id:1686,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"05:00Z"},type:"Online"},
+  {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1890],id:1686,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1889],id:1688,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"05:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1889],id:1689,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1896],id:1692,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
@@ -1626,4 +1626,4 @@ const facilitators = {
   2247:["Craig Woodstock"],
   2248:["Lori"]
 };
-const cachedAt = "2026-11-21T05:17:01Z";
+const cachedAt = "2026-11-21T08:17:02Z";
