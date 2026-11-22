@@ -69,7 +69,7 @@ const meetings = [
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1889],id:1689,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"02:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1896],id:1692,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1893],id:1693,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"22:00Z"},type:"Online"},
-  {audience:["Women only"],canceled:"2026-11-22T07:30:00Z",dataSource:"au",duration:90,facilitator:[1893],id:1694,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:30Z"},type:"Online"},
+  {audience:["Women only"],dataSource:"au",duration:90,facilitator:[1893],id:1694,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1891],id:1695,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"03:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1900],id:1699,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"21:30Z"},type:"Online"},
   {audience:["All Welcome","Camera-On Meeting"],dataSource:"au",duration:90,facilitator:[1900],id:1700,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"23:30Z"},type:"Online"},
@@ -283,7 +283,7 @@ const meetings = [
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:120,facilitator:[238,912],id:4498,language:"English",location:"Indianapolis, Indiana",program:"Family & Friends",schedule:{day:3,time:"23:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[165,1491],id:4571,language:"English",location:"Madison, Wisconsin",program:"4-Point Recovery",schedule:{day:6,time:"14:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[243],id:4603,language:"English",location:"Gaithersburg, Maryland",program:"4-Point Recovery",schedule:{day:5,time:"17:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[180,1477,1813],id:4610,language:"English",location:"Elk Grove, California",program:"4-Point Recovery",schedule:{day:4,time:"03:00Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-11-26T03:00:00Z",dataSource:"na",duration:60,facilitator:[180,1477,1813],id:4610,language:"English",location:"Elk Grove, California",program:"4-Point Recovery",schedule:{day:4,time:"03:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[979,1453],id:4623,language:"English",location:"Lawrence, Kansas",program:"4-Point Recovery",schedule:{day:3,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[247,2002],id:4626,language:"English",location:"Washington, District of Columbia",program:"4-Point Recovery",schedule:{day:1,time:"23:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[249],id:4638,language:"English",location:"New Haven, Connecticut",program:"4-Point Recovery",schedule:{day:1,time:"00:00Z"},type:"Online"},
@@ -1587,7 +1587,6 @@ const facilitators = {
   2195:["Jill D Fields"],
   2196:["Haley E.","Pennsylvania"],
   2197:["Jawna"],
-  2200:["Frederic Basquin"],
   2201:["Michelle C"],
   2202:["Rook Hine"],
   2203:["Adrian E."],
@@ -1635,6 +1634,7 @@ const facilitators = {
   2245:["Stuart","National"],
   2246:["Georgie Roebuck"],
   2247:["Craig Woodstock"],
-  2248:["Lori"]
+  2248:["Lori"],
+  2249:["Frederic Basquin"]
 };
-const cachedAt = "2026-11-22T08:17:01Z";
+const cachedAt = "2026-11-22T11:17:02Z";
