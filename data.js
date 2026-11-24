@@ -614,7 +614,7 @@ const meetings = [
   {audience:["Men"],dataSource:"na",duration:90,facilitator:[2099],id:9338,language:"English",location:"Indian Springs Village, Alabama",program:"4-Point Recovery",schedule:{day:0,time:"01:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1928,1937,2013],id:9349,language:"English",location:"Douglasville, Georgia",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[552,1935],id:9350,language:"English",location:"Roswell, Georgia",program:"4-Point Recovery",schedule:{day:1,time:"12:30Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1928,1937,2013],id:9352,language:"English",location:"Douglasville, Georgia",program:"Successful Life Skills",schedule:{day:4,time:"23:00Z"},type:"Both"},
+  {audience:["Adults"],canceled:"2026-11-26T23:00:00Z",dataSource:"na",duration:60,facilitator:[1928,1937,2013],id:9352,language:"English",location:"Douglasville, Georgia",program:"Successful Life Skills",schedule:{day:4,time:"23:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1957],id:9353,language:"English",location:"Newport News, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],canceled:"2026-11-25T19:00:00Z",dataSource:"na",duration:60,facilitator:[1958],id:9354,language:"English",location:"Chicago, Illinois",program:"Family & Friends",schedule:{day:3,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[496,875,1528],id:9357,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:1,time:"01:00Z"},type:"Online"},
@@ -709,7 +709,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1948,2194],id:9698,language:"English",location:"Casper, Wyoming",program:"4-Point Recovery",schedule:{day:6,time:"06:15Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2241],id:9699,language:"English",location:"Walnutport, Pennsylvania",program:"Family & Friends",schedule:{day:3,time:"23:30Z",week:[2,4]},type:"Online"},
   {audience:["Young Adults (18-30)"],dataSource:"na",duration:60,facilitator:[2242],id:9701,language:"English",location:"Raleigh, North Carolina",program:"Family & Friends",schedule:{day:2,time:"23:30Z",week:[1,3]},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2243],id:9703,language:"English",location:"Goleta, California",program:"4-Point Recovery",schedule:{day:5,time:"01:30Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[2243],id:9703,language:"English",location:"Goleta, California",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1528,1786],id:9709,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"02:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1528,1786],id:9710,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:4,time:"22:00Z"},type:"Online"},
   {audience:["LGBTQIA+"],dataSource:"na",duration:60,facilitator:[1528,1786],id:9711,language:"English",location:"Indianapolis, Indiana",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
@@ -1656,4 +1656,4 @@ const facilitators = {
   2254:["Leo","Georgia"],
   2256:["Sterling"]
 };
-const cachedAt = "2026-11-24T11:17:02Z";
+const cachedAt = "2026-11-24T14:17:01Z";
