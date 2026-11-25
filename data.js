@@ -726,7 +726,7 @@ const meetings = [
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1056,language:"English",location:"Woking, GB",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1057,language:"English",location:"Sutton (and Epsom), Epsom, GB",program:"SMART Recovery",schedule:{day:4,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1058,language:"English",location:"Epsom, GB",program:"SMART Recovery",schedule:{day:1,time:"10:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2151],id:1060,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],canceled:"2027-11-25T17:00:00Z",dataSource:"uk",duration:null,facilitator:[2151],id:1060,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:3,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:90,facilitator:[578],id:1061,language:"English",location:"Exeter, GB",program:"SMART Recovery",schedule:{day:1,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[2055,2070],id:1063,language:"English",location:"Weymouth, GB",program:"SMART Recovery",schedule:{day:2,time:"10:30Z"},type:"Online"},
   {audience:["Women Only"],dataSource:"uk",duration:90,facilitator:[2095],id:1064,language:"English",location:"Woking, GB",program:"SMART Recovery",schedule:{day:3,time:"11:30Z"},type:"Online"},
@@ -1663,4 +1663,4 @@ const facilitators = {
   2260:["Qing"],
   2261:["Jase"]
 };
-const cachedAt = "2026-11-25T08:17:01Z";
+const cachedAt = "2026-11-25T11:17:02Z";
