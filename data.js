@@ -46,7 +46,7 @@ const meetings = [
   {audience:["Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1500],id:1524,language:"English",location:"National",program:"Standard",schedule:{day:6,time:"06:00Z"},type:"Online"},
   {audience:["LGBTQIA+ only"],dataSource:"au",duration:90,facilitator:[2010],id:1534,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"05:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1487],id:1536,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"03:30Z"},type:"Online"},
-  {audience:["All Welcome"],canceled:"2026-11-25T01:30:00Z",dataSource:"au",duration:90,facilitator:[1543,1991],id:1565,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"01:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1543,1991],id:1565,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus","LGBTQIA+ only"],dataSource:"au",duration:90,facilitator:[1604,1605],id:1573,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"07:00Z"},type:"Online"},
   {audience:["Drug and Alcohol Focus"],dataSource:"au",duration:90,facilitator:[1696],id:1591,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[1304],id:1608,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"23:00Z"},type:"Online"},
@@ -129,6 +129,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2185],id:1855,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"21:00Z"},type:"Online"},
   {audience:["Alcohol Focus","All Welcome"],dataSource:"au",duration:90,facilitator:[1992],id:1857,language:"English",location:"National",program:"Standard",schedule:{day:3,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2223],id:1860,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"21:30Z"},type:"Online"},
+  {audience:["All Welcome"],dataSource:"au",duration:60,facilitator:[2260],id:1863,language:"English",location:"National",program:"Standard",schedule:{day:2,time:"23:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[56,57],id:1018,language:"English",location:"Edmonton, Alberta",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[79,81,82,1657,1742,1850],id:1151,language:"English",location:"Ottawa, Ontario",program:"4-Point Recovery",schedule:{day:4,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[2193],id:2400,language:"English",location:"Vancouver, British Columbia",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z",week:[2,4]},type:"Online"},
@@ -182,7 +183,7 @@ const meetings = [
   {audience:["Women"],dataSource:"ca",duration:60,facilitator:[1996],id:9099,language:"English",location:"Amherst, Nova Scotia",program:"4-Point Recovery",schedule:{day:1,time:"21:30Z"},type:"Both"},
   {audience:["Adults Welcome"],canceled:"2026-12-01T15:30:00Z",dataSource:"ca",duration:90,facilitator:[2156],id:9163,language:"English",location:"Ontario",program:"4-Point Recovery",schedule:{day:2,time:"15:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[2158],id:9164,language:"French",location:"Montreal, Quebec",program:"4-Point Recovery",schedule:{day:2,time:"03:00Z"},type:"Online"},
-  {audience:["Adults Welcome"],canceled:"2026-11-24T17:30:00Z",dataSource:"ca",duration:90,facilitator:[2156],id:9168,language:"English",location:"Ontario",program:"4-Point Recovery",schedule:{day:2,time:"17:30Z"},type:"Online"},
+  {audience:["Adults Welcome"],canceled:"2026-12-01T17:30:00Z",dataSource:"ca",duration:90,facilitator:[2156],id:9168,language:"English",location:"Ontario",program:"4-Point Recovery",schedule:{day:2,time:"17:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:60,facilitator:[2206],id:9171,language:"English",location:"Gatineau, Quebec",program:"4-Point Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[2156],id:9173,language:"English",location:"Ontario",program:"4-Point Recovery",schedule:{day:4,time:"15:30Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"ca",duration:90,facilitator:[2156],id:9174,language:"English",location:"Ontario",program:"4-Point Recovery",schedule:{day:4,time:"17:30Z"},type:"Online"},
@@ -589,10 +590,10 @@ const meetings = [
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1808],id:9147,language:"English",location:"Carmel Hamlet, New York",program:"Family & Friends",schedule:{day:5,time:"18:00Z",week:[1,3]},type:"Both"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:90,facilitator:[1781,1894],id:9149,language:"English",location:"Grand Junction, Colorado",program:"Family & Friends",schedule:{day:2,time:"19:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[153,385,816,957],id:915,language:"English",location:"Alameda, California",program:"4-Point Recovery",schedule:{day:5,time:"03:00Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-11-25T01:30:00Z",dataSource:"na",duration:90,facilitator:[1960],id:9151,language:"English",location:"Mohegan Lake, New York",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1960],id:9151,language:"English",location:"Mohegan Lake, New York",program:"4-Point Recovery",schedule:{day:3,time:"01:30Z"},type:"Online"},
   {audience:["Adults"],canceled:"2026-12-03T23:00:00Z",dataSource:"na",duration:90,facilitator:[1788],id:9155,language:"English",location:"Middle River, Maryland",program:"4-Point Recovery",schedule:{day:4,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1927],id:9158,language:"English",location:"Killeen, Texas",program:"4-Point Recovery",schedule:{day:2,time:"13:30Z"},type:"Online"},
-  {audience:["Adults"],canceled:"2026-11-25T03:00:00Z",dataSource:"na",duration:60,facilitator:[1789],id:9166,language:"English",location:"Westminster, California",program:"4-Point Recovery",schedule:{day:3,time:"03:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1789],id:9166,language:"English",location:"Westminster, California",program:"4-Point Recovery",schedule:{day:3,time:"03:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders Only"],dataSource:"na",duration:90,facilitator:[861,1805,2190,2192],id:9191,language:"English",location:"National",program:"4-Point Recovery",schedule:{day:4,time:"02:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[435,1810],id:9199,language:"English",location:"Laguna Niguel, California",program:"4-Point Recovery",schedule:{day:0,time:"06:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1824],id:9200,language:"Spanish",location:"Tampa, Florida",program:"4-Point Recovery",schedule:{day:2,time:"16:00Z"},type:"Online"},
@@ -1657,6 +1658,7 @@ const facilitators = {
   2256:["Sterling"],
   2257:["Donnie Covington III"],
   2258:["Juanita R"],
-  2259:["Devon Bush"]
+  2259:["Devon Bush"],
+  2260:["Qing"]
 };
-const cachedAt = "2026-11-25T02:17:01Z";
+const cachedAt = "2026-11-25T05:17:01Z";
