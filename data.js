@@ -92,7 +92,7 @@ const meetings = [
   {audience:["All Welcome"],dataSource:"au",duration:90,facilitator:[2097],id:1769,language:"English",location:"National",program:"Standard",schedule:{day:5,time:"05:00Z"},type:"Online"},
   {audience:["All Welcome"],canceled:"2026-11-30T07:00:00Z",dataSource:"au",duration:90,facilitator:[2043],id:1770,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"07:00Z"},type:"Online"},
   {audience:["Military, Veterans & First Responders Only"],dataSource:"au",duration:60,facilitator:[38,2106],id:1771,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
-  {audience:["Anxiety support"],canceled:"2026-11-26T07:30:00Z",dataSource:"au",duration:90,facilitator:[1831],id:1775,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
+  {audience:["Anxiety support"],dataSource:"au",duration:90,facilitator:[1831],id:1775,language:"English",location:"National",program:"Standard",schedule:{day:4,time:"07:30Z"},type:"Online"},
   {audience:["All Welcome","Family, friends and carers"],dataSource:"au",duration:90,facilitator:[2103],id:1781,language:"English",location:"National",program:"Family & Friends",schedule:{day:1,time:"02:30Z"},type:"Online"},
   {audience:["ADHD only"],dataSource:"au",duration:90,facilitator:[2010],id:1785,language:"English",location:"National",program:"Standard",schedule:{day:0,time:"23:00Z"},type:"Online"},
   {audience:["New parents"],dataSource:"au",duration:90,facilitator:[2126],id:1786,language:"English",location:"National",program:"Standard",schedule:{day:1,time:"09:00Z"},type:"Online"},
@@ -361,7 +361,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[97,114,1769,1782],id:6329,language:"English",location:"Lexington Park, Maryland",program:"4-Point Recovery",schedule:{day:2,time:"20:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[386,802,816,1477],id:634,language:"English",location:"San Jose, California",program:"4-Point Recovery",schedule:{day:6,time:"03:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:120,facilitator:[140,1011],id:6380,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:2,time:"14:30Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:120,facilitator:[140,1011],id:6381,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-11-27T00:00:00Z",dataSource:"na",duration:120,facilitator:[140,1011],id:6381,language:"English",location:"Troy, Michigan",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[100,101,855],id:6383,language:"English",location:"Overland Park, Kansas",program:"4-Point Recovery",schedule:{day:2,time:"01:00Z"},type:"Both"},
   {audience:["LGBTQIA+"],canceled:"2026-11-28T16:00:00Z",dataSource:"na",duration:90,facilitator:[908],id:6403,language:"English",location:"St. Louis, Missouri",program:"4-Point Recovery",schedule:{day:6,time:"16:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[68,69,648,1392,2134],id:641,language:"English",location:"Concord, Massachusetts",program:"4-Point Recovery",schedule:{day:2,time:"00:00Z"},type:"Online"},
@@ -753,7 +753,7 @@ const meetings = [
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2115],id:1440,language:"Português",location:"Nationwide",program:"SMART Recovery",schedule:{day:2,time:"11:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2141],id:1444,language:"English",location:"Golspie, GB",program:"SMART Recovery",schedule:{day:1,time:"14:30Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2146],id:1452,language:"English",location:"Ripley, GB",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[1768],id:1506,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:4,time:"08:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[1768],id:1506,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:3,time:"08:00Z"},type:"Online"},
   {audience:["Women Only"],dataSource:"uk",duration:null,facilitator:[2095],id:1512,language:"English",location:"Women&#039;s Support Centre, 19 High Street, Woking, GU21 6BW, GB",program:"SMART Recovery",schedule:{day:2,time:"11:30Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2246],id:1528,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:1,time:"12:00Z"},type:"Online"},
   {audience:["Adults Welcome"],dataSource:"uk",duration:60,facilitator:[1379,1380],id:879,language:"English",location:"Leicester, GB",program:"SMART Recovery",schedule:{day:1,time:"15:00Z"},type:"Online"},
@@ -1660,4 +1660,4 @@ const facilitators = {
   2263:["Jamie Strange"],
   2264:["Shane"]
 };
-const cachedAt = "2026-11-26T08:17:02Z";
+const cachedAt = "2026-11-26T11:17:01Z";
