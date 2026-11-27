@@ -211,7 +211,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[95,96],id:172,language:"English",location:"Alexandria, Virginia",program:"4-Point Recovery",schedule:{day:2,time:"23:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[95,96],id:173,language:"English",location:"Arlington, Virginia",program:"4-Point Recovery",schedule:{day:5,time:"23:30Z"},type:"Online"},
   {audience:["Adults"],canceled:"2026-11-28T01:00:00Z",dataSource:"na",duration:60,facilitator:[114,1769,1782,2006],id:1744,language:"English",location:"Lexington Park, Maryland",program:"4-Point Recovery",schedule:{day:6,time:"01:00Z"},type:"Both"},
-  {audience:["Adults"],dataSource:"na",duration:120,facilitator:[801,882,883,1451,1528],id:1748,language:"English",location:"Cumming, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
+  {audience:["Adults"],dataSource:"na",duration:120,facilitator:[882,883,1451,1528,2254],id:1748,language:"English",location:"Cumming, Georgia",program:"4-Point Recovery",schedule:{day:6,time:"14:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[99],id:1768,language:"English",location:"Cincinnati, Ohio",program:"4-Point Recovery",schedule:{day:5,time:"00:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[100,101,855],id:1848,language:"English",location:"Leawood, Kansas",program:"4-Point Recovery",schedule:{day:5,time:"01:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[665,816],id:1867,language:"English",location:"Sebastopol, California",program:"4-Point Recovery",schedule:{day:6,time:"18:00Z"},type:"Online"},
@@ -601,9 +601,9 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[2228],id:9216,language:"English",location:"Elko, Nevada",program:"4-Point Recovery",schedule:{day:2,time:"02:00Z"},type:"Both"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[1852],id:9217,language:"English",location:"Cleveland, Georgia",program:"4-Point Recovery",schedule:{day:4,time:"19:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:60,facilitator:[658],id:9231,language:"English",location:"Palm Desert, California",program:"4-Point Recovery",schedule:{day:6,time:"17:00Z"},type:"Online"},
-  {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1855],id:9254,language:"English",location:"Watterson Park, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
+  {audience:["Adults"],canceled:"2026-11-27T15:00:00Z",dataSource:"na",duration:90,facilitator:[1855],id:9254,language:"English",location:"Watterson Park, Kentucky",program:"4-Point Recovery",schedule:{day:5,time:"15:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1366],id:9256,language:"English",location:"Lancaster, Texas",program:"4-Point Recovery",schedule:{day:3,time:"19:00Z"},type:"Online"},
-  {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[556],id:9258,language:"English",location:"Salt Lake City, Utah",program:"Family & Friends",schedule:{day:5,time:"20:30Z"},type:"Online"},
+  {audience:["Adult Family Members and Friends"],canceled:"2026-11-27T20:30:00Z",dataSource:"na",duration:60,facilitator:[556],id:9258,language:"English",location:"Salt Lake City, Utah",program:"Family & Friends",schedule:{day:5,time:"20:30Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[1652],id:9266,language:"English",location:"Dickinson, Texas",program:"4-Point Recovery",schedule:{day:6,time:"23:00Z"},type:"Online"},
   {audience:["Adults"],dataSource:"na",duration:90,facilitator:[802,816,1864],id:9276,language:"English",location:"Eugene, Oregon",program:"4-Point Recovery",schedule:{day:0,time:"03:00Z"},type:"Online"},
   {audience:["Adult Family Members and Friends"],dataSource:"na",duration:60,facilitator:[1848,1859],id:9298,language:"English",location:"Bowling Green, Kentucky",program:"Family & Friends",schedule:{day:0,time:"18:00Z"},type:"Both"},
@@ -718,7 +718,7 @@ const meetings = [
   {audience:["Adults"],dataSource:"na",duration:120,facilitator:[567,568],id:98,language:"English",location:"Boston, Massachusetts",program:"4-Point Recovery",schedule:{day:3,time:"00:00Z"},type:"Both"},
   {audience:["Adults Welcome","Family & Friends Only"],dataSource:"uk",duration:90,facilitator:[2079,2094],id:1022,language:"English",location:"Chester, GB",program:"Family & Friends",schedule:{day:1,time:"17:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[902],id:1055,language:"English",location:"Glasgow, GB",program:"SMART Recovery",schedule:{day:2,time:"13:00Z"},type:"Online"},
-  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1056,language:"English",location:"Woking, GB",program:"SMART Recovery",schedule:{day:5,time:"10:00Z"},type:"Online"},
+  {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1056,language:"English",location:"Woking, GB",program:"SMART Recovery",schedule:{day:4,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1057,language:"English",location:"Sutton (and Epsom), Epsom, GB",program:"SMART Recovery",schedule:{day:3,time:"18:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:90,facilitator:[2090],id:1058,language:"English",location:"Epsom, GB",program:"SMART Recovery",schedule:{day:1,time:"10:00Z"},type:"Online"},
   {audience:["Adults Welcome","National Online Meeting"],dataSource:"uk",duration:null,facilitator:[2151],id:1060,language:"English",location:"Nationwide",program:"SMART Recovery",schedule:{day:2,time:"17:00Z"},type:"Online"},
@@ -1048,7 +1048,6 @@ const facilitators = {
   795:["Chris","Alberta"],
   796:["Helena Machado","México"],
   800:["Jen T"],
-  801:["Leo","Georgia"],
   802:["Johnny"],
   813:["Dahlia Skuncikiene"],
   814:["Irina Berg"],
@@ -1656,4 +1655,4 @@ const facilitators = {
   2263:["Jamie Strange"],
   2264:["Shane"]
 };
-const cachedAt = "2026-11-27T11:17:02Z";
+const cachedAt = "2026-11-27T14:17:01Z";
